@@ -64,4 +64,4 @@ function findModForPart(partName) {
 }
 
 // Example: Read the craft file "example.craft"
-readCraftFile('CESSNA 172 SKYHAWK.craft');
+readCraftFile('example.craft');
