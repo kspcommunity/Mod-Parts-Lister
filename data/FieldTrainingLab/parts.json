@@ -1,0 +1,30 @@
+[
+  {
+    "name": "FieldTrainingLab",
+    "filePath": "FieldTrainingLab\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "TrainingLabModule",
+    "filePath": "FieldTrainingLab\\Compatibility\\Bluedog.cfg"
+  },
+  {
+    "name": "TrainingLabModule",
+    "filePath": "FieldTrainingLab\\Compatibility\\Kerbalism.cfg"
+  },
+  {
+    "name": "TrainingLabModule",
+    "filePath": "FieldTrainingLab\\Compatibility\\StationPartsExpansionRedux.cfg"
+  },
+  {
+    "name": "TrainingLabModule",
+    "filePath": "FieldTrainingLab\\Compatibility\\TokamakIndustries.cfg"
+  },
+  {
+    "name": "Field Training Lab",
+    "filePath": "FieldTrainingLab\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Field Training Lab",
+    "filePath": "FieldTrainingLab\\Localization\\zh-cn.cfg"
+  }
+]

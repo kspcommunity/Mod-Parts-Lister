@@ -1,0 +1,70 @@
+[
+  {
+    "name": "AB Engineering Group",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ABL_Decoupler_A",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\2mTanks\\Decoupler_A.cfg"
+  },
+  {
+    "name": "ABL_LFO_A",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\2mTanks\\LFO_A.cfg"
+  },
+  {
+    "name": "ABL_LFO_B",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\2mTanks\\LFO_B.cfg"
+  },
+  {
+    "name": "ABL_LFO_C",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\2mTanks\\LFO_C.cfg"
+  },
+  {
+    "name": "ABL_Nose_A",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\2mTanks\\Nose_A.cfg"
+  },
+  {
+    "name": "ABL_5tank18",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\5tank_18.cfg"
+  },
+  {
+    "name": "ABL_5tank4",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\5tank_4.cfg"
+  },
+  {
+    "name": "ABL_5tank9",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\5tank_9.cfg"
+  },
+  {
+    "name": "ABL_5tank_nose",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\5tank_nose.cfg"
+  },
+  {
+    "name": "ABL_adapter_5_2",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\adapter_5_2.cfg"
+  },
+  {
+    "name": "ABL_adapter_5_3",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\adapter_5_3.cfg"
+  },
+  {
+    "name": "ABL_decoupler_stack5",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\decoupler_stack5.cfg"
+  },
+  {
+    "name": "ABL_nosecone3",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\nosecone3.cfg"
+  },
+  {
+    "name": "ABL_nosecone5",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\5mcore\\nosecone5.cfg"
+  },
+  {
+    "name": "ABL_5_cyclone4",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\Engines\\5mengine.cfg"
+  },
+  {
+    "name": "ABL_Engine_A",
+    "filePath": "AB Launchers 1.2\\GameData\\AB_Launchers\\Parts\\Engines\\zenitengine.cfg"
+  }
+]

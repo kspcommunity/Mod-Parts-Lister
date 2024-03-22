@@ -1,0 +1,66 @@
+[
+  {
+    "name": "IR_Free",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\IR_TweakScale.cfg"
+  },
+  {
+    "name": "AdjustableRailScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\AdjustableRail\\part.cfg"
+  },
+  {
+    "name": "dockingwasher_stdScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\dockingwasher\\part.cfg"
+  },
+  {
+    "name": "dockingwasher_freeScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\dockingwasher_free\\part.cfg"
+  },
+  {
+    "name": "GantryLargeScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_Gantry\\part.cfg"
+  },
+  {
+    "name": "GantryLargeScaleableVariant",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_Gantry\\partVariant.cfg"
+  },
+  {
+    "name": "IRHingeClosedScaleable2",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_HingeClosed\\part.cfg"
+  },
+  {
+    "name": "IRHingeOpenScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_HingeOpen\\part.cfg"
+  },
+  {
+    "name": "IRHingeTallScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_HingeTall\\part.cfg"
+  },
+  {
+    "name": "IRHingeTallNDScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_HingeTallND\\part.cfg"
+  },
+  {
+    "name": "IRPistonScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_Piston\\part.cfg"
+  },
+  {
+    "name": "IR_RotatronScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_Rotatron\\part.cfg"
+  },
+  {
+    "name": "IR_Rotatronmk2Scaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_RotatronMK2\\part.cfg"
+  },
+  {
+    "name": "IR_RotatronVTOLScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_RotatronVTOL\\part.cfg"
+  },
+  {
+    "name": "IR_Robotic",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\IR_TweakScale.cfg"
+  },
+  {
+    "name": "TelescopeFullAScaleable",
+    "filePath": "IR-2.0.2-Final-Full\\GameData\\MagicSmokeIndustries\\Parts\\Legacy\\TPS\\part.cfg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Plutonium",
+    "filePath": "BetterRTGs\\PlutoniumResource.cfg"
+  },
+  {
+    "name": "rtg",
+    "filePath": "BetterRTGs\\RTG\\RTG.cfg"
+  },
+  {
+    "name": "rtg2",
+    "filePath": "BetterRTGs\\RTG mk.2\\RTG2.cfg"
+  }
+]

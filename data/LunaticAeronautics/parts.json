@@ -1,0 +1,14 @@
+[
+  {
+    "name": "#$oldName$",
+    "filePath": "LunaticAeronautics\\RoverAntiGravitySystem\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "Rover Anti Gravity System",
+    "filePath": "LunaticAeronautics\\RoverAntiGravitySystem\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "rags-agmodule",
+    "filePath": "LunaticAeronautics\\RoverAntiGravitySystem\\Parts\\rags-agmodule.cfg"
+  }
+]

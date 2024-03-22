@@ -1,0 +1,10 @@
+[
+  {
+    "name": "GodRod",
+    "filePath": "RFTG\\RodFromGod\\part.cfg"
+  },
+  {
+    "name": "GodRodWinglet",
+    "filePath": "RFTG\\RodFromGodWinglet\\part.cfg"
+  }
+]

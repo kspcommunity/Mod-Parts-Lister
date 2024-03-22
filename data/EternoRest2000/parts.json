@@ -1,0 +1,26 @@
+[
+  {
+    "name": "KASModuleGrab",
+    "filePath": "EternoRest2000\\Compatibility\\KerbalAttachmentSystem.cfg"
+  },
+  {
+    "name": "Inter Sidera ",
+    "filePath": "EternoRest2000\\Contracts\\InterSidera\\InterSidera.cfg"
+  },
+  {
+    "name": "Inter Sidera",
+    "filePath": "EternoRest2000\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Inter Sidera",
+    "filePath": "EternoRest2000\\Localization\\no-no.cfg"
+  },
+  {
+    "name": "Inter Sidera",
+    "filePath": "EternoRest2000\\Localization\\pt-br.cfg"
+  },
+  {
+    "name": "rest-spacecoffin",
+    "filePath": "EternoRest2000\\Parts\\rest-spacecoffin.cfg"
+  }
+]

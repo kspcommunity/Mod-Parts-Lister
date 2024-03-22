@@ -1,0 +1,114 @@
+[
+  {
+    "name": "NohArk",
+    "filePath": "TransparentPods\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleLandingLeg",
+    "filePath": "TransparentPods\\Compatibility\\FireSpitter.cfg"
+  },
+  {
+    "name": "microLegRadial-KSPWheel",
+    "filePath": "TransparentPods\\Compatibility\\Ghost.cfg"
+  },
+  {
+    "name": "JSIAdvTransparentPod",
+    "filePath": "TransparentPods\\Compatibility\\JSIAdvTransparentPods.cfg"
+  },
+  {
+    "name": "ODFC",
+    "filePath": "TransparentPods\\Compatibility\\OnDemandFuelCells.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "TransparentPods\\Compatibility\\RasterPropMonitor.cfg"
+  },
+  {
+    "name": "cycloPod",
+    "filePath": "TransparentPods\\Parts\\cycloPod.cfg"
+  },
+  {
+    "name": "handrail1",
+    "filePath": "TransparentPods\\Parts\\handrail1.cfg"
+  },
+  {
+    "name": "handrail2",
+    "filePath": "TransparentPods\\Parts\\handrail2.cfg"
+  },
+  {
+    "name": "microKlaw",
+    "filePath": "TransparentPods\\Parts\\microKlaw.cfg"
+  },
+  {
+    "name": "microLegRadial",
+    "filePath": "TransparentPods\\Parts\\microLegRadial.cfg"
+  },
+  {
+    "name": "microLegVentral",
+    "filePath": "TransparentPods\\Parts\\microLegVentral.cfg"
+  },
+  {
+    "name": "monoPod",
+    "filePath": "TransparentPods\\Parts\\monoPod.cfg"
+  },
+  {
+    "name": "panoPod",
+    "filePath": "TransparentPods\\Parts\\panoPod.cfg"
+  },
+  {
+    "name": "ABORT",
+    "filePath": "TransparentPods\\Props\\ABORT.cfg"
+  },
+  {
+    "name": "AG01",
+    "filePath": "TransparentPods\\Props\\actionGroupSwitches.cfg"
+  },
+  {
+    "name": "gearAlarm",
+    "filePath": "TransparentPods\\Props\\alertSquareBtns.cfg"
+  },
+  {
+    "name": "LFGaugeBar",
+    "filePath": "TransparentPods\\Props\\BarGauges.cfg"
+  },
+  {
+    "name": "camCtrls",
+    "filePath": "TransparentPods\\Props\\camCtrls.cfg"
+  },
+  {
+    "name": "evaHandle",
+    "filePath": "TransparentPods\\Props\\evaHandle.cfg"
+  },
+  {
+    "name": "gearSwitch",
+    "filePath": "TransparentPods\\Props\\flipSwitchGuard.cfg"
+  },
+  {
+    "name": "HoloMFDRPM",
+    "filePath": "TransparentPods\\Props\\HoloMFDRPM\\HoloMFD.cfg"
+  },
+  {
+    "name": "navKerdoz",
+    "filePath": "TransparentPods\\Props\\navKerdoz\\navKerdoz.cfg"
+  },
+  {
+    "name": "plushKraken",
+    "filePath": "TransparentPods\\Props\\plushKraken.cfg"
+  },
+  {
+    "name": "throttleCtrl",
+    "filePath": "TransparentPods\\Props\\throttle.cfg"
+  },
+  {
+    "name": "cycloPodIVA",
+    "filePath": "TransparentPods\\Spaces\\cycloPodIVA\\internal.cfg"
+  },
+  {
+    "name": "monoPod_INT",
+    "filePath": "TransparentPods\\Spaces\\monoPodIVA\\internal.cfg"
+  },
+  {
+    "name": "panoPod_INT",
+    "filePath": "TransparentPods\\Spaces\\panoPod_IVA\\internal.cfg"
+  }
+]

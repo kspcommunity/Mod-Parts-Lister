@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Containers",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\CommunityCategoryKit\\common-filters.cfg"
+  },
+  {
+    "name": "Cool Mod Things",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\CommunityCategoryKit\\extra-filters.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupport\\MM_AddLifeSupportModule.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupport\\MM_AddResources.cfg"
+  },
+  {
+    "name": "ModuleTestSubject",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupport\\MM_CrewablePartTests.cfg"
+  },
+  {
+    "name": "TacFoodContainer",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\Food.cfg"
+  },
+  {
+    "name": "TacFoodContainerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\FoodLarge.cfg"
+  },
+  {
+    "name": "TacFoodContainerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\FoodLarge375.cfg"
+  },
+  {
+    "name": "TacFoodContainerSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\FoodSmall.cfg"
+  },
+  {
+    "name": "TacLifeSupportContainer",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\LifeSupport.cfg"
+  },
+  {
+    "name": "TacLifeSupportContainerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\LifeSupportLarge.cfg"
+  },
+  {
+    "name": "TacLifeSupportContainerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\LifeSupportLarge375.cfg"
+  },
+  {
+    "name": "TacLifeSupportContainerSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\LifeSupportSmall.cfg"
+  },
+  {
+    "name": "TacOxygenContainer",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\Oxygen.cfg"
+  },
+  {
+    "name": "TacOxygenContainerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\OxygenLarge.cfg"
+  },
+  {
+    "name": "TacOxygenContainerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\OxygenLarge375.cfg"
+  },
+  {
+    "name": "TacOxygenContainerSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\OxygenSmall.cfg"
+  },
+  {
+    "name": "TacWasteContainer",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\Waste.cfg"
+  },
+  {
+    "name": "TacWasteContainerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\WasteLarge.cfg"
+  },
+  {
+    "name": "TacWasteContainerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\WasteLarge375.cfg"
+  },
+  {
+    "name": "TacWasteContainerSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\WasteSmall.cfg"
+  },
+  {
+    "name": "TacWaterContainer",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\Water.cfg"
+  },
+  {
+    "name": "TacWaterContainerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\WaterLarge.cfg"
+  },
+  {
+    "name": "TacWaterContainerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\WaterLarge375.cfg"
+  },
+  {
+    "name": "TacWaterContainerSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportContainers\\WaterSmall.cfg"
+  },
+  {
+    "name": "HexCanOxygenLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanBreathingOxygen\\LargeOxygen.cfg"
+  },
+  {
+    "name": "HexCanOxygen",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanBreathingOxygen\\NormalOxygen.cfg"
+  },
+  {
+    "name": "HexCanOxygenSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanBreathingOxygen\\SmallOxygen.cfg"
+  },
+  {
+    "name": "HexCanDrinkingWaterLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanDrinkingWater\\LargeWater.cfg"
+  },
+  {
+    "name": "HexCanDrinkingWater",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanDrinkingWater\\NormalWater.cfg"
+  },
+  {
+    "name": "HexCanDrinkingWaterSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanDrinkingWater\\SmallWater.cfg"
+  },
+  {
+    "name": "HexCanFoodLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanFood\\LargeFood.cfg"
+  },
+  {
+    "name": "HexCanFood",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanFood\\NormalFood.cfg"
+  },
+  {
+    "name": "HexCanFoodSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanFood\\SmallFood.cfg"
+  },
+  {
+    "name": "HexCanLifeSupportLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanLifeSupport\\LargeLifeSupport.cfg"
+  },
+  {
+    "name": "HexCanLifeSupport",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanLifeSupport\\NormalLifeSupport.cfg"
+  },
+  {
+    "name": "HexCanLifeSupportSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanLifeSupport\\SmallLifeSupport.cfg"
+  },
+  {
+    "name": "HexCanLifeSupportWasteLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanWaste\\LargeWaste.cfg"
+  },
+  {
+    "name": "HexCanLifeSupportWaste",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanWaste\\NormalWaste.cfg"
+  },
+  {
+    "name": "HexCanLifeSupportWasteSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportHexCans\\HexCanWaste\\SmallWaste.cfg"
+  },
+  {
+    "name": "HexCanMFTLifeSupportLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\HexCans\\LargeLifeSupport.cfg"
+  },
+  {
+    "name": "HexCanMFTLifeSupport",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\HexCans\\NormalLifeSupport.cfg"
+  },
+  {
+    "name": "HexCanMFTLifeSupportSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\HexCans\\SmallLifeSupport.cfg"
+  },
+  {
+    "name": "TacLifeSupportMFTContainer",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\LifeSupport.cfg"
+  },
+  {
+    "name": "TacLifeSupportMFTContainerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\LifeSupportLarge.cfg"
+  },
+  {
+    "name": "TacLifeSupportMFTContainerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\LifeSupportLarge375.cfg"
+  },
+  {
+    "name": "TacLifeSupportMFTContainerSmall",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\LifeSupportSmall.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\MM_AddResourcesMFT.cfg"
+  },
+  {
+    "name": "LifeSupport",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportMFT\\TankDefinitions.cfg"
+  },
+  {
+    "name": "TacAirFilter",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\AirFilter.cfg"
+  },
+  {
+    "name": "TacCarbonExtractor",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_CarbonExtractor.cfg"
+  },
+  {
+    "name": "TacCarbonExtractorLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_CarbonExtractorLarge.cfg"
+  },
+  {
+    "name": "TacCarbonExtractorLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_CarbonExtractorLarge375.cfg"
+  },
+  {
+    "name": "TacSabatierRecycler",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_SabatierCarbonRecycler.cfg"
+  },
+  {
+    "name": "TacSabatierRecyclerLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_SabatierCarbonRecyclerLarge.cfg"
+  },
+  {
+    "name": "TacSabatierRecyclerLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_SabatierCarbonRecyclerLarge375.cfg"
+  },
+  {
+    "name": "TacWaterPurifier",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_WaterPurifier.cfg"
+  },
+  {
+    "name": "TacWaterPurifierLarge",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_WaterPurifierLarge.cfg"
+  },
+  {
+    "name": "TacWaterPurifierLarge375",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_WaterPurifierLarge375.cfg"
+  },
+  {
+    "name": "TacWaterSplitter",
+    "filePath": "TacLifeSupport_0.18.0.0\\GameData\\ThunderAerospace\\TacLifeSupportRecyclers\\Recycler_WaterSplitter.cfg"
+  }
+]

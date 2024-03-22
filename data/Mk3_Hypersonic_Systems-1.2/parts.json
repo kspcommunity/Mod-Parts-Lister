@@ -1,0 +1,238 @@
+[
+  {
+    "name": "FSCoolant",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Firespitter\\Resources\\Firespitter.cfg"
+  },
+  {
+    "name": "Junk Systems Inc.",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "JSIPrimitiveExternalCamera",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Parts\\ExternalCameraPart\\external-camera.cfg"
+  },
+  {
+    "name": "JSIEvaCockpitHandle",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\CockpitHandle\\eva-hatch.cfg"
+  },
+  {
+    "name": "IndicatorPanelRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\IndicatorPanelReplacement\\prop.cfg"
+  },
+  {
+    "name": "JSIEvaHatchFull",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\InternalAirlock\\eva-hatch-with-model.cfg"
+  },
+  {
+    "name": "JSIInternalFlagPlate",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\InternalFlagPlate\\prop.cfg"
+  },
+  {
+    "name": "JSIEvaHatch",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\InternalHatch\\eva-hatch.cfg"
+  },
+  {
+    "name": "JSIActionGroupLabelButton01",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\ActionGroupLabelledButtons.cfg"
+  },
+  {
+    "name": "JSIAA_Throttle",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\AxisIndicator.cfg"
+  },
+  {
+    "name": "JSIStockSquareBlinkenlichten",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\Blinkenlichten.cfg"
+  },
+  {
+    "name": "JSIStockAltimeter",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\JSISwitchable.cfg"
+  },
+  {
+    "name": "JSISASPrograde",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\SASModeButtons.cfg"
+  },
+  {
+    "name": "JSIStockSquareButtonLight",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\SquareButtons.cfg"
+  },
+  {
+    "name": "JSITrimKnobPitch",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\TrimmerKnobs.cfg"
+  },
+  {
+    "name": "JSIswitch_GEAR",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Library\\Props\\SwitchWCover\\mechSwitch.cfg"
+  },
+  {
+    "name": "JSINonTransparentPod",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\Plugins\\invisible-pods-handling.cfg"
+  },
+  {
+    "name": "JSIExternalCameraSelector",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RasterPropMonitor\\ThirdPartySupport\\hullcam-models-as-external-cameras.cfg"
+  },
+  {
+    "name": "ExperimentalGraphSet",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\BasicMFD\\graphset.cfg"
+  },
+  {
+    "name": "RasterPropMonitorBasicMFD",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\BasicMFD\\MFD40x20.cfg"
+  },
+  {
+    "name": "RasterPropMonitorBasicHUD",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\BasicMFD\\PlaneHUD.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesMod\\kp0110-pod-patch.cfg"
+  },
+  {
+    "name": "KP0110internalRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesMod\\kp0110-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesMod\\orbital-orb-patch.cfg"
+  },
+  {
+    "name": "orbitalOrbInternalsRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesMod\\orbital-orb-remade-internal.cfg"
+  },
+  {
+    "name": "JSIEvaHatch",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\crew-cabin-patch.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\cupola-patch.cfg"
+  },
+  {
+    "name": "cupolaInternalRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\cupola-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\generic3-cockpit-patch.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk1-patch.cfg"
+  },
+  {
+    "name": "mk1PodCockpitRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk1-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk12pod-patch.cfg"
+  },
+  {
+    "name": "PodCockpitRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk12pod-remade-internal.cfg"
+  },
+  {
+    "name": "landerCabinSmallInternalRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk1lander-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk1landercan-patch.cfg"
+  },
+  {
+    "name": "SH_mk2CockpitInternalRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk2-sh-cockpit-remade-internal.cfg"
+  },
+  {
+    "name": "mk2CockpitStandardInternalsRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk2-spp-cockpits.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk2-stock-cockpit-patch.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk2landercan-patch.cfg"
+  },
+  {
+    "name": "landerCabinInternalsRPM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk2landercan-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\JSI\\RPMPodPatches\\PatchesStock\\mk3cockpit-patch.cfg"
+  },
+  {
+    "name": "N5 Aerodynamics and Space",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "FSfuelSwitch",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\mm_config\\Mk3Hypersonic_FS.cfg"
+  },
+  {
+    "name": "Mk3LiftingBodyEdge",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3 Lifting Body Extension\\Mk3LiftingBodyEdge.cfg"
+  },
+  {
+    "name": "Mk3RadialRAMIntake",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3 Radial RAM Intake\\mk3RadialRamIntake.cfg"
+  },
+  {
+    "name": "Mk3EdgeRootExtension",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3 Wing Edge Extension\\Mk3EdgeRootExtension.cfg"
+  },
+  {
+    "name": "Mk3Aerospike",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3Aerospike\\Mk3Aerospike.cfg"
+  },
+  {
+    "name": "mk3HypersonicCockpit",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\mk3HypersonicCockpit\\mk3HypersonicCockpit.cfg"
+  },
+  {
+    "name": "mk3HypersonicDroneCore",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3HypersonicDroneCore\\mk3HypersonicDroneCore.cfg"
+  },
+  {
+    "name": "Mk3RamIntake",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3RamIntake\\Mk3RamIntake.cfg"
+  },
+  {
+    "name": "Mk3Turbofan",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Mk3Turbofan\\Mk3Turbofan.cfg"
+  },
+  {
+    "name": "Scramjet",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Scramjet\\Scramjet.cfg"
+  },
+  {
+    "name": "fuelTankN5",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\Tank\\fuelTankN5.cfg"
+  },
+  {
+    "name": "turboramjet2m",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\turboramjet2m\\turboramjet2m.cfg"
+  },
+  {
+    "name": "shockConeTwoM",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Parts\\TwoFiveMShock Cone\\shockConeTwoM.cfg"
+  },
+  {
+    "name": "Propjstck",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Props\\Propjstck\\Propjstck.cfg"
+  },
+  {
+    "name": "Proppanel",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Props\\Proppanel\\Proppanel.cfg"
+  },
+  {
+    "name": "Propseat",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Props\\Propseat\\Propseat.cfg"
+  },
+  {
+    "name": "Mk3_Hypersonic_IVA",
+    "filePath": "Mk3_Hypersonic_Systems-1.2\\GameData\\Mk3HypersonicSystems\\Spaces\\Cockpit\\internal_Mk3_Hypersonic_IVA.cfg"
+  }
+]

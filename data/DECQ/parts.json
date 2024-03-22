@@ -1,0 +1,190 @@
+[
+  {
+    "name": "AIRLOCK",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK.cfg"
+  },
+  {
+    "name": "AIRLOCK_SEGMENT_VERSION",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK2.cfg"
+  },
+  {
+    "name": "AIRLOCK_EVA_HATCH",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK_EVA_HATCH.cfg"
+  },
+  {
+    "name": "AIRLOCK_EXTENSION",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK_EXTENSION.cfg"
+  },
+  {
+    "name": "AIRLOCK_TUNNEL_AVERAGE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK_SCIENCE_AVERAGE.cfg"
+  },
+  {
+    "name": "AIRLOCK_TUNNEL_SHORT",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK_SCIENCE_SHORT.cfg"
+  },
+  {
+    "name": "AIRLOCK_TUNNEL_SHORT_MINI",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK_SCIENCE_SHORT_MINI.cfg"
+  },
+  {
+    "name": "AIRLOCK_SCIENCE_TUNNEL",
+    "filePath": "DECQ\\SpaceShuttleSystem\\AIRLOCK_SCIENCE_TUNNEL.cfg"
+  },
+  {
+    "name": "BODY_FLAP_SPACE_SHUTTLE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\BODY_FLAP.cfg"
+  },
+  {
+    "name": "Space_Shuttle_Crew Module",
+    "filePath": "DECQ\\SpaceShuttleSystem\\CABINE.cfg"
+  },
+  {
+    "name": "Space_Shuttle_Crew ModuleOld",
+    "filePath": "DECQ\\SpaceShuttleSystem\\CABINEOld.cfg"
+  },
+  {
+    "name": "EDO",
+    "filePath": "DECQ\\SpaceShuttleSystem\\EDO.cfg"
+  },
+  {
+    "name": "EVELON_L_SHUTTLE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\ELEVON_L.cfg"
+  },
+  {
+    "name": "EVELON_R_SHUTTLE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\ELEVON_R.cfg"
+  },
+  {
+    "name": "Shuttle_Engine_Mout",
+    "filePath": "DECQ\\SpaceShuttleSystem\\ENGINEMOUT.cfg"
+  },
+  {
+    "name": "SHUTTLE_Engine_OMS",
+    "filePath": "DECQ\\SpaceShuttleSystem\\ENGINE_OMS.cfg"
+  },
+  {
+    "name": "ET",
+    "filePath": "DECQ\\SpaceShuttleSystem\\ET.cfg"
+  },
+  {
+    "name": "SHUTTLE_Fuselase_Radiator",
+    "filePath": "DECQ\\SpaceShuttleSystem\\FUSELASE_DOOR.cfg"
+  },
+  {
+    "name": "Space_Shuttle_KU",
+    "filePath": "DECQ\\SpaceShuttleSystem\\KU.cfg"
+  },
+  {
+    "name": "PALETTE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\PALETTE.cfg"
+  },
+  {
+    "name": "CSS SAS Switch",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Props\\cssSASswitch\\CSS SAS Switch.cfg"
+  },
+  {
+    "name": "CSS SWitch 01",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Props\\cssswitch01\\cssswitch01.cfg"
+  },
+  {
+    "name": "CSS SWitch 02",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Props\\cssswitch02\\cssswitch02.cfg"
+  },
+  {
+    "name": "CSSSWitch03",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Props\\cssswitch03\\cssswitch03.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DOCKDIST ",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Props\\digitalInd\\DigitalIndicator_DDIST.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DOCKSPEED ",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Props\\digitalInd\\DigitalIndicator_DSPEED.cfg"
+  },
+  {
+    "name": "RCS_L",
+    "filePath": "DECQ\\SpaceShuttleSystem\\RCS_L.cfg"
+  },
+  {
+    "name": "RCS_R",
+    "filePath": "DECQ\\SpaceShuttleSystem\\RCS_R.cfg"
+  },
+  {
+    "name": "LiqdHydrogen",
+    "filePath": "DECQ\\SpaceShuttleSystem\\ResourcesGeneric.cfg"
+  },
+  {
+    "name": "flamethrust",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SHUTTLERealFX.cfg"
+  },
+  {
+    "name": "SpaceHab",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SPACEHAB.cfg"
+  },
+  {
+    "name": "SpaceHab_Short",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SPACEHAB_SHORT.cfg"
+  },
+  {
+    "name": "SpaceLab",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SPACELAB.cfg"
+  },
+  {
+    "name": "SPACELAB_TUNNEL",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SPACELAB_TUNNEL.cfg"
+  },
+  {
+    "name": "css_cockpit",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Spaces\\internal.cfg"
+  },
+  {
+    "name": "css_cockpitOld",
+    "filePath": "DECQ\\SpaceShuttleSystem\\Spaces\\internalOld.cfg"
+  },
+  {
+    "name": "SSME_CENTER",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SSME.cfg"
+  },
+  {
+    "name": "SSRBSH",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SSRB.cfg"
+  },
+  {
+    "name": "SSRB_BOTTOM_CAPSH_LEFT",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SSRB_BOTTOM_CAP.cfg"
+  },
+  {
+    "name": "SSRB_BOTTOM_CAP2SH_RIGHT",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SSRB_BOTTOM_CAP2.cfg"
+  },
+  {
+    "name": "SSRB_decouplerSH",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SSRB_DECOUPLER.cfg"
+  },
+  {
+    "name": "SSRB_TOP_CAPSH",
+    "filePath": "DECQ\\SpaceShuttleSystem\\SSRB_TOP_CAP.cfg"
+  },
+  {
+    "name": "Shuttle_Tail",
+    "filePath": "DECQ\\SpaceShuttleSystem\\TAIL.cfg"
+  },
+  {
+    "name": "SHUTTLE_Tail_Control",
+    "filePath": "DECQ\\SpaceShuttleSystem\\TAIL_C.cfg"
+  },
+  {
+    "name": "Shuttle_Tail_no_chute",
+    "filePath": "DECQ\\SpaceShuttleSystem\\TAIL_NO_CHUTE.cfg"
+  },
+  {
+    "name": "WL_SHUTTLE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\WL_1.cfg"
+  },
+  {
+    "name": "WR_SHUTTLE",
+    "filePath": "DECQ\\SpaceShuttleSystem\\WR_1.cfg"
+  }
+]

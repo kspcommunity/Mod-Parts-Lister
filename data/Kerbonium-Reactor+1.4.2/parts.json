@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Kings_Kerbonium_Miner",
+    "filePath": "Kerbonium-Reactor+1.4.2\\GameData\\Kings_Kerbonium\\Parts\\Kings_Kerbonium_Miner\\part.cfg"
+  },
+  {
+    "name": "Kings_Reactor",
+    "filePath": "Kerbonium-Reactor+1.4.2\\GameData\\Kings_Kerbonium\\Parts\\Kings_Kerbonium_Reactor\\part.cfg"
+  },
+  {
+    "name": "Kings_Kerbonium_Tank",
+    "filePath": "Kerbonium-Reactor+1.4.2\\GameData\\Kings_Kerbonium\\Parts\\Kings_Kerbonium_Tank\\part.cfg"
+  },
+  {
+    "name": "Normal Gas",
+    "filePath": "Kerbonium-Reactor+1.4.2\\GameData\\Kings_Kerbonium\\Resources\\Kings_resources.cfg"
+  }
+]

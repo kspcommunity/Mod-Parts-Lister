@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Engineer",
+    "filePath": "Serenity\\Experience\\Traits.cfg"
+  },
+  {
+    "name": "FanShroud_01",
+    "filePath": "Serenity\\Parts\\Aero\\FanShroud_01.cfg"
+  },
+  {
+    "name": "FanShroud_02",
+    "filePath": "Serenity\\Parts\\Aero\\FanShroud_02.cfg"
+  },
+  {
+    "name": "FanShroud_03",
+    "filePath": "Serenity\\Parts\\Aero\\FanShroud_03.cfg"
+  },
+  {
+    "name": "noseconeTiny",
+    "filePath": "Serenity\\Parts\\Aero\\noseconeTiny.cfg"
+  },
+  {
+    "name": "noseconeVS",
+    "filePath": "Serenity\\Parts\\Aero\\noseconeVS.cfg"
+  },
+  {
+    "name": "DeployedCentralStation",
+    "filePath": "Serenity\\Parts\\DeployedScience\\centralStation.cfg"
+  },
+  {
+    "name": "DeployedGoExOb",
+    "filePath": "Serenity\\Parts\\DeployedScience\\gooObservation.cfg"
+  },
+  {
+    "name": "DeployedIONExp",
+    "filePath": "Serenity\\Parts\\DeployedScience\\ionCollector.cfg"
+  },
+  {
+    "name": "DeployedRTG",
+    "filePath": "Serenity\\Parts\\DeployedScience\\rtg.cfg"
+  },
+  {
+    "name": "DeployedSatDish",
+    "filePath": "Serenity\\Parts\\DeployedScience\\satDish.cfg"
+  },
+  {
+    "name": "DeployedSeismicSensor",
+    "filePath": "Serenity\\Parts\\DeployedScience\\seismicSensor.cfg"
+  },
+  {
+    "name": "DeployedSolarPanel",
+    "filePath": "Serenity\\Parts\\DeployedScience\\solarPanel.cfg"
+  },
+  {
+    "name": "DeployedWeatherStn",
+    "filePath": "Serenity\\Parts\\DeployedScience\\weatherStation.cfg"
+  },
+  {
+    "name": "kerbalEVA\t",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVA.cfg"
+  },
+  {
+    "name": "kerbalEVAfemale\t",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAfemale.cfg"
+  },
+  {
+    "name": "kerbalEVAfemaleFuture",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAfemaleFuture.cfg"
+  },
+  {
+    "name": "kerbalEVAfemaleVintage\t",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAfemaleVintage.cfg"
+  },
+  {
+    "name": "kerbalEVAFuture",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAFuture.cfg"
+  },
+  {
+    "name": "kerbalEVASlimSuit",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVASlimSuit.cfg"
+  },
+  {
+    "name": "kerbalEVASlimSuitFemale",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVASlimSuitFemale.cfg"
+  },
+  {
+    "name": "kerbalEVAVintage\t",
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAVintage.cfg"
+  },
+  {
+    "name": "largeFanBlade",
+    "filePath": "Serenity\\Parts\\Propellers\\largeFanBlade.cfg"
+  },
+  {
+    "name": "largeHeliBlade",
+    "filePath": "Serenity\\Parts\\Propellers\\largeHeliBlade.cfg"
+  },
+  {
+    "name": "largePropeller",
+    "filePath": "Serenity\\Parts\\Propellers\\largePropeller.cfg"
+  },
+  {
+    "name": "mediumFanBlade",
+    "filePath": "Serenity\\Parts\\Propellers\\mediumFanBlade.cfg"
+  },
+  {
+    "name": "mediumHeliBlade",
+    "filePath": "Serenity\\Parts\\Propellers\\mediumHeliBlade.cfg"
+  },
+  {
+    "name": "mediumPropeller",
+    "filePath": "Serenity\\Parts\\Propellers\\mediumPropeller.cfg"
+  },
+  {
+    "name": "smallFanBlade",
+    "filePath": "Serenity\\Parts\\Propellers\\smallFanBlade.cfg"
+  },
+  {
+    "name": "smallHeliBlade",
+    "filePath": "Serenity\\Parts\\Propellers\\smallHeliBlade.cfg"
+  },
+  {
+    "name": "smallPropeller",
+    "filePath": "Serenity\\Parts\\Propellers\\smallPropeller.cfg"
+  },
+  {
+    "name": "controller1000",
+    "filePath": "Serenity\\Parts\\Robotics\\Controllers\\KAL1000.cfg"
+  },
+  {
+    "name": "hinge_01",
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_01.cfg"
+  },
+  {
+    "name": "hinge_01_s",
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_01_s.cfg"
+  },
+  {
+    "name": "hinge_03",
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_03.cfg"
+  },
+  {
+    "name": "hinge_03_s",
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_03_s.cfg"
+  },
+  {
+    "name": "hinge_04",
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_04.cfg"
+  },
+  {
+    "name": "piston_01",
+    "filePath": "Serenity\\Parts\\Robotics\\piston_01.cfg"
+  },
+  {
+    "name": "piston_02",
+    "filePath": "Serenity\\Parts\\Robotics\\piston_02.cfg"
+  },
+  {
+    "name": "piston_03",
+    "filePath": "Serenity\\Parts\\Robotics\\piston_03.cfg"
+  },
+  {
+    "name": "piston_04",
+    "filePath": "Serenity\\Parts\\Robotics\\piston_04.cfg"
+  },
+  {
+    "name": "RotorEngine_02",
+    "filePath": "Serenity\\Parts\\Robotics\\RotorEngine_02.cfg"
+  },
+  {
+    "name": "RotorEngine_03",
+    "filePath": "Serenity\\Parts\\Robotics\\RotorEngine_03.cfg"
+  },
+  {
+    "name": "rotor_01",
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_01.cfg"
+  },
+  {
+    "name": "rotor_01s",
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_01s.cfg"
+  },
+  {
+    "name": "rotor_02",
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_02.cfg"
+  },
+  {
+    "name": "rotor_02s",
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_02s.cfg"
+  },
+  {
+    "name": "rotor_03",
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_03.cfg"
+  },
+  {
+    "name": "rotor_03s",
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_03s.cfg"
+  },
+  {
+    "name": "rotoServo_00",
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_00.cfg"
+  },
+  {
+    "name": "rotoServo_02",
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_02.cfg"
+  },
+  {
+    "name": "rotoServo_03",
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_03.cfg"
+  },
+  {
+    "name": "rotoServo_04",
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_04.cfg"
+  },
+  {
+    "name": "RobotArmScanner_S1",
+    "filePath": "Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S1.cfg"
+  },
+  {
+    "name": "RobotArmScanner_S2",
+    "filePath": "Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S2.cfg"
+  },
+  {
+    "name": "RobotArmScanner_S3",
+    "filePath": "Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S3.cfg"
+  },
+  {
+    "name": "lGripPad",
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\lGripPad.cfg"
+  },
+  {
+    "name": "lGripStrip",
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\lGripStrip.cfg"
+  },
+  {
+    "name": "mGripPad",
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\mGripPad.cfg"
+  },
+  {
+    "name": "sGripPad",
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\sGripPad.cfg"
+  },
+  {
+    "name": "sGripStrip",
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\sGripStrip.cfg"
+  },
+  {
+    "name": "MediumGrip",
+    "filePath": "Serenity\\Resources\\PhysicsMaterials.cfg"
+  }
+]

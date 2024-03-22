@@ -1,0 +1,22 @@
+[
+  {
+    "name": "QT_Die_1m",
+    "filePath": "[.90] QuizTech v1.2\\Extras\\Parts\\Structural\\QT_Die_1m\\part.cfg"
+  },
+  {
+    "name": "ACS",
+    "filePath": "[.90] QuizTech v1.2\\GameData\\QuizTech\\Parts\\Engine\\ACS\\ACS.cfg"
+  },
+  {
+    "name": "QT-500",
+    "filePath": "[.90] QuizTech v1.2\\GameData\\QuizTech\\Parts\\Engine\\QT-500\\QT-500.cfg"
+  },
+  {
+    "name": "QT-S25",
+    "filePath": "[.90] QuizTech v1.2\\GameData\\QuizTech\\Parts\\Engine\\QT-S25\\QT-S25.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "[.90] QuizTech v1.2\\GameData\\QuizTech\\QT_Tweakscale.cfg"
+  }
+]

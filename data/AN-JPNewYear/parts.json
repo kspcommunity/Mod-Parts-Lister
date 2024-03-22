@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Kerbal神社",
+    "filePath": "AN-JPNewYear\\Localization\\dictionary.cfg"
+  },
+  {
+    "name": "AN-Hamaya-Wing",
+    "filePath": "AN-JPNewYear\\Parts\\Aero\\AN-Hamaya-Wing\\part.cfg"
+  },
+  {
+    "name": "AN-Kite-Geishun",
+    "filePath": "AN-JPNewYear\\Parts\\Aero\\AN-Kite-Geishun\\part.cfg"
+  },
+  {
+    "name": "AN-Hamaya",
+    "filePath": "AN-JPNewYear\\Parts\\Command\\AN-Hamaya\\part.cfg"
+  },
+  {
+    "name": "AN-KagamiMochi",
+    "filePath": "AN-JPNewYear\\Parts\\Command\\AN-KagamiMochi\\part.cfg"
+  },
+  {
+    "name": "AN-Koma",
+    "filePath": "AN-JPNewYear\\Parts\\Command\\AN-Koma\\part.cfg"
+  },
+  {
+    "name": "AN-Kadomatsu",
+    "filePath": "AN-JPNewYear\\Parts\\Engine\\AN-Kadomatsu\\part.cfg"
+  },
+  {
+    "name": "AN-Sanbou",
+    "filePath": "AN-JPNewYear\\Parts\\Engine\\AN-Sanbou\\part.cfg"
+  },
+  {
+    "name": "AN-Sakadaru",
+    "filePath": "AN-JPNewYear\\Parts\\FuelTank\\AN-Sakadaru\\part.cfg"
+  },
+  {
+    "name": "AN-Sakadaru-F",
+    "filePath": "AN-JPNewYear\\Parts\\FuelTank\\AN-Sakadaru-F\\part.cfg"
+  },
+  {
+    "name": "AN-Sakadaru-M",
+    "filePath": "AN-JPNewYear\\Parts\\FuelTank\\AN-Sakadaru-M\\part.cfg"
+  },
+  {
+    "name": "AN-Daidai",
+    "filePath": "AN-JPNewYear\\Parts\\Utility\\AN-Daidai\\part.cfg"
+  },
+  {
+    "name": "AN-Kendama",
+    "filePath": "AN-JPNewYear\\Parts\\Utility\\AN-Kendama\\part.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "AN-JPNewYear\\TweakScale.cfg"
+  }
+]

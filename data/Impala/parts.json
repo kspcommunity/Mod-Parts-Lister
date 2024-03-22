@@ -1,0 +1,66 @@
+[
+  {
+    "name": "gigaImpala",
+    "filePath": "Impala\\Parts\\gigaImpala\\gigaImpala.cfg"
+  },
+  {
+    "name": "gigaImpalaTiny",
+    "filePath": "Impala\\Parts\\gigaImpalaTiny\\gigaImpalaTiny.cfg"
+  },
+  {
+    "name": "hyperImpalaX",
+    "filePath": "Impala\\Parts\\hyperImpalaX\\hyperImpalaX.cfg"
+  },
+  {
+    "name": "hyperImpalaXX",
+    "filePath": "Impala\\Parts\\hyperImpalaXX\\hyperImpalaXX.cfg"
+  },
+  {
+    "name": "liquidEngine",
+    "filePath": "Impala\\Parts\\megaImpala10000\\megaImpala10000.cfg"
+  },
+  {
+    "name": "liquidEngine",
+    "filePath": "Impala\\Parts\\megaImpala5000\\megaImpala5000.cfg"
+  },
+  {
+    "name": "NarvalProp",
+    "filePath": "Impala\\Parts\\NarvalProp\\NarvalProp.cfg"
+  },
+  {
+    "name": "TeraImpala1",
+    "filePath": "Impala\\Parts\\TeraImpala\\part.cfg"
+  },
+  {
+    "name": "TurboImpala",
+    "filePath": "Impala\\Parts\\TurboImpala\\TurboImpala.cfg"
+  },
+  {
+    "name": "TurboImpala1000",
+    "filePath": "Impala\\Parts\\TurboImpala1000\\TurboImpala1000.cfg"
+  },
+  {
+    "name": "TurboImpala2000",
+    "filePath": "Impala\\Parts\\TurboImpala2000\\TurboImpala2000.cfg"
+  },
+  {
+    "name": "TurboImpala3000",
+    "filePath": "Impala\\Parts\\TurboImpala3000\\TurboImpala3000.cfg"
+  },
+  {
+    "name": "TurboImpala4000",
+    "filePath": "Impala\\Parts\\TurboImpala4000\\TurboImpala4000.cfg"
+  },
+  {
+    "name": "TurboImpala5000",
+    "filePath": "Impala\\Parts\\TurboImpala5000\\TurboImpala5000.cfg"
+  },
+  {
+    "name": "TurboImpalaX",
+    "filePath": "Impala\\Parts\\TurboImpalaX\\TurboImpalaX.cfg"
+  },
+  {
+    "name": "TurboImpalaXX",
+    "filePath": "Impala\\Parts\\TurboImpalaXX\\TurboImpalaXX.cfg"
+  }
+]

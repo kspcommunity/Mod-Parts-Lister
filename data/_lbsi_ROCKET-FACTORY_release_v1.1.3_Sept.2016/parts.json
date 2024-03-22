@@ -1,0 +1,214 @@
+[
+  {
+    "name": "LeBeau Space Industries",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Agencies\\LBSI.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Configs\\LBSI_Tweak-Scale.cfg"
+  },
+  {
+    "name": "LBSI_AFA500-2",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Aero\\LBSI_AFA.500_2-Fairing\\LBSI_AFA-500_2.cfg"
+  },
+  {
+    "name": "LBSI-NG1v5",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Command\\LBSI_Gamma_NG1v5\\LBSI_NG1-V5.cfg"
+  },
+  {
+    "name": "LBSI-CX2c",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Command\\LBSI_Kappa_CX02c\\LBSI_CX02c.cfg"
+  },
+  {
+    "name": "LBSI-Kappa_NK-V",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Command\\LBSI_Kappa_NK-V\\LBSI_Kappa_NK-V.cfg"
+  },
+  {
+    "name": "LBSI-Kappa-NK1-2",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Command\\LBSI_Kappa_NK1-2\\LBSI_NK1-2.cfg"
+  },
+  {
+    "name": "LBSI-Kappa-NK2",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Command\\LBSI_Kappa_NK2\\LBSI_NK2.cfg"
+  },
+  {
+    "name": "LBSI-Kappa-SiGMA-V5",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Command\\LBSI_Kappa_SiGMA-V5\\LBSI_Kappa_SiGMA-V5.cfg"
+  },
+  {
+    "name": "LBSI_TRc_LQP",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Control\\LBSI_Truster.TRc_LQP\\LBSI_TR-c_LQP.cfg"
+  },
+  {
+    "name": "LBSI_TRc_MNP",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Control\\LBSI_Truster.TRc_MNP\\LBSI_TR-c_MNP.cfg"
+  },
+  {
+    "name": "LBSI-ENG-LAE-250M",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI-ENG-LAE-250M-SkyClimber\\LBSI-ENG-LAE-250M.cfg"
+  },
+  {
+    "name": "LBSI-ENG-WPt1200-SkyWipe",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI-ENG-WPt1200-SkyWipe\\LBSI_ENG_WPt1200_SkyWipe.cfg"
+  },
+  {
+    "name": "LBSI-ENG-WPt2800-SkyWipe",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI-ENG-WPt2800-SkyWipe\\LBSI_ENG_WPt2800_SkyWipe.cfg"
+  },
+  {
+    "name": "LBSI-ENG-WPt500-SkyWipe",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI-ENG-WPt500-SkyWipe\\LBSI_ENG_WPt500_SkyWipe.cfg"
+  },
+  {
+    "name": "LBSI-ENG-BPt180-HB",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI_ENG-BPt180-HB\\LBSI_ENG_BPt180_HB.cfg"
+  },
+  {
+    "name": "LBSI-ENG-LAE-250",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI_ENG-LAE-250-SkyClimber\\LBSI-ENG-LAE-250.cfg"
+  },
+  {
+    "name": "LBSI-ENG-MPt180-HB",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI_ENG-MPt180-HB\\LBSI_ENG_MPt180_HB.cfg"
+  },
+  {
+    "name": "LBSI-SB-FRT360",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Engine\\LBSI_SB-FRT-360\\LBSI_SB_FRT-360.cfg"
+  },
+  {
+    "name": "FLAD200-SF",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\FuelTank\\LBSI_SRV_FLAD200-SF\\LBSI_SRV_FLAD200-SF.cfg"
+  },
+  {
+    "name": "FLAD250-SF",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\FuelTank\\LBSI_SRV_FLAD250-SF\\LBSI_SRV_FLAD250-SF.cfg"
+  },
+  {
+    "name": "LBSI-FLAD-SRV-500",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\FuelTank\\LBSI_SRV_FLAD500-Tank\\LBSI_SRV_FLT-800.cfg"
+  },
+  {
+    "name": "LBSI-SRV-FLT-1200",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\FuelTank\\LBSI_SRV_FLT-1200\\LBSI_SRV_FLT-1200.cfg"
+  },
+  {
+    "name": "LBSI-SRV-FLT-800",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\FuelTank\\LBSI_SRV_FLT-800\\LBSI_SRV_FLT-800.cfg"
+  },
+  {
+    "name": "LBSI-SRV-FLTB220k",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\FuelTank\\LBSI_SRV_FLTB-220\\LBSI_SRV_FLTB-220.cfg"
+  },
+  {
+    "name": "LBSIElecGENRadial",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Generators\\LBSIElecGENRadial\\LBSIElecGENRadial.cfg"
+  },
+  {
+    "name": "LBSIElecGENStack",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Generators\\LBSIElecGENStack\\LBSIElecGENStack.cfg"
+  },
+  {
+    "name": "LBSIfuelGENRadial",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Generators\\LBSIfuelGENRadial\\LBSIfuelGENRadial.cfg"
+  },
+  {
+    "name": "LBSIfuelGENStack",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Generators\\LBSIfuelGENStack\\LBSIfuelGENStack.cfg"
+  },
+  {
+    "name": "LBSIFlad200",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_FLAD_200\\LBSI_FLAD200.cfg"
+  },
+  {
+    "name": "LBSISTRDCng200",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCng200\\LBSISTRDCng200.cfg"
+  },
+  {
+    "name": "LBSISTRDCx065",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx065.cfg"
+  },
+  {
+    "name": "LBSISTRDCx125",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx125.cfg"
+  },
+  {
+    "name": "LBSISTRDCx250",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx250.cfg"
+  },
+  {
+    "name": "LBSISTRDCx375",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx375.cfg"
+  },
+  {
+    "name": "LBSISTRDC_XL_500",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCXL500\\LBSISTRDCXL_500.cfg"
+  },
+  {
+    "name": "LBSI-DPNG200-20",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\DockingPorts\\DP_NG200-2.0m_Gamma\\DPNG200-2.0m.cfg"
+  },
+  {
+    "name": "LBSI-DPSG-160-16",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\DockingPorts\\DP_SG160-1.64m_SiGMA\\LBSI-DPSG160.cfg"
+  },
+  {
+    "name": "Chute-NKVDCV",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_Chute_NKV_DC-V\\Chute_NKV-DC-V.cfg"
+  },
+  {
+    "name": "Chute-SC160Duna",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_CHUTE_SC160\\LBSI_SC160_Duna_Chute.cfg"
+  },
+  {
+    "name": "LBSI_DRG-SOLAR-PN01",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_DRG-PN01_SolarPanel\\DRGSOLARPN01.cfg"
+  },
+  {
+    "name": "LBSI_ESP-R790-60",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP-R790-60.cfg"
+  },
+  {
+    "name": "LBSI_ESP-R800-40",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP-R800-40.cfg"
+  },
+  {
+    "name": "LBSI_ESP220s",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP220s.cfg"
+  },
+  {
+    "name": "LBSI_ESP365m",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP365m.cfg"
+  },
+  {
+    "name": "LBSI_ESP-R880-SXL",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Parts\\Utility\\LBSI_ESP-R880-SX\\LBSI_ESP-R880-SX.cfg"
+  },
+  {
+    "name": "CX02bintern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_CX02b\\internal.cfg"
+  },
+  {
+    "name": "NG1intern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_NG1\\internal.cfg"
+  },
+  {
+    "name": "NKIVintern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_NK-IV\\internal.cfg"
+  },
+  {
+    "name": "NKVintern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_NK-V\\internal.cfg"
+  },
+  {
+    "name": "NK1intern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_NK1\\internal.cfg"
+  },
+  {
+    "name": "NK2intern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_NK2\\internal.cfg"
+  },
+  {
+    "name": "SIGMAintern",
+    "filePath": "_lbsi_ROCKET-FACTORY_release_v1.1.3_Sept.2016\\GameData\\LBSI\\Spaces\\LBSI_SiGMA\\internal.cfg"
+  }
+]

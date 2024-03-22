@@ -1,0 +1,50 @@
+[
+  {
+    "name": "KIEArm",
+    "filePath": "StKIEFighter\\Parts\\Arm\\KIEArm.cfg"
+  },
+  {
+    "name": "KIEBracket",
+    "filePath": "StKIEFighter\\Parts\\Bracket\\KIEBracket.cfg"
+  },
+  {
+    "name": "KIECockpit",
+    "filePath": "StKIEFighter\\Parts\\Cockpit\\Cockpit.cfg"
+  },
+  {
+    "name": "KIEEngine",
+    "filePath": "StKIEFighter\\Parts\\Engine\\KIEEngine.cfg"
+  },
+  {
+    "name": "KIEEngineplume",
+    "filePath": "StKIEFighter\\Parts\\Engine Plume\\KIEEngineplume.cfg"
+  },
+  {
+    "name": "KIEIntercept",
+    "filePath": "StKIEFighter\\Parts\\Intercept\\KIEIntercept.cfg"
+  },
+  {
+    "name": "KIELongarm",
+    "filePath": "StKIEFighter\\Parts\\Longarm\\KIELongarm.cfg"
+  },
+  {
+    "name": "KIEPortcover",
+    "filePath": "StKIEFighter\\Parts\\PortCover\\KIEPortcover.cfg"
+  },
+  {
+    "name": "KIESolarPanel",
+    "filePath": "StKIEFighter\\Parts\\SolarPanel\\KIESolarPanel.cfg"
+  },
+  {
+    "name": "Internal9",
+    "filePath": "StKIEFighter\\Spaces\\internal.cfg"
+  },
+  {
+    "name": "internalRaster",
+    "filePath": "StKIEFighter\\Spaces\\internalRaster.cfg"
+  },
+  {
+    "name": "internalRaster",
+    "filePath": "StKIEFighter\\Spaces\\patch.cfg"
+  }
+]

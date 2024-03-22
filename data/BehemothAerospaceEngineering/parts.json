@@ -1,0 +1,470 @@
+[
+  {
+    "name": "BehemothAerospaceEngineering",
+    "filePath": "BehemothAerospaceEngineering\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "SolidFuel",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\BoosterSegments.cfg"
+  },
+  {
+    "name": "ModuleCrossFeed } }",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\CrossFeedEnabler.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\DefaultActionGroups.cfg"
+  },
+  {
+    "name": "ModuleEngineIgnitor",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\EngineIgnitor.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\FuelSwitchers\\B9FuelSwitch.cfg"
+  },
+  {
+    "name": "InterstellarFuelSwitch",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\FuelSwitchers\\FuelSwitch.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\FuelSwitchers\\ModularFuelTanks.cfg"
+  },
+  {
+    "name": "GimbalTrim",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\GimbalTrim.cfg"
+  },
+  {
+    "name": "kOSProcessor",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\kOS.cfg"
+  },
+  {
+    "name": "BuildEngineer}",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\MechJeb.cfg"
+  },
+  {
+    "name": "ModuleSPU",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\RemoteTech.cfg"
+  },
+  {
+    "name": "SCANsat",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\SCANSat.cfg"
+  },
+  {
+    "name": "TSTScienceHardDrive",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\TarsierSpaceTech.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\TweakScale.0.cfg"
+  },
+  {
+    "name": "Behemoth Aerospace Engineering",
+    "filePath": "BehemothAerospaceEngineering\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Behemoth Aerospace Engineering",
+    "filePath": "BehemothAerospaceEngineering\\Localization\\ru.cfg"
+  },
+  {
+    "name": "bae-fairing-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Aero\\bae-fairing-1000.cfg"
+  },
+  {
+    "name": "bae-fairing-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Aero\\bae-fairing-500.cfg"
+  },
+  {
+    "name": "bae-fairing-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Aero\\bae-fairing-750.cfg"
+  },
+  {
+    "name": "bae-probe-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Command\\bae-probe-1000.cfg"
+  },
+  {
+    "name": "bae-probe-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Command\\bae-probe-500.cfg"
+  },
+  {
+    "name": "bae-probe-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Command\\bae-probe-750.cfg"
+  },
+  {
+    "name": "bae-rw-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Control\\bae-rw-1000.cfg"
+  },
+  {
+    "name": "bae-rw-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Control\\bae-rw-500.cfg"
+  },
+  {
+    "name": "bae-rw-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Control\\bae-rw-750.cfg"
+  },
+  {
+    "name": "bae-vernor-1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Control\\bae-vernor-1.cfg"
+  },
+  {
+    "name": "bae-decoup-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Decouplers\\bae-decoup-1000.cfg"
+  },
+  {
+    "name": "bae-decoup-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Decouplers\\bae-decoup-500.cfg"
+  },
+  {
+    "name": "bae-decoup-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Decouplers\\bae-decoup-750.cfg"
+  },
+  {
+    "name": "bae-decoup-rad-1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Decouplers\\bae-decoup-rad-1.cfg"
+  },
+  {
+    "name": "bae-dock-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Docking\\bae-dock-1000.cfg"
+  },
+  {
+    "name": "bae-dock-375",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Docking\\bae-dock-375.cfg"
+  },
+  {
+    "name": "bae-dock-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Docking\\bae-dock-500.cfg"
+  },
+  {
+    "name": "bae-dock-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Docking\\bae-dock-750.cfg"
+  },
+  {
+    "name": "bae-solar-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Electrical\\bae-solar-1000.cfg"
+  },
+  {
+    "name": "bae-solar-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Electrical\\bae-solar-500.cfg"
+  },
+  {
+    "name": "bae-solar-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Electrical\\bae-solar-750.cfg"
+  },
+  {
+    "name": "bae-eng-1000-B5",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Engines\\bae-eng-1000-B5.cfg"
+  },
+  {
+    "name": "bae-eng-500-A1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Engines\\bae-eng-500-A1.cfg"
+  },
+  {
+    "name": "bae-eng-500-B1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Engines\\bae-eng-500-B1.cfg"
+  },
+  {
+    "name": "bae-eng-750-A2",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Engines\\bae-eng-750-A2.cfg"
+  },
+  {
+    "name": "bae-eng-750-B2",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Engines\\bae-eng-750-B2.cfg"
+  },
+  {
+    "name": "bae-tank-1000-05",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-05.cfg"
+  },
+  {
+    "name": "bae-tank-1000-1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-1.cfg"
+  },
+  {
+    "name": "bae-tank-1000-2",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-2.cfg"
+  },
+  {
+    "name": "bae-tank-1000-4-RD",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-4-RD.cfg"
+  },
+  {
+    "name": "bae-tank-1000-4-RMF",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-4-RMF.cfg"
+  },
+  {
+    "name": "bae-tank-1000-4",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-4.cfg"
+  },
+  {
+    "name": "bae-tank-1000-adapt-500-HH",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-adapt-500-HH.cfg"
+  },
+  {
+    "name": "bae-tank-1000-adapt-500-LP",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-adapt-500-LP.cfg"
+  },
+  {
+    "name": "bae-tank-1000-adapt-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-adapt-500.cfg"
+  },
+  {
+    "name": "bae-tank-1000-adapt-750-HH",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-adapt-750-HH.cfg"
+  },
+  {
+    "name": "bae-tank-1000-adapt-750-LP",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-adapt-750-LP.cfg"
+  },
+  {
+    "name": "bae-tank-1000-adapt-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-adapt-750.cfg"
+  },
+  {
+    "name": "bae-tank-1000-cone",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-cone.cfg"
+  },
+  {
+    "name": "bae-tank-1000-MF",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-1000-MF.cfg"
+  },
+  {
+    "name": "bae-tank-500-05",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-05.cfg"
+  },
+  {
+    "name": "bae-tank-500-1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-1.cfg"
+  },
+  {
+    "name": "bae-tank-500-2",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-2.cfg"
+  },
+  {
+    "name": "bae-tank-500-4-RD",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-4-RD.cfg"
+  },
+  {
+    "name": "bae-tank-500-4-RMF",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-4-RMF.cfg"
+  },
+  {
+    "name": "bae-tank-500-4",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-4.cfg"
+  },
+  {
+    "name": "bae-tank-500-adapt-250",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-adapt-250-1.cfg"
+  },
+  {
+    "name": "bae-tank-500-adapt-250-HH",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-adapt-250-HH.cfg"
+  },
+  {
+    "name": "bae-tank-500-adapt-250-LP",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-adapt-250-LP.cfg"
+  },
+  {
+    "name": "bae-tank-500-adapt-375-HH",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-adapt-375-HH.cfg"
+  },
+  {
+    "name": "bae-tank-500-adapt-375-LP",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-adapt-375-LP.cfg"
+  },
+  {
+    "name": "bae-tank-500-adapt-375",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-adapt-375.cfg"
+  },
+  {
+    "name": "bae-tank-500-cone",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-cone.cfg"
+  },
+  {
+    "name": "bae-tank-500-MF",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-500-MF.cfg"
+  },
+  {
+    "name": "bae-tank-bae-tank-750-05",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-05.cfg"
+  },
+  {
+    "name": "bae-tank-750-1",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-1.cfg"
+  },
+  {
+    "name": "bae-tank-750-02",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-2.cfg"
+  },
+  {
+    "name": "bae-tank-750-4-RD",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-4-RD.cfg"
+  },
+  {
+    "name": "bae-tank-750-4-RMF",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-4-RMF.cfg"
+  },
+  {
+    "name": "bae-tank-750-4",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-4.cfg"
+  },
+  {
+    "name": "bae-tank-750-adapt-375-HH",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-adapt-375-HH.cfg"
+  },
+  {
+    "name": "bae-tank-750-adapt-375-LP",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-adapt-375-LP.cfg"
+  },
+  {
+    "name": "bae-tank-750-adapt-375",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-adapt-375.cfg"
+  },
+  {
+    "name": "bae-tank-750-adapt-500-HH",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-adapt-500-HH.cfg"
+  },
+  {
+    "name": "bae-tank-750-adapt-500-LP",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-adapt-500-LP.cfg"
+  },
+  {
+    "name": "bae-tank-750-adapt-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-adapt-500.cfg"
+  },
+  {
+    "name": "bae-tank-750-cone",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-cone.cfg"
+  },
+  {
+    "name": "bae-tank-750-MF",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\FuelTanks\\bae-tank-750-MF.cfg"
+  },
+  {
+    "name": "bae-heatshield-1000",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\HeatShield\\bae-heatshield-1000.cfg"
+  },
+  {
+    "name": "bae-heatshield-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\HeatShield\\bae-heatshield-500.cfg"
+  },
+  {
+    "name": "bae-heatshield-750",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\HeatShield\\bae-heatshield-750.cfg"
+  },
+  {
+    "name": "bae-srb-250-cone",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-250-cone.cfg"
+  },
+  {
+    "name": "bae-srb-250-eng",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-250-eng.cfg"
+  },
+  {
+    "name": "bae-srb-250-tank",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-250-tank.cfg"
+  },
+  {
+    "name": "bae-srb-375-cone",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-375-cone.cfg"
+  },
+  {
+    "name": "bae-srb-375-eng",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-375-eng.cfg"
+  },
+  {
+    "name": "bae-srb-375-tank",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-375-tank.cfg"
+  },
+  {
+    "name": "bae-srb-500-cone",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-500-cone.cfg"
+  },
+  {
+    "name": "bae-srb-500-eng",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-500-eng.cfg"
+  },
+  {
+    "name": "bae-srb-500-tank",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\SRB\\bae-srb-500-tank.cfg"
+  },
+  {
+    "name": "bae-adapt-1000-2x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-1000-2x.cfg"
+  },
+  {
+    "name": "bae-adapt-1000-3x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-1000-3x.cfg"
+  },
+  {
+    "name": "bae-adapt-1000-4x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-1000-4x.cfg"
+  },
+  {
+    "name": "bae-adapt-250-2x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-250-2x.cfg"
+  },
+  {
+    "name": "bae-adapt-250-3x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-250-3x.cfg"
+  },
+  {
+    "name": "bae-adapt-250-4x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-250-4x.cfg"
+  },
+  {
+    "name": "bae-adapt-375-2x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-375-2x.cfg"
+  },
+  {
+    "name": "bae-adapt-375-3x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-375-3x.cfg"
+  },
+  {
+    "name": "bae-adapt-375-4x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-375-4x.cfg"
+  },
+  {
+    "name": "bae-adapt-500-2x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-500-2x.cfg"
+  },
+  {
+    "name": "bae-adapt-500-3x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-500-3x.cfg"
+  },
+  {
+    "name": "bae-adapt-500-4x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-500-4x.cfg"
+  },
+  {
+    "name": "bae-adapt-750-2x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-750-2x.cfg"
+  },
+  {
+    "name": "bae-adapt-750-3x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-750-3x.cfg"
+  },
+  {
+    "name": "bae-adapt-750-4x",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Structural\\bae-adapt-750-4x.cfg"
+  },
+  {
+    "name": "bae-chute-250",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Utility\\bae-chute-250.cfg"
+  },
+  {
+    "name": "bae-chute-375",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Utility\\bae-chute-375.cfg"
+  },
+  {
+    "name": "bae-chute-500",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Utility\\bae-chute-500.cfg"
+  },
+  {
+    "name": "bae-leg-800",
+    "filePath": "BehemothAerospaceEngineering\\Parts\\Utility\\bae-leg-800.cfg"
+  },
+  {
+    "name": "ModularSolidFuel",
+    "filePath": "BehemothAerospaceEngineering\\Resources\\Resources.cfg"
+  }
+]

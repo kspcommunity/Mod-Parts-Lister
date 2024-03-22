@@ -1,0 +1,150 @@
+[
+  {
+    "name": "t1CivilizationGenerationShipQuartersLarge",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\apartment\\civilianQuarters.cfg"
+  },
+  {
+    "name": "stbiodomeFarm",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\biodomeFarm\\part.cfg"
+  },
+  {
+    "name": "civieDock",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\civieDockingPort\\civieDockingPort.cfg"
+  },
+  {
+    "name": "ndCncMillSmall2",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\cncmill\\part.cfg"
+  },
+  {
+    "name": "constructionDrone",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\ConstructionDrone\\part.cfg"
+  },
+  {
+    "name": "ndflightSchool",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\flightSchool\\flightSchool.cfg"
+  },
+  {
+    "name": "t1civGardenBiosphere",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\gardenBioSphere\\gardenBiosphere.cfg"
+  },
+  {
+    "name": "t1civGardenBiosphereMedium",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\gardenMediumBioSphere\\gardenBiosphereMedium.cfg"
+  },
+  {
+    "name": "t1CivSubstrateWaterTank",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\inlineSubstrateWater\\inlineSUBWatertank.cfg"
+  },
+  {
+    "name": "NDKarbonite Smelter2",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\KarboniteSmelter\\part.cfg"
+  },
+  {
+    "name": "t1CivilizationGenerationShipQuartersMedium",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\LargeCivilianCore\\civilianQuarters.cfg"
+  },
+  {
+    "name": "laserDrill",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\laserDrill\\laserDrill.cfg"
+  },
+  {
+    "name": "Laser Smelter2",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\laserSmelter\\part.cfg"
+  },
+  {
+    "name": "ndMovieTheater",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\movieTheater\\movieTheater.cfg"
+  },
+  {
+    "name": "InsituKerbalRecruiterTest",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\smallApartment\\largeCrewedLab.cfg"
+  },
+  {
+    "name": "t1civSmallGardenModule",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\smallGardenModule\\smallGardenModule.cfg"
+  },
+  {
+    "name": "t1CivAirTank",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\surfAttachAirTank\\wwtank.cfg"
+  },
+  {
+    "name": "t1CivBiomassTank",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\surfAttachBiomassTank\\wwtank.cfg"
+  },
+  {
+    "name": "t1civWasteWaterTank",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\surfAttachWasteWaterTank\\wwtank.cfg"
+  },
+  {
+    "name": "t1CivWaterTank",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\surfAttachWaterTank\\wwtank.cfg"
+  },
+  {
+    "name": "nduniversity",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Parts\\university\\university.cfg"
+  },
+  {
+    "name": "CivilianPopulation",
+    "filePath": "CivilianManagement 1.0\\GameData\\CivilianManagement\\Resources\\resources.cfg"
+  },
+  {
+    "name": "AtmosphericArgon",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\ArgonGas\\Atmospheric_Argon.cfg"
+  },
+  {
+    "name": "Actinides // Intermediate waste product of fission reactors. Can be reprocessed into more fuel plus depletedfuels.",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "AtmosphericKarbonite",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Karbonite\\Atmospheric_Karbonite.cfg"
+  },
+  {
+    "name": "OceanicKarbonite",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Karbonite\\Oceanic_Karbonite.cfg"
+  },
+  {
+    "name": "Karbonite",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Karbonite\\Planetary_Karbonite.cfg"
+  },
+  {
+    "name": "AtmosphericKarborundum",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Karborundum\\Atmospheric_Karborundum.cfg"
+  },
+  {
+    "name": "Karborundum",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Karborundum\\Planetary_Karborundum.cfg"
+  },
+  {
+    "name": "Minerals",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Minerals\\Planetary_Minerals.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Ore\\Planetary_Ore.cfg"
+  },
+  {
+    "name": "AtmosphericOxygen",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Oxygen\\Atmospheric_Oxygen.cfg"
+  },
+  {
+    "name": "Substrate",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Substrate\\Planetary_Substrate.cfg"
+  },
+  {
+    "name": "KerbinWater",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Water\\Oceanic_Water.cfg"
+  },
+  {
+    "name": "Water",
+    "filePath": "CivilianManagement 1.0\\GameData\\CommunityResourcePack\\Water\\Planetary_Water.cfg"
+  },
+  {
+    "name": "REGO_ModuleAsteroidInfo",
+    "filePath": "CivilianManagement 1.0\\GameData\\Regolith\\Asteroid.cfg"
+  },
+  {
+    "name": "Rock",
+    "filePath": "CivilianManagement 1.0\\GameData\\Regolith\\Resources.cfg"
+  }
+]

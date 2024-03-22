@@ -1,0 +1,150 @@
+[
+  {
+    "name": "targetPart",
+    "filePath": "IDSkillfulR1\\MMofficialSkillful.cfg"
+  },
+  {
+    "name": "IDArmourAirBPlate",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourAirBPlate\\part.cfg"
+  },
+  {
+    "name": "IDArmourVehicleBase1",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourBase1\\part.cfg"
+  },
+  {
+    "name": "IDArmourBelt",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourBelt\\part.cfg"
+  },
+  {
+    "name": "IDArmourBulkhead1",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourBulkhead1\\part.cfg"
+  },
+  {
+    "name": "IDArmourFender",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourFender\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanel1",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourPanel1\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanel2",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourPanel2\\part.cfg"
+  },
+  {
+    "name": "IDArmourPod1",
+    "filePath": "IDSkillfulR1\\Parts\\ArmourPod1\\part.cfg"
+  },
+  {
+    "name": "ID14Turret",
+    "filePath": "IDSkillfulR1\\Parts\\ID14Turret\\part.cfg"
+  },
+  {
+    "name": "ID14TurretRiser",
+    "filePath": "IDSkillfulR1\\Parts\\ID14TurretPlat\\part.cfg"
+  },
+  {
+    "name": "IDairAutoTurret",
+    "filePath": "IDSkillfulR1\\Parts\\IDairAutoTurret\\part.cfg"
+  },
+  {
+    "name": "IDAmmoBox",
+    "filePath": "IDSkillfulR1\\Parts\\IDAmmoBox\\part.cfg"
+  },
+  {
+    "name": "IDAmmoBoxL",
+    "filePath": "IDSkillfulR1\\Parts\\IDAmmoBox\\partL.cfg"
+  },
+  {
+    "name": "IDAmmoBoxM",
+    "filePath": "IDSkillfulR1\\Parts\\IDAmmoBox\\partM.cfg"
+  },
+  {
+    "name": "IDArmourPanelMk2F",
+    "filePath": "IDSkillfulR1\\Parts\\IDArmourMk2Flat\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanelMk2F45",
+    "filePath": "IDSkillfulR1\\Parts\\IDArmourMk2Flat45\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanelMk2F45c",
+    "filePath": "IDSkillfulR1\\Parts\\IDArmourMk2Flat45Cover\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanelMk2Qp",
+    "filePath": "IDSkillfulR1\\Parts\\IDArmourMk2QtrP\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanelMk2QpR",
+    "filePath": "IDSkillfulR1\\Parts\\IDArmourMk2QtrP_R\\part.cfg"
+  },
+  {
+    "name": "IDArmourPanelMk2Tri",
+    "filePath": "IDSkillfulR1\\Parts\\IDArmourMk2Tri\\part.cfg"
+  },
+  {
+    "name": "IDCIWS30",
+    "filePath": "IDSkillfulR1\\Parts\\IDCIWS\\part.cfg"
+  },
+  {
+    "name": "IDDecal512",
+    "filePath": "IDSkillfulR1\\Parts\\IDdecal\\part.cfg"
+  },
+  {
+    "name": "IDDEFA30mmCannon",
+    "filePath": "IDSkillfulR1\\Parts\\IDDEFA30mm\\part.cfg"
+  },
+  {
+    "name": "IDFlareDispenser",
+    "filePath": "IDSkillfulR1\\Parts\\IDFlareDis\\part.cfg"
+  },
+  {
+    "name": "IDHardPoint",
+    "filePath": "IDSkillfulR1\\Parts\\IDHardPoint\\part.cfg"
+  },
+  {
+    "name": "IDHardPointRKT",
+    "filePath": "IDSkillfulR1\\Parts\\IDHardPoint\\rKTpart.cfg"
+  },
+  {
+    "name": "IFFtagRed",
+    "filePath": "IDSkillfulR1\\Parts\\IDIFFTags\\part.cfg"
+  },
+  {
+    "name": "IDinternalMG",
+    "filePath": "IDSkillfulR1\\Parts\\IDinternalMG\\part.cfg"
+  },
+  {
+    "name": "IDinternalMGtype2",
+    "filePath": "IDSkillfulR1\\Parts\\IDinternalMG\\part2.cfg"
+  },
+  {
+    "name": "IDintextMG",
+    "filePath": "IDSkillfulR1\\Parts\\IDintextMG\\part.cfg"
+  },
+  {
+    "name": "IDlau68Pod",
+    "filePath": "IDSkillfulR1\\Parts\\IDlau68Pod\\part.cfg"
+  },
+  {
+    "name": "IDTankTurret",
+    "filePath": "IDSkillfulR1\\Parts\\IDTankTurret\\part.cfg"
+  },
+  {
+    "name": "IDTurboLaser",
+    "filePath": "IDSkillfulR1\\Parts\\IDTurboLaserTurret\\part.cfg"
+  },
+  {
+    "name": "SRepairStation",
+    "filePath": "IDSkillfulR1\\Parts\\S_RepairStation\\part.cfg"
+  },
+  {
+    "name": "IDammo",
+    "filePath": "IDSkillfulR1\\Resources\\Ammo.cfg"
+  },
+  {
+    "name": "IDTankInt",
+    "filePath": "IDSkillfulR1\\Spaces\\IDTankInt\\internal.cfg"
+  }
+]

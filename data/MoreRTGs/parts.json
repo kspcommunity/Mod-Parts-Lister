@@ -1,0 +1,14 @@
+[
+  {
+    "name": "boppiumrtg",
+    "filePath": "MoreRTGs\\BoppiumRTG\\boppiumRTG.cfg"
+  },
+  {
+    "name": "kerbiciumrtg",
+    "filePath": "MoreRTGs\\KerbiciumRTG\\kerbiciumRTG.cfg"
+  },
+  {
+    "name": "polariumrtg",
+    "filePath": "MoreRTGs\\PolariumRTG\\polariumRTG.cfg"
+  }
+]

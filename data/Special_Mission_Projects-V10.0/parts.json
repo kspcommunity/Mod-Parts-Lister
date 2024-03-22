@@ -1,0 +1,118 @@
+[
+  {
+    "name": "SMPBattery",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Electrical\\SMPBattery\\SMPBattery.cfg"
+  },
+  {
+    "name": "SMPEngine",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Engine\\SMPEngine\\SMPEngine.cfg"
+  },
+  {
+    "name": "SMPEngineType-R",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Engine\\SMPEngineType-R\\SMPEngineType-R.cfg"
+  },
+  {
+    "name": "SMPEngineType-R2",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Engine\\SMPEngineType-R2\\SMPEngineType-R2.cfg"
+  },
+  {
+    "name": "SMPFighterEngine",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Engine\\SMPFighterEngine\\SMPFighterEngine.cfg"
+  },
+  {
+    "name": "SMPGellDrive",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Engine\\SMPGellDrive\\SMPGellDrive.cfg"
+  },
+  {
+    "name": "SMPGellDrive Mrk2",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Engine\\SMPGellDrive Mrk2\\SMPGellDrive Mrk2.cfg"
+  },
+  {
+    "name": "SMPlihgtwight",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Fireings\\SMPlihgtwight.cfg"
+  },
+  {
+    "name": "SMPAntimatterTank",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPAntimatterTank\\SMPAntimatterTank.cfg"
+  },
+  {
+    "name": "SMPExturnelTank",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPExturnelTank\\SMPExturnelTank.cfg"
+  },
+  {
+    "name": "SMPfuelTank1001",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPfuelTank1001\\SMPfuelTank1001.cfg"
+  },
+  {
+    "name": "SMPfuelTank1002",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPfuelTank1002\\SMPfuelTank1002.cfg"
+  },
+  {
+    "name": "SMPfuelTankT8001",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPfuelTankT8001\\SMPfuelTankT8001.cfg"
+  },
+  {
+    "name": "SMPfuelTankT8002",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPfuelTankT8002\\SMPfuelTankT8002.cfg"
+  },
+  {
+    "name": "SMPfuelTankT8003",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPfuelTankT8003\\SMPfuelTankT8003.cfg"
+  },
+  {
+    "name": "SMPfuelTankT8004",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPfuelTankT8004\\SMPfuelTankT8004.cfg"
+  },
+  {
+    "name": "SMPGellDriveCell",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPGellDriveCell\\SMPGellDriveCell.cfg"
+  },
+  {
+    "name": "SMPJellOmgaTank",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPJellOmgaTank\\SMPJellOmgaTank.cfg"
+  },
+  {
+    "name": "SMPPassengerModule",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPPassengerModule\\SMPPassengerModule.cfg"
+  },
+  {
+    "name": "SMPxenonTank",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\FuelTank\\SMPxenonTank\\SMPxenonTank.cfg"
+  },
+  {
+    "name": "SMPGellCore",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Resources\\SMPGellCore\\SMPGellCore.cfg"
+  },
+  {
+    "name": "SMPHyperGen",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Resources\\SMPHyperGen\\SMPHyperGen.cfg"
+  },
+  {
+    "name": "SMPRefuelsystem",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Resources\\SMPRefuelsystem\\SMPRefuelsystem.cfg"
+  },
+  {
+    "name": "SMPCockpit1",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\SMPCockpit1\\SMPCockpit1.cfg"
+  },
+  {
+    "name": "SMPcockpit2",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\SMPcockpit2\\SMPcockpit2.cfg"
+  },
+  {
+    "name": "SMPCrewCabin",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\SMPCrewCabin\\SMPCrewCabin.cfg"
+  },
+  {
+    "name": "SMPNoseConeMK1",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\SMPNoseConeMK1\\SMPNoseConeMK1.cfg"
+  },
+  {
+    "name": "SMPSuperHavy",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Parts\\Wheel\\LandingGear\\SMPSuperHavy.cfg"
+  },
+  {
+    "name": "JellOmga",
+    "filePath": "Special_Mission_Projects-V10.0\\GameData\\SMP\\Data\\Resources\\Resources.cfg"
+  }
+]

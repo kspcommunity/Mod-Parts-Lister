@@ -1,0 +1,10 @@
+[
+  {
+    "name": "KopernicusSolarPanel",
+    "filePath": "ForRelease\\GameData\\Kopernicus\\Config\\SolarPanels.cfg"
+  },
+  {
+    "name": "Kerbol System",
+    "filePath": "ForRelease\\GameData\\Kopernicus\\Config\\System.cfg"
+  }
+]

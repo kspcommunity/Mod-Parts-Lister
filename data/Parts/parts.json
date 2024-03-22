@@ -1,0 +1,1166 @@
+[
+  {
+    "name": "noseCone",
+    "filePath": "Parts\\Aero\\aerodynamicNoseCone\\aerodynamicNoseCone.cfg"
+  },
+  {
+    "name": "airbrake1",
+    "filePath": "Parts\\Aero\\airbrake\\Airbrake.cfg"
+  },
+  {
+    "name": "airScoop",
+    "filePath": "Parts\\Aero\\airIntakeRadialXM-G50\\airIntakeRadialXM-G50.cfg"
+  },
+  {
+    "name": "airlinerCtrlSrf",
+    "filePath": "Parts\\Aero\\airlinerWings\\ControlSurface.cfg"
+  },
+  {
+    "name": "airlinerMainWing",
+    "filePath": "Parts\\Aero\\airlinerWings\\MainWing.cfg"
+  },
+  {
+    "name": "airlinerTailFin",
+    "filePath": "Parts\\Aero\\airlinerWings\\TailFin.cfg"
+  },
+  {
+    "name": "AdvancedCanard",
+    "filePath": "Parts\\Aero\\airplaneFins\\advancedCanard.cfg"
+  },
+  {
+    "name": "CanardController",
+    "filePath": "Parts\\Aero\\airplaneFins\\standardCanard.cfg"
+  },
+  {
+    "name": "sweptWing",
+    "filePath": "Parts\\Aero\\airplaneFins\\sweptWing.cfg"
+  },
+  {
+    "name": "tailfin",
+    "filePath": "Parts\\Aero\\airplaneFins\\tailfin.cfg"
+  },
+  {
+    "name": "basicFin",
+    "filePath": "Parts\\Aero\\basicFin\\basicFin.cfg"
+  },
+  {
+    "name": "CircularIntake",
+    "filePath": "Parts\\Aero\\circularIntake\\circularIntake.cfg"
+  },
+  {
+    "name": "shockConeIntake",
+    "filePath": "Parts\\Aero\\circularIntake\\intakeShockCone.cfg"
+  },
+  {
+    "name": "avionicsNoseCone",
+    "filePath": "Parts\\Aero\\cones\\avionicsNoseCone.cfg"
+  },
+  {
+    "name": "pointyNoseConeA",
+    "filePath": "Parts\\Aero\\cones\\ConeA.cfg"
+  },
+  {
+    "name": "pointyNoseConeB",
+    "filePath": "Parts\\Aero\\cones\\ConeB.cfg"
+  },
+  {
+    "name": "noseConeAdapter",
+    "filePath": "Parts\\Aero\\cones\\noseConeAdapter.cfg"
+  },
+  {
+    "name": "standardNoseCone",
+    "filePath": "Parts\\Aero\\cones\\smallNoseCone.cfg"
+  },
+  {
+    "name": "airplaneTail",
+    "filePath": "Parts\\Aero\\cones\\tailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailB",
+    "filePath": "Parts\\Aero\\cones\\tailConnectorB.cfg"
+  },
+  {
+    "name": "fairingSize1",
+    "filePath": "Parts\\Aero\\fairings\\fairingSize1.cfg"
+  },
+  {
+    "name": "fairingSize2",
+    "filePath": "Parts\\Aero\\fairings\\fairingSize2.cfg"
+  },
+  {
+    "name": "fairingSize3",
+    "filePath": "Parts\\Aero\\fairings\\fairingSize3.cfg"
+  },
+  {
+    "name": "HeatShield1",
+    "filePath": "Parts\\Aero\\HeatShield\\HeatShield1.cfg"
+  },
+  {
+    "name": "HeatShield2",
+    "filePath": "Parts\\Aero\\HeatShield\\HeatShield2.cfg"
+  },
+  {
+    "name": "HeatShield3",
+    "filePath": "Parts\\Aero\\HeatShield\\HeatShield3.cfg"
+  },
+  {
+    "name": "InflatableHeatShield",
+    "filePath": "Parts\\Aero\\InflatableHeatShield\\HeatShield.cfg"
+  },
+  {
+    "name": "IntakeRadialLong",
+    "filePath": "Parts\\Aero\\intakeRadialLong\\intakeRadialLong.cfg"
+  },
+  {
+    "name": "miniIntake",
+    "filePath": "Parts\\Aero\\miniIntake\\SmallIntake.cfg"
+  },
+  {
+    "name": "rocketNoseCone",
+    "filePath": "Parts\\Aero\\protectiveRocketNoseMk7\\protectiveRocketNoseMk7.cfg"
+  },
+  {
+    "name": "ramAirIntake",
+    "filePath": "Parts\\Aero\\ramAirIntake\\ramAirIntake.cfg"
+  },
+  {
+    "name": "wingShuttleDelta",
+    "filePath": "Parts\\Aero\\shuttleWings\\delta.cfg"
+  },
+  {
+    "name": "wingShuttleElevon1",
+    "filePath": "Parts\\Aero\\shuttleWings\\elevon1.cfg"
+  },
+  {
+    "name": "wingShuttleElevon2",
+    "filePath": "Parts\\Aero\\shuttleWings\\elevon2.cfg"
+  },
+  {
+    "name": "wingShuttleRudder",
+    "filePath": "Parts\\Aero\\shuttleWings\\rudder.cfg"
+  },
+  {
+    "name": "wingShuttleStrake",
+    "filePath": "Parts\\Aero\\shuttleWings\\strake.cfg"
+  },
+  {
+    "name": "R8winglet",
+    "filePath": "Parts\\Aero\\wingletAV-R8\\wingletAV-R8.cfg"
+  },
+  {
+    "name": "winglet",
+    "filePath": "Parts\\Aero\\wingletAV-T1\\wingletAV-T1.cfg"
+  },
+  {
+    "name": "winglet3",
+    "filePath": "Parts\\Aero\\wingletDeltaDeluxe\\wingletDeltaDeluxe.cfg"
+  },
+  {
+    "name": "wingConnector",
+    "filePath": "Parts\\Aero\\wings\\connector1.cfg"
+  },
+  {
+    "name": "wingConnector2",
+    "filePath": "Parts\\Aero\\wings\\connector2.cfg"
+  },
+  {
+    "name": "wingConnector3",
+    "filePath": "Parts\\Aero\\wings\\connector3.cfg"
+  },
+  {
+    "name": "wingConnector4",
+    "filePath": "Parts\\Aero\\wings\\connector4.cfg"
+  },
+  {
+    "name": "wingConnector5",
+    "filePath": "Parts\\Aero\\wings\\connector5.cfg"
+  },
+  {
+    "name": "deltaWing",
+    "filePath": "Parts\\Aero\\wings\\delta.cfg"
+  },
+  {
+    "name": "delta_small",
+    "filePath": "Parts\\Aero\\wings\\delta_small.cfg"
+  },
+  {
+    "name": "StandardCtrlSrf",
+    "filePath": "Parts\\Aero\\wings\\elevon1.cfg"
+  },
+  {
+    "name": "elevon2",
+    "filePath": "Parts\\Aero\\wings\\elevon2.cfg"
+  },
+  {
+    "name": "elevon3",
+    "filePath": "Parts\\Aero\\wings\\elevon3.cfg"
+  },
+  {
+    "name": "smallCtrlSrf",
+    "filePath": "Parts\\Aero\\wings\\elevon4.cfg"
+  },
+  {
+    "name": "elevon5",
+    "filePath": "Parts\\Aero\\wings\\elevon5.cfg"
+  },
+  {
+    "name": "wingStrake",
+    "filePath": "Parts\\Aero\\wings\\strake.cfg"
+  },
+  {
+    "name": "structuralWing",
+    "filePath": "Parts\\Aero\\wings\\structural1.cfg"
+  },
+  {
+    "name": "structuralWing2",
+    "filePath": "Parts\\Aero\\wings\\structural2.cfg"
+  },
+  {
+    "name": "structuralWing3",
+    "filePath": "Parts\\Aero\\wings\\structural3.cfg"
+  },
+  {
+    "name": "structuralWing4",
+    "filePath": "Parts\\Aero\\wings\\structural4.cfg"
+  },
+  {
+    "name": "sweptWing1",
+    "filePath": "Parts\\Aero\\wings\\swept1.cfg"
+  },
+  {
+    "name": "sweptWing2",
+    "filePath": "Parts\\Aero\\wings\\swept2.cfg"
+  },
+  {
+    "name": "asasmodule1-2",
+    "filePath": "Parts\\Command\\advancedSasModuleLarge\\advSasModuleLarge.cfg"
+  },
+  {
+    "name": "cupola",
+    "filePath": "Parts\\Command\\cupola\\cupola.cfg"
+  },
+  {
+    "name": "seatExternalCmd",
+    "filePath": "Parts\\Command\\externalCommandSeat\\externalCommandSeat.cfg"
+  },
+  {
+    "name": "crewCabin",
+    "filePath": "Parts\\Command\\hitchhikerStorageContainer\\hitchikerStorageContainer.cfg"
+  },
+  {
+    "name": "advSasModule",
+    "filePath": "Parts\\Command\\inlineAdvancedStabilizer\\inlineAdvancedStabilizer.cfg"
+  },
+  {
+    "name": "sasModule",
+    "filePath": "Parts\\Command\\inlineReactionWheel\\inlineReactionWheel.cfg"
+  },
+  {
+    "name": "Mark1-2Pod",
+    "filePath": "Parts\\Command\\Mk1-2Pod\\mk1-2CommandPod.cfg"
+  },
+  {
+    "name": "Mark1Cockpit",
+    "filePath": "Parts\\Command\\mk1Cockpits\\mk1Cockpit.cfg"
+  },
+  {
+    "name": "MK1CrewCabin",
+    "filePath": "Parts\\Command\\mk1Cockpits\\mk1CrewCabin.cfg"
+  },
+  {
+    "name": "Mark2Cockpit",
+    "filePath": "Parts\\Command\\mk1Cockpits\\mk1InlineCockpit.cfg"
+  },
+  {
+    "name": "landerCabinSmall",
+    "filePath": "Parts\\Command\\mk1LanderCan\\mk1LanderCan.cfg"
+  },
+  {
+    "name": "mk1pod",
+    "filePath": "Parts\\Command\\mk1pod\\mk1Pod.cfg"
+  },
+  {
+    "name": "mk2Cockpit_Inline",
+    "filePath": "Parts\\Command\\mk2CockpitInline\\mk2CockpitInline.cfg"
+  },
+  {
+    "name": "mk2Cockpit_Standard",
+    "filePath": "Parts\\Command\\mk2CockpitStandard\\mk2CockpitStandard.cfg"
+  },
+  {
+    "name": "mk2DroneCore",
+    "filePath": "Parts\\Command\\mk2DroneCore\\mk2Dronecore.cfg"
+  },
+  {
+    "name": "mk2LanderCabin",
+    "filePath": "Parts\\Command\\mk2LanderCan\\mk2LanderCan.cfg"
+  },
+  {
+    "name": "mk3Cockpit_Shuttle",
+    "filePath": "Parts\\Command\\mk3CockpitShuttle\\mk3CockpitShuttle.cfg"
+  },
+  {
+    "name": "probeCoreCube",
+    "filePath": "Parts\\Command\\probeCoreCube\\probeCoreCube.cfg"
+  },
+  {
+    "name": "probeCoreHex",
+    "filePath": "Parts\\Command\\probeCoreHex\\probeCoreHex.cfg"
+  },
+  {
+    "name": "probeCoreOcto",
+    "filePath": "Parts\\Command\\probeCoreOcto\\probeCoreOcto.cfg"
+  },
+  {
+    "name": "probeCoreOcto2",
+    "filePath": "Parts\\Command\\probeCoreOcto2\\probeCoreOcto2.cfg"
+  },
+  {
+    "name": "roverBody",
+    "filePath": "Parts\\Command\\probeRoverBody\\probeRoverBody.cfg"
+  },
+  {
+    "name": "probeStackLarge",
+    "filePath": "Parts\\Command\\probeStackLarge\\probeStackLarge.cfg"
+  },
+  {
+    "name": "probeStackSmall",
+    "filePath": "Parts\\Command\\probeStackSmall\\probeStackSmall.cfg"
+  },
+  {
+    "name": "probeCoreSphere",
+    "filePath": "Parts\\Command\\probeStackSphere\\probeStackSphere.cfg"
+  },
+  {
+    "name": "fuelLine",
+    "filePath": "Parts\\CompoundParts\\fuelLine\\fuelLine.cfg"
+  },
+  {
+    "name": "strutConnector",
+    "filePath": "Parts\\CompoundParts\\strutConnector\\strutConnector.cfg"
+  },
+  {
+    "name": "solarPanels2",
+    "filePath": "Parts\\Electrical\\1x6ShroudSolarPanels\\1x6ShroudSolarPanels.cfg"
+  },
+  {
+    "name": "solarPanels4",
+    "filePath": "Parts\\Electrical\\1x6SolarPanels\\1x6SolarPanels.cfg"
+  },
+  {
+    "name": "solarPanels1",
+    "filePath": "Parts\\Electrical\\3x2ShroudSolarPanels\\3x2ShroudSolarPanels.cfg"
+  },
+  {
+    "name": "solarPanels3",
+    "filePath": "Parts\\Electrical\\3x2SolarPanels\\3x2SolarPanels.cfg"
+  },
+  {
+    "name": "largeSolarPanel",
+    "filePath": "Parts\\Electrical\\gigantorXlSolarArray\\gigantorXlSolarArray.cfg"
+  },
+  {
+    "name": "solarPanels5",
+    "filePath": "Parts\\Electrical\\radialFlatSolarPanel\\radialFlatSolarPanel.cfg"
+  },
+  {
+    "name": "rtg",
+    "filePath": "Parts\\Electrical\\RTG\\RTG.cfg"
+  },
+  {
+    "name": "batteryPack",
+    "filePath": "Parts\\Electrical\\z-100Battery\\z-100Battery.cfg"
+  },
+  {
+    "name": "batteryBank",
+    "filePath": "Parts\\Electrical\\z-1kBattery\\z-1kBattery.cfg"
+  },
+  {
+    "name": "batteryBankMini",
+    "filePath": "Parts\\Electrical\\z-200Battery\\z-200Battery.cfg"
+  },
+  {
+    "name": "ksp_r_largeBatteryPack",
+    "filePath": "Parts\\Electrical\\z-400Battery\\z-400Battery.cfg"
+  },
+  {
+    "name": "batteryBankLarge",
+    "filePath": "Parts\\Electrical\\z-4kBattery\\z-4kBattery.cfg"
+  },
+  {
+    "name": "ionEngine",
+    "filePath": "Parts\\Engine\\ionEngine\\ionEngine.cfg"
+  },
+  {
+    "name": "turboJet",
+    "filePath": "Parts\\Engine\\jetEngines\\jetEngineAfterburning.cfg"
+  },
+  {
+    "name": "JetEngine",
+    "filePath": "Parts\\Engine\\jetEngines\\jetEngineBasic.cfg"
+  },
+  {
+    "name": "turboFanSize2",
+    "filePath": "Parts\\Engine\\jetEngines\\jetEngineBig.cfg"
+  },
+  {
+    "name": "turboFanEngine",
+    "filePath": "Parts\\Engine\\jetEngines\\jetEngineTurbo.cfg"
+  },
+  {
+    "name": "smallRadialEngine",
+    "filePath": "Parts\\Engine\\liquidEngine24-77\\liquidEngine24-77.cfg"
+  },
+  {
+    "name": "liquidEngineMini",
+    "filePath": "Parts\\Engine\\liquidEngine48-7S\\liquidEngine48-7S.cfg"
+  },
+  {
+    "name": "toroidalAerospike",
+    "filePath": "Parts\\Engine\\liquidEngineAerospike\\liquidEngineAerospike.cfg"
+  },
+  {
+    "name": "microEngine",
+    "filePath": "Parts\\Engine\\liquidEngineLV-1\\liquidEngineLV-1.cfg"
+  },
+  {
+    "name": "radialEngineMini",
+    "filePath": "Parts\\Engine\\liquidEngineLV-1R\\liquidEngineLV-1R.cfg"
+  },
+  {
+    "name": "liquidEngine3",
+    "filePath": "Parts\\Engine\\liquidEngineLV-909\\liquidEngineLV-909.cfg"
+  },
+  {
+    "name": "nuclearEngine",
+    "filePath": "Parts\\Engine\\liquidEngineLV-N\\liquidEngineLV-N.cfg"
+  },
+  {
+    "name": "liquidEngine",
+    "filePath": "Parts\\Engine\\liquidEngineLV-T30\\liquidEngineLV-T30.cfg"
+  },
+  {
+    "name": "liquidEngine2",
+    "filePath": "Parts\\Engine\\liquidEngineLV-T45\\liquidEngineLV-T45.cfg"
+  },
+  {
+    "name": "liquidEngine1-2",
+    "filePath": "Parts\\Engine\\liquidEngineMainsail\\liquidEngineMainsail.cfg"
+  },
+  {
+    "name": "radialLiquidEngine1-2",
+    "filePath": "Parts\\Engine\\liquidEngineMk55\\liquidEngineMk55.cfg"
+  },
+  {
+    "name": "liquidEngine2-2",
+    "filePath": "Parts\\Engine\\liquidEnginePoodle\\liquidEnginePoodle.cfg"
+  },
+  {
+    "name": "engineLargeSkipper",
+    "filePath": "Parts\\Engine\\liquidEngineSkipper\\skipperLiquidEngine.cfg"
+  },
+  {
+    "name": "SSME",
+    "filePath": "Parts\\Engine\\liquidEngineSSME\\SSME.cfg"
+  },
+  {
+    "name": "MassiveBooster",
+    "filePath": "Parts\\Engine\\MassiveSRB\\part.cfg"
+  },
+  {
+    "name": "miniJetEngine",
+    "filePath": "Parts\\Engine\\miniJet\\SmallJetEngine.cfg"
+  },
+  {
+    "name": "omsEngine",
+    "filePath": "Parts\\Engine\\OMSEngine\\omsEngine.cfg"
+  },
+  {
+    "name": "RAPIER",
+    "filePath": "Parts\\Engine\\rapierEngine\\rapierEngine.cfg"
+  },
+  {
+    "name": "Size2LFB",
+    "filePath": "Parts\\Engine\\Size2LFB\\part.cfg"
+  },
+  {
+    "name": "Size3AdvancedEngine",
+    "filePath": "Parts\\Engine\\Size3AdvancedEngine\\part.cfg"
+  },
+  {
+    "name": "Size3EngineCluster",
+    "filePath": "Parts\\Engine\\Size3EngineCluster\\part.cfg"
+  },
+  {
+    "name": "solidBooster1-1",
+    "filePath": "Parts\\Engine\\solidBoosterBACC\\solidBoosterBACC.cfg"
+  },
+  {
+    "name": "solidBooster",
+    "filePath": "Parts\\Engine\\solidBoosterRT-10\\solidBoosterRT-10.cfg"
+  },
+  {
+    "name": "solidBooster_sm",
+    "filePath": "Parts\\Engine\\solidBoosterRT-5\\solidBoosterRT-5.cfg"
+  },
+  {
+    "name": "sepMotor1",
+    "filePath": "Parts\\Engine\\solidBoosterSep\\solidBoosterSep.cfg"
+  },
+  {
+    "name": "vernierEngine",
+    "filePath": "Parts\\Engine\\vernorEngine\\vernorEngine.cfg"
+  },
+  {
+    "name": "adapterMk3-Mk2",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Mk3-Mk2.cfg"
+  },
+  {
+    "name": "adapterEngines",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Mk3-ShuttleAdapter.cfg"
+  },
+  {
+    "name": "adapterMk3-Size2",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Mk3-Size2.cfg"
+  },
+  {
+    "name": "adapterMk3-Size2Slant",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Mk3-Size2Slant.cfg"
+  },
+  {
+    "name": "adapterSize2-Mk2",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Size2-Mk2.cfg"
+  },
+  {
+    "name": "adapterSize2-Size1",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Size2-Size1.cfg"
+  },
+  {
+    "name": "adapterSize2-Size1Slant",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Size2-Size1Slant.cfg"
+  },
+  {
+    "name": "adapterSize3-Mk3",
+    "filePath": "Parts\\FuelTank\\adapterTanks\\Size3-Mk3.cfg"
+  },
+  {
+    "name": "fuelTank3-2",
+    "filePath": "Parts\\FuelTank\\fuelTankJumbo-64\\fuelTankJumbo-64.cfg"
+  },
+  {
+    "name": "miniFuelTank",
+    "filePath": "Parts\\FuelTank\\fuelTankOscarB\\fuelTankOscarB.cfg"
+  },
+  {
+    "name": "fuelTankSmallFlat",
+    "filePath": "Parts\\FuelTank\\fuelTankT100\\fuelTankT100.cfg"
+  },
+  {
+    "name": "fuelTankSmall",
+    "filePath": "Parts\\FuelTank\\fuelTankT200\\fuelTankT200.cfg"
+  },
+  {
+    "name": "fuelTank",
+    "filePath": "Parts\\FuelTank\\fuelTankT400\\fuelTankT400.cfg"
+  },
+  {
+    "name": "fuelTank_long",
+    "filePath": "Parts\\FuelTank\\fuelTankT800\\fuelTankT800.cfg"
+  },
+  {
+    "name": "toroidalFuelTank",
+    "filePath": "Parts\\FuelTank\\fuelTankToroidal\\fuelTankToroidal.cfg"
+  },
+  {
+    "name": "fuelTank2-2",
+    "filePath": "Parts\\FuelTank\\fuelTankX200-16\\fuelTankX200-16.cfg"
+  },
+  {
+    "name": "fuelTank1-2",
+    "filePath": "Parts\\FuelTank\\fuelTankX200-32\\fuelTankX200-32.cfg"
+  },
+  {
+    "name": "fuelTank4-2",
+    "filePath": "Parts\\FuelTank\\fuelTankX200-8\\fuelTankX200-8.cfg"
+  },
+  {
+    "name": "miniFuselage",
+    "filePath": "Parts\\FuelTank\\miniFuselage\\miniFuselage.cfg"
+  },
+  {
+    "name": "mk2_1m_Bicoupler",
+    "filePath": "Parts\\FuelTank\\mk2Adapters\\bicoupler.cfg"
+  },
+  {
+    "name": "mk2_1m_AdapterLong",
+    "filePath": "Parts\\FuelTank\\mk2Adapters\\long.cfg"
+  },
+  {
+    "name": "mk2SpacePlaneAdapter",
+    "filePath": "Parts\\FuelTank\\mk2Adapters\\standard.cfg"
+  },
+  {
+    "name": "mk2FuselageLongLFO",
+    "filePath": "Parts\\FuelTank\\mk2FuselageLong\\LFO_long.cfg"
+  },
+  {
+    "name": "mk2Fuselage",
+    "filePath": "Parts\\FuelTank\\mk2FuselageLong\\L_long.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLFO",
+    "filePath": "Parts\\FuelTank\\mk2FuselageShort\\LFO_short.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLiquid",
+    "filePath": "Parts\\FuelTank\\mk2FuselageShort\\L_short.cfg"
+  },
+  {
+    "name": "mk2FuselageShortMono",
+    "filePath": "Parts\\FuelTank\\mk2FuselageShort\\Mono_short.cfg"
+  },
+  {
+    "name": "mk3CrewCabin",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\CREW.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_100",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\LFO_100.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_25",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\LFO_25.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_50",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\LFO_50.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_100",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\LF_100.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_25",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\LF_25.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_50",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\LF_50.cfg"
+  },
+  {
+    "name": "mk3FuselageMONO",
+    "filePath": "Parts\\FuelTank\\mk3Fuselage\\MONO.cfg"
+  },
+  {
+    "name": "RCSTank1-2",
+    "filePath": "Parts\\FuelTank\\RCSFuelTankR1\\RCSFuelTankR1.cfg"
+  },
+  {
+    "name": "rcsTankMini",
+    "filePath": "Parts\\FuelTank\\RCSFuelTankR10\\RCSFuelTankR10.cfg"
+  },
+  {
+    "name": "RCSFuelTank",
+    "filePath": "Parts\\FuelTank\\RCSFuelTankR25\\RCSFuelTankR25.cfg"
+  },
+  {
+    "name": "radialRCSTank",
+    "filePath": "Parts\\FuelTank\\RCSTankRadial\\radialRCSTank.cfg"
+  },
+  {
+    "name": "rcsTankRadialLong",
+    "filePath": "Parts\\FuelTank\\RCStankRadialLong\\RCSTankRadialLong.cfg"
+  },
+  {
+    "name": "Size3LargeTank",
+    "filePath": "Parts\\FuelTank\\Size3Tanks\\large.cfg"
+  },
+  {
+    "name": "Size3MediumTank",
+    "filePath": "Parts\\FuelTank\\Size3Tanks\\medium.cfg"
+  },
+  {
+    "name": "Size3SmallTank",
+    "filePath": "Parts\\FuelTank\\Size3Tanks\\small.cfg"
+  },
+  {
+    "name": "xenonTank",
+    "filePath": "Parts\\FuelTank\\xenonTank\\xenonTank.cfg"
+  },
+  {
+    "name": "xenonTankLarge",
+    "filePath": "Parts\\FuelTank\\xenonTankLarge\\xenonTankLarge.cfg"
+  },
+  {
+    "name": "xenonTankRadial",
+    "filePath": "Parts\\FuelTank\\xenonTankRadial\\xenonTankRadial.cfg"
+  },
+  {
+    "name": "HECS2_ProbeCore",
+    "filePath": "Parts\\Misc\\AsteroidDay\\HECS2.cfg"
+  },
+  {
+    "name": "HighGainAntenna",
+    "filePath": "Parts\\Misc\\AsteroidDay\\HighGainAntenna.cfg"
+  },
+  {
+    "name": "LgRadialSolarPanel",
+    "filePath": "Parts\\Misc\\AsteroidDay\\LgRadialSolar.cfg"
+  },
+  {
+    "name": "PotatoRoid",
+    "filePath": "Parts\\Misc\\PotatoRoid\\part.cfg"
+  },
+  {
+    "name": "FuelCell",
+    "filePath": "Parts\\Resources\\FuelCell\\FuelCell.cfg"
+  },
+  {
+    "name": "FuelCellArray",
+    "filePath": "Parts\\Resources\\FuelCell\\FuelCellArray.cfg"
+  },
+  {
+    "name": "ISRU",
+    "filePath": "Parts\\Resources\\ISRU\\ISRU.cfg"
+  },
+  {
+    "name": "LargeTank",
+    "filePath": "Parts\\Resources\\LargeTank\\LargeTank.cfg"
+  },
+  {
+    "name": "MiniDrill",
+    "filePath": "Parts\\Resources\\MiniDrill\\MiniDrill.cfg"
+  },
+  {
+    "name": "MiniISRU",
+    "filePath": "Parts\\Resources\\MiniISRU\\MiniISRU.cfg"
+  },
+  {
+    "name": "OrbitalScanner",
+    "filePath": "Parts\\Resources\\OrbitalScanner\\OrbitalScanner.cfg"
+  },
+  {
+    "name": "RadialDrill",
+    "filePath": "Parts\\Resources\\RadialDrill\\RadialDrill.cfg"
+  },
+  {
+    "name": "RadialOreTank",
+    "filePath": "Parts\\Resources\\RadialTank\\RadialTank.cfg"
+  },
+  {
+    "name": "SmallTank",
+    "filePath": "Parts\\Resources\\SmallTank\\SmallTank.cfg"
+  },
+  {
+    "name": "SurfaceScanner",
+    "filePath": "Parts\\Resources\\SurfaceScanner\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "SurveyScanner",
+    "filePath": "Parts\\Resources\\SurveyScanner\\SurveyScanner.cfg"
+  },
+  {
+    "name": "sensorAtmosphere",
+    "filePath": "Parts\\Science\\AtmosphereSensor\\sensorAtmosphere.cfg"
+  },
+  {
+    "name": "GooExperiment",
+    "filePath": "Parts\\Science\\GooExperiment\\gooExperiment.cfg"
+  },
+  {
+    "name": "Large_Crewed_Lab",
+    "filePath": "Parts\\Science\\LargeCrewedLab\\largeCrewedLab.cfg"
+  },
+  {
+    "name": "science_module",
+    "filePath": "Parts\\Science\\MaterialBay\\materialBay.cfg"
+  },
+  {
+    "name": "sensorAccelerometer",
+    "filePath": "Parts\\Science\\sensorAccelerometer\\sensorAccelerometer.cfg"
+  },
+  {
+    "name": "sensorBarometer",
+    "filePath": "Parts\\Science\\sensorBarometer\\sensorBarometer.cfg"
+  },
+  {
+    "name": "sensorGravimeter",
+    "filePath": "Parts\\Science\\sensorGravimeter\\sensorGravimeter.cfg"
+  },
+  {
+    "name": "sensorThermometer",
+    "filePath": "Parts\\Science\\sensorThermometer\\sensorThermometer.cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi",
+    "filePath": "Parts\\Structural\\adapterLargeSmallBi\\adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad",
+    "filePath": "Parts\\Structural\\adapterLargeSmallQuad\\adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri",
+    "filePath": "Parts\\Structural\\adapterLargeSmallTri\\adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "adapterSmallMiniShort",
+    "filePath": "Parts\\Structural\\adapterSmallMiniShort\\adapterSmallMiniShort.cfg"
+  },
+  {
+    "name": "adapterSmallMiniTall",
+    "filePath": "Parts\\Structural\\adapterSmallMiniTall\\adapterSmallMiniTall.cfg"
+  },
+  {
+    "name": "radialEngineBody",
+    "filePath": "Parts\\Structural\\mk1Parts\\engineBodyRadial.cfg"
+  },
+  {
+    "name": "nacelleBody",
+    "filePath": "Parts\\Structural\\mk1Parts\\engineNacelle.cfg"
+  },
+  {
+    "name": "MK1Fuselage",
+    "filePath": "Parts\\Structural\\mk1Parts\\mk1Fuselage.cfg"
+  },
+  {
+    "name": "MK1IntakeFuselage",
+    "filePath": "Parts\\Structural\\mk1Parts\\mk1FuselageIntake.cfg"
+  },
+  {
+    "name": "Mk1FuselageStructural",
+    "filePath": "Parts\\Structural\\mk1Parts\\mk1Structural.cfg"
+  },
+  {
+    "name": "size3Decoupler",
+    "filePath": "Parts\\Structural\\Size3Decoupler\\part.cfg"
+  },
+  {
+    "name": "Size3to2Adapter",
+    "filePath": "Parts\\Structural\\Size3To2Adapter\\part.cfg"
+  },
+  {
+    "name": "stationHub",
+    "filePath": "Parts\\Structural\\stationHub\\stationHub.cfg"
+  },
+  {
+    "name": "structuralIBeam2",
+    "filePath": "Parts\\Structural\\structuralIBeam200\\structuralIBeam200.cfg"
+  },
+  {
+    "name": "structuralIBeam3",
+    "filePath": "Parts\\Structural\\structuralIBeam200Pocket\\structuralIBeam200Pocket.cfg"
+  },
+  {
+    "name": "structuralIBeam1",
+    "filePath": "Parts\\Structural\\structuralIBeam650\\structuralIBeam650.cfg"
+  },
+  {
+    "name": "structuralMiniNode",
+    "filePath": "Parts\\Structural\\structuralMicronode\\structuralMicronode.cfg"
+  },
+  {
+    "name": "structuralPanel1",
+    "filePath": "Parts\\Structural\\structuralPanel1x1\\structuralPanel1x1.cfg"
+  },
+  {
+    "name": "structuralPanel2",
+    "filePath": "Parts\\Structural\\structuralPanel2x2\\structuralPanel2x2.cfg"
+  },
+  {
+    "name": "smallHardpoint",
+    "filePath": "Parts\\Structural\\structuralPylons\\smallHardpoint.cfg"
+  },
+  {
+    "name": "structuralPylon",
+    "filePath": "Parts\\Structural\\structuralPylons\\structuralPylon.cfg"
+  },
+  {
+    "name": "strutCube",
+    "filePath": "Parts\\Structural\\strutCubicOcto\\strutCubicOcto.cfg"
+  },
+  {
+    "name": "strutOcto",
+    "filePath": "Parts\\Structural\\strutOcto\\strutOcto.cfg"
+  },
+  {
+    "name": "trussAdapter",
+    "filePath": "Parts\\Structural\\trussGirderAdapter\\trussGirderAdapter.cfg"
+  },
+  {
+    "name": "trussPiece1x",
+    "filePath": "Parts\\Structural\\trussGirderL\\trussGirderL.cfg"
+  },
+  {
+    "name": "trussPiece3x",
+    "filePath": "Parts\\Structural\\trussGirderXL\\trussGirderXL.cfg"
+  },
+  {
+    "name": "foldingRadLarge",
+    "filePath": "Parts\\Thermal\\FoldingRadiators\\foldingRadLarge.cfg"
+  },
+  {
+    "name": "foldingRadMed",
+    "filePath": "Parts\\Thermal\\FoldingRadiators\\foldingRadMed.cfg"
+  },
+  {
+    "name": "foldingRadSmall",
+    "filePath": "Parts\\Thermal\\FoldingRadiators\\foldingRadSmall.cfg"
+  },
+  {
+    "name": "radPanelEdge",
+    "filePath": "Parts\\Thermal\\RadiatorPanels\\radPanelEdge.cfg"
+  },
+  {
+    "name": "radPanelLg",
+    "filePath": "Parts\\Thermal\\RadiatorPanels\\radPanelLg.cfg"
+  },
+  {
+    "name": "radPanelSm",
+    "filePath": "Parts\\Thermal\\RadiatorPanels\\radPanelSm.cfg"
+  },
+  {
+    "name": "commDish",
+    "filePath": "Parts\\Utility\\commDish88-88\\commDish88-88.cfg"
+  },
+  {
+    "name": "mediumDishAntenna",
+    "filePath": "Parts\\Utility\\commsAntennaDTS-M1\\commsAntennaDTS-M1.cfg"
+  },
+  {
+    "name": "longAntenna",
+    "filePath": "Parts\\Utility\\commsDish16\\commsAntenna16.cfg"
+  },
+  {
+    "name": "radialDecoupler1-2",
+    "filePath": "Parts\\Utility\\decouplerRadialHDM\\decouplerRadialHDM.cfg"
+  },
+  {
+    "name": "radialDecoupler",
+    "filePath": "Parts\\Utility\\decouplerRadialTT-38K\\decouplerRadialTT-38K.cfg"
+  },
+  {
+    "name": "radialDecoupler2",
+    "filePath": "Parts\\Utility\\decouplerRadialTT-70\\decouplerRadialTT-70.cfg"
+  },
+  {
+    "name": "stackSeparator",
+    "filePath": "Parts\\Utility\\decouplerSeparatorTR-18D\\decouplerSeparatorTR-18D.cfg"
+  },
+  {
+    "name": "stackSeparatorMini",
+    "filePath": "Parts\\Utility\\decouplerSeparatorTR-2C\\decouplerSeparatorTR-2C.cfg"
+  },
+  {
+    "name": "stackSeparatorBig",
+    "filePath": "Parts\\Utility\\decouplerSeparatorTR-XL\\decouplerSeparatorTR-XL.cfg"
+  },
+  {
+    "name": "decoupler1-2",
+    "filePath": "Parts\\Utility\\decouplerStack2m\\decouplerStack2m.cfg"
+  },
+  {
+    "name": "stackDecoupler",
+    "filePath": "Parts\\Utility\\decouplerStackTR-18A\\decouplerStackTR-18A.cfg"
+  },
+  {
+    "name": "stackDecouplerMini",
+    "filePath": "Parts\\Utility\\decouplerStackTR-2V\\decouplerStackTR-2V.cfg"
+  },
+  {
+    "name": "dockingPort2",
+    "filePath": "Parts\\Utility\\dockingPort\\dockingPort.cfg"
+  },
+  {
+    "name": "dockingPortLateral",
+    "filePath": "Parts\\Utility\\dockingPortInline\\dockingPortInline.cfg"
+  },
+  {
+    "name": "dockingPort3",
+    "filePath": "Parts\\Utility\\dockingPortJr\\dockingPortJr.cfg"
+  },
+  {
+    "name": "dockingPort1",
+    "filePath": "Parts\\Utility\\dockingPortShielded\\dockingPortShielded.cfg"
+  },
+  {
+    "name": "dockingPortLarge",
+    "filePath": "Parts\\Utility\\dockingPortSr\\dockingPortSr.cfg"
+  },
+  {
+    "name": "GrapplingDevice",
+    "filePath": "Parts\\Utility\\GrapplingDevice\\part.cfg"
+  },
+  {
+    "name": "ladder1",
+    "filePath": "Parts\\Utility\\ladderRadial\\ladderRadial.cfg"
+  },
+  {
+    "name": "telescopicLadder",
+    "filePath": "Parts\\Utility\\ladderTelescopic\\ladderTelescopic.cfg"
+  },
+  {
+    "name": "telescopicLadderBay",
+    "filePath": "Parts\\Utility\\ladderTelescopicBay\\ladderTelescopicBay.cfg"
+  },
+  {
+    "name": "landingLeg1",
+    "filePath": "Parts\\Utility\\landingLegLT-1\\landingLegLT-1.cfg"
+  },
+  {
+    "name": "landingLeg1-2",
+    "filePath": "Parts\\Utility\\landingLegLT-2\\landingLegLT-2.cfg"
+  },
+  {
+    "name": "miniLandingLeg",
+    "filePath": "Parts\\Utility\\landingLegLT-5\\landingLegLT-5.cfg"
+  },
+  {
+    "name": "largeAdapter",
+    "filePath": "Parts\\Utility\\largeAdapter\\largeAdapter.cfg"
+  },
+  {
+    "name": "largeAdapter2",
+    "filePath": "Parts\\Utility\\largeAdapterShort\\largeAdapterShort.cfg"
+  },
+  {
+    "name": "launchClamp1",
+    "filePath": "Parts\\Utility\\launchClamp1\\launchClamp1.cfg"
+  },
+  {
+    "name": "LaunchEscapeSystem",
+    "filePath": "Parts\\Utility\\launchEscapeSystem\\part.cfg"
+  },
+  {
+    "name": "linearRcs",
+    "filePath": "Parts\\Utility\\linearRCS\\linearRCS.cfg"
+  },
+  {
+    "name": "mk2CargoBayL",
+    "filePath": "Parts\\Utility\\mk2CargoBay\\BayL.cfg"
+  },
+  {
+    "name": "mk2CargoBayS",
+    "filePath": "Parts\\Utility\\mk2CargoBay\\BayS.cfg"
+  },
+  {
+    "name": "mk2CrewCabin",
+    "filePath": "Parts\\Utility\\mk2CrewCabin\\mk2CrewCabin.cfg"
+  },
+  {
+    "name": "mk2DockingPort",
+    "filePath": "Parts\\Utility\\mk2DockingPort\\mk2DockingPort.cfg"
+  },
+  {
+    "name": "mk3CargoBayL",
+    "filePath": "Parts\\Utility\\mk3CargoBay\\long.cfg"
+  },
+  {
+    "name": "mk3CargoBayM",
+    "filePath": "Parts\\Utility\\mk3CargoBay\\medium.cfg"
+  },
+  {
+    "name": "mk3CargoRamp",
+    "filePath": "Parts\\Utility\\mk3CargoBay\\ramp.cfg"
+  },
+  {
+    "name": "mk3CargoBayS",
+    "filePath": "Parts\\Utility\\mk3CargoBay\\short.cfg"
+  },
+  {
+    "name": "parachuteSingle",
+    "filePath": "Parts\\Utility\\parachuteMk1\\parachuteMk1.cfg"
+  },
+  {
+    "name": "radialDrogue",
+    "filePath": "Parts\\Utility\\parachuteMk12-R\\parachuteMk12-R.cfg"
+  },
+  {
+    "name": "parachuteLarge",
+    "filePath": "Parts\\Utility\\parachuteMk16-XL\\parachuteMk16-XL.cfg"
+  },
+  {
+    "name": "parachuteRadial",
+    "filePath": "Parts\\Utility\\parachuteMk2-R\\parachuteMk2-R.cfg"
+  },
+  {
+    "name": "parachuteDrogue",
+    "filePath": "Parts\\Utility\\parachuteMk25\\parachuteMk25.cfg"
+  },
+  {
+    "name": "stackPoint1",
+    "filePath": "Parts\\Utility\\radialAttachmentPoint\\radialAttachmentPoint.cfg"
+  },
+  {
+    "name": "RCSBlock",
+    "filePath": "Parts\\Utility\\rcsBlockRV-105\\rcsBlockRV-105.cfg"
+  },
+  {
+    "name": "ServiceBay_125",
+    "filePath": "Parts\\Utility\\ServiceBay\\ServiceBay_125.cfg"
+  },
+  {
+    "name": "ServiceBay_250",
+    "filePath": "Parts\\Utility\\ServiceBay\\ServiceBay_250.cfg"
+  },
+  {
+    "name": "spotLight1",
+    "filePath": "Parts\\Utility\\spotLightMk1\\spotLightMk1.cfg"
+  },
+  {
+    "name": "spotLight2",
+    "filePath": "Parts\\Utility\\spotLightMk2\\spotLightMk2.cfg"
+  },
+  {
+    "name": "stackBiCoupler",
+    "filePath": "Parts\\Utility\\stackBiCoupler\\stackBiCoupler.cfg"
+  },
+  {
+    "name": "stackQuadCoupler",
+    "filePath": "Parts\\Utility\\stackQuadCoupler\\stackQuadCoupler.cfg"
+  },
+  {
+    "name": "stackTriCoupler",
+    "filePath": "Parts\\Utility\\stackTriCoupler\\stackTriCoupler.cfg"
+  },
+  {
+    "name": "GearLarge",
+    "filePath": "Parts\\Wheel\\LandingGear\\GearExtraLarge.cfg"
+  },
+  {
+    "name": "GearFixed",
+    "filePath": "Parts\\Wheel\\LandingGear\\GearFixed.cfg"
+  },
+  {
+    "name": "GearFree",
+    "filePath": "Parts\\Wheel\\LandingGear\\GearFree.cfg"
+  },
+  {
+    "name": "GearMedium",
+    "filePath": "Parts\\Wheel\\LandingGear\\GearLarge.cfg"
+  },
+  {
+    "name": "GearSmall",
+    "filePath": "Parts\\Wheel\\LandingGear\\GearMedium.cfg"
+  },
+  {
+    "name": "SmallGearBay",
+    "filePath": "Parts\\Wheel\\LandingGear\\GearSmall.cfg"
+  },
+  {
+    "name": "roverWheel1",
+    "filePath": "Parts\\Wheel\\roverWheelM1\\roverWheelM1.cfg"
+  },
+  {
+    "name": "roverWheel2",
+    "filePath": "Parts\\Wheel\\roverWheelS2\\roverWheelS2.cfg"
+  },
+  {
+    "name": "wheelMed",
+    "filePath": "Parts\\Wheel\\roverWheelTR-2L\\roverWheelTR-2L.cfg"
+  },
+  {
+    "name": "roverWheel3",
+    "filePath": "Parts\\Wheel\\roverWheelXL3\\roverWheelXL3.cfg"
+  }
+]

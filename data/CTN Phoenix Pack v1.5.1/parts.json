@@ -1,0 +1,50 @@
+[
+  {
+    "name": "2.5m Capsule",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\capsule\\bigcapsule.cfg"
+  },
+  {
+    "name": "Capsule",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\capsule\\part.cfg"
+  },
+  {
+    "name": "2.5munpressurizedtrunk",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\newtrunk\\bignewtrunk.cfg"
+  },
+  {
+    "name": "unpressurizedtrunk",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\newtrunk\\newtrunk.cfg"
+  },
+  {
+    "name": "2.5m picax",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\picax\\bigpicax.cfg"
+  },
+  {
+    "name": "picax",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\picax\\part.cfg"
+  },
+  {
+    "name": "solarshroud",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\shroud\\shroud.cfg"
+  },
+  {
+    "name": "solarshroudbig",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\shroud\\shroudbig.cfg"
+  },
+  {
+    "name": "2.5m solar",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\solar\\bigsolar.cfg"
+  },
+  {
+    "name": "solar",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\solar\\part.cfg"
+  },
+  {
+    "name": "2.5m trunk",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\trunk\\bigtrunk.cfg"
+  },
+  {
+    "name": "trunk",
+    "filePath": "CTN Phoenix Pack v1.5.1\\GameData\\CTN\\Parts\\trunk\\part.cfg"
+  }
+]

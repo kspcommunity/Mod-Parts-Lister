@@ -1,0 +1,386 @@
+[
+  {
+    "name": "adapterMk3-Mk2HR",
+    "filePath": "HRP\\adapterTanksHR\\Mk3-Mk2HR.cfg"
+  },
+  {
+    "name": "adapterMk3-Size2HR",
+    "filePath": "HRP\\adapterTanksHR\\Mk3-Size2HR.cfg"
+  },
+  {
+    "name": "adapterMk3-Size2SlantHR",
+    "filePath": "HRP\\adapterTanksHR\\Mk3-Size2SlantHR.cfg"
+  },
+  {
+    "name": "adapterSize2-Mk2HR",
+    "filePath": "HRP\\adapterTanksHR\\Size2-Mk2HR.cfg"
+  },
+  {
+    "name": "adapterSize2-Size1HR",
+    "filePath": "HRP\\adapterTanksHR\\Size2-Size1HR.cfg"
+  },
+  {
+    "name": "adapterSize2-Size1SlantHR",
+    "filePath": "HRP\\adapterTanksHR\\Size2-Size1SlantHR.cfg"
+  },
+  {
+    "name": "adapterSize3-Mk3HR",
+    "filePath": "HRP\\adapterTanksHR\\Size3-Mk3HR.cfg"
+  },
+  {
+    "name": "noseConeHR",
+    "filePath": "HRP\\aerodynamicNoseConeHR\\aerodynamicNoseConeHR.cfg"
+  },
+  {
+    "name": "airbrake1HR",
+    "filePath": "HRP\\airbrakeHR\\AirbrakeHR.cfg"
+  },
+  {
+    "name": "airScoopHR",
+    "filePath": "HRP\\airIntakeRadialXM-G50HR\\airIntakeRadialXM-G50HR.cfg"
+  },
+  {
+    "name": "airlinerCtrlSrfHR",
+    "filePath": "HRP\\airlinerWingsHR\\ControlSurfaceHR.cfg"
+  },
+  {
+    "name": "airlinerMainWingHR",
+    "filePath": "HRP\\airlinerWingsHR\\MainWingHR.cfg"
+  },
+  {
+    "name": "airlinerTailFinHR",
+    "filePath": "HRP\\airlinerWingsHR\\TailFinHR.cfg"
+  },
+  {
+    "name": "AdvancedCanardHR",
+    "filePath": "HRP\\airplaneFinsHR\\advancedCanardHR.cfg"
+  },
+  {
+    "name": "CanardControllerHR",
+    "filePath": "HRP\\airplaneFinsHR\\standardCanardHR.cfg"
+  },
+  {
+    "name": "sweptWingHR",
+    "filePath": "HRP\\airplaneFinsHR\\sweptWingHR.cfg"
+  },
+  {
+    "name": "tailfinHR",
+    "filePath": "HRP\\airplaneFinsHR\\tailfinHR.cfg"
+  },
+  {
+    "name": "CircularIntakeHR",
+    "filePath": "HRP\\circularIntakeHR\\circularIntakeHR.cfg"
+  },
+  {
+    "name": "shockConeIntakeHR",
+    "filePath": "HRP\\circularIntakeHR\\intakeShockConeHR.cfg"
+  },
+  {
+    "name": "avionicsNoseConeHR",
+    "filePath": "HRP\\conesHR\\avionicsNoseConeHR.cfg"
+  },
+  {
+    "name": "pointyNoseConeAHR",
+    "filePath": "HRP\\conesHR\\ConeAHR.cfg"
+  },
+  {
+    "name": "pointyNoseConeBHR",
+    "filePath": "HRP\\conesHR\\ConeBHR.cfg"
+  },
+  {
+    "name": "noseConeAdapterHR",
+    "filePath": "HRP\\conesHR\\noseConeAdapterHR.cfg"
+  },
+  {
+    "name": "standardNoseConeHR",
+    "filePath": "HRP\\conesHR\\smallNoseConeHR.cfg"
+  },
+  {
+    "name": "airplaneTailHR",
+    "filePath": "HRP\\conesHR\\tailConnectorAHR.cfg"
+  },
+  {
+    "name": "airplaneTailBHR",
+    "filePath": "HRP\\conesHR\\tailConnectorBHR.cfg"
+  },
+  {
+    "name": "IntakeRadialLongHR",
+    "filePath": "HRP\\intakeRadialLongHR\\intakeRadialLongHR.cfg"
+  },
+  {
+    "name": "turboJetHR",
+    "filePath": "HRP\\jetEnginesHR\\jetEngineAfterburningHR.cfg"
+  },
+  {
+    "name": "JetEngineHR",
+    "filePath": "HRP\\jetEnginesHR\\jetEngineBasicHR.cfg"
+  },
+  {
+    "name": "turboFanSize2HR",
+    "filePath": "HRP\\jetEnginesHR\\jetEngineBigHR.cfg"
+  },
+  {
+    "name": "turboFanEngineHR",
+    "filePath": "HRP\\jetEnginesHR\\jetEngineTurboHR.cfg"
+  },
+  {
+    "name": "ladder1",
+    "filePath": "HRP\\ladderRadialHR\\ladderRadial.cfg"
+  },
+  {
+    "name": "telescopicLadderHR",
+    "filePath": "HRP\\ladderTelescopicHR\\ladderTelescopicHR.cfg"
+  },
+  {
+    "name": "GearFixedHR",
+    "filePath": "HRP\\LandingGearHR\\GearFixedHR.cfg"
+  },
+  {
+    "name": "GearFreeHR",
+    "filePath": "HRP\\LandingGearHR\\GearFreeHR.cfg"
+  },
+  {
+    "name": "GearIntermediateHR",
+    "filePath": "HRP\\LandingGearHR\\GearIntermediateHR.cfg"
+  },
+  {
+    "name": "GearLargeHR",
+    "filePath": "HRP\\LandingGearHR\\GearLargeHR.cfg"
+  },
+  {
+    "name": "GearMediumHR",
+    "filePath": "HRP\\LandingGearHR\\GearMediumHR.cfg"
+  },
+  {
+    "name": "miniFuselageHR",
+    "filePath": "HRP\\miniFuselageHR\\miniFuselageHR.cfg"
+  },
+  {
+    "name": "miniIntakeHR",
+    "filePath": "HRP\\miniIntakeHR\\SmallIntake.cfg"
+  },
+  {
+    "name": "miniJetEngineHR",
+    "filePath": "HRP\\miniJetHR\\SmallJetEngineHR.cfg"
+  },
+  {
+    "name": "Mark1CockpitHR",
+    "filePath": "HRP\\mk1CockpitsHR\\mk1CockpitHR.cfg"
+  },
+  {
+    "name": "MK1CrewCabinHR",
+    "filePath": "HRP\\mk1CockpitsHR\\mk1CrewCabinHR.cfg"
+  },
+  {
+    "name": "Mark2CockpitHR",
+    "filePath": "HRP\\mk1CockpitsHR\\mk1InlineCockpitHR.cfg"
+  },
+  {
+    "name": "radialEngineBodyHR",
+    "filePath": "HRP\\mk1PartsHR\\engineBodyRadialHR.cfg"
+  },
+  {
+    "name": "nacelleBodyHR",
+    "filePath": "HRP\\mk1PartsHR\\engineNacelleHR.cfg"
+  },
+  {
+    "name": "MK1FuselageHR",
+    "filePath": "HRP\\mk1PartsHR\\mk1FuselageHR.cfg"
+  },
+  {
+    "name": "MK1IntakeFuselageHR",
+    "filePath": "HRP\\mk1PartsHR\\mk1FuselageIntakeHR.cfg"
+  },
+  {
+    "name": "Mk1FuselageStructuralHR",
+    "filePath": "HRP\\mk1PartsHR\\mk1StructuralHR.cfg"
+  },
+  {
+    "name": "mk2_1m_BicouplerHR",
+    "filePath": "HRP\\mk2AdaptersHR\\bicouplerHR.cfg"
+  },
+  {
+    "name": "mk2_1m_AdapterLongHR",
+    "filePath": "HRP\\mk2AdaptersHR\\longHR.cfg"
+  },
+  {
+    "name": "mk2SpacePlaneAdapterHR",
+    "filePath": "HRP\\mk2AdaptersHR\\standardHR.cfg"
+  },
+  {
+    "name": "mk2CargoBayLHR",
+    "filePath": "HRP\\mk2CargoBayHR\\BayLHR.cfg"
+  },
+  {
+    "name": "mk2CargoBaySHR",
+    "filePath": "HRP\\mk2CargoBayHR\\BaySHR.cfg"
+  },
+  {
+    "name": "mk2Cockpit_InlineHR",
+    "filePath": "HRP\\mk2CockpitInlineHR\\mk2CockpitInlineHR.cfg"
+  },
+  {
+    "name": "mk2Cockpit_StandardHR",
+    "filePath": "HRP\\mk2CockpitStandardHR\\mk2CockpitStandardHR.cfg"
+  },
+  {
+    "name": "mk2CrewCabinHR",
+    "filePath": "HRP\\mk2CrewCabinHR\\mk2CrewCabinHR.cfg"
+  },
+  {
+    "name": "mk2DroneCoreHR",
+    "filePath": "HRP\\mk2DroneCoreHR\\mk2DronecoreHR.cfg"
+  },
+  {
+    "name": "mk2FuselageLongLFOHR",
+    "filePath": "HRP\\mk2FuselageLongHR\\LFO_longHR.cfg"
+  },
+  {
+    "name": "mk2FuselageHR",
+    "filePath": "HRP\\mk2FuselageLongHR\\L_longHR.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLFOHR",
+    "filePath": "HRP\\mk2FuselageShortHR\\LFO_shortHR.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLiquidHR",
+    "filePath": "HRP\\mk2FuselageShortHR\\L_shortHR.cfg"
+  },
+  {
+    "name": "mk2FuselageShortMonoHR",
+    "filePath": "HRP\\mk2FuselageShortHR\\Mono_shortHR.cfg"
+  },
+  {
+    "name": "mk3Cockpit_ShuttleHR",
+    "filePath": "HRP\\mk3CockpitShuttleHR\\mk3CockpitShuttleHR.cfg"
+  },
+  {
+    "name": "radialDrogueHR",
+    "filePath": "HRP\\parachuteMk12-RHR\\parachuteMk12-RHR.cfg"
+  },
+  {
+    "name": "ramAirIntakeHR",
+    "filePath": "HRP\\ramAirIntakeHR\\ramAirIntakeHR.cfg"
+  },
+  {
+    "name": "wingShuttleDeltaHR",
+    "filePath": "HRP\\shuttleWingsHR\\deltaHR.cfg"
+  },
+  {
+    "name": "wingShuttleElevon1HR",
+    "filePath": "HRP\\shuttleWingsHR\\elevon1HR.cfg"
+  },
+  {
+    "name": "wingShuttleElevon2HR",
+    "filePath": "HRP\\shuttleWingsHR\\elevon2HR.cfg"
+  },
+  {
+    "name": "elevonMk3HR",
+    "filePath": "HRP\\shuttleWingsHR\\elevonHR.cfg"
+  },
+  {
+    "name": "wingShuttleRudderHR",
+    "filePath": "HRP\\shuttleWingsHR\\rudderHR.cfg"
+  },
+  {
+    "name": "wingShuttleStrakeHR",
+    "filePath": "HRP\\shuttleWingsHR\\strakeHR.cfg"
+  },
+  {
+    "name": "SmallGearBayHR",
+    "filePath": "HRP\\SmallGearBayHR\\smallGearBayHR.cfg"
+  },
+  {
+    "name": "vernierEngineHR",
+    "filePath": "HRP\\vernorEngineHR\\vernorEngineHR.cfg"
+  },
+  {
+    "name": "R8wingletHR",
+    "filePath": "HRP\\wingletAV-R8_HR\\wingletAV-R8_HR.cfg"
+  },
+  {
+    "name": "wingletHR",
+    "filePath": "HRP\\wingletAV-T1_HR\\wingletAV-T1HR.cfg"
+  },
+  {
+    "name": "winglet3HR",
+    "filePath": "HRP\\wingletDeltaDeluxeHR\\wingletDeltaDeluxeHR.cfg"
+  },
+  {
+    "name": "wingConnectorhr",
+    "filePath": "HRP\\wingsHeatResist\\connector1hr.cfg"
+  },
+  {
+    "name": "wingConnector2hr",
+    "filePath": "HRP\\wingsHeatResist\\connector2hr.cfg"
+  },
+  {
+    "name": "wingConnector3hr",
+    "filePath": "HRP\\wingsHeatResist\\connector3hr.cfg"
+  },
+  {
+    "name": "wingConnector4hr",
+    "filePath": "HRP\\wingsHeatResist\\connector4hr.cfg"
+  },
+  {
+    "name": "wingConnector5hr",
+    "filePath": "HRP\\wingsHeatResist\\connector5hr.cfg"
+  },
+  {
+    "name": "deltaWinghr",
+    "filePath": "HRP\\wingsHeatResist\\deltahr.cfg"
+  },
+  {
+    "name": "delta_smallhr",
+    "filePath": "HRP\\wingsHeatResist\\delta_smallhr.cfg"
+  },
+  {
+    "name": "StandardCtrlSrfhr",
+    "filePath": "HRP\\wingsHeatResist\\elevon1hr.cfg"
+  },
+  {
+    "name": "elevon2hr",
+    "filePath": "HRP\\wingsHeatResist\\elevon2hr.cfg"
+  },
+  {
+    "name": "elevon3hr",
+    "filePath": "HRP\\wingsHeatResist\\elevon3hr.cfg"
+  },
+  {
+    "name": "smallCtrlSrfhr",
+    "filePath": "HRP\\wingsHeatResist\\elevon4hr.cfg"
+  },
+  {
+    "name": "elevon5hr",
+    "filePath": "HRP\\wingsHeatResist\\elevon5hr.cfg"
+  },
+  {
+    "name": "wingStrakehr",
+    "filePath": "HRP\\wingsHeatResist\\strakehr.cfg"
+  },
+  {
+    "name": "structuralWinghr",
+    "filePath": "HRP\\wingsHeatResist\\structural1hr.cfg"
+  },
+  {
+    "name": "structuralWing2hr",
+    "filePath": "HRP\\wingsHeatResist\\structural2hr.cfg"
+  },
+  {
+    "name": "structuralWing3hr",
+    "filePath": "HRP\\wingsHeatResist\\structural3hr.cfg"
+  },
+  {
+    "name": "structuralWing4hr",
+    "filePath": "HRP\\wingsHeatResist\\structural4hr.cfg"
+  },
+  {
+    "name": "sweptWing1hr",
+    "filePath": "HRP\\wingsHeatResist\\swept1hr.cfg"
+  },
+  {
+    "name": "sweptWing2hr",
+    "filePath": "HRP\\wingsHeatResist\\swept2hr.cfg"
+  }
+]

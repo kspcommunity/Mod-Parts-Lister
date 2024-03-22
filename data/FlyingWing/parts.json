@@ -1,0 +1,62 @@
+[
+  {
+    "name": "FlyingWingAirbrakeBottom",
+    "filePath": "FlyingWing\\Parts\\AirbrakeBottom.cfg"
+  },
+  {
+    "name": "FlyingWingAirbrakeTop",
+    "filePath": "FlyingWing\\Parts\\AirbrakeTop.cfg"
+  },
+  {
+    "name": "FlyingWingCounterWeight10",
+    "filePath": "FlyingWing\\Parts\\CounterWeight10.cfg"
+  },
+  {
+    "name": "FlyingWingCounterWeight100",
+    "filePath": "FlyingWing\\Parts\\CounterWeight100.cfg"
+  },
+  {
+    "name": "FlyingWingCounterWeight1000",
+    "filePath": "FlyingWing\\Parts\\CounterWeight1000.cfg"
+  },
+  {
+    "name": "FlyingWingCIFS",
+    "filePath": "FlyingWing\\Parts\\FlyingWingC IFS.cfg"
+  },
+  {
+    "name": "FlyingWingC",
+    "filePath": "FlyingWing\\Parts\\FlyingWingC.cfg"
+  },
+  {
+    "name": "FlyingWingNCIFS",
+    "filePath": "FlyingWing\\Parts\\FlyingWingNC IFS.cfg"
+  },
+  {
+    "name": "FlyingWingNC",
+    "filePath": "FlyingWing\\Parts\\FlyingWingNC.cfg"
+  },
+  {
+    "name": "FlyingWingLeftControlSurface",
+    "filePath": "FlyingWing\\Parts\\LeftControlSurface.cfg"
+  },
+  {
+    "name": "FlyingWingRCSBlisterBottom",
+    "filePath": "FlyingWing\\Parts\\RCSBlisterBottom.cfg"
+  },
+  {
+    "name": "FlyingWingRCSBlisterTop",
+    "filePath": "FlyingWing\\Parts\\RCSBlisterTop.cfg"
+  },
+  {
+    "name": "FlyingWingRightControlSurface",
+    "filePath": "FlyingWing\\Parts\\RightControlSurface.cfg"
+  },
+  {
+    "name": "FlyingWingSuperWheelBack",
+    "filePath": "FlyingWing\\Parts\\SuperWheelBack.cfg"
+  },
+  {
+    "name": "FlyingWingSuperWheelFront",
+    "filePath": "FlyingWing\\Parts\\SuperWheelFront.cfg"
+  }
+]

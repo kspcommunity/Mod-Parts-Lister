@@ -1,0 +1,10 @@
+[
+  {
+    "name": "basicRadialEngineMount",
+    "filePath": "RadialEngineMountsPPI\\basicRadialEngineMount\\part.cfg"
+  },
+  {
+    "name": "doubleRadialEngineMount",
+    "filePath": "RadialEngineMountsPPI\\doubleRadialEngineMount\\part.cfg"
+  }
+]

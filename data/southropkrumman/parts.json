@@ -1,0 +1,30 @@
+[
+  {
+    "name": "airScoopcarcs",
+    "filePath": "southropkrumman\\airIntakeRadialXM-G50\\airIntakeRadialXM-G50.cfg"
+  },
+  {
+    "name": "carcs1",
+    "filePath": "southropkrumman\\carcs\\vernorEngine.cfg"
+  },
+  {
+    "name": "CircularIntakecarcs",
+    "filePath": "southropkrumman\\CircularIntake\\circularIntake.cfg"
+  },
+  {
+    "name": "IntakeRadialLongcarcs",
+    "filePath": "southropkrumman\\IntakeRadialLong\\part.cfg"
+  },
+  {
+    "name": "ramAirIntakecarcs",
+    "filePath": "southropkrumman\\ramAirIntake\\ramAirIntake.cfg"
+  },
+  {
+    "name": "compressedair",
+    "filePath": "southropkrumman\\Resources\\ResourcesGeneric.cfg"
+  },
+  {
+    "name": "shockConeIntakecarcs",
+    "filePath": "southropkrumman\\ShockConeIntake\\part.cfg"
+  }
+]

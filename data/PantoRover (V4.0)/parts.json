@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PantoRoverIVA",
+    "filePath": "PantoRover (V4.0)\\PantoRover\\internal.cfg"
+  },
+  {
+    "name": "PantoRover",
+    "filePath": "PantoRover (V4.0)\\PantoRover\\PantoRover.cfg"
+  },
+  {
+    "name": "wheelMed",
+    "filePath": "PantoRover (V4.0)\\roverWheelTR-2L.cfg"
+  }
+]

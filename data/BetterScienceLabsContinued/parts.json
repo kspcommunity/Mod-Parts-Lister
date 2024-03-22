@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\connectedlivingspace.cfg"
+  },
+  {
+    "name": "FSscienceCrewFuselage",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Firespitter\\FScrewfuelagescience\\part.cfg"
+  },
+  {
+    "name": "OnionNewScience",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\HGR\\Parts\\HGRonionscience\\part.cfg"
+  },
+  {
+    "name": "j_4m_lab_short",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\OPT\\Parts\\j_4m_lab_small.cfg"
+  },
+  {
+    "name": "BSLcrewCabinScience",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Squad\\Parts\\BSLcrewCabinScience\\BSLcrewCabinScience.cfg"
+  },
+  {
+    "name": "BSLmk12SciencePod",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Squad\\Parts\\BSLmk12SciencePod\\BSLmk12SciencePod.cfg"
+  },
+  {
+    "name": "BSLmk2ScienceFuselage",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Squad\\Parts\\BSLmk2ScienceFuselage\\BSLmk2ScienceFuselage.cfg"
+  },
+  {
+    "name": "BSLmk2ScienceLC",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Squad\\Parts\\BSLmk2ScienceLC\\BSLmk2ScienceLC.cfg"
+  },
+  {
+    "name": "BSL-MPL-MK-1-CC-1",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Squad\\Parts\\BSLMPL-MK-1-CC-1\\BSLMPL-MK-1-CC-1.cfg"
+  },
+  {
+    "name": "BSLsnackprobe",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Parts\\Squad\\Parts\\BSLsnackprobe\\BSLsnackprobe.cfg"
+  },
+  {
+    "name": "ModuleScienceExperiment",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Resources\\snackexperiment.cfg"
+  },
+  {
+    "name": "B9_Crewtank_Mk2_Internal_S",
+    "filePath": "BetterScienceLabsContinued\\Better Science Labs Continued\\Spaces\\B9_Crewtank_Mk2_Internal_S\\internal.cfg"
+  }
+]

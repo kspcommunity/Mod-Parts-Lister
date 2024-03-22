@@ -1,0 +1,62 @@
+[
+  {
+    "name": "FSwheel",
+    "filePath": "FruitBatIndustries\\Pteron\\Compatibility\\Firespitter.cfg"
+  },
+  {
+    "name": "FARControllableSurface",
+    "filePath": "FruitBatIndustries\\Pteron\\Compatibility\\NEAR-FAR.cfg"
+  },
+  {
+    "name": "ODFC",
+    "filePath": "FruitBatIndustries\\Pteron\\Compatibility\\ODFC.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "FruitBatIndustries\\Pteron\\Compatibility\\Restock-Engine.cfg"
+  },
+  {
+    "name": "pmv-chute-rd-d",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-chute-rd-d.cfg"
+  },
+  {
+    "name": "pmv-chute-rd",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-chute-rd.cfg"
+  },
+  {
+    "name": "pmv-chute-sq-d",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-chute-sq-d.cfg"
+  },
+  {
+    "name": "pmv-chute-sq",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-chute-sq.cfg"
+  },
+  {
+    "name": "pmv-dockingport",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-dockingport.cfg"
+  },
+  {
+    "name": "pmv-engine",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-engine.cfg"
+  },
+  {
+    "name": "pmv-gear-nose",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-gear-nose.cfg"
+  },
+  {
+    "name": "pmv-engine-hydra",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-hydra.cfg"
+  },
+  {
+    "name": "pmv-shuttle-body",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-shuttle-body.cfg"
+  },
+  {
+    "name": "pmv-wing-left",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-wing-left.cfg"
+  },
+  {
+    "name": "pmv-wing-right",
+    "filePath": "FruitBatIndustries\\Pteron\\Parts\\pmv-wing-right.cfg"
+  }
+]

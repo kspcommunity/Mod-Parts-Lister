@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Roemy-Lemdum Atomics",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "RLA_rcs_micro",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\probercs.cfg"
+  },
+  {
+    "name": "RLA_rcs_micro45",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\probercs45.cfg"
+  },
+  {
+    "name": "RLA_rcs_micro_linear",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\probercslinear.cfg"
+  },
+  {
+    "name": "RLA_rcs_linear",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\rcs1.cfg"
+  },
+  {
+    "name": "RLA_rcs_2way",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\rcs2.cfg"
+  },
+  {
+    "name": "RLA_rcs_5way",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\rcs5.cfg"
+  },
+  {
+    "name": "RLA_rcs45",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\rcsoffset.cfg"
+  },
+  {
+    "name": "RLA_rcs45_2way",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\mp_small_rcs\\rcsoffset2.cfg"
+  },
+  {
+    "name": "RLA_tiny_torque_radial",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Control\\tiny_torque_radial\\tiny_torque_radial.cfg"
+  },
+  {
+    "name": "RLA_medium_solarpanel",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Electrical\\medium_solarpanel\\part.cfg"
+  },
+  {
+    "name": "RLA_mmrtg",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Electrical\\mmrtg\\part.cfg"
+  },
+  {
+    "name": "RLA_mp_small_fuelcell",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Electrical\\mp_fuelcells\\mp_small_fuelcell.cfg"
+  },
+  {
+    "name": "RLA_small_arcjet",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\ec_small_arcjet\\small_arcjet.cfg"
+  },
+  {
+    "name": "RLA_small_ion",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\ec_small_ion\\small_ion.cfg"
+  },
+  {
+    "name": "RLA_small_resistojet",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\ec_small_resistojet\\small_resistojet.cfg"
+  },
+  {
+    "name": "RLA_lfo_medium_linearspike",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\lfo_medium_linearspike\\medium_linearspike.cfg"
+  },
+  {
+    "name": "RLA_small_highthrust",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\lfo_small_highthrust\\small_highthrust.cfg"
+  },
+  {
+    "name": "RLA_small_spike",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\lfo_small_spike\\small_spike.cfg"
+  },
+  {
+    "name": "RLA_tiny_vac",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\lfo_tiny_vac\\tiny_vac.cfg"
+  },
+  {
+    "name": "RLA_small_ntr",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\lf_small_ntr\\small_ntr.cfg"
+  },
+  {
+    "name": "RLA_mp_large_spike",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_large_spike\\large_spike.cfg"
+  },
+  {
+    "name": "RLA_mp_large_vac",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_large_vac\\large_vac.cfg"
+  },
+  {
+    "name": "RLA_mp_medium_vac",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_medium_vac\\medium_vac.cfg"
+  },
+  {
+    "name": "RLA_mp_small_radial",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_small_rs\\radial_small.cfg"
+  },
+  {
+    "name": "RLA_mp_small_stack",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_small_rs\\stack_small.cfg"
+  },
+  {
+    "name": "RLA_mp_tiny_radial",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_tiny_rs\\radial.cfg"
+  },
+  {
+    "name": "RLA_mp_tiny_stack",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\mp_tiny_rs\\stack.cfg"
+  },
+  {
+    "name": "RLA_solid_medium_upper",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\solid_medium_upper\\medium_upper.cfg"
+  },
+  {
+    "name": "RLA_solid_small_long",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\solid_small_boosters\\long_booster.cfg"
+  },
+  {
+    "name": "RLA_solid_small_medium",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\solid_small_boosters\\med_booster.cfg"
+  },
+  {
+    "name": "RLA_solid_small_short",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Engine\\solid_small_boosters\\short_booster.cfg"
+  },
+  {
+    "name": "RLA_small_LFO_tank0",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\lfo_small_tanks\\0torus_tank.cfg"
+  },
+  {
+    "name": "RLA_small_LFO_tank1",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\lfo_small_tanks\\1short_tank.cfg"
+  },
+  {
+    "name": "RLA_small_LFO_tank2",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\lfo_small_tanks\\2med_tank.cfg"
+  },
+  {
+    "name": "RLA_small_LFO_tank3",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\lfo_small_tanks\\3long_tank.cfg"
+  },
+  {
+    "name": "RLA_small_LFO_tank4",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\lfo_small_tanks\\4xlong_tank.cfg"
+  },
+  {
+    "name": "RLA_large_mptank",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\mp_various_tanks\\large.cfg"
+  },
+  {
+    "name": "RLA_medium_mptank",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\mp_various_tanks\\medium.cfg"
+  },
+  {
+    "name": "RLA_small_mptank",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\mp_various_tanks\\small.cfg"
+  },
+  {
+    "name": "RLA_tiny_mptank_rad",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\mp_various_tanks\\tinyradial.cfg"
+  },
+  {
+    "name": "RLA_x_small_tank",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\FuelTank\\x_small_tank\\part.cfg"
+  },
+  {
+    "name": "RLA_small_probe_24sides_gold",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_24sides\\IKOTET_gold.cfg"
+  },
+  {
+    "name": "RLA_small_probe_24sides",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_24sides\\IKOTET_grey.cfg"
+  },
+  {
+    "name": "RLA_small_probe_4sides_gold",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_4sides\\TET_gold.cfg"
+  },
+  {
+    "name": "RLA_small_probe_4sides",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_4sides\\TET_grey.cfg"
+  },
+  {
+    "name": "RLA_small_probe_6sides_gold",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_6sides\\HECS_gold.cfg"
+  },
+  {
+    "name": "RLA_small_probe_8sides_gold",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_8sides\\OKTO_gold.cfg"
+  },
+  {
+    "name": "RLA_small_probe_QBE_gold",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Probes\\small_probe_QBE\\QBE_gold.cfg"
+  },
+  {
+    "name": "RLA_large_frame",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_frames\\large.cfg"
+  },
+  {
+    "name": "RLA_medium_frame",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_frames\\medium.cfg"
+  },
+  {
+    "name": "RLA_med2small_biadap",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_med2small_adapters\\biadap.cfg"
+  },
+  {
+    "name": "RLA_med2small_quadadap",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_med2small_adapters\\quadadap.cfg"
+  },
+  {
+    "name": "RLA_med2small_triadap",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_med2small_adapters\\triadap.cfg"
+  },
+  {
+    "name": "RLA_medium_radext",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_various\\medium_radialext.cfg"
+  },
+  {
+    "name": "RLA_small_attach_radial",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_various\\small_attach_radial.cfg"
+  },
+  {
+    "name": "RLA_small_decoupler_radial",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_various\\small_decoupler_radial.cfg"
+  },
+  {
+    "name": "RLA_small_decoupler_stack",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_various\\small_decoupler_stack.cfg"
+  },
+  {
+    "name": "RLA_small_radext",
+    "filePath": "RLA Stockalike 13.4\\GameData\\RLA_Stockalike\\Parts\\Structural\\struct_various\\small_radialext.cfg"
+  }
+]

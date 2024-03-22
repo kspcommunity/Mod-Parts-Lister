@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Barrel",
+    "filePath": "Pupster\\Barrel\\liquidEngineMainsail.cfg"
+  },
+  {
+    "name": "Dryer",
+    "filePath": "Pupster\\Dryer\\Dryer.cfg"
+  },
+  {
+    "name": "Dumpster",
+    "filePath": "Pupster\\Dumpster\\part.cfg"
+  },
+  {
+    "name": "Extinguisher",
+    "filePath": "Pupster\\Extinguisher\\Extinguisher.cfg"
+  },
+  {
+    "name": "Pallet",
+    "filePath": "Pupster\\Pallet\\Pallet.cfg"
+  },
+  {
+    "name": "x_thrust",
+    "filePath": "Pupster\\proto\\x_thrust.cfg"
+  },
+  {
+    "name": "Recliner",
+    "filePath": "Pupster\\Recliner\\Recliner.cfg"
+  },
+  {
+    "name": "TrashcanEngine",
+    "filePath": "Pupster\\Trashcan\\TrashcanEngine.cfg"
+  }
+]

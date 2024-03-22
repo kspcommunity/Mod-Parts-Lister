@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Manöver für <<1>>",
+    "filePath": "Morse\\PreciseManeuver\\Localization\\de-de.cfg"
+  },
+  {
+    "name": "Maneuver for <<1>>",
+    "filePath": "Morse\\PreciseManeuver\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Maniobra para <<1>>",
+    "filePath": "Morse\\PreciseManeuver\\Localization\\es-es.cfg"
+  },
+  {
+    "name": "Maneuver for <<1>>",
+    "filePath": "Morse\\PreciseManeuver\\Localization\\ja.cfg"
+  },
+  {
+    "name": "Точка манёвра для <<1>>",
+    "filePath": "Morse\\PreciseManeuver\\Localization\\ru.cfg"
+  },
+  {
+    "name": "<<1>> 的机动节点",
+    "filePath": "Morse\\PreciseManeuver\\Localization\\zh-cn.cfg"
+  }
+]

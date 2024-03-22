@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Bahamuto Dynamics",
+    "filePath": "BDArmory\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "def // do not change this!",
+    "filePath": "BDArmory\\BulletDefs\\BD_Bullets.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "BDArmory\\Localization\\localization-en-us.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "BDArmory\\Localization\\localization-es-es.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "BDArmory\\Localization\\localization-zh-cn.cfg"
+  },
+  {
+    "name": "ModuleECMJammer",
+    "filePath": "BDArmory\\MMPatches\\10_bdac_stealth.cfg"
+  },
+  {
+    "name": "TweakScale ",
+    "filePath": "BDArmory\\MMPatches\\BDA_Armor.cfg"
+  },
+  {
+    "name": "bdRadome1snubGA",
+    "filePath": "BDArmory\\MMPatches\\BDA_GroundRadar.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "BDArmory\\MMPatches\\BDA_TweakScale.cfg"
+  },
+  {
+    "name": "bahaGatlingGun",
+    "filePath": "BDArmory\\Parts\\20mmVulcan\\vulcanTurret.cfg"
+  },
+  {
+    "name": "bahaTurret",
+    "filePath": "BDArmory\\Parts\\50CalTurret\\50cal.cfg"
+  },
+  {
+    "name": "bahaABL",
+    "filePath": "BDArmory\\Parts\\ABL\\ABL.cfg"
+  },
+  {
+    "name": "bahaAdjustableRail",
+    "filePath": "BDArmory\\Parts\\adjustableRail\\adjustableRail.cfg"
+  },
+  {
+    "name": "bahaAgm86B",
+    "filePath": "BDArmory\\Parts\\AGM86-17\\AGM86-17.cfg"
+  },
+  {
+    "name": "bahaAim120",
+    "filePath": "BDArmory\\Parts\\aim-120\\amraam.cfg"
+  },
+  {
+    "name": "AMRAAM_EMP",
+    "filePath": "BDArmory\\Parts\\aim-120\\amraam_emp.cfg"
+  },
+  {
+    "name": "bdPilotAI",
+    "filePath": "BDArmory\\Parts\\aiPilot\\part.cfg"
+  },
+  {
+    "name": "bdShipAI",
+    "filePath": "BDArmory\\Parts\\aiPilot\\surface_ai.cfg"
+  },
+  {
+    "name": "baha20mmAmmo",
+    "filePath": "BDArmory\\Parts\\AmmoBox\\20mm.cfg"
+  },
+  {
+    "name": "baha30mmAmmo",
+    "filePath": "BDArmory\\Parts\\AmmoBox\\30mm.cfg"
+  },
+  {
+    "name": "baha50CalAmmo",
+    "filePath": "BDArmory\\Parts\\AmmoBox\\50cal.cfg"
+  },
+  {
+    "name": "BDAcUniversalAmmoBox",
+    "filePath": "BDArmory\\Parts\\AmmoBox\\BDAcUniversalAmmoBox.cfg"
+  },
+  {
+    "name": "bahaCannonShellBox",
+    "filePath": "BDArmory\\Parts\\AmmoBox\\cannonShell.cfg"
+  },
+  {
+    "name": "UniversalAmmoBoxBDA",
+    "filePath": "BDArmory\\Parts\\AmmoBox\\UniversalAmmoBoxBDA.cfg"
+  },
+  {
+    "name": "BD1x1slopeArmor",
+    "filePath": "BDArmory\\Parts\\ArmorPlate\\BD1x1panelArmor.cfg"
+  },
+  {
+    "name": "awacsRadar",
+    "filePath": "BDArmory\\Parts\\awacsRadar\\awacsRadar.cfg"
+  },
+  {
+    "name": "bdammGuidanceModule",
+    "filePath": "BDArmory\\Parts\\bammGuidance\\part.cfg"
+  },
+  {
+    "name": "bahaBrowningAnm2",
+    "filePath": "BDArmory\\Parts\\browninganm2\\browninganm2.cfg"
+  },
+  {
+    "name": "bahaClusterBomb",
+    "filePath": "BDArmory\\Parts\\clusterBomb\\clusterBomb.cfg"
+  },
+  {
+    "name": "bahaChaffPod",
+    "filePath": "BDArmory\\Parts\\cmDropper\\chaffDispenser.cfg"
+  },
+  {
+    "name": "bahaCmPod",
+    "filePath": "BDArmory\\Parts\\cmDropper\\flareDispenser.cfg"
+  },
+  {
+    "name": "bahaECMJammer",
+    "filePath": "BDArmory\\Parts\\ecmJammer\\ecmj131.cfg"
+  },
+  {
+    "name": "bahaGau-8",
+    "filePath": "BDArmory\\Parts\\gau-8\\gau8.cfg"
+  },
+  {
+    "name": "bahaGoalKeeper",
+    "filePath": "BDArmory\\Parts\\goalkeeper\\goalkeeper.cfg"
+  },
+  {
+    "name": "GoalKeeperBDAcMk1",
+    "filePath": "BDArmory\\Parts\\GoalKeeperBDAcMk1\\GoalKeeperBDAcMk1.cfg"
+  },
+  {
+    "name": "BDAcGKmk2",
+    "filePath": "BDArmory\\Parts\\GoalKeeperBDAcMk2\\BDAcGKmk2.cfg"
+  },
+  {
+    "name": "scanLockRadar1",
+    "filePath": "BDArmory\\Parts\\groundRadar\\radar1.cfg"
+  },
+  {
+    "name": "scanLargeRadar",
+    "filePath": "BDArmory\\Parts\\groundRadar\\radar2.cfg"
+  },
+  {
+    "name": "bahaH70Launcher",
+    "filePath": "BDArmory\\Parts\\h70Launcher\\h70Launcher.cfg"
+  },
+  {
+    "name": "bahaH70Turret",
+    "filePath": "BDArmory\\Parts\\h70turret\\h70turret.cfg"
+  },
+  {
+    "name": "bahaHarm",
+    "filePath": "BDArmory\\Parts\\harm\\harm.cfg"
+  },
+  {
+    "name": "bahaHEKV1",
+    "filePath": "BDArmory\\Parts\\hekv1\\hekv1.cfg"
+  },
+  {
+    "name": "bahaAGM-114",
+    "filePath": "BDArmory\\Parts\\hellfireMissile\\hellfireMissile.cfg"
+  },
+  {
+    "name": "HellfireEMP",
+    "filePath": "BDArmory\\Parts\\hellfireMissile\\hellfire_emp.cfg"
+  },
+  {
+    "name": "bahaHiddenVulcan",
+    "filePath": "BDArmory\\Parts\\hiddenVulcan\\hiddenVulcan.cfg"
+  },
+  {
+    "name": "bahaJdamMk83",
+    "filePath": "BDArmory\\Parts\\jdamMk83\\jdam.cfg"
+  },
+  {
+    "name": "bahaM102Howitzer",
+    "filePath": "BDArmory\\Parts\\m102Howitzer\\m102.cfg"
+  },
+  {
+    "name": "bahaM1Abrams",
+    "filePath": "BDArmory\\Parts\\m1Abrams\\m1Abrams.cfg"
+  },
+  {
+    "name": "bahaM230ChainGun",
+    "filePath": "BDArmory\\Parts\\m230ChainGun\\m230.cfg"
+  },
+  {
+    "name": "bahaAGM-65",
+    "filePath": "BDArmory\\Parts\\maverick\\maverickMissile.cfg"
+  },
+  {
+    "name": "missileTurretTest",
+    "filePath": "BDArmory\\Parts\\missileTurret\\missileTurret.cfg"
+  },
+  {
+    "name": "bahaMk82Bomb",
+    "filePath": "BDArmory\\Parts\\mk82Bomb\\mk82Bomb.cfg"
+  },
+  {
+    "name": "bahaMk82BombBrake",
+    "filePath": "BDArmory\\Parts\\mk82BombBrake\\mk82BombBrake.cfg"
+  },
+  {
+    "name": "bahaOMillennium",
+    "filePath": "BDArmory\\Parts\\oMillennium\\oMillennium.cfg"
+  },
+  {
+    "name": "bahaPac-3",
+    "filePath": "BDArmory\\Parts\\pac-3\\pac3.cfg"
+  },
+  {
+    "name": "patriotLauncherTurret",
+    "filePath": "BDArmory\\Parts\\patriotLauncher\\patriotLauncher.cfg"
+  },
+  {
+    "name": "radarDataReceiver",
+    "filePath": "BDArmory\\Parts\\radarDataReceiver\\radarDataReceiver.cfg"
+  },
+  {
+    "name": "bdRadome1",
+    "filePath": "BDArmory\\Parts\\radome125\\radome1.cfg"
+  },
+  {
+    "name": "bdRadome1inline",
+    "filePath": "BDArmory\\Parts\\radome125\\radome1inline.cfg"
+  },
+  {
+    "name": "bdRadome1snub",
+    "filePath": "BDArmory\\Parts\\radome125\\radome1snub.cfg"
+  },
+  {
+    "name": "bahaRBS-15Cruise",
+    "filePath": "BDArmory\\Parts\\RBS-15-17\\rbs15-17.cfg"
+  },
+  {
+    "name": "bahaRBS-15ALCruise",
+    "filePath": "BDArmory\\Parts\\RBS-15-17AL\\rbs15-17AL.cfg"
+  },
+  {
+    "name": "bdRotBombBay",
+    "filePath": "BDArmory\\Parts\\rotaryBombBay\\rotaryBombBay.cfg"
+  },
+  {
+    "name": "bahaS-8Launcher",
+    "filePath": "BDArmory\\Parts\\s-8Launcher\\s-8Launcher.cfg"
+  },
+  {
+    "name": "SaturnAL31",
+    "filePath": "BDArmory\\Parts\\SaturnAL31\\SaturnAL31.cfg"
+  },
+  {
+    "name": "bahaAim9",
+    "filePath": "BDArmory\\Parts\\sidewinder\\sidewinder.cfg"
+  },
+  {
+    "name": "bdWarheadSmall",
+    "filePath": "BDArmory\\Parts\\smallWarhead\\part.cfg"
+  },
+  {
+    "name": "bahaSmokeCmPod",
+    "filePath": "BDArmory\\Parts\\smokeCm\\part.cfg"
+  },
+  {
+    "name": "BDAsonarPod1A",
+    "filePath": "BDArmory\\Parts\\SonarPod\\BDAsonarPod1A.cfg"
+  },
+  {
+    "name": "StingRayBDATorpedo",
+    "filePath": "BDArmory\\Parts\\StingRayBDA\\StingRayBDATorpedo.cfg"
+  },
+  {
+    "name": "bahaFlirBall",
+    "filePath": "BDArmory\\Parts\\targetingCam\\flirBall.cfg"
+  },
+  {
+    "name": "bahaCamPod",
+    "filePath": "BDArmory\\Parts\\targetingCam\\targetingCam.cfg"
+  },
+  {
+    "name": "towLauncherTurret",
+    "filePath": "BDArmory\\Parts\\towLauncher\\towLauncher.cfg"
+  },
+  {
+    "name": "bahaTowMissile",
+    "filePath": "BDArmory\\Parts\\towMissile\\towMissile.cfg"
+  },
+  {
+    "name": "missileController",
+    "filePath": "BDArmory\\Parts\\weaponManager\\weaponManager.cfg"
+  },
+  {
+    "name": "Armor",
+    "filePath": "BDArmory\\Resources\\Armor.cfg"
+  },
+  {
+    "name": "LaserBolt",
+    "filePath": "BDArmory\\Resources\\BDAmmo_Universal.cfg"
+  },
+  {
+    "name": "CMFlare",
+    "filePath": "BDArmory\\Resources\\Countermeasures.cfg"
+  },
+  {
+    "name": "HighExplosive",
+    "filePath": "BDArmory\\Resources\\HighExplosive.cfg"
+  }
+]

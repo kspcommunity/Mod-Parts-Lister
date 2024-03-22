@@ -1,0 +1,14 @@
+[
+  {
+    "name": "solidFuelTankSmall",
+    "filePath": "SolidFuelTanks\\Parts\\FuelTank\\fuelTankS200\\fuelTankS200.cfg"
+  },
+  {
+    "name": "solidFuelTank",
+    "filePath": "SolidFuelTanks\\Parts\\FuelTank\\fuelTankS400\\fuelTankS400.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "SolidFuelTanks\\Resources\\ResourcesGeneric.cfg"
+  }
+]

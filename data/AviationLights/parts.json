@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DefaultAviationLightsColors",
+    "filePath": "AviationLights\\AviationLightsPresets.cfg"
+  },
+  {
+    "name": "light_aviation",
+    "filePath": "AviationLights\\Parts\\aviation_light.cfg"
+  },
+  {
+    "name": "lightbeacon_amber",
+    "filePath": "AviationLights\\Parts\\lights\\lightbeacon_amber.cfg"
+  },
+  {
+    "name": "lightbeacon_red",
+    "filePath": "AviationLights\\Parts\\lights\\lightbeacon_red.cfg"
+  },
+  {
+    "name": "lightnav_blue",
+    "filePath": "AviationLights\\Parts\\lights\\lightnav_blue.cfg"
+  },
+  {
+    "name": "lightnav_green",
+    "filePath": "AviationLights\\Parts\\lights\\lightnav_green.cfg"
+  },
+  {
+    "name": "lightnav_red",
+    "filePath": "AviationLights\\Parts\\lights\\lightnav_red.cfg"
+  },
+  {
+    "name": "lightnav_white",
+    "filePath": "AviationLights\\Parts\\lights\\lightnav_white.cfg"
+  },
+  {
+    "name": "lightstrobe_white",
+    "filePath": "AviationLights\\Parts\\lights\\lightstrobe_white.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "OblivionAerospace",
+    "filePath": "OblivionAerospace\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ObCommandPodHeatShield",
+    "filePath": "OblivionAerospace\\Parts\\ObCommandPodHeatShield.cfg"
+  },
+  {
+    "name": "ObConicalHeatShield-125",
+    "filePath": "OblivionAerospace\\Parts\\ObConicalHeatShield-125.cfg"
+  },
+  {
+    "name": "ObConicalHeatShield-1875",
+    "filePath": "OblivionAerospace\\Parts\\ObConicalHeatShield-1875.cfg"
+  },
+  {
+    "name": "ObConicalHeatShield-250",
+    "filePath": "OblivionAerospace\\Parts\\ObConicalHeatShield-250.cfg"
+  },
+  {
+    "name": "ObConicalHeatShield-375",
+    "filePath": "OblivionAerospace\\Parts\\ObConicalHeatShield-375.cfg"
+  },
+  {
+    "name": "ObInterstageAdapter125To250",
+    "filePath": "OblivionAerospace\\Parts\\ObInterstageAdapter125To250.cfg"
+  }
+]

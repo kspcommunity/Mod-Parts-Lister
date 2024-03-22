@@ -1,0 +1,10 @@
+[
+  {
+    "name": "fuelTastic50L",
+    "filePath": "FuelTastic\\Parts\\FuelTastic50L\\part.cfg"
+  },
+  {
+    "name": "fuelTastic5L",
+    "filePath": "FuelTastic\\Parts\\FuelTastic5L\\part.cfg"
+  }
+]

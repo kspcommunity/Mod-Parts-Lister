@@ -1,0 +1,18 @@
+[
+  {
+    "name": "K-P0110",
+    "filePath": "KerbonTech\\Parts\\KP0110\\kp0110.cfg"
+  },
+  {
+    "name": "parachutekpollo",
+    "filePath": "KerbonTech\\Parts\\KP0110\\kp0110chute.cfg"
+  },
+  {
+    "name": "KP0110LES",
+    "filePath": "KerbonTech\\Parts\\KP0110\\kp0110LES.cfg"
+  },
+  {
+    "name": "KP0110internal",
+    "filePath": "KerbonTech\\Spaces\\KP0110Internal\\internal.cfg"
+  }
+]

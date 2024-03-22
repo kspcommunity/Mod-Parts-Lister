@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SafetyWall",
+    "filePath": "godarklight\\SafetyWall\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "MurdeSécurité",
+    "filePath": "godarklight\\SafetyWall\\Localization\\fr-fr.cfg"
+  },
+  {
+    "name": "VeiligheidsMuur",
+    "filePath": "godarklight\\SafetyWall\\Localization\\nl-nl.cfg"
+  },
+  {
+    "name": "BarreiraDeSegurança",
+    "filePath": "godarklight\\SafetyWall\\Localization\\pt-br.cfg"
+  },
+  {
+    "name": "СтенаБезопасности",
+    "filePath": "godarklight\\SafetyWall\\Localization\\ru.cfg"
+  }
+]

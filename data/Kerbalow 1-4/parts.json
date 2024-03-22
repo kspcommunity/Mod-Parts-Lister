@@ -1,0 +1,46 @@
+[
+  {
+    "name": "ka330-interior",
+    "filePath": "Kerbalow 1-4\\GameData\\Kerbalow\\KA330\\internal.cfg"
+  },
+  {
+    "name": "KA330exterior",
+    "filePath": "Kerbalow 1-4\\GameData\\Kerbalow\\KA330\\KA330.cfg"
+  },
+  {
+    "name": "KA330-Radiators",
+    "filePath": "Kerbalow 1-4\\GameData\\Kerbalow\\KA330\\Radiators\\KA330-radiators.cfg"
+  },
+  {
+    "name": "KA330-SolarPanels",
+    "filePath": "Kerbalow 1-4\\GameData\\Kerbalow\\KA330\\SolarPanels\\KA330-SolarPanels.cfg"
+  },
+  {
+    "name": "keam-interior",
+    "filePath": "Kerbalow 1-4\\GameData\\Kerbalow\\KEAM\\internal.cfg"
+  },
+  {
+    "name": "KEAM",
+    "filePath": "Kerbalow 1-4\\GameData\\Kerbalow\\KEAM\\KEAM.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "Kerbalow 1-4\\Optional Configs\\KA330-ConnectedLivingSpace.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "Kerbalow 1-4\\Optional Configs\\KA330-KerbalInventorySystem.cfg"
+  },
+  {
+    "name": "Snacks",
+    "filePath": "Kerbalow 1-4\\Optional Configs\\KA330-Snacks.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Kerbalow 1-4\\Optional Configs\\KA330-TACLS.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "Kerbalow 1-4\\Optional Configs\\KA330-USILifeSupport.cfg"
+  }
+]

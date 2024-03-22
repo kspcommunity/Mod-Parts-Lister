@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ModuleKaboom",
+    "filePath": "Kaboom\\Compatability\\Kaboom.cfg"
+  },
+  {
+    "name": "Kaboom!",
+    "filePath": "Kaboom\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "¡Kaboom!",
+    "filePath": "Kaboom\\Localization\\es-es.cfg"
+  },
+  {
+    "name": "Kaboom!",
+    "filePath": "Kaboom\\Localization\\fr-fr.cfg"
+  },
+  {
+    "name": "Kaboom!",
+    "filePath": "Kaboom\\Localization\\ru.cfg"
+  }
+]

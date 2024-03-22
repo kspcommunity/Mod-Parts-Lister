@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Junk Systems Inc.",
+    "filePath": "JSI\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "JSIPrimitiveExternalCamera",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Parts\\ExternalCameraPart\\external-camera.cfg"
+  },
+  {
+    "name": "JSIEvaCockpitHandle",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\CockpitHandle\\eva-hatch.cfg"
+  },
+  {
+    "name": "IndicatorPanelRPM",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\IndicatorPanelReplacement\\prop.cfg"
+  },
+  {
+    "name": "JSIEvaHatchFull",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\InternalAirlock\\eva-hatch-with-model.cfg"
+  },
+  {
+    "name": "JSIInternalFlagPlate",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\InternalFlagPlate\\prop.cfg"
+  },
+  {
+    "name": "JSIEvaHatch",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\InternalHatch\\eva-hatch.cfg"
+  },
+  {
+    "name": "JSIActionGroupLabelButton01",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\ActionGroupLabelledButtons.cfg"
+  },
+  {
+    "name": "JSIAA_Throttle",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\AxisIndicator.cfg"
+  },
+  {
+    "name": "JSIStockSquareBlinkenlichten",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\Blinkenlichten.cfg"
+  },
+  {
+    "name": "JSIStockAltimeter",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\JSISwitchable.cfg"
+  },
+  {
+    "name": "JSISASPrograde",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\SASModeButtons.cfg"
+  },
+  {
+    "name": "JSIStockSquareButtonLight",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\SquareButtons.cfg"
+  },
+  {
+    "name": "JSITrimKnobPitch",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\TrimmerKnobs.cfg"
+  },
+  {
+    "name": "JSIswitch_GEAR",
+    "filePath": "JSI\\RasterPropMonitor\\Library\\Props\\SwitchWCover\\mechSwitch.cfg"
+  },
+  {
+    "name": "MechJebRPMVariables",
+    "filePath": "JSI\\RasterPropMonitor\\Plugins\\BundledVariableHandlers.cfg"
+  },
+  {
+    "name": "JSINonTransparentPod",
+    "filePath": "JSI\\RasterPropMonitor\\Plugins\\invisible-pods-handling.cfg"
+  },
+  {
+    "name": "ExperimentalGraphSet",
+    "filePath": "JSI\\RPMPodPatches\\BasicMFD\\graphset.cfg"
+  },
+  {
+    "name": "RasterPropMonitorBasicMFD",
+    "filePath": "JSI\\RPMPodPatches\\BasicMFD\\MFD40x20.cfg"
+  },
+  {
+    "name": "RasterPropMonitorBasicHUD",
+    "filePath": "JSI\\RPMPodPatches\\BasicMFD\\PlaneHUD.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesMod\\kp0110-pod-patch.cfg"
+  },
+  {
+    "name": "KP0110internalRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesMod\\kp0110-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesMod\\orbital-orb-patch.cfg"
+  },
+  {
+    "name": "orbitalOrbInternalsRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesMod\\orbital-orb-remade-internal.cfg"
+  },
+  {
+    "name": "JSIEvaHatch",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\crew-cabin-patch.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\cupola-patch.cfg"
+  },
+  {
+    "name": "cupolaInternalRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\cupola-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\generic3-cockpit-patch.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk1-patch.cfg"
+  },
+  {
+    "name": "mk1PodCockpitRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk1-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk12pod-patch.cfg"
+  },
+  {
+    "name": "PodCockpitRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk12pod-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk1cockpit-patch.cfg"
+  },
+  {
+    "name": "mk1CockpitInternalRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk1cockpit-remade-internal.cfg"
+  },
+  {
+    "name": "landerCabinSmallInternalRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk1lander-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk1landercan-patch.cfg"
+  },
+  {
+    "name": "SH_mk2CockpitInternalRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk2-sh-cockpit-remade-internal.cfg"
+  },
+  {
+    "name": "mk2CockpitStandardInternalsRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk2-spp-cockpits.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk2-stock-cockpit-patch.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk2landercan-patch.cfg"
+  },
+  {
+    "name": "landerCabinInternalsRPM",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk2landercan-remade-internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "JSI\\RPMPodPatches\\PatchesStock\\mk3cockpit-patch.cfg"
+  }
+]

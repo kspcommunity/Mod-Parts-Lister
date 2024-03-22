@@ -1,0 +1,258 @@
+[
+  {
+    "name": "RealChuteModule",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\HGR_Realchute.cfg"
+  },
+  {
+    "name": "Soy_RPM",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\HGR_RPM.cfg"
+  },
+  {
+    "name": "HGR_Leek",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\Leek\\Leek.cfg"
+  },
+  {
+    "name": "OnionNew",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\Onion\\Onion.cfg"
+  },
+  {
+    "name": "OnionNew2",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\Onion\\OnionG.cfg"
+  },
+  {
+    "name": "PumpkinLanderCabin",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\Pumpkin\\PMK.cfg"
+  },
+  {
+    "name": "Radish",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\Radish\\Radish.cfg"
+  },
+  {
+    "name": "Soy-Juice ",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\SoyJuice\\SoyJuice.cfg"
+  },
+  {
+    "name": "Soy-Green ",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\SoyJuice2\\SoyJuiceG.cfg"
+  },
+  {
+    "name": "Lima ",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\SoyLima\\Lima.cfg"
+  },
+  {
+    "name": "Spud",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Command\\Spud\\Spud.cfg"
+  },
+  {
+    "name": "FG120",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Engines\\G120\\FG120.cfg"
+  },
+  {
+    "name": "HGRG47b",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Engines\\G90\\partG47.cfg"
+  },
+  {
+    "name": "HGRRadial",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Fuel\\RadialTank\\Aux Tank.cfg"
+  },
+  {
+    "name": "SoySvcMod",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Fuel\\SoySvcMod\\SoySvc.cfg"
+  },
+  {
+    "name": "1.875HeatShield",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Structural\\HeatShield\\HeatShield.cfg"
+  },
+  {
+    "name": "SmallEscapeTowerHGR",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\EscapeTower\\Small LES.cfg"
+  },
+  {
+    "name": "HeavyLES",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\Heavy Escape Tower\\Heavy LES.cfg"
+  },
+  {
+    "name": "InLineChute",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\InLineChute\\Inline Chute.cfg"
+  },
+  {
+    "name": "LP_45Q",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\LowPro\\LP_45Q.cfg"
+  },
+  {
+    "name": "LP_MAX",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\LowPro\\PL_MAX.cfg"
+  },
+  {
+    "name": "LP_TRI",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\LowPro\\PL_TRI.cfg"
+  },
+  {
+    "name": "RadishDecoupler",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\RadSvcMod\\Rad Decoupler.cfg"
+  },
+  {
+    "name": "RadishSvcMod",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\RadSvcMod\\Rad Svc.cfg"
+  },
+  {
+    "name": "dockingPortHGR",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\SJDock\\SJDock.cfg"
+  },
+  {
+    "name": "InLineChuteSmall",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\SmallInlineChute\\Inline Chute Small.cfg"
+  },
+  {
+    "name": "SoyDecoupler",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\SoyJuice Decoupler\\SJ Decoupler.cfg"
+  },
+  {
+    "name": "HGRSolarPanels1",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Parts\\Utility\\SoySolarPanels\\SJPanels.cfg"
+  },
+  {
+    "name": "BigBook",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\BigBook\\prop.cfg"
+  },
+  {
+    "name": "ComputerBank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\ComputerBank\\prop.cfg"
+  },
+  {
+    "name": "Cookies",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\Cookies\\prop.cfg"
+  },
+  {
+    "name": "FireExtinguisher",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\FireExtinguisher\\prop.cfg"
+  },
+  {
+    "name": "Hatch",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\Hatch\\prop.cfg"
+  },
+  {
+    "name": "Light",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\Light\\prop.cfg"
+  },
+  {
+    "name": "Monitor",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\Monitor\\prop.cfg"
+  },
+  {
+    "name": "FlightSeat2",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\NewSeat\\prop.cfg"
+  },
+  {
+    "name": "Stowage",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\Stowage\\prop.cfg"
+  },
+  {
+    "name": "Tank2",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Props\\Tank_New\\prop.cfg"
+  },
+  {
+    "name": "Onion",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\Onion\\internal.cfg"
+  },
+  {
+    "name": "Onion_RPM",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\Onion\\internal_RPM.cfg"
+  },
+  {
+    "name": "PMK",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\PMK\\internal.cfg"
+  },
+  {
+    "name": "Radish",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\RadishInt\\internal.cfg"
+  },
+  {
+    "name": "Radish_RPM",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\RadishInt\\internal_RPM.cfg"
+  },
+  {
+    "name": "Soy",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\SoyInt\\internal.cfg"
+  },
+  {
+    "name": "Soy2",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\SoyInt\\internal2.cfg"
+  },
+  {
+    "name": "Soy_RPM",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\SoyInt\\internal_RPM.cfg"
+  },
+  {
+    "name": "spud",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\SpudInterior\\internal.cfg"
+  },
+  {
+    "name": "spud_RPM",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR\\Spaces\\SpudInterior\\internal_RPM.cfg"
+  },
+  {
+    "name": "Home Grown Rocket Parts",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "HGR_FG90_Engine",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Engines\\FG90\\FG90.cfg"
+  },
+  {
+    "name": "fairingSize1.5",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fairings\\Stock Proc\\fairingSize1.5.cfg"
+  },
+  {
+    "name": "HGR_1875_125_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\1875_125_Tank.cfg"
+  },
+  {
+    "name": "HGR_1875_250_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\1875_250_Tank.cfg"
+  },
+  {
+    "name": "HGR_Huge_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\Huge_Tank.cfg"
+  },
+  {
+    "name": "HGR_Large_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\Large_Tank.cfg"
+  },
+  {
+    "name": "HGR_Normal_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\Normal_Tank.cfg"
+  },
+  {
+    "name": "HGR_NoseCone",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\NoseCone.cfg"
+  },
+  {
+    "name": "HGR_NoseCone_Angled",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\NoseCone_Angled.cfg"
+  },
+  {
+    "name": "HGR_RadialBooster",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\Radial_Booster.cfg"
+  },
+  {
+    "name": "HGR_RCS_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\RCS_Tank.cfg"
+  },
+  {
+    "name": "HGR_Small_Tank",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\Small_Tank.cfg"
+  },
+  {
+    "name": "HGR_StackDecoupler",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Fuel\\Tank_Set1\\StackDecoupler.cfg"
+  },
+  {
+    "name": "HGR_1875_125_Adapter",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Structural\\1875-125.cfg"
+  },
+  {
+    "name": "HGR_1875_250_Adapter",
+    "filePath": "HGR_V1.3.0\\GameData\\HGR_Redux\\Parts\\Structural\\1875-250.cfg"
+  }
+]

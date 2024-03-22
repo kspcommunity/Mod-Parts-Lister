@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Solaris Hypernautics",
+    "filePath": "Solaris_Hypernautics\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "massArray",
+    "filePath": "Solaris_Hypernautics\\Parts\\Aero\\MagArray\\part.cfg"
+  },
+  {
+    "name": "PassiveIntake",
+    "filePath": "Solaris_Hypernautics\\Parts\\Aero\\PassiveIntake\\part.cfg"
+  },
+  {
+    "name": "camCore",
+    "filePath": "Solaris_Hypernautics\\Parts\\Command\\camCore\\rfProbeSmall.cfg"
+  },
+  {
+    "name": "controlBunker",
+    "filePath": "Solaris_Hypernautics\\Parts\\Command\\controlBunker\\part.cfg"
+  },
+  {
+    "name": "A2Reactor",
+    "filePath": "Solaris_Hypernautics\\Parts\\Electrical\\A2reactor\\part.cfg"
+  },
+  {
+    "name": "A3Reactor",
+    "filePath": "Solaris_Hypernautics\\Parts\\Electrical\\A3reactor\\part.cfg"
+  },
+  {
+    "name": "NuclearForgeCore",
+    "filePath": "Solaris_Hypernautics\\Parts\\Electrical\\A4forge\\part.cfg"
+  },
+  {
+    "name": "m10reactor",
+    "filePath": "Solaris_Hypernautics\\Parts\\Electrical\\M10_Reactor\\part.cfg"
+  },
+  {
+    "name": "M5_Reactor",
+    "filePath": "Solaris_Hypernautics\\Parts\\Electrical\\M5_Reactor\\part.cfg"
+  },
+  {
+    "name": "pulseMagDrive",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\B-atteroEngine\\part.cfg"
+  },
+  {
+    "name": "zubrinEngine",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\B-zubrinEngine\\part.cfg"
+  },
+  {
+    "name": "goddardEngine",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\C-zubrinEngine\\part.cfg"
+  },
+  {
+    "name": "CatalyticEngineR",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\CH85R_Hybrid\\part.cfg"
+  },
+  {
+    "name": "CatalyticEngineM",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\CX1000M_Catalytic\\part.cfg"
+  },
+  {
+    "name": "CatalyticEngineL",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\CX2500L_Catalytic\\part.cfg"
+  },
+  {
+    "name": "fluxMagDrive",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\fluxMagEngine\\part.cfg"
+  },
+  {
+    "name": "3MPlasmaEngine",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\IPEPlasmaEngine\\part.cfg"
+  },
+  {
+    "name": "MPD1",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\IPEPlasmaThruster\\part.cfg"
+  },
+  {
+    "name": "ThermalCompjet",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\JU-204ThermalCompjet\\part.cfg"
+  },
+  {
+    "name": "OsirisFusionThruster",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\JY-05AtomicTurbine\\part.cfg"
+  },
+  {
+    "name": "Q-1RKannae",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\Q1R_Kannaedrive\\part.cfg"
+  },
+  {
+    "name": "KannaeDrive2",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\Q2_Kannaedrive\\part.cfg"
+  },
+  {
+    "name": "KannaeDrive3",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\Q3_Kannaedrive\\part.cfg"
+  },
+  {
+    "name": "MagnapulseEngine1",
+    "filePath": "Solaris_Hypernautics\\Parts\\Engine\\Type-0RetroProp\\part.cfg"
+  },
+  {
+    "name": "VirtualDustTankLa",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\largevdtank\\part.cfg"
+  },
+  {
+    "name": "MK4-RstasistTank",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\m4kvptank\\part.cfg"
+  },
+  {
+    "name": "VirtualDustTankMe",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\mediumvdtank\\part.cfg"
+  },
+  {
+    "name": "MK12-M Planck Stasis Tank",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\Mk12_VPTank\\VP_MK12.cfg"
+  },
+  {
+    "name": "MK15-L Planck Stasis Tank",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\MK15_VPTank\\VP_MK15.cfg"
+  },
+  {
+    "name": "nukeTank0",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\NuclearPodR\\part.cfg"
+  },
+  {
+    "name": "nukeTank2",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\NuclearTankRL\\part.cfg"
+  },
+  {
+    "name": "nukeTank1",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\NuclearTankRM\\part.cfg"
+  },
+  {
+    "name": "SphereTank1",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\sphere1\\part.cfg"
+  },
+  {
+    "name": "SphereTank2",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\sphere2\\part.cfg"
+  },
+  {
+    "name": "VirtualDustTankXL",
+    "filePath": "Solaris_Hypernautics\\Parts\\FuelTank\\xlargevdtank\\part.cfg"
+  },
+  {
+    "name": "processingunit",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\B1processor\\part.cfg"
+  },
+  {
+    "name": "refineryProc",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\B55refinery\\part.cfg"
+  },
+  {
+    "name": "nuclearLab",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\B9industrialLab\\part.cfg"
+  },
+  {
+    "name": "nuclearCenter",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\BZindustrialCenter\\part.cfg"
+  },
+  {
+    "name": "dustpanel1",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\CollectorPanel\\part.cfg"
+  },
+  {
+    "name": "dustcc",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\DustAcc\\part.cfg"
+  },
+  {
+    "name": "dustring",
+    "filePath": "Solaris_Hypernautics\\Parts\\Resources\\DustRing\\part.cfg"
+  },
+  {
+    "name": "DTMagnetometer_2",
+    "filePath": "Solaris_Hypernautics\\Parts\\Science\\spectrometer\\part.cfg"
+  },
+  {
+    "name": "SideAdapter",
+    "filePath": "Solaris_Hypernautics\\Parts\\Structural\\SideAdapter\\part.cfg"
+  },
+  {
+    "name": "MagCoolUnit1",
+    "filePath": "Solaris_Hypernautics\\Parts\\Thermal\\MagneticCooler1\\part.cfg"
+  },
+  {
+    "name": "MagCoolUnit2",
+    "filePath": "Solaris_Hypernautics\\Parts\\Thermal\\MagneticCooler2\\part.cfg"
+  },
+  {
+    "name": "MagCoolUnit3",
+    "filePath": "Solaris_Hypernautics\\Parts\\Thermal\\MagneticCooler3\\part.cfg"
+  },
+  {
+    "name": "VirtualTank0",
+    "filePath": "Solaris_Hypernautics\\Parts\\Upgrades.cfg"
+  },
+  {
+    "name": "AstroGrabber",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\AstroGrabber\\part.cfg"
+  },
+  {
+    "name": "dockingPortHuge",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\dockingPortSeniorSr\\dockingPortSr.cfg"
+  },
+  {
+    "name": "dualControlSAS",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\manueverSAS\\part.cfg"
+  },
+  {
+    "name": "nukeRcs",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\nukeRCS\\part.cfg"
+  },
+  {
+    "name": "P2N-45 Virtugenic",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\P2N45_Virtugenic\\part.cfg"
+  },
+  {
+    "name": "P3N-65 Virtugenic",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\P3N65_Virtugenic\\part.cfg"
+  },
+  {
+    "name": "PhillyGrabber",
+    "filePath": "Solaris_Hypernautics\\Parts\\Utility\\PhillyGrabber\\part.cfg"
+  },
+  {
+    "name": "VirtualParticles",
+    "filePath": "Solaris_Hypernautics\\Resources\\ResourcesGeneric.cfg"
+  }
+]

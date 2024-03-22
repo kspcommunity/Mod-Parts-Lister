@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Zero Point Constructs",
+    "filePath": "0PinlineFairingsLite\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "0Pfairing2mW0M",
+    "filePath": "0PinlineFairingsLite\\Parts\\part2mW0M.cfg"
+  },
+  {
+    "name": "0Pfairing2mW1M",
+    "filePath": "0PinlineFairingsLite\\Parts\\part2mW1M.cfg"
+  },
+  {
+    "name": "0Pfairing3mW0M",
+    "filePath": "0PinlineFairingsLite\\Parts\\part3mW0M.cfg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "x-10KBatteryLarge",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\10KBattery\\x-10KBattery.cfg"
+  },
+  {
+    "name": "x-150Battery",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\150Battery\\X-150Battery.cfg"
+  },
+  {
+    "name": "x-1000RechargebleBattery",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\1KBattery\\X-1000Battery.cfg"
+  },
+  {
+    "name": "scinceSolarPanelsSP",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\1x6ScinceSolarPanelsSP\\1x6ScinceSolarPanelsSP.cfg"
+  },
+  {
+    "name": "x-250Battery",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\250Battery\\X-250Battery.cfg"
+  },
+  {
+    "name": "x-5000Battery",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\5KBattery\\z-1kBattery.cfg"
+  },
+  {
+    "name": "largeScinceSolarPanelSP",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\LargeScinceSolarPanelSP\\LargeScinceSolarPanelSP.cfg"
+  },
+  {
+    "name": "scinceSolarPanelsFlat",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\radialFlatSolarPanelScinceSP\\radialFlatSolarPanelScinceSP.cfg"
+  },
+  {
+    "name": "scinceSolarPanelsSP2x3",
+    "filePath": "Data\\MorePowerMod\\Data\\Part\\ScinceSolarPanelsSP2x3\\ScinceSolarPanelsSP2x3.cfg"
+  }
+]

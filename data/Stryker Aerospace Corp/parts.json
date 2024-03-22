@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Me109CockpitLarge",
+    "filePath": "Stryker Aerospace Corp\\Parts\\109cockpit large\\part.cfg"
+  },
+  {
+    "name": "mig21cockpit",
+    "filePath": "Stryker Aerospace Corp\\Parts\\mig21cockpit\\part.cfg"
+  },
+  {
+    "name": "bf109internal",
+    "filePath": "Stryker Aerospace Corp\\Spaces\\bf109internal\\internal.cfg"
+  },
+  {
+    "name": "mig21internal",
+    "filePath": "Stryker Aerospace Corp\\Spaces\\mig21internal\\internal.cfg"
+  }
+]

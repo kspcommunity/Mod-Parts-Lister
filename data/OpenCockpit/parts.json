@@ -1,0 +1,134 @@
+[
+  {
+    "name": "nesdmk1windshieldbig",
+    "filePath": "OpenCockpit\\Parts\\OC1\\NesdOCbigWS.cfg"
+  },
+  {
+    "name": "nesdmk1headrest",
+    "filePath": "OpenCockpit\\Parts\\OC1\\NesdOCheadrest.cfg"
+  },
+  {
+    "name": "nesdmk1windshieldsmall",
+    "filePath": "OpenCockpit\\Parts\\OC1\\NesdOCsmallWS.cfg"
+  },
+  {
+    "name": "nesdmk1opencockpit",
+    "filePath": "OpenCockpit\\Parts\\OC1\\NesdOpenCockpit.cfg"
+  },
+  {
+    "name": "nesdmk1drone1",
+    "filePath": "OpenCockpit\\Parts\\OC2\\NesdOCmk1drone.cfg"
+  },
+  {
+    "name": "nesdmk1support1",
+    "filePath": "OpenCockpit\\Parts\\OC2\\NesdOCmk1support.cfg"
+  },
+  {
+    "name": "nesdmk1ocgs",
+    "filePath": "OpenCockpit\\Parts\\OC3\\Nesd_OC-GS.cfg"
+  },
+  {
+    "name": "nesdOCant1",
+    "filePath": "OpenCockpit\\Parts\\OC4\\Ant1.cfg"
+  },
+  {
+    "name": "nesdOCstruts",
+    "filePath": "OpenCockpit\\Parts\\OC4\\Struts.cfg"
+  },
+  {
+    "name": "nesdOCwire",
+    "filePath": "OpenCockpit\\Parts\\OC4\\Wire.cfg"
+  },
+  {
+    "name": "nesdOCtail1",
+    "filePath": "OpenCockpit\\Parts\\OC5\\Tail1.cfg"
+  },
+  {
+    "name": "nesdOCtail2",
+    "filePath": "OpenCockpit\\Parts\\OC5\\Tail2.cfg"
+  },
+  {
+    "name": "nesdOCtEdge1",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Edge1.cfg"
+  },
+  {
+    "name": "nesdOCtEdge2",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Edge2.cfg"
+  },
+  {
+    "name": "nesdOCtEdge3",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Edge3.cfg"
+  },
+  {
+    "name": "nesdOCtEdge4",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Edge4.cfg"
+  },
+  {
+    "name": "nesdOCtEdge5",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Edge5.cfg"
+  },
+  {
+    "name": "nesdOCovhBig",
+    "filePath": "OpenCockpit\\Parts\\OC6\\OvhBig.cfg"
+  },
+  {
+    "name": "nesdOCovhBig2",
+    "filePath": "OpenCockpit\\Parts\\OC6\\OvhBig2.cfg"
+  },
+  {
+    "name": "nesdOCovhSmall",
+    "filePath": "OpenCockpit\\Parts\\OC6\\OvhSmall.cfg"
+  },
+  {
+    "name": "nesdOCrndBig",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RndBig.cfg"
+  },
+  {
+    "name": "nesdOCrndLong",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RndLong.cfg"
+  },
+  {
+    "name": "nesdOCrndLong2",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RndLong2.cfg"
+  },
+  {
+    "name": "nesdOCrndSmall",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RndSmall.cfg"
+  },
+  {
+    "name": "nesdOCrTip",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RoundTip.cfg"
+  },
+  {
+    "name": "nesdOCrTip2",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RoundTip2.cfg"
+  },
+  {
+    "name": "nesdOCrTip3",
+    "filePath": "OpenCockpit\\Parts\\OC6\\RoundTip3.cfg"
+  },
+  {
+    "name": "nesdOCrdr1",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Rudder1.cfg"
+  },
+  {
+    "name": "nesdOCrdr2",
+    "filePath": "OpenCockpit\\Parts\\OC6\\Rudder2.cfg"
+  },
+  {
+    "name": "nesdOCsqrSmall",
+    "filePath": "OpenCockpit\\Parts\\OC6\\SqrSmall.cfg"
+  },
+  {
+    "name": "nesdOCtriBig",
+    "filePath": "OpenCockpit\\Parts\\OC6\\TriBig.cfg"
+  },
+  {
+    "name": "nesdOCtriSmall",
+    "filePath": "OpenCockpit\\Parts\\OC6\\TriSmall.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "OpenCockpit\\Patches\\AddKIS.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ay",
+    "filePath": "Cyclone\\Ay.cfg"
+  },
+  {
+    "name": "Cyclone",
+    "filePath": "Cyclone\\Cyclone.cfg"
+  },
+  {
+    "name": "Dwana",
+    "filePath": "Cyclone\\Dwana.cfg"
+  },
+  {
+    "name": "Glac",
+    "filePath": "Cyclone\\Glac.cfg"
+  },
+  {
+    "name": "Jalgiz",
+    "filePath": "Cyclone\\Jalgiz.cfg"
+  },
+  {
+    "name": "Juzik",
+    "filePath": "Cyclone\\Juzik.cfg"
+  },
+  {
+    "name": "Omir",
+    "filePath": "Cyclone\\Omir.cfg"
+  }
+]

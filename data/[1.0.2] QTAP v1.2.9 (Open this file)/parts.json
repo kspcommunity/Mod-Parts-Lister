@@ -1,0 +1,190 @@
+[
+  {
+    "name": "B9_AbortButton",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_AbortButton\\abort.cfg"
+  },
+  {
+    "name": "B9_BarInd_Fuel",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_Bar_Indicator\\horizontal.cfg"
+  },
+  {
+    "name": "B9_BarInd_Fuel_Vertical",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_Bar_Indicator\\vertical.cfg"
+  },
+  {
+    "name": "B9_Analog_Gauges ",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_Gauges\\prop.cfg"
+  },
+  {
+    "name": "B9_Analog_Gauges_Vertical",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_Gauges\\verticalprop.cfg"
+  },
+  {
+    "name": "B9_IVA_Joystick",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_IVA_Joystick\\prop.cfg"
+  },
+  {
+    "name": "B9_IVA_Pedals",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_IVA_Pedals\\prop.cfg"
+  },
+  {
+    "name": "B9RPMMFD",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_MFD\\B9_MFD.cfg"
+  },
+  {
+    "name": "B9_HUD",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_MFD\\HUD.cfg"
+  },
+  {
+    "name": "B9_RockerSwitch_AG01",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_RockerSwitch\\rockerswitch.cfg"
+  },
+  {
+    "name": "B9_ButtonLight",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Props\\B9_SquareButtons\\B9buttons.cfg"
+  },
+  {
+    "name": "B9_Cockpit_HL_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Cockpit_HL_Internal\\internal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_M27_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Cockpit_M27_Internal\\internal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Cockpit_MK2_Internal\\internal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Cockpit_S2_Internal\\internal.cfg"
+  },
+  {
+    "name": "B9_Crewtank_Mk2_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Crewtank_Mk2_Internal\\internal.cfg"
+  },
+  {
+    "name": "B9_Crewtank_S2_2m_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Crewtank_S2_Internal\\internal.cfg"
+  },
+  {
+    "name": "B9_Crewtank_S2_6m_Internal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\Extras\\B9_Aerospace\\Spaces\\B9_Crewtank_S2_Internal\\internal6.cfg"
+  },
+  {
+    "name": "FSCoolant",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\Firespitter\\Resources\\Firespitter.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_RPM",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\MM_Patches\\quizTech_aero_RPM.cfg"
+  },
+  {
+    "name": "quizTechMk1K10Cockpit",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Command\\K-10\\K-10.cfg"
+  },
+  {
+    "name": "quizTechMk1EagleCockpit",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Command\\Mk1_Eagle\\eagle.cfg"
+  },
+  {
+    "name": "mk2ProbeNose",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Command\\Mk2ProbeNose\\Mk2NoseProbe.cfg"
+  },
+  {
+    "name": "quizTechMk2ThunderboltCockpit",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Command\\Mk2_Thunderbolt\\thunderbolt.cfg"
+  },
+  {
+    "name": "Mk2TwinTurboJet",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\Mk2TwinTurboJet\\Mk2TwinTurboJet.cfg"
+  },
+  {
+    "name": "cyclone",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\Mk2vtol\\cyclone.cfg"
+  },
+  {
+    "name": "K-35B",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\Mk2vtol\\k35B.cfg"
+  },
+  {
+    "name": "KFAN",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\Mk2vtol\\KFAN.cfg"
+  },
+  {
+    "name": "razorMk1",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\Mk2vtol\\razor.cfg"
+  },
+  {
+    "name": "Mk2_LinAerospike",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\mk2_LinAerospike\\Mk2_LinAerospike.cfg"
+  },
+  {
+    "name": "Mk2_NERVA",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\Mk2_NERVA\\Mk_NERVA.cfg"
+  },
+  {
+    "name": "rcsJet",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\rcsJet\\rcsJet.cfg"
+  },
+  {
+    "name": "quizTechVTOLwing",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Engine\\VTOL_FanWing\\VTOL_FanWing.cfg"
+  },
+  {
+    "name": "Mk2QuarterTank",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\FuelTank\\Mk2_Quarter_Tank\\Mk2_Quart_Tank.cfg"
+  },
+  {
+    "name": "Mk2-0.625x2",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2-0.625x2.cfg"
+  },
+  {
+    "name": "mk2-1AdapterIntakes",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2-1AdapterIntakes.cfg"
+  },
+  {
+    "name": "Mk2-1_Adapter_Slanted",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2-1_Adapter_Slanted.cfg"
+  },
+  {
+    "name": "mk2SnubNose",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2SnubNose.cfg"
+  },
+  {
+    "name": "mk2MedNose",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Structural\\Mk2_Med_Nose\\Mk2MedNose.cfg"
+  },
+  {
+    "name": "Mk2_Half_ServiceBay",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Utility\\Mk2_Half_ServiceBay\\Mk2_Half_ServiceBay.cfg"
+  },
+  {
+    "name": "Mk2_ShieldedNosePort",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Parts\\Utility\\Mk2_ShieldedNosePort\\mk2DockingPort.cfg"
+  },
+  {
+    "name": "QTSquareButtonCockpitLight",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Props\\Buttons.cfg"
+  },
+  {
+    "name": "EagleInternal",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Spaces\\Eagle\\EagleInternal.cfg"
+  },
+  {
+    "name": "EagleInternal_RPM",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Spaces\\Eagle\\EagleInternalRPM.cfg"
+  },
+  {
+    "name": "ThunderboltIVA",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternal.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_B9",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternalB9.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_RPM",
+    "filePath": "[1.0.2] QTAP v1.2.9 (Open this file)\\GameData\\QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternalRPM.cfg"
+  }
+]

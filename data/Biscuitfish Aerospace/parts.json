@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mark1Cockpit",
+    "filePath": "Biscuitfish Aerospace\\mk1Cockpit\\mk1Cockpit.cfg"
+  },
+  {
+    "name": "Mark2Cockpit",
+    "filePath": "Biscuitfish Aerospace\\mk1InlineCockpit\\mk1InlineCockpit.cfg"
+  },
+  {
+    "name": "mk2Cockpit_Inline",
+    "filePath": "Biscuitfish Aerospace\\mk2CockpitInline\\mk2CockpitInline.cfg"
+  },
+  {
+    "name": "mk2Cockpit_Standard",
+    "filePath": "Biscuitfish Aerospace\\mk2CockpitStandard\\mk2CockpitStandard.cfg"
+  },
+  {
+    "name": "mk2DroneCore",
+    "filePath": "Biscuitfish Aerospace\\mk2DroneCore\\mk2Dronecore.cfg"
+  },
+  {
+    "name": "mk3Cockpit_Shuttle",
+    "filePath": "Biscuitfish Aerospace\\mk3CockpitShuttle\\mk3CockpitShuttle.cfg"
+  }
+]

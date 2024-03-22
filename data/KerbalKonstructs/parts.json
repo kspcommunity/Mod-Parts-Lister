@@ -1,0 +1,146 @@
+[
+  {
+    "name": "ProcessedOre",
+    "filePath": "KerbalKonstructs\\PluginData\\KerbalKonstructs\\CustomResources.cfg"
+  },
+  {
+    "name": "The Middle",
+    "filePath": "KerbalKonstructs\\PluginData\\KerbalKonstructs\\KerbinNations.cfg"
+  },
+  {
+    "name": "No Nuclear Grant",
+    "filePath": "KerbalKonstructs\\PluginData\\KerbalKonstructs\\UKCGrants.cfg"
+  },
+  {
+    "name": "kerbinsideflatlaunchlguide",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\KSCUpgrades\\kerbinsideflatlaunchlguide.cfg"
+  },
+  {
+    "name": "kktwinlightsL",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\KSCUpgrades\\kktwinlightsL.cfg"
+  },
+  {
+    "name": "kktwinlightsR",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\KSCUpgrades\\kktwinlightsR.cfg"
+  },
+  {
+    "name": "kerbinsideflatlaunchlguide",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kerbinsideflatlaunchlguide.cfg"
+  },
+  {
+    "name": "kkcontroltower1",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkcontroltower1.cfg"
+  },
+  {
+    "name": "kkfloodlights1",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkfloodlights1.cfg"
+  },
+  {
+    "name": "kkfueltanks1",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkfueltanks1.cfg"
+  },
+  {
+    "name": "kkhangar1",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkhangar1.cfg"
+  },
+  {
+    "name": "kkhelipad1",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkhelipad1.cfg"
+  },
+  {
+    "name": "kklandinglights2",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kklandinglights2.cfg"
+  },
+  {
+    "name": "kkrocketpad2",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkrocketpad2.cfg"
+  },
+  {
+    "name": "kkrunway2",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kkrunway2.cfg"
+  },
+  {
+    "name": "kktwinlightsL",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kktwinlightsL.cfg"
+  },
+  {
+    "name": "kktwinlightsR",
+    "filePath": "KerbalKonstructs\\Statics\\ExampleBases\\RoundRange\\kktwinlightsR.cfg"
+  },
+  {
+    "name": "kkcontroltower1",
+    "filePath": "KerbalKonstructs\\Statics\\kkcontroltower1.cfg"
+  },
+  {
+    "name": "kkcrawlerway1",
+    "filePath": "KerbalKonstructs\\Statics\\kkcrawlerway1.cfg"
+  },
+  {
+    "name": "kkfloodlights1",
+    "filePath": "KerbalKonstructs\\Statics\\kkfloodlights1.cfg"
+  },
+  {
+    "name": "kkfueltanks1",
+    "filePath": "KerbalKonstructs\\Statics\\kkfueltanks1.cfg"
+  },
+  {
+    "name": "kkhangar1",
+    "filePath": "KerbalKonstructs\\Statics\\kkhangar1.cfg"
+  },
+  {
+    "name": "kkhelipad1",
+    "filePath": "KerbalKonstructs\\Statics\\kkhelipad1.cfg"
+  },
+  {
+    "name": "kerbinsideflatlaunchlguide",
+    "filePath": "KerbalKonstructs\\Statics\\kklandingguide.cfg"
+  },
+  {
+    "name": "kklandinglights2",
+    "filePath": "KerbalKonstructs\\Statics\\kklandinglights2.cfg"
+  },
+  {
+    "name": "kkrocketpad1",
+    "filePath": "KerbalKonstructs\\Statics\\kkrocketpad1.cfg"
+  },
+  {
+    "name": "kkrocketpad2",
+    "filePath": "KerbalKonstructs\\Statics\\kkrocketpad2.cfg"
+  },
+  {
+    "name": "kkrunway1",
+    "filePath": "KerbalKonstructs\\Statics\\kkrunway1.cfg"
+  },
+  {
+    "name": "kkrunway1end",
+    "filePath": "KerbalKonstructs\\Statics\\kkrunway1end.cfg"
+  },
+  {
+    "name": "kkrunway1ramp",
+    "filePath": "KerbalKonstructs\\Statics\\kkrunway1ramp.cfg"
+  },
+  {
+    "name": "kkrunway1strip",
+    "filePath": "KerbalKonstructs\\Statics\\kkrunway1strip.cfg"
+  },
+  {
+    "name": "kkrunway2",
+    "filePath": "KerbalKonstructs\\Statics\\kkrunway2.cfg"
+  },
+  {
+    "name": "kktaxibend1",
+    "filePath": "KerbalKonstructs\\Statics\\kktaxibend1.cfg"
+  },
+  {
+    "name": "kktaxibend2",
+    "filePath": "KerbalKonstructs\\Statics\\kktaxibend2.cfg"
+  },
+  {
+    "name": "kktwinlightsL",
+    "filePath": "KerbalKonstructs\\Statics\\kktouchdownL.cfg"
+  },
+  {
+    "name": "kktwinlightsR",
+    "filePath": "KerbalKonstructs\\Statics\\kktouchdownR.cfg"
+  }
+]

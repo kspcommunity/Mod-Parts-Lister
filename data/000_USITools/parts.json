@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Umbra Space Industries",
+    "filePath": "000_USITools\\Agency\\USIAgency.cfg"
+  },
+  {
+    "name": "ModuleLogisticsConsumer",
+    "filePath": "000_USITools\\Patches\\AddConsumers.cfg"
+  },
+  {
+    "name": "ModuleDataTransmitter",
+    "filePath": "000_USITools\\Patches\\Comms.cfg"
+  },
+  {
+    "name": "Construction",
+    "filePath": "000_USITools\\Patches\\Logistics.cfg"
+  },
+  {
+    "name": "RepBoost",
+    "filePath": "000_USITools\\Patches\\TraitsAndEffects.cfg"
+  },
+  {
+    "name": "#LOC_USI_CCK_Construction",
+    "filePath": "000_USITools\\Patches\\USI_CCK.cfg"
+  },
+  {
+    "name": "USIGenericInternal",
+    "filePath": "000_USITools\\Spaces\\USIGeneric_IVA.cfg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Surrey Satellite Technologies Ltd",
+    "filePath": "SSTL\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleScienceExperiment",
+    "filePath": "SSTL\\Compatibility\\DMagicOrbitalScience.cfg"
+  },
+  {
+    "name": "SCANsat",
+    "filePath": "SSTL\\Compatibility\\SCANsat.cfg"
+  },
+  {
+    "name": "SSTL_300S1_foil",
+    "filePath": "SSTL\\Compatibility\\TexturesUnlimited.cfg"
+  },
+  {
+    "name": "sstl-300S1",
+    "filePath": "SSTL\\Parts\\300S1\\300S1.cfg"
+  },
+  {
+    "name": "sstl-300S1-decoupler",
+    "filePath": "SSTL\\Parts\\300S1\\300S1_decoupler.cfg"
+  }
+]

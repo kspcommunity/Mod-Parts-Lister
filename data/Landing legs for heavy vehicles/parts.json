@@ -1,0 +1,10 @@
+[
+  {
+    "name": "heavyLandingLeg1",
+    "filePath": "Landing legs for heavy vehicles\\GameData\\Lunokhod\\HeavyLandingLegLT-1\\landingLegLT-1.cfg"
+  },
+  {
+    "name": "heavyLandingLeg2",
+    "filePath": "Landing legs for heavy vehicles\\GameData\\Lunokhod\\HeavyLandingLegLT-2\\landingLegLT-2.cfg"
+  }
+]

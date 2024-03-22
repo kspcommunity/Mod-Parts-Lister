@@ -1,0 +1,146 @@
+[
+  {
+    "name": "rssInvariablePlane",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\For Compatibility\\CustomAsteroids.cfg"
+  },
+  {
+    "name": "Callisto",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\For Compatibility\\PlanetShineColors.cfg"
+  },
+  {
+    "name": "Ariel",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Ariel.cfg"
+  },
+  {
+    "name": "Asteroids",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Asteroids.cfg"
+  },
+  {
+    "name": "Callisto",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Callisto.cfg"
+  },
+  {
+    "name": "Ceres",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Ceres.cfg"
+  },
+  {
+    "name": "Deimos",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Deimos.cfg"
+  },
+  {
+    "name": "Dione",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Dione.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Earth.cfg"
+  },
+  {
+    "name": "Enceladus",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Enceladus.cfg"
+  },
+  {
+    "name": "Europa",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Europa.cfg"
+  },
+  {
+    "name": "Ganymede",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Ganymede.cfg"
+  },
+  {
+    "name": "Iapetus",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Iapetus.cfg"
+  },
+  {
+    "name": "Io",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Io.cfg"
+  },
+  {
+    "name": "Jupiter",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Jupiter.cfg"
+  },
+  {
+    "name": "Mars",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Mars.cfg"
+  },
+  {
+    "name": "Mercury",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Mercury.cfg"
+  },
+  {
+    "name": "Mimas",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Mimas.cfg"
+  },
+  {
+    "name": "Miranda",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Miranda.cfg"
+  },
+  {
+    "name": "Moon",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Moon.cfg"
+  },
+  {
+    "name": "Neptune",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Neptune.cfg"
+  },
+  {
+    "name": "Oberon",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Oberon.cfg"
+  },
+  {
+    "name": "Phobos",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Phobos.cfg"
+  },
+  {
+    "name": "Rhea",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Rhea.cfg"
+  },
+  {
+    "name": "Saturn",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Saturn.cfg"
+  },
+  {
+    "name": "Sun",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Sun.cfg"
+  },
+  {
+    "name": "Tethys",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Tethys.cfg"
+  },
+  {
+    "name": "Titan",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Titan.cfg"
+  },
+  {
+    "name": "Titania",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Titania.cfg"
+  },
+  {
+    "name": "Triton",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Triton.cfg"
+  },
+  {
+    "name": "Umbriel",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Umbriel.cfg"
+  },
+  {
+    "name": "Uranus",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Uranus.cfg"
+  },
+  {
+    "name": "Venus",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Venus.cfg"
+  },
+  {
+    "name": "Vesta",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\KopernicusFiles\\Vesta.cfg"
+  },
+  {
+    "name": "au_woomera",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\LaunchSites.cfg"
+  },
+  {
+    "name": "Solar System",
+    "filePath": "[1.4.x] Real Solar System (REMASTERED)\\RealSolarSystem\\RealSolarSystemKopernicusSettings.cfg"
+  }
+]

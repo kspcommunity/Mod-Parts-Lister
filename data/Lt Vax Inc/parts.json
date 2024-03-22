@@ -1,0 +1,82 @@
+[
+  {
+    "name": "FuselageRdX-4x1",
+    "filePath": "Lt Vax Inc\\Girders\\Fuselage Round 4x1.cfg"
+  },
+  {
+    "name": "GFI",
+    "filePath": "Lt Vax Inc\\Girders\\GFI.cfg"
+  },
+  {
+    "name": "Girder-Solar-1x6",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solar-1x6.cfg"
+  },
+  {
+    "name": "Girder-Solid-1x1-Tri",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solid-1x1-Tri.cfg"
+  },
+  {
+    "name": "Girder-Solid-1x1",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solid-1x1.cfg"
+  },
+  {
+    "name": "Girder-Solid-1x2",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solid-1x2.cfg"
+  },
+  {
+    "name": "Girder-Solid-1x4",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solid-1x4.cfg"
+  },
+  {
+    "name": "Girder-Solid-1x6",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solid-1x6.cfg"
+  },
+  {
+    "name": "Girder-Solid-Txec",
+    "filePath": "Lt Vax Inc\\Girders\\Girder-Solid-Tsec.cfg"
+  },
+  {
+    "name": "GSFI",
+    "filePath": "Lt Vax Inc\\Girders\\GSFI.cfg"
+  },
+  {
+    "name": "GSI",
+    "filePath": "Lt Vax Inc\\Girders\\GSI.cfg"
+  },
+  {
+    "name": "Sugar",
+    "filePath": "Lt Vax Inc\\LtVaxInc-Recourses.cfg"
+  },
+  {
+    "name": "I-2Adaptor",
+    "filePath": "Lt Vax Inc\\Station\\2x1-I.cfg"
+  },
+  {
+    "name": "L-6Adaptor",
+    "filePath": "Lt Vax Inc\\Station\\2x2-L.cfg"
+  },
+  {
+    "name": "I-6Adaptor",
+    "filePath": "Lt Vax Inc\\Station\\3x1-I.cfg"
+  },
+  {
+    "name": "XL-10Adaptor",
+    "filePath": "Lt Vax Inc\\Station\\3x3-X-Long.cfg"
+  },
+  {
+    "name": "X-10Adaptor",
+    "filePath": "Lt Vax Inc\\Station\\3x3-X.cfg"
+  },
+  {
+    "name": "I-5Multi-Connector",
+    "filePath": "Lt Vax Inc\\Station\\4-Way-Joiner.cfg"
+  },
+  {
+    "name": "Walkway-3x3-X",
+    "filePath": "Lt Vax Inc\\Station\\Walkway-3x3-X.cfg"
+  },
+  {
+    "name": "WalkWellR1",
+    "filePath": "Lt Vax Inc\\Station\\Walkway-Round.cfg"
+  }
+]

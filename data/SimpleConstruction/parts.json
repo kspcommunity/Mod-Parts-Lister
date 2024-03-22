@@ -1,0 +1,166 @@
+[
+  {
+    "name": "KairyuuShipping",
+    "filePath": "SimpleConstruction\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ELTarget",
+    "filePath": "SimpleConstruction\\Compatibility\\AsteroidCities.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "SimpleConstruction\\Compatibility\\B9PartSwitch\\B9TankSwitch.cfg"
+  },
+  {
+    "name": "SCRocketParts",
+    "filePath": "SimpleConstruction\\Compatibility\\B9PartSwitch\\B9TankTypes.cfg"
+  },
+  {
+    "name": "ELWorkshop",
+    "filePath": "SimpleConstruction\\Compatibility\\BehemothAerospaceEngineering.cfg"
+  },
+  {
+    "name": "SimpleConstruction!",
+    "filePath": "SimpleConstruction\\Compatibility\\CommunityCategoryKit.cfg"
+  },
+  {
+    "name": "Foundation",
+    "filePath": "SimpleConstruction\\Compatibility\\Foundations.cfg"
+  },
+  {
+    "name": "InterstellarFuelSwitch",
+    "filePath": "SimpleConstruction\\Compatibility\\InterstellarFuelSwitch.cfg"
+  },
+  {
+    "name": "ModuleKISItemEvaTweaker",
+    "filePath": "SimpleConstruction\\Compatibility\\KerbalInventorySystem.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleConstruction\\Compatibility\\Kerbalism.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "SimpleConstruction\\Compatibility\\KerbalPlanetaryBaseSystems\\KerbalPlanetaryBaseSystems.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleConstruction\\Compatibility\\KerbalPlanetaryBaseSystems\\Smelter.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleConstruction\\Compatibility\\KerbalPlanetaryBaseSystems\\Workshop.cfg"
+  },
+  {
+    "name": "ELWorkshop",
+    "filePath": "SimpleConstruction\\Compatibility\\StationPartsExpansionRedux.cfg"
+  },
+  {
+    "name": "ELConstructionSkill } }",
+    "filePath": "SimpleConstruction\\Config\\ExperienceTraits.cfg"
+  },
+  {
+    "name": "KerbalEVA",
+    "filePath": "SimpleConstruction\\Config\\Kerbal.cfg"
+  },
+  {
+    "name": "Ablator",
+    "filePath": "SimpleConstruction\\Config\\Recipes.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "SimpleConstruction\\Config\\Resources.cfg"
+  },
+  {
+    "name": "ELWorkshop",
+    "filePath": "SimpleConstruction\\Config\\SeatTasks.cfg"
+  },
+  {
+    "name": "ELWorkshop",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\AdvancedDroneCores.cfg"
+  },
+  {
+    "name": "ELWorkshop",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\CrewedPods.cfg"
+  },
+  {
+    "name": "ELTarget",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\DockingPorts.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\Drills.cfg"
+  },
+  {
+    "name": "ELTarget",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\GrapplingDevice.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\ISRU.cfg"
+  },
+  {
+    "name": "ELExtendingLaunchClamp",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\Launchclamps.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\ScienceLabs.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "SimpleConstruction\\Config\\SimpleConstruction\\Tanks.cfg"
+  },
+  {
+    "name": "EinfacheKonstruktion!",
+    "filePath": "SimpleConstruction\\Localization\\de.cfg"
+  },
+  {
+    "name": "SimpleConstruction!",
+    "filePath": "SimpleConstruction\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "SimpleConstruction!",
+    "filePath": "SimpleConstruction\\Localization\\fr-fr.cfg"
+  },
+  {
+    "name": "EenvoudigeConstructie!",
+    "filePath": "SimpleConstruction\\Localization\\nl-nl.cfg"
+  },
+  {
+    "name": "Metall",
+    "filePath": "SimpleConstruction\\Localization\\xpl-de.cfg"
+  },
+  {
+    "name": "Rocket Parts",
+    "filePath": "SimpleConstruction\\Localization\\XPL-en-us.cfg"
+  },
+  {
+    "name": "Métal",
+    "filePath": "SimpleConstruction\\Localization\\XPL-fr.fr.cfg"
+  },
+  {
+    "name": "Metaal",
+    "filePath": "SimpleConstruction\\Localization\\XPL-nl-nl.cfg"
+  },
+  {
+    "name": "Peças de Foguetes",
+    "filePath": "SimpleConstruction\\Localization\\XPL-pt-br.cfg"
+  },
+  {
+    "name": "火箭部件",
+    "filePath": "SimpleConstruction\\Localization\\XPL-zh-cn.cfg"
+  },
+  {
+    "name": "SimpleConstruction!",
+    "filePath": "SimpleConstruction\\Localization\\zh-cn.cfg"
+  },
+  {
+    "name": "ELMicroPadSC",
+    "filePath": "SimpleConstruction\\Parts\\microstrutpad.cfg"
+  },
+  {
+    "name": "EL.Default",
+    "filePath": "SimpleConstruction\\UI\\DefaultSkin.cfg"
+  }
+]

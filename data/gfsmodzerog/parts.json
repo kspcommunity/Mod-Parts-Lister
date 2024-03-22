@@ -1,0 +1,178 @@
+[
+  {
+    "name": "gfsairlocknew",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsairlocknew\\gfsairlocknew.cfg"
+  },
+  {
+    "name": "gfsairlocknew2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsairlocknew2\\gfsairlocknew2.cfg"
+  },
+  {
+    "name": "GFSAutoChef",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsautochef\\gfsautochef.cfg"
+  },
+  {
+    "name": "GFSAutoChefV2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsautochef2\\gfsautochef2.cfg"
+  },
+  {
+    "name": "gfsbattery",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsbattery\\gfsbattery.cfg"
+  },
+  {
+    "name": "gfsbiogasgenerator",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsbiogasgenerator\\gfsbiogasgenerator.cfg"
+  },
+  {
+    "name": "GFSBioGasTank",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsbiogastank\\gfsbiogastank.cfg"
+  },
+  {
+    "name": "GFSBioReactor",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsbioreactor\\gfsbioreactor.cfg"
+  },
+  {
+    "name": "GFSBioReactorV2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsbioreactor2\\gfsbioreactor2.cfg"
+  },
+  {
+    "name": "GFSCarbonDioxideTank",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfscarbondioxidetank\\gfscarbondioxidetank.cfg"
+  },
+  {
+    "name": "gfscrosspath",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfscrosspath\\gfscrosspath.cfg"
+  },
+  {
+    "name": "gfsdockingcross",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsdockingcross\\gfsdockingcross.cfg"
+  },
+  {
+    "name": "gfsduodockingadaptor",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsduodockingadaptor\\gfsduodockingadaptor.cfg"
+  },
+  {
+    "name": "GFSflag1",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsflag\\gfsflagseethrough.cfg"
+  },
+  {
+    "name": "GFSflag2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsflag2\\gfsflatflag1m.cfg"
+  },
+  {
+    "name": "GFSflag3",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsflag2\\gfsflatflag2m.cfg"
+  },
+  {
+    "name": "GFSFoodContainer",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsfoodcontainer\\gfsfoodcontainer.cfg"
+  },
+  {
+    "name": "GSFFoodContainer2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsfoodcontainer\\gfsfoodcontainer2.cfg"
+  },
+  {
+    "name": "gfsfoodcontainer3",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsfoodcontainer\\gfsfoodcontainer3.cfg"
+  },
+  {
+    "name": "GFSGrowthChamber",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsgrowthchamber\\gfschamber.cfg"
+  },
+  {
+    "name": "GFSHeatShield",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsheatshield\\gfsheatshield.cfg"
+  },
+  {
+    "name": "GFSHeatShieldSeperator",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsheatshieldseperator\\gfsheatshieldseperator.cfg"
+  },
+  {
+    "name": "gfslandingfoot",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfslandingfoot\\gfslandingfoot.cfg"
+  },
+  {
+    "name": "GFSLaunchVehicle",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfslaunchvehicle\\gfslaunchvehicle.cfg"
+  },
+  {
+    "name": "gfsloweredpath",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsloweredpath\\gfsloweredpath.cfg"
+  },
+  {
+    "name": "gfsnosecone",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnosecone\\gfsnosecone.cfg"
+  },
+  {
+    "name": "GFSNWMContainer",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnwmcontainer\\gfsnwmcontainer.cfg"
+  },
+  {
+    "name": "GFSNWMContainer2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnwmcontainer\\gfsnwmcontainer2.cfg"
+  },
+  {
+    "name": "GFSNWMContainer3",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnwmcontainer\\gfsnwmcontainer3.cfg"
+  },
+  {
+    "name": "GFSNWMExtractor",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnwmextractor\\gfsnwmextractor.cfg"
+  },
+  {
+    "name": "GFSNWMExtractorV2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnwmextractor2\\gfsnwmextractor2.cfg"
+  },
+  {
+    "name": "gfsnwmwaterextractor",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsnwmwaterextractor\\gfsnwmwaterextractor.cfg"
+  },
+  {
+    "name": "GFSOxygenTank",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsoxygentank\\gfsoxygentank.cfg"
+  },
+  {
+    "name": "GFSParachuteCover",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsparachutecover\\gfsparachutecover.cfg"
+  },
+  {
+    "name": "GFSPreserver",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfspreserver\\gfs1mpreserver.cfg"
+  },
+  {
+    "name": "GFSPreserver2",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfspreserver\\gfs2mpreserver.cfg"
+  },
+  {
+    "name": "GFSPreserver3",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfspreserver\\gfs3mpreserver.cfg"
+  },
+  {
+    "name": "gfsrtg",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsrtg\\gfsrtg2.cfg"
+  },
+  {
+    "name": "gfsstraightpath",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfsstraightpath\\gfsstraightpath.cfg"
+  },
+  {
+    "name": "gfszerogautochef",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfszerogautochef\\gfszerogautochef.cfg"
+  },
+  {
+    "name": "gfszerogbiogenerator",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfszerogbiogenerator\\gfszerogbiogenerator.cfg"
+  },
+  {
+    "name": "gfszerogbioreactor",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfszerogbioreactor\\gfszerogbioreactor.cfg"
+  },
+  {
+    "name": "gfszeroggrowth",
+    "filePath": "gfsmodzerog\\GameData\\GFSparts\\gfszeroggrowth\\gfszeroggrowth.cfg"
+  },
+  {
+    "name": "PlantGrowth",
+    "filePath": "gfsmodzerog\\GameData\\GFSresources\\gfsresources.cfg"
+  }
+]

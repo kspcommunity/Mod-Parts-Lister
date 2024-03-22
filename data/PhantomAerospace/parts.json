@@ -1,0 +1,42 @@
+[
+  {
+    "name": "PhantomAerospace",
+    "filePath": "PhantomAerospace\\Antennas\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleLimitedDataTransmitter",
+    "filePath": "PhantomAerospace\\Antennas\\Compatibility\\AntennaRange.cfg"
+  },
+  {
+    "name": "Antennas",
+    "filePath": "PhantomAerospace\\Antennas\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Антенны",
+    "filePath": "PhantomAerospace\\Antennas\\Localization\\ru.cfg"
+  },
+  {
+    "name": "vhfBlade",
+    "filePath": "PhantomAerospace\\Antennas\\Parts\\ant-blade-vhf.cfg"
+  },
+  {
+    "name": "quadHelix",
+    "filePath": "PhantomAerospace\\Antennas\\Parts\\ant-helix-quad.cfg"
+  },
+  {
+    "name": "helixAntenna",
+    "filePath": "PhantomAerospace\\Antennas\\Parts\\ant-helix.cfg"
+  },
+  {
+    "name": "hu6s125",
+    "filePath": "PhantomAerospace\\Antennas\\Parts\\ant-HU6S-125.cfg"
+  },
+  {
+    "name": "yagiActual",
+    "filePath": "PhantomAerospace\\Antennas\\Parts\\ant-yagi-actual.cfg"
+  },
+  {
+    "name": "yagiAntenna",
+    "filePath": "PhantomAerospace\\Antennas\\Parts\\ant-yagi.cfg"
+  }
+]

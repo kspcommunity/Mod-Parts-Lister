@@ -1,0 +1,42 @@
+[
+  {
+    "name": "NanoKube_111_prt_noRCS",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_111\\NanoKube_111_prt_noRCS.cfg"
+  },
+  {
+    "name": "NanoKube_111_prt_RCS",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_111\\NanoKube_111_prt_RCS.cfg"
+  },
+  {
+    "name": "NanoKube_113_magprt_noRCS",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_113\\NanoKube_113_magprt_noRCS.cfg"
+  },
+  {
+    "name": "NanoKube_113_magprt_RCS",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_113\\NanoKube_113_magprt_RCS.cfg"
+  },
+  {
+    "name": "NanoKube_1U_Solid",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_1U_solid\\NanoKube_1U_Solid.cfg"
+  },
+  {
+    "name": "NanoKube_Antenna",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_Antenna\\NanoKube_Antenna.cfg"
+  },
+  {
+    "name": "NanoKube_Antenna2",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_Antenna2\\NanoKube_Antenna2.cfg"
+  },
+  {
+    "name": "NanoKube_Flinger",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_Flinger\\NanoKube_Flinger.cfg"
+  },
+  {
+    "name": "NanoKube_Solar_Static_1",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_Solar_Static_1\\NanoKube_Solar_Static_1.cfg"
+  },
+  {
+    "name": "NanoKube_Solar_Static_3",
+    "filePath": "NanoKube_2.2.3\\NanoKube_Base\\GameData\\NanoKube\\Parts\\NanoKube_Solar_Static_3\\NanoKube_Solar_Static_3.cfg"
+  }
+]

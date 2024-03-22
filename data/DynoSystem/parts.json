@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Delos",
+    "filePath": "DynoSystem\\Config\\DSystem\\Delos.cfg"
+  },
+  {
+    "name": "Dyno",
+    "filePath": "DynoSystem\\Config\\DSystem\\Dyno.cfg"
+  },
+  {
+    "name": "Ignes",
+    "filePath": "DynoSystem\\Config\\DSystem\\Ignes.cfg"
+  },
+  {
+    "name": "Ilke",
+    "filePath": "DynoSystem\\Config\\DSystem\\Ilke.cfg"
+  },
+  {
+    "name": "Kerbes",
+    "filePath": "DynoSystem\\Config\\DSystem\\Kerbes.cfg"
+  },
+  {
+    "name": "Enmus",
+    "filePath": "DynoSystem\\Config\\SSystem\\Enmus.cfg"
+  },
+  {
+    "name": "Seltra",
+    "filePath": "DynoSystem\\Config\\SSystem\\Seltra.cfg"
+  },
+  {
+    "name": "Dyno",
+    "filePath": "DynoSystem\\SupportedMods\\PlanetColors.cfg"
+  },
+  {
+    "name": "Dyno",
+    "filePath": "DynoSystem\\SupportedMods\\Scaterrer\\Planets\\Dyno\\atmo.cfg"
+  },
+  {
+    "name": "Kerbes",
+    "filePath": "DynoSystem\\SupportedMods\\Scaterrer\\Planets\\Kerbes\\atmo.cfg"
+  },
+  {
+    "name": "Seltra",
+    "filePath": "DynoSystem\\SupportedMods\\Scaterrer\\Planets\\Seltra\\atmo.cfg"
+  },
+  {
+    "name": "Kerbes-dust-scattered",
+    "filePath": "DynoSystem\\SupportedMods\\VolumetricClouds\\Kerbes.cfg"
+  }
+]

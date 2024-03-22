@@ -1,0 +1,386 @@
+[
+  {
+    "name": "cone05ra",
+    "filePath": "AIES_Aerospace\\Aero\\AIEScone0.5Ra\\part.cfg"
+  },
+  {
+    "name": "conenoseram",
+    "filePath": "AIES_Aerospace\\Aero\\AIESconenoseram\\part.cfg"
+  },
+  {
+    "name": "Antennacomtec1",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESantennacomtec1\\part.cfg"
+  },
+  {
+    "name": "Antennacomtec2",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESantennacomtec2\\part.cfg"
+  },
+  {
+    "name": "Antennaesc",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESantennaESC\\part.cfg"
+  },
+  {
+    "name": "Antennaexpatvr2",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESantennaexpantvr2\\part.cfg"
+  },
+  {
+    "name": "AntennaDF2",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESantennaFD\\part.cfg"
+  },
+  {
+    "name": "Dishcl1",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESdishCL1\\part.cfg"
+  },
+  {
+    "name": "Dishmccomu",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESdishcmcomu\\part.cfg"
+  },
+  {
+    "name": "dishcomlar1",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESdishcomlar1\\part.cfg"
+  },
+  {
+    "name": "Dishomega2g",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESdishomega\\part.cfg"
+  },
+  {
+    "name": "Dishpcf",
+    "filePath": "AIES_Aerospace\\Antenna\\AIESDishPCf\\part.cfg"
+  },
+  {
+    "name": "explonpod",
+    "filePath": "AIES_Aerospace\\Command\\AIESexplon\\part.cfg"
+  },
+  {
+    "name": "investpod",
+    "filePath": "AIES_Aerospace\\Command\\AIESinvest\\part.cfg"
+  },
+  {
+    "name": "Maxurpod",
+    "filePath": "AIES_Aerospace\\Command\\AIESMaxurpod\\part.cfg"
+  },
+  {
+    "name": "moduldesspod",
+    "filePath": "AIES_Aerospace\\Command\\AIESmoduldess\\part.cfg"
+  },
+  {
+    "name": "neptuno",
+    "filePath": "AIES_Aerospace\\Command\\AIESneptunopod\\part.cfg"
+  },
+  {
+    "name": "novapod",
+    "filePath": "AIES_Aerospace\\Command\\AIESnova\\part.cfg"
+  },
+  {
+    "name": "orbitaiespod",
+    "filePath": "AIES_Aerospace\\Command\\AIESorbiterpod\\part.cfg"
+  },
+  {
+    "name": "sondex2pod",
+    "filePath": "AIES_Aerospace\\Command\\AIESsondexvr2\\part.cfg"
+  },
+  {
+    "name": "torpod",
+    "filePath": "AIES_Aerospace\\Command\\AIEStor\\part.cfg"
+  },
+  {
+    "name": "UAEcubplate",
+    "filePath": "AIES_Aerospace\\Command\\AIESUAE Cubeplate cls\\part.cfg"
+  },
+  {
+    "name": "radr",
+    "filePath": "AIES_Aerospace\\Electrical\\AIESradr\\part.cfg"
+  },
+  {
+    "name": "solarpaneles1",
+    "filePath": "AIES_Aerospace\\Electrical\\AIESsolarpanelES1\\part.cfg"
+  },
+  {
+    "name": "solarPanelsfa",
+    "filePath": "AIES_Aerospace\\Electrical\\AIESsolarPanelsfa\\part.cfg"
+  },
+  {
+    "name": "solarPanelsond1",
+    "filePath": "AIES_Aerospace\\Electrical\\AIESsolarPanelson1\\part.cfg"
+  },
+  {
+    "name": "solarPanelsuncat1",
+    "filePath": "AIES_Aerospace\\Electrical\\AIESsolarPanelsuncat1\\part.cfg"
+  },
+  {
+    "name": "solarPanelsfa2",
+    "filePath": "AIES_Aerospace\\Electrical\\AIESsolarPanelsuncat2\\part.cfg"
+  },
+  {
+    "name": "liquidEngineconstelacion",
+    "filePath": "AIES_Aerospace\\Engine\\AIESconstelacion\\part.cfg"
+  },
+  {
+    "name": "dest5Engine",
+    "filePath": "AIES_Aerospace\\Engine\\AIESdest5engine\\part.cfg"
+  },
+  {
+    "name": "engineexper05",
+    "filePath": "AIES_Aerospace\\Engine\\AIESengine exper\\part.cfg"
+  },
+  {
+    "name": "liquidEnginemogulmp1500",
+    "filePath": "AIES_Aerospace\\Engine\\AIESengine mp1500mogul\\part.cfg"
+  },
+  {
+    "name": "liquidEngineprodulVR2",
+    "filePath": "AIES_Aerospace\\Engine\\AIESengine produlvr2\\part.cfg"
+  },
+  {
+    "name": "galaxvr2",
+    "filePath": "AIES_Aerospace\\Engine\\AIESenginegalaxvr2\\part.cfg"
+  },
+  {
+    "name": "enginelmodc",
+    "filePath": "AIES_Aerospace\\Engine\\AIESenginelMODC\\part.cfg"
+  },
+  {
+    "name": "liquidEngineorbit2",
+    "filePath": "AIES_Aerospace\\Engine\\AIESengineorbit2\\part.cfg"
+  },
+  {
+    "name": "microEngineex1sat",
+    "filePath": "AIES_Aerospace\\Engine\\AIESmicroEngineEX1\\part.cfg"
+  },
+  {
+    "name": "microEngineSE1",
+    "filePath": "AIES_Aerospace\\Engine\\AIESmicroEngineSE\\part.cfg"
+  },
+  {
+    "name": "VR1vulcan",
+    "filePath": "AIES_Aerospace\\Engine\\AIESVR1vulcan\\part.cfg"
+  },
+  {
+    "name": "fuelTank7k",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESfueltank 7k\\part.cfg"
+  },
+  {
+    "name": "fuelTanklunderl",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESFueltank lunder\\part.cfg"
+  },
+  {
+    "name": "fuelTanksuperior3",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESFueltank superior3\\part.cfg"
+  },
+  {
+    "name": "fuelTanksul",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESFueltanksul\\part.cfg"
+  },
+  {
+    "name": "ms1RCSTank",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESmsRCSTank\\part.cfg"
+  },
+  {
+    "name": "RCS125ra",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESrcs125ra\\part.cfg"
+  },
+  {
+    "name": "RCSTanka5a",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESrcstanka5\\part.cfg"
+  },
+  {
+    "name": "satpropt300FuelTank",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESsatpropt300FuelTank\\part.cfg"
+  },
+  {
+    "name": "fuelTankmr1",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIEStank MR1\\part.cfg"
+  },
+  {
+    "name": "tank1300cl",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIEStank1300cl\\part.cfg"
+  },
+  {
+    "name": "tankMER1",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIEStankMER1\\part.cfg"
+  },
+  {
+    "name": "tankMER6",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIEStankMER6\\part.cfg"
+  },
+  {
+    "name": "tankminsond",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIEStankminsond\\part.cfg"
+  },
+  {
+    "name": "tankorb1",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIEStankORB1\\part.cfg"
+  },
+  {
+    "name": "tanktoemv2",
+    "filePath": "AIES_Aerospace\\FuelTank\\AIESTOEmtank\\part.cfg"
+  },
+  {
+    "name": "rcsThrustermicrosn",
+    "filePath": "AIES_Aerospace\\RSCThruster\\AIESrcsThrustermicro\\part.cfg"
+  },
+  {
+    "name": "AIESrcsThrusrmt1",
+    "filePath": "AIES_Aerospace\\RSCThruster\\AIESrcsThrusterMT1\\part.cfg"
+  },
+  {
+    "name": "AIESrcsThrusrom9",
+    "filePath": "AIES_Aerospace\\RSCThruster\\AIESrcsThrusterom9\\part.cfg"
+  },
+  {
+    "name": "advSascr3",
+    "filePath": "AIES_Aerospace\\SAS\\AIESadvSascr3\\part.cfg"
+  },
+  {
+    "name": "Sasdv4",
+    "filePath": "AIES_Aerospace\\SAS\\AIESsasadv4\\part.cfg"
+  },
+  {
+    "name": "AccelerometerFGA",
+    "filePath": "AIES_Aerospace\\Science\\AIESAccelerometerFGA\\part.cfg"
+  },
+  {
+    "name": "PAPBarometer",
+    "filePath": "AIES_Aerospace\\Science\\AIESBarometerPAP\\part.cfg"
+  },
+  {
+    "name": "retinaGravimeter",
+    "filePath": "AIES_Aerospace\\Science\\AIESGravimeterretina\\part.cfg"
+  },
+  {
+    "name": "Thermometermt1",
+    "filePath": "AIES_Aerospace\\Science\\AIESThermometerMT1\\part.cfg"
+  },
+  {
+    "name": "basepunta1ur5",
+    "filePath": "AIES_Aerospace\\Structure\\AIES puntbase a1ur5\\part.cfg"
+  },
+  {
+    "name": "basepuntv2r10",
+    "filePath": "AIES_Aerospace\\Structure\\AIES puntbase v2r10\\part.cfg"
+  },
+  {
+    "name": "t1000v4",
+    "filePath": "AIES_Aerospace\\Structure\\AIES t1000v4\\part.cfg"
+  },
+  {
+    "name": "t1500v4",
+    "filePath": "AIES_Aerospace\\Structure\\AIES t1500v4\\part.cfg"
+  },
+  {
+    "name": "t2000v4",
+    "filePath": "AIES_Aerospace\\Structure\\AIES t2000v4\\part.cfg"
+  },
+  {
+    "name": "topb1",
+    "filePath": "AIES_Aerospace\\Structure\\AIES top B1\\part.cfg"
+  },
+  {
+    "name": "top100a1ur5",
+    "filePath": "AIES_Aerospace\\Structure\\AIES top100 a1ur5\\part.cfg"
+  },
+  {
+    "name": "top100a1ur5b",
+    "filePath": "AIES_Aerospace\\Structure\\AIES top100 a1ur5b\\part.cfg"
+  },
+  {
+    "name": "top500a1ur5",
+    "filePath": "AIES_Aerospace\\Structure\\AIES top500 a1ur5\\part.cfg"
+  },
+  {
+    "name": "adapterrads",
+    "filePath": "AIES_Aerospace\\Structure\\AIESadapterrads\\part.cfg"
+  },
+  {
+    "name": "ASDecoupler",
+    "filePath": "AIES_Aerospace\\Structure\\AIESASdecoupler\\part.cfg"
+  },
+  {
+    "name": "basef1sond",
+    "filePath": "AIES_Aerospace\\Structure\\AIESbaseF1\\part.cfg"
+  },
+  {
+    "name": "baseinstrul8",
+    "filePath": "AIES_Aerospace\\Structure\\AIESbaseinstru\\part.cfg"
+  },
+  {
+    "name": "decoupvector",
+    "filePath": "AIES_Aerospace\\Structure\\AIESdecouplerradvector\\part.cfg"
+  },
+  {
+    "name": "decouplersv05",
+    "filePath": "AIES_Aerospace\\Structure\\AIESdecouplersv05\\part.cfg"
+  },
+  {
+    "name": "decouplersvblack",
+    "filePath": "AIES_Aerospace\\Structure\\AIESdecouplersvblack\\part.cfg"
+  },
+  {
+    "name": "desacopladorsat1",
+    "filePath": "AIES_Aerospace\\Structure\\AIESdesacoplador sat1\\part.cfg"
+  },
+  {
+    "name": "desacopladorsat2",
+    "filePath": "AIES_Aerospace\\Structure\\AIESdesacoplador sat2\\part.cfg"
+  },
+  {
+    "name": "desacopladorsat3",
+    "filePath": "AIES_Aerospace\\Structure\\AIESdesacoplador sat3\\part.cfg"
+  },
+  {
+    "name": "LRDecoupler",
+    "filePath": "AIES_Aerospace\\Structure\\AIESLRDecoupler\\part.cfg"
+  },
+  {
+    "name": "Separatormultifs",
+    "filePath": "AIES_Aerospace\\Structure\\AIESSeparatormult\\part.cfg"
+  },
+  {
+    "name": "strutsoportec1",
+    "filePath": "AIES_Aerospace\\Structure\\AIESstrutsoporteC1\\part.cfg"
+  },
+  {
+    "name": "saltguia",
+    "filePath": "AIES_Aerospace\\Utility\\AIESaltguia\\part.cfg"
+  },
+  {
+    "name": "batteryBAEr",
+    "filePath": "AIES_Aerospace\\Utility\\AIESbatteryBAE\\part.cfg"
+  },
+  {
+    "name": "escaleralad1",
+    "filePath": "AIES_Aerospace\\Utility\\AIESescaleralad1\\part.cfg"
+  },
+  {
+    "name": "escalerar2s",
+    "filePath": "AIES_Aerospace\\Utility\\AIESescaleraR2S\\part.cfg"
+  },
+  {
+    "name": "expendLandingLeg",
+    "filePath": "AIES_Aerospace\\Utility\\AIESexpedLanding\\part.cfg"
+  },
+  {
+    "name": "godLandingLeg2",
+    "filePath": "AIES_Aerospace\\Utility\\AIESgod2Landing\\part.cfg"
+  },
+  {
+    "name": "godLandingLeg",
+    "filePath": "AIES_Aerospace\\Utility\\AIESgodLanding\\part.cfg"
+  },
+  {
+    "name": "legstrotLandingLeg",
+    "filePath": "AIES_Aerospace\\Utility\\AIESlegstrotLanding\\part.cfg"
+  },
+  {
+    "name": "xluzopl",
+    "filePath": "AIES_Aerospace\\Utility\\AIESluzopl\\part.cfg"
+  },
+  {
+    "name": "placaAIES",
+    "filePath": "AIES_Aerospace\\Utility\\AIESplaca\\part.cfg"
+  },
+  {
+    "name": "plommsLandingLeg",
+    "filePath": "AIES_Aerospace\\Utility\\AIESplomLandingLeg\\part.cfg"
+  }
+]
