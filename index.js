@@ -1,33 +1,39 @@
 const fs = require('fs');
 const path = require('path');
 
-const kspGameDataPath = './gamedata';
+const kspGameDataPath = path.join(__dirname, 'GameData');
 
 function listMods() {
-    const mods = [];
-    
-    // Read the contents of the GameData folder
-    const files = fs.readdirSync(kspGameDataPath);
-    
-    // Filter out directories that are not mods
-    files.forEach(file => {
-        const filePath = path.join(kspGameDataPath, file);
-        const stats = fs.statSync(filePath);
-        if (stats.isDirectory()) {
-            mods.push(file);
-        }
-    });
-    
+    const mods = fs.readdirSync(kspGameDataPath)
+                    .filter(item => fs.statSync(path.join(kspGameDataPath, item)).isDirectory());
     return mods;
 }
 
+function listParts(mod) {
+    const partsPath = path.join(kspGameDataPath, mod, 'Parts');
+    if (!fs.existsSync(partsPath)) {
+        return [];
+    }
+    
+    const parts = fs.readdirSync(partsPath)
+                    .filter(item => fs.statSync(path.join(partsPath, item)).isDirectory());
+    return parts;
+}
+
 function saveToJson(mods) {
-    const jsonContent = JSON.stringify(mods, null, 2);
-    const outputFile = 'mods.json'; 
+    const modsWithParts = mods.map(mod => {
+        return {
+            modName: mod,
+            parts: listParts(mod)
+        };
+    });
+
+    const jsonContent = JSON.stringify(modsWithParts, null, 2);
+    const outputFile = 'mods.json';
     
     fs.writeFileSync(outputFile, jsonContent);
     
-    console.log(`List of mods saved to ${outputFile}`);
+    console.log(`List of mods with parts saved to ${outputFile}`);
 }
 
 const modsList = listMods();
