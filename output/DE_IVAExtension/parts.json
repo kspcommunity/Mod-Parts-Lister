@@ -1,42 +1,42 @@
 [
   {
     "name": "DE_cupolaInternal",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_cupola.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_cupola.cfg"
   },
   {
     "name": "DE_landerCabinSmallInternal",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_landerCabinMk1.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_landerCabinMk1.cfg"
   },
   {
     "name": "DE_mk1CockpitInternal",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_Mark1Cockpit.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_Mark1Cockpit.cfg"
   },
   {
     "name": "DE_mk1InlineInternal",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_Mark1InlineCockpit.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_Mark1InlineCockpit.cfg"
   },
   {
     "name": "DE_Mk1-3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_mk1-3pod.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_mk1-3pod.cfg"
   },
   {
     "name": "DE_mk1pod_IVA",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_mk1Podv2.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_mk1Podv2.cfg"
   },
   {
     "name": "DE_mk2InlineInternal",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_mk2Cockpit_Inline.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_mk2Cockpit_Inline.cfg"
   },
   {
     "name": "DE_mk2CockpitStandardInternals",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_mk2Cockpit_Standard.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_mk2Cockpit_Standard.cfg"
   },
   {
     "name": "DE_mk2LanderCanInternal",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_mk2LanderCabin.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_mk2LanderCabin.cfg"
   },
   {
     "name": "DE_MK3_Cockpit_Int",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\DE_IVAExtension\\Parts\\DE_mk3Cockpit_Shuttle.cfg"
+    "filePath": "DE_IVAExtension\\Parts\\DE_mk3Cockpit_Shuttle.cfg"
   }
 ]

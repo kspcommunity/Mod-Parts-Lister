@@ -28,7 +28,7 @@ function listParts(mod) {
                 const nameMatch = partConfig.match(/name\s*=\s*(.+)/);
                 const name = nameMatch ? nameMatch[1] : null;
                 if (name !== null) {
-                    parts.push({ name, filePath: itemPath });
+                    parts.push({ name, filePath: path.relative(kspGameDataPath, itemPath) });
                 }
             }
         });

@@ -1,242 +1,242 @@
 [
   {
     "name": "FanShroud_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Aero\\FanShroud_01.cfg"
+    "filePath": "Serenity\\Parts\\Aero\\FanShroud_01.cfg"
   },
   {
     "name": "FanShroud_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Aero\\FanShroud_02.cfg"
+    "filePath": "Serenity\\Parts\\Aero\\FanShroud_02.cfg"
   },
   {
     "name": "FanShroud_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Aero\\FanShroud_03.cfg"
+    "filePath": "Serenity\\Parts\\Aero\\FanShroud_03.cfg"
   },
   {
     "name": "noseconeTiny",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Aero\\noseconeTiny.cfg"
+    "filePath": "Serenity\\Parts\\Aero\\noseconeTiny.cfg"
   },
   {
     "name": "noseconeVS",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Aero\\noseconeVS.cfg"
+    "filePath": "Serenity\\Parts\\Aero\\noseconeVS.cfg"
   },
   {
     "name": "DeployedCentralStation",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\centralStation.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\centralStation.cfg"
   },
   {
     "name": "DeployedGoExOb",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\gooObservation.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\gooObservation.cfg"
   },
   {
     "name": "DeployedIONExp",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\ionCollector.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\ionCollector.cfg"
   },
   {
     "name": "DeployedRTG",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\rtg.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\rtg.cfg"
   },
   {
     "name": "DeployedSatDish",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\satDish.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\satDish.cfg"
   },
   {
     "name": "DeployedSeismicSensor",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\seismicSensor.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\seismicSensor.cfg"
   },
   {
     "name": "DeployedSolarPanel",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\solarPanel.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\solarPanel.cfg"
   },
   {
     "name": "DeployedWeatherStn",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\DeployedScience\\weatherStation.cfg"
+    "filePath": "Serenity\\Parts\\DeployedScience\\weatherStation.cfg"
   },
   {
     "name": "kerbalEVA\t",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVA.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVA.cfg"
   },
   {
     "name": "kerbalEVAfemale\t",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVAfemale.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAfemale.cfg"
   },
   {
     "name": "kerbalEVAfemaleFuture",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVAfemaleFuture.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAfemaleFuture.cfg"
   },
   {
     "name": "kerbalEVAfemaleVintage\t",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVAfemaleVintage.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAfemaleVintage.cfg"
   },
   {
     "name": "kerbalEVAFuture",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVAFuture.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAFuture.cfg"
   },
   {
     "name": "kerbalEVASlimSuit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVASlimSuit.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVASlimSuit.cfg"
   },
   {
     "name": "kerbalEVASlimSuitFemale",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVASlimSuitFemale.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVASlimSuitFemale.cfg"
   },
   {
     "name": "kerbalEVAVintage\t",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Prebuilt\\kerbalEVAVintage.cfg"
+    "filePath": "Serenity\\Parts\\Prebuilt\\kerbalEVAVintage.cfg"
   },
   {
     "name": "largeFanBlade",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\largeFanBlade.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\largeFanBlade.cfg"
   },
   {
     "name": "largeHeliBlade",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\largeHeliBlade.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\largeHeliBlade.cfg"
   },
   {
     "name": "largePropeller",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\largePropeller.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\largePropeller.cfg"
   },
   {
     "name": "mediumFanBlade",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\mediumFanBlade.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\mediumFanBlade.cfg"
   },
   {
     "name": "mediumHeliBlade",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\mediumHeliBlade.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\mediumHeliBlade.cfg"
   },
   {
     "name": "mediumPropeller",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\mediumPropeller.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\mediumPropeller.cfg"
   },
   {
     "name": "smallFanBlade",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\smallFanBlade.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\smallFanBlade.cfg"
   },
   {
     "name": "smallHeliBlade",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\smallHeliBlade.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\smallHeliBlade.cfg"
   },
   {
     "name": "smallPropeller",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Propellers\\smallPropeller.cfg"
+    "filePath": "Serenity\\Parts\\Propellers\\smallPropeller.cfg"
   },
   {
     "name": "controller1000",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\Controllers\\KAL1000.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\Controllers\\KAL1000.cfg"
   },
   {
     "name": "hinge_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\hinge_01.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_01.cfg"
   },
   {
     "name": "hinge_01_s",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\hinge_01_s.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_01_s.cfg"
   },
   {
     "name": "hinge_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\hinge_03.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_03.cfg"
   },
   {
     "name": "hinge_03_s",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\hinge_03_s.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_03_s.cfg"
   },
   {
     "name": "hinge_04",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\hinge_04.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\hinge_04.cfg"
   },
   {
     "name": "piston_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\piston_01.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\piston_01.cfg"
   },
   {
     "name": "piston_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\piston_02.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\piston_02.cfg"
   },
   {
     "name": "piston_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\piston_03.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\piston_03.cfg"
   },
   {
     "name": "piston_04",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\piston_04.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\piston_04.cfg"
   },
   {
     "name": "RotorEngine_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\RotorEngine_02.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\RotorEngine_02.cfg"
   },
   {
     "name": "RotorEngine_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\RotorEngine_03.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\RotorEngine_03.cfg"
   },
   {
     "name": "rotor_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotor_01.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_01.cfg"
   },
   {
     "name": "rotor_01s",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotor_01s.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_01s.cfg"
   },
   {
     "name": "rotor_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotor_02.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_02.cfg"
   },
   {
     "name": "rotor_02s",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotor_02s.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_02s.cfg"
   },
   {
     "name": "rotor_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotor_03.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_03.cfg"
   },
   {
     "name": "rotor_03s",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotor_03s.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotor_03s.cfg"
   },
   {
     "name": "rotoServo_00",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotoServo_00.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_00.cfg"
   },
   {
     "name": "rotoServo_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotoServo_02.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_02.cfg"
   },
   {
     "name": "rotoServo_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotoServo_03.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_03.cfg"
   },
   {
     "name": "rotoServo_04",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Robotics\\rotoServo_04.cfg"
+    "filePath": "Serenity\\Parts\\Robotics\\rotoServo_04.cfg"
   },
   {
     "name": "RobotArmScanner_S1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S1.cfg"
+    "filePath": "Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S1.cfg"
   },
   {
     "name": "RobotArmScanner_S2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S2.cfg"
+    "filePath": "Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S2.cfg"
   },
   {
     "name": "RobotArmScanner_S3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S3.cfg"
+    "filePath": "Serenity\\Parts\\Science\\RobotArmScanner\\RobotArmScanner_S3.cfg"
   },
   {
     "name": "lGripPad",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Structural\\gripPads\\lGripPad.cfg"
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\lGripPad.cfg"
   },
   {
     "name": "lGripStrip",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Structural\\gripPads\\lGripStrip.cfg"
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\lGripStrip.cfg"
   },
   {
     "name": "mGripPad",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Structural\\gripPads\\mGripPad.cfg"
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\mGripPad.cfg"
   },
   {
     "name": "sGripPad",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Structural\\gripPads\\sGripPad.cfg"
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\sGripPad.cfg"
   },
   {
     "name": "sGripStrip",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Serenity\\Parts\\Structural\\gripPads\\sGripStrip.cfg"
+    "filePath": "Serenity\\Parts\\Structural\\gripPads\\sGripStrip.cfg"
   }
 ]

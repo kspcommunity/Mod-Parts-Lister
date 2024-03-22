@@ -1,286 +1,286 @@
 [
   {
     "name": "rocketNoseConeSize4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Aero\\protectiveRocketNoseMk16\\rocketNoseCone_size4.cfg"
+    "filePath": "MakingHistory\\Parts\\Aero\\protectiveRocketNoseMk16\\rocketNoseCone_size4.cfg"
   },
   {
     "name": "Size_1_5_Cone",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Aero\\protectiveRocketNoseMk5A\\Size_1_5_Cone.cfg"
+    "filePath": "MakingHistory\\Parts\\Aero\\protectiveRocketNoseMk5A\\Size_1_5_Cone.cfg"
   },
   {
     "name": "Decoupler_1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\Decoupler_1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\Decoupler_1p5.cfg"
   },
   {
     "name": "Decoupler_4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\Decoupler_4.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\Decoupler_4.cfg"
   },
   {
     "name": "EnginePlate1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\EnginePlate_1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\EnginePlate_1p5.cfg"
   },
   {
     "name": "EnginePlate2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\EnginePlate_2.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\EnginePlate_2.cfg"
   },
   {
     "name": "EnginePlate3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\EnginePlate_3.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\EnginePlate_3.cfg"
   },
   {
     "name": "EnginePlate4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\EnginePlate_4.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\EnginePlate_4.cfg"
   },
   {
     "name": "EnginePlate5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\EnginePlate_5.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\EnginePlate_5.cfg"
   },
   {
     "name": "InflatableAirlock",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\InflatableAirlock.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\InflatableAirlock.cfg"
   },
   {
     "name": "Separator_1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\Separator_1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\Separator_1p5.cfg"
   },
   {
     "name": "Separator_4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\Separator_4.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\Separator_4.cfg"
   },
   {
     "name": "Size1p5_Strut_Decoupler",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Coupling\\Size1p5_Strut_Decoupler.cfg"
+    "filePath": "MakingHistory\\Parts\\Coupling\\Size1p5_Strut_Decoupler.cfg"
   },
   {
     "name": "LiquidEngineKE-1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineKE-1.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineKE-1.cfg"
   },
   {
     "name": "LiquidEngineLV-T91",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineLV-T91.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineLV-T91.cfg"
   },
   {
     "name": "LiquidEngineLV-TX87",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineLV-TX87.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineLV-TX87.cfg"
   },
   {
     "name": "LiquidEngineRE-I2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineRE-I2.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineRE-I2.cfg"
   },
   {
     "name": "LiquidEngineRE-J10",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineRE-J10.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineRE-J10.cfg"
   },
   {
     "name": "LiquidEngineRK-7",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineRK-7.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineRK-7.cfg"
   },
   {
     "name": "LiquidEngineRV-1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\LiquidEngineRV-1.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\LiquidEngineRV-1.cfg"
   },
   {
     "name": "Pollux",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Engine\\solidBoosterTHK\\solidBoosterTHK.cfg"
+    "filePath": "MakingHistory\\Parts\\Engine\\solidBoosterTHK\\solidBoosterTHK.cfg"
   },
   {
     "name": "monopropMiniSphere",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\MonoPropMini.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\MonoPropMini.cfg"
   },
   {
     "name": "Size1p5_Monoprop",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Monoprop.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Monoprop.cfg"
   },
   {
     "name": "Size1p5_Size0_Adapter_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Size0_Adapter_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Size0_Adapter_01.cfg"
   },
   {
     "name": "Size1p5_Size1_Adapter_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Size1_Adapter_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Size1_Adapter_01.cfg"
   },
   {
     "name": "Size1p5_Size1_Adapter_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Size1_Adapter_02.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Size1_Adapter_02.cfg"
   },
   {
     "name": "Size1p5_Size2_Adapter_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Size2_Adapter_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Size2_Adapter_01.cfg"
   },
   {
     "name": "Size1p5_Tank_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_01.cfg"
   },
   {
     "name": "Size1p5_Tank_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_02.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_02.cfg"
   },
   {
     "name": "Size1p5_Tank_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_03.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_03.cfg"
   },
   {
     "name": "Size1p5_Tank_04",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_04.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_04.cfg"
   },
   {
     "name": "Size1p5_Tank_05",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_05.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size1p5_Tank_05.cfg"
   },
   {
     "name": "Size3_Size4_Adapter_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size3_Size4_Adapter_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size3_Size4_Adapter_01.cfg"
   },
   {
     "name": "Size4_EngineAdapter_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size4_EngineAdapter_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size4_EngineAdapter_01.cfg"
   },
   {
     "name": "Size4_Tank_01",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size4_Tank_01.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size4_Tank_01.cfg"
   },
   {
     "name": "Size4_Tank_02",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size4_Tank_02.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size4_Tank_02.cfg"
   },
   {
     "name": "Size4_Tank_03",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size4_Tank_03.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size4_Tank_03.cfg"
   },
   {
     "name": "Size4_Tank_04",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\FuelTank\\Size4_Tank_04.cfg"
+    "filePath": "MakingHistory\\Parts\\FuelTank\\Size4_Tank_04.cfg"
   },
   {
     "name": "roverWheelM1-F",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Ground\\RoverWheel.cfg"
+    "filePath": "MakingHistory\\Parts\\Ground\\RoverWheel.cfg"
   },
   {
     "name": "fairingSize1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Payload\\fairingSize1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Payload\\fairingSize1p5.cfg"
   },
   {
     "name": "fairingSize4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Payload\\fairingSize4.cfg"
+    "filePath": "MakingHistory\\Parts\\Payload\\fairingSize4.cfg"
   },
   {
     "name": "Size1to0ServiceModule",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Payload\\Size1to0ServiceModule.cfg"
+    "filePath": "MakingHistory\\Parts\\Payload\\Size1to0ServiceModule.cfg"
   },
   {
     "name": "ServiceModule18",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Payload\\SM18.cfg"
+    "filePath": "MakingHistory\\Parts\\Payload\\SM18.cfg"
   },
   {
     "name": "ServiceModule25",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Payload\\SM25.cfg"
+    "filePath": "MakingHistory\\Parts\\Payload\\SM25.cfg"
   },
   {
     "name": "kv1Pod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Pods\\KV1Pod.cfg"
+    "filePath": "MakingHistory\\Parts\\Pods\\KV1Pod.cfg"
   },
   {
     "name": "kv2Pod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Pods\\KV2Pod.cfg"
+    "filePath": "MakingHistory\\Parts\\Pods\\KV2Pod.cfg"
   },
   {
     "name": "kv3Pod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Pods\\KV3Pod.cfg"
+    "filePath": "MakingHistory\\Parts\\Pods\\KV3Pod.cfg"
   },
   {
     "name": "Mk2Pod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Pods\\Mk2Pod.cfg"
+    "filePath": "MakingHistory\\Parts\\Pods\\Mk2Pod.cfg"
   },
   {
     "name": "MEMLander",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Pods\\Size1_5_Lander.cfg"
+    "filePath": "MakingHistory\\Parts\\Pods\\Size1_5_Lander.cfg"
   },
   {
     "name": "kerbalEVAfemaleVintage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Prebuilt\\kerbalEVAfemaleVintage.cfg"
+    "filePath": "MakingHistory\\Parts\\Prebuilt\\kerbalEVAfemaleVintage.cfg"
   },
   {
     "name": "kerbalEVAVintage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Prebuilt\\kerbalEVAVintage.cfg"
+    "filePath": "MakingHistory\\Parts\\Prebuilt\\kerbalEVAVintage.cfg"
   },
   {
     "name": "EquiTriangle0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\EquiTriangle0.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\EquiTriangle0.cfg"
   },
   {
     "name": "EquiTriangle1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\EquiTriangle1.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\EquiTriangle1.cfg"
   },
   {
     "name": "EquiTriangle1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\EquiTriangle1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\EquiTriangle1p5.cfg"
   },
   {
     "name": "EquiTriangle2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\EquiTriangle2.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\EquiTriangle2.cfg"
   },
   {
     "name": "Panel0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Panel0.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Panel0.cfg"
   },
   {
     "name": "Panel1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Panel1.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Panel1.cfg"
   },
   {
     "name": "Panel1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Panel1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Panel1p5.cfg"
   },
   {
     "name": "Panel2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Panel2.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Panel2.cfg"
   },
   {
     "name": "Triangle0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Triangle0.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Triangle0.cfg"
   },
   {
     "name": "Triangle1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Triangle1.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Triangle1.cfg"
   },
   {
     "name": "Triangle1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Triangle1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Triangle1p5.cfg"
   },
   {
     "name": "Triangle2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Triangle2.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Triangle2.cfg"
   },
   {
     "name": "Tube1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Tube1.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Tube1.cfg"
   },
   {
     "name": "Tube1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Tube1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Tube1p5.cfg"
   },
   {
     "name": "Tube2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Tube2.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Tube2.cfg"
   },
   {
     "name": "Tube3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Tube3.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Tube3.cfg"
   },
   {
     "name": "Tube4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Structural\\Tube4.cfg"
+    "filePath": "MakingHistory\\Parts\\Structural\\Tube4.cfg"
   },
   {
     "name": "HeatShield1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Thermal\\HeatShield1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Thermal\\HeatShield1p5.cfg"
   },
   {
     "name": "flagPartSize1p5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Utility\\flags\\flagSize1p5\\flagSize1p5.cfg"
+    "filePath": "MakingHistory\\Parts\\Utility\\flags\\flagSize1p5\\flagSize1p5.cfg"
   },
   {
     "name": "flagPartSize4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\MakingHistory\\Parts\\Utility\\flags\\flagSize4\\flagSize4.cfg"
+    "filePath": "MakingHistory\\Parts\\Utility\\flags\\flagSize4\\flagSize4.cfg"
   }
 ]

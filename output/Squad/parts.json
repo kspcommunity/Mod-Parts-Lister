@@ -1,1438 +1,1438 @@
 [
   {
     "name": "noseCone",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\aerodynamicNoseCone\\aerodynamicNoseCone.cfg"
+    "filePath": "Squad\\Parts\\Aero\\aerodynamicNoseCone\\aerodynamicNoseCone.cfg"
   },
   {
     "name": "airbrake1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airbrake\\Airbrake.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airbrake\\Airbrake.cfg"
   },
   {
     "name": "airScoop",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airIntakeRadialXM-G50\\airIntakeRadialXM-G50.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airIntakeRadialXM-G50\\airIntakeRadialXM-G50.cfg"
   },
   {
     "name": "airlinerCtrlSrf",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airlinerWings\\ControlSurface.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airlinerWings\\ControlSurface.cfg"
   },
   {
     "name": "airlinerMainWing",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airlinerWings\\MainWing.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airlinerWings\\MainWing.cfg"
   },
   {
     "name": "airlinerTailFin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airlinerWings\\TailFin.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airlinerWings\\TailFin.cfg"
   },
   {
     "name": "AdvancedCanard",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airplaneFins\\advancedCanard.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airplaneFins\\advancedCanard.cfg"
   },
   {
     "name": "CanardController",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airplaneFins\\standardCanard.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airplaneFins\\standardCanard.cfg"
   },
   {
     "name": "sweptWing",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airplaneFins\\sweptWing.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airplaneFins\\sweptWing.cfg"
   },
   {
     "name": "tailfin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\airplaneFins\\tailfin.cfg"
+    "filePath": "Squad\\Parts\\Aero\\airplaneFins\\tailfin.cfg"
   },
   {
     "name": "basicFin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\basicFin\\basicFin.cfg"
+    "filePath": "Squad\\Parts\\Aero\\basicFin\\basicFin.cfg"
   },
   {
     "name": "CircularIntake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\circularIntake\\circularIntake.cfg"
+    "filePath": "Squad\\Parts\\Aero\\circularIntake\\circularIntake.cfg"
   },
   {
     "name": "shockConeIntake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\circularIntake\\intakeShockCone.cfg"
+    "filePath": "Squad\\Parts\\Aero\\circularIntake\\intakeShockCone.cfg"
   },
   {
     "name": "avionicsNoseCone",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\avionicsNoseCone.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\avionicsNoseCone.cfg"
   },
   {
     "name": "pointyNoseConeA",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\ConeA.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\ConeA.cfg"
   },
   {
     "name": "pointyNoseConeB",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\ConeB.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\ConeB.cfg"
   },
   {
     "name": "noseConeAdapter",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\noseConeAdapter.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\noseConeAdapter.cfg"
   },
   {
     "name": "rocketNoseCone_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\protectiveRocketNoseMk7_v2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\protectiveRocketNoseMk7_v2.cfg"
   },
   {
     "name": "rocketNoseCone_v3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\protectiveRocketNoseMk7_v3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\protectiveRocketNoseMk7_v3.cfg"
   },
   {
     "name": "rocketNoseConeSize3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\rocketNoseCone_size3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\rocketNoseCone_size3.cfg"
   },
   {
     "name": "standardNoseCone",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\smallNoseCone.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\smallNoseCone.cfg"
   },
   {
     "name": "airplaneTail",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\tailConnectorA.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\tailConnectorA.cfg"
   },
   {
     "name": "airplaneTailB",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\cones\\tailConnectorB.cfg"
+    "filePath": "Squad\\Parts\\Aero\\cones\\tailConnectorB.cfg"
   },
   {
     "name": "fairingSize1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\fairings\\fairingSize1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\fairings\\fairingSize1.cfg"
   },
   {
     "name": "fairingSize2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\fairings\\fairingSize2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\fairings\\fairingSize2.cfg"
   },
   {
     "name": "fairingSize3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\fairings\\fairingSize3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\fairings\\fairingSize3.cfg"
   },
   {
     "name": "HeatShield0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\HeatShield\\HeatShield0.cfg"
+    "filePath": "Squad\\Parts\\Aero\\HeatShield\\HeatShield0.cfg"
   },
   {
     "name": "HeatShield1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\HeatShield\\HeatShield1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\HeatShield\\HeatShield1.cfg"
   },
   {
     "name": "HeatShield2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\HeatShield\\HeatShield2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\HeatShield\\HeatShield2.cfg"
   },
   {
     "name": "HeatShield3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\HeatShield\\HeatShield3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\HeatShield\\HeatShield3.cfg"
   },
   {
     "name": "InflatableHeatShield",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\InflatableHeatShield\\HeatShield.cfg"
+    "filePath": "Squad\\Parts\\Aero\\InflatableHeatShield\\HeatShield.cfg"
   },
   {
     "name": "IntakeRadialLong",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\intakeRadialLong\\intakeRadialLong.cfg"
+    "filePath": "Squad\\Parts\\Aero\\intakeRadialLong\\intakeRadialLong.cfg"
   },
   {
     "name": "miniIntake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\miniIntake\\SmallIntake.cfg"
+    "filePath": "Squad\\Parts\\Aero\\miniIntake\\SmallIntake.cfg"
   },
   {
     "name": "ramAirIntake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\ramAirIntake\\ramAirIntake.cfg"
+    "filePath": "Squad\\Parts\\Aero\\ramAirIntake\\ramAirIntake.cfg"
   },
   {
     "name": "wingShuttleDelta",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\shuttleWings\\delta.cfg"
+    "filePath": "Squad\\Parts\\Aero\\shuttleWings\\delta.cfg"
   },
   {
     "name": "wingShuttleElevon1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\shuttleWings\\elevon1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\shuttleWings\\elevon1.cfg"
   },
   {
     "name": "wingShuttleElevon2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\shuttleWings\\elevon2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\shuttleWings\\elevon2.cfg"
   },
   {
     "name": "wingShuttleRudder",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\shuttleWings\\rudder.cfg"
+    "filePath": "Squad\\Parts\\Aero\\shuttleWings\\rudder.cfg"
   },
   {
     "name": "wingShuttleStrake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\shuttleWings\\strake.cfg"
+    "filePath": "Squad\\Parts\\Aero\\shuttleWings\\strake.cfg"
   },
   {
     "name": "R8winglet",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wingletAV-R8\\wingletAV-R8.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wingletAV-R8\\wingletAV-R8.cfg"
   },
   {
     "name": "winglet",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wingletAV-T1\\wingletAV-T1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wingletAV-T1\\wingletAV-T1.cfg"
   },
   {
     "name": "winglet3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wingletDeltaDeluxe\\wingletDeltaDeluxe.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wingletDeltaDeluxe\\wingletDeltaDeluxe.cfg"
   },
   {
     "name": "wingConnector",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\connector1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\connector1.cfg"
   },
   {
     "name": "wingConnector2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\connector2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\connector2.cfg"
   },
   {
     "name": "wingConnector3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\connector3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\connector3.cfg"
   },
   {
     "name": "wingConnector4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\connector4.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\connector4.cfg"
   },
   {
     "name": "wingConnector5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\connector5.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\connector5.cfg"
   },
   {
     "name": "deltaWing",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\delta.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\delta.cfg"
   },
   {
     "name": "delta_small",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\delta_small.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\delta_small.cfg"
   },
   {
     "name": "StandardCtrlSrf",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\elevon1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\elevon1.cfg"
   },
   {
     "name": "elevon2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\elevon2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\elevon2.cfg"
   },
   {
     "name": "elevon3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\elevon3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\elevon3.cfg"
   },
   {
     "name": "smallCtrlSrf",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\elevon4.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\elevon4.cfg"
   },
   {
     "name": "elevon5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\elevon5.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\elevon5.cfg"
   },
   {
     "name": "wingStrake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\strake.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\strake.cfg"
   },
   {
     "name": "structuralWing",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\structural1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\structural1.cfg"
   },
   {
     "name": "structuralWing2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\structural2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\structural2.cfg"
   },
   {
     "name": "structuralWing3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\structural3.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\structural3.cfg"
   },
   {
     "name": "structuralWing4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\structural4.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\structural4.cfg"
   },
   {
     "name": "sweptWing1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\swept1.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\swept1.cfg"
   },
   {
     "name": "sweptWing2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Aero\\wings\\swept2.cfg"
+    "filePath": "Squad\\Parts\\Aero\\wings\\swept2.cfg"
   },
   {
     "name": "cargoContainer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\CargoContainers\\cargoContainer.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\CargoContainers\\cargoContainer.cfg"
   },
   {
     "name": "smallCargoContainer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\CargoContainers\\smallCargoContainer.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\CargoContainers\\smallCargoContainer.cfg"
   },
   {
     "name": "evaCylinder",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\Cylinder\\Cylinder.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\Cylinder\\Cylinder.cfg"
   },
   {
     "name": "groundAnchor",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\GroundAnchor\\groundAnchor.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\GroundAnchor\\groundAnchor.cfg"
   },
   {
     "name": "evaJetpack",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\Jetpack\\Jetpack.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\Jetpack\\Jetpack.cfg"
   },
   {
     "name": "evaChute\t",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\Parachute\\Parachute.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\Parachute\\Parachute.cfg"
   },
   {
     "name": "evaRepairKit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\RepairKit\\RepairKit.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\RepairKit\\RepairKit.cfg"
   },
   {
     "name": "evaScienceKit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\ScienceKit\\evaScienceKit.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\ScienceKit\\evaScienceKit.cfg"
   },
   {
     "name": "CargoStorageUnit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\StorageUnits\\CargoStorageUnit.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\StorageUnits\\CargoStorageUnit.cfg"
   },
   {
     "name": "ConformalStorageUnit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Cargo\\StorageUnits\\ConformalStorageUnit.cfg"
+    "filePath": "Squad\\Parts\\Cargo\\StorageUnits\\ConformalStorageUnit.cfg"
   },
   {
     "name": "asasmodule1-2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\advancedSasModuleLarge\\advSasModuleLarge.cfg"
+    "filePath": "Squad\\Parts\\Command\\advancedSasModuleLarge\\advSasModuleLarge.cfg"
   },
   {
     "name": "cupola",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\cupola\\cupola.cfg"
+    "filePath": "Squad\\Parts\\Command\\cupola\\cupola.cfg"
   },
   {
     "name": "seatExternalCmd",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\externalCommandSeat\\externalCommandSeat.cfg"
+    "filePath": "Squad\\Parts\\Command\\externalCommandSeat\\externalCommandSeat.cfg"
   },
   {
     "name": "crewCabin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\hitchhikerStorageContainer\\hitchikerStorageContainer.cfg"
+    "filePath": "Squad\\Parts\\Command\\hitchhikerStorageContainer\\hitchikerStorageContainer.cfg"
   },
   {
     "name": "advSasModule",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\inlineAdvancedStabilizer\\inlineAdvancedStabilizer.cfg"
+    "filePath": "Squad\\Parts\\Command\\inlineAdvancedStabilizer\\inlineAdvancedStabilizer.cfg"
   },
   {
     "name": "sasModule",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\inlineReactionWheel\\inlineReactionWheel.cfg"
+    "filePath": "Squad\\Parts\\Command\\inlineReactionWheel\\inlineReactionWheel.cfg"
   },
   {
     "name": "mk1-3pod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\Mk1-3Pod\\mk1-3.cfg"
+    "filePath": "Squad\\Parts\\Command\\Mk1-3Pod\\mk1-3.cfg"
   },
   {
     "name": "Mark1Cockpit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk1Cockpits\\mk1Cockpit.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk1Cockpits\\mk1Cockpit.cfg"
   },
   {
     "name": "MK1CrewCabin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk1Cockpits\\mk1CrewCabin.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk1Cockpits\\mk1CrewCabin.cfg"
   },
   {
     "name": "Mark2Cockpit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk1Cockpits\\mk1InlineCockpit.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk1Cockpits\\mk1InlineCockpit.cfg"
   },
   {
     "name": "landerCabinSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk1LanderCan\\mk1LanderCan.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk1LanderCan\\mk1LanderCan.cfg"
   },
   {
     "name": "mk1pod_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk1pod_v2\\mk1Pod_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk1pod_v2\\mk1Pod_v2.cfg"
   },
   {
     "name": "mk2Cockpit_Inline",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk2CockpitInline\\mk2CockpitInline.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk2CockpitInline\\mk2CockpitInline.cfg"
   },
   {
     "name": "mk2Cockpit_Standard",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk2CockpitStandard\\mk2CockpitStandard.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk2CockpitStandard\\mk2CockpitStandard.cfg"
   },
   {
     "name": "mk2DroneCore",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk2DroneCore\\mk2Dronecore.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk2DroneCore\\mk2Dronecore.cfg"
   },
   {
     "name": "mk2LanderCabin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk2LanderCan\\mk2LanderCan.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk2LanderCan\\mk2LanderCan.cfg"
   },
   {
     "name": "mk2LanderCabin_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk2LanderCan_v2\\mk2LanderCan_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk2LanderCan_v2\\mk2LanderCan_v2.cfg"
   },
   {
     "name": "mk3Cockpit_Shuttle",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\mk3CockpitShuttle\\mk3CockpitShuttle.cfg"
+    "filePath": "Squad\\Parts\\Command\\mk3CockpitShuttle\\mk3CockpitShuttle.cfg"
   },
   {
     "name": "MpoProbe",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\MpoProbe\\MpoProbe.cfg"
+    "filePath": "Squad\\Parts\\Command\\MpoProbe\\MpoProbe.cfg"
   },
   {
     "name": "MtmStage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\MtmStage\\MTM_Stage.cfg"
+    "filePath": "Squad\\Parts\\Command\\MtmStage\\MTM_Stage.cfg"
   },
   {
     "name": "probeCoreCube",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeCoreCube\\probeCoreCube.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeCoreCube\\probeCoreCube.cfg"
   },
   {
     "name": "probeCoreHex",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeCoreHex\\probeCoreHex.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeCoreHex\\probeCoreHex.cfg"
   },
   {
     "name": "probeCoreHex_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeCoreHex_v2\\probeCoreHex_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeCoreHex_v2\\probeCoreHex_v2.cfg"
   },
   {
     "name": "probeCoreOcto2_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeCoreOcto2_v2\\probeCoreOcto2_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeCoreOcto2_v2\\probeCoreOcto2_v2.cfg"
   },
   {
     "name": "probeCoreOcto_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeCoreOcto_v2\\probeCoreOcto_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeCoreOcto_v2\\probeCoreOcto_v2.cfg"
   },
   {
     "name": "roverBody",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeRoverBody\\probeRoverBody.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeRoverBody\\probeRoverBody.cfg"
   },
   {
     "name": "roverBody_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeRoverBody_v2\\probeRoverBody_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeRoverBody_v2\\probeRoverBody_v2.cfg"
   },
   {
     "name": "probeStackLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeStackLarge\\probeStackLarge.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeStackLarge\\probeStackLarge.cfg"
   },
   {
     "name": "probeStackSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeStackSmall\\probeStackSmall.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeStackSmall\\probeStackSmall.cfg"
   },
   {
     "name": "probeCoreSphere_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Command\\probeStackSphere_v2\\probeStackSphere_v2.cfg"
+    "filePath": "Squad\\Parts\\Command\\probeStackSphere_v2\\probeStackSphere_v2.cfg"
   },
   {
     "name": "fuelLine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\CompoundParts\\FuelLine\\fuelLine.cfg"
+    "filePath": "Squad\\Parts\\CompoundParts\\FuelLine\\fuelLine.cfg"
   },
   {
     "name": "strutConnector",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\CompoundParts\\strutConnector\\strutConnector.cfg"
+    "filePath": "Squad\\Parts\\CompoundParts\\strutConnector\\strutConnector.cfg"
   },
   {
     "name": "Decoupler_0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Decoupler_0.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Decoupler_0.cfg"
   },
   {
     "name": "Decoupler_1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Decoupler_1.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Decoupler_1.cfg"
   },
   {
     "name": "Decoupler_2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Decoupler_2.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Decoupler_2.cfg"
   },
   {
     "name": "Decoupler_3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Decoupler_3.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Decoupler_3.cfg"
   },
   {
     "name": "Separator_0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Separator_0.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Separator_0.cfg"
   },
   {
     "name": "Separator_1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Separator_1.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Separator_1.cfg"
   },
   {
     "name": "Separator_2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Separator_2.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Separator_2.cfg"
   },
   {
     "name": "Separator_3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Coupling\\Separator_3.cfg"
+    "filePath": "Squad\\Parts\\Coupling\\Separator_3.cfg"
   },
   {
     "name": "solarPanelOX10C",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\10CSolarPanels\\OX-10C.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\10CSolarPanels\\OX-10C.cfg"
   },
   {
     "name": "solarPanelSP10C",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\10CSolarPanels\\SP-10C.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\10CSolarPanels\\SP-10C.cfg"
   },
   {
     "name": "solarPanelOX10L",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\10LSolarPanels\\OX-10L.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\10LSolarPanels\\OX-10L.cfg"
   },
   {
     "name": "solarPanelSP10L",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\10LSolarPanels\\SP-10L.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\10LSolarPanels\\SP-10L.cfg"
   },
   {
     "name": "solarPanels2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\1x6ShroudSolarPanels\\1x6ShroudSolarPanels.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\1x6ShroudSolarPanels\\1x6ShroudSolarPanels.cfg"
   },
   {
     "name": "solarPanels4",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\1x6SolarPanels\\1x6SolarPanels.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\1x6SolarPanels\\1x6SolarPanels.cfg"
   },
   {
     "name": "solarPanels1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\3x2ShroudSolarPanels\\3x2ShroudSolarPanels.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\3x2ShroudSolarPanels\\3x2ShroudSolarPanels.cfg"
   },
   {
     "name": "solarPanels3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\3x2SolarPanels\\3x2SolarPanels.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\3x2SolarPanels\\3x2SolarPanels.cfg"
   },
   {
     "name": "largeSolarPanel",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\gigantorXlSolarArray\\gigantorXlSolarArray.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\gigantorXlSolarArray\\gigantorXlSolarArray.cfg"
   },
   {
     "name": "solarPanels5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\radialFlatSolarPanel\\radialFlatSolarPanel.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\radialFlatSolarPanel\\radialFlatSolarPanel.cfg"
   },
   {
     "name": "rtg",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\RTG\\RTG.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\RTG\\RTG.cfg"
   },
   {
     "name": "batteryPack",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\z-100Battery\\z-100Battery.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\z-100Battery\\z-100Battery.cfg"
   },
   {
     "name": "batteryBank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\z-1kBattery\\z-1kBattery.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\z-1kBattery\\z-1kBattery.cfg"
   },
   {
     "name": "batteryBankMini",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\z-200Battery\\z-200Battery.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\z-200Battery\\z-200Battery.cfg"
   },
   {
     "name": "ksp_r_largeBatteryPack",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\z-400Battery\\z-400Battery.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\z-400Battery\\z-400Battery.cfg"
   },
   {
     "name": "batteryBankLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Electrical\\z-4kBattery\\z-4kBattery.cfg"
+    "filePath": "Squad\\Parts\\Electrical\\z-4kBattery\\z-4kBattery.cfg"
   },
   {
     "name": "ionEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\ionEngine\\ionEngine.cfg"
+    "filePath": "Squad\\Parts\\Engine\\ionEngine\\ionEngine.cfg"
   },
   {
     "name": "turboJet",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\jetEngines\\jetEngineAfterburning.cfg"
+    "filePath": "Squad\\Parts\\Engine\\jetEngines\\jetEngineAfterburning.cfg"
   },
   {
     "name": "JetEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\jetEngines\\jetEngineBasic.cfg"
+    "filePath": "Squad\\Parts\\Engine\\jetEngines\\jetEngineBasic.cfg"
   },
   {
     "name": "turboFanSize2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\jetEngines\\jetEngineBig.cfg"
+    "filePath": "Squad\\Parts\\Engine\\jetEngines\\jetEngineBig.cfg"
   },
   {
     "name": "turboFanEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\jetEngines\\jetEngineTurbo.cfg"
+    "filePath": "Squad\\Parts\\Engine\\jetEngines\\jetEngineTurbo.cfg"
   },
   {
     "name": "smallRadialEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngine24-77\\liquidEngine24-77.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngine24-77\\liquidEngine24-77.cfg"
   },
   {
     "name": "smallRadialEngine_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngine24-77_v2\\liquidEngine24-77_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngine24-77_v2\\liquidEngine24-77_v2.cfg"
   },
   {
     "name": "liquidEngineMini_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngine48-7S_v2\\liquidEngine48-7S_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngine48-7S_v2\\liquidEngine48-7S_v2.cfg"
   },
   {
     "name": "toroidalAerospike",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineAerospike\\liquidEngineAerospike.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineAerospike\\liquidEngineAerospike.cfg"
   },
   {
     "name": "radialEngineMini_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-1_v2\\liquidEngineLV-1R _v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-1_v2\\liquidEngineLV-1R _v2.cfg"
   },
   {
     "name": "microEngine_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-1_v2\\liquidEngineLV-1_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-1_v2\\liquidEngineLV-1_v2.cfg"
   },
   {
     "name": "liquidEngine3_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-909_v2\\liquidEngineLV-909_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-909_v2\\liquidEngineLV-909_v2.cfg"
   },
   {
     "name": "nuclearEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-N\\liquidEngineLV-N.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-N\\liquidEngineLV-N.cfg"
   },
   {
     "name": "liquidEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-T30\\liquidEngineLV-T30.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-T30\\liquidEngineLV-T30.cfg"
   },
   {
     "name": "liquidEngine_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-T30_v2\\liquidEngineLV-T30_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-T30_v2\\liquidEngineLV-T30_v2.cfg"
   },
   {
     "name": "liquidEngine2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-T45\\liquidEngineLV-T45.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-T45\\liquidEngineLV-T45.cfg"
   },
   {
     "name": "liquidEngine2_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineLV-T45_v2\\liquidEngineLV-T45_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineLV-T45_v2\\liquidEngineLV-T45_v2.cfg"
   },
   {
     "name": "liquidEngineMainsail_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineMainsail_v2\\liquidEngineMainsail_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineMainsail_v2\\liquidEngineMainsail_v2.cfg"
   },
   {
     "name": "radialLiquidEngine1-2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineMk55\\liquidEngineMk55.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineMk55\\liquidEngineMk55.cfg"
   },
   {
     "name": "liquidEngine2-2_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEnginePoodle_v2\\liquidEnginePoodle_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEnginePoodle_v2\\liquidEnginePoodle_v2.cfg"
   },
   {
     "name": "engineLargeSkipper_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineSkipper_v2\\skipperLiquidEngine_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineSkipper_v2\\skipperLiquidEngine_v2.cfg"
   },
   {
     "name": "SSME",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\liquidEngineSSME\\SSME.cfg"
+    "filePath": "Squad\\Parts\\Engine\\liquidEngineSSME\\SSME.cfg"
   },
   {
     "name": "MassiveBooster",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\MassiveSRB\\part.cfg"
+    "filePath": "Squad\\Parts\\Engine\\MassiveSRB\\part.cfg"
   },
   {
     "name": "miniJetEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\miniJet\\SmallJetEngine.cfg"
+    "filePath": "Squad\\Parts\\Engine\\miniJet\\SmallJetEngine.cfg"
   },
   {
     "name": "omsEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\OMSEngine\\omsEngine.cfg"
+    "filePath": "Squad\\Parts\\Engine\\OMSEngine\\omsEngine.cfg"
   },
   {
     "name": "RAPIER",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\rapierEngine\\rapierEngine.cfg"
+    "filePath": "Squad\\Parts\\Engine\\rapierEngine\\rapierEngine.cfg"
   },
   {
     "name": "solidBooster_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\Size1_SRBs\\solidBoosterRT-10_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\Size1_SRBs\\solidBoosterRT-10_v2.cfg"
   },
   {
     "name": "solidBooster_sm_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\Size1_SRBs\\solidBoosterRT-5_v2.cfg"
+    "filePath": "Squad\\Parts\\Engine\\Size1_SRBs\\solidBoosterRT-5_v2.cfg"
   },
   {
     "name": "Size2LFB",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\Size2LFB\\part.cfg"
+    "filePath": "Squad\\Parts\\Engine\\Size2LFB\\part.cfg"
   },
   {
     "name": "Size2LFB_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\Size2LFB_v2\\part.cfg"
+    "filePath": "Squad\\Parts\\Engine\\Size2LFB_v2\\part.cfg"
   },
   {
     "name": "Size3AdvancedEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\Size3AdvancedEngine\\part.cfg"
+    "filePath": "Squad\\Parts\\Engine\\Size3AdvancedEngine\\part.cfg"
   },
   {
     "name": "Size3EngineCluster",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\Size3EngineCluster\\part.cfg"
+    "filePath": "Squad\\Parts\\Engine\\Size3EngineCluster\\part.cfg"
   },
   {
     "name": "solidBooster1-1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\solidBoosterBACC\\solidBoosterBACC.cfg"
+    "filePath": "Squad\\Parts\\Engine\\solidBoosterBACC\\solidBoosterBACC.cfg"
   },
   {
     "name": "Thoroughbred",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\solidBoosterS2-17\\solidBoosterS2-17.cfg"
+    "filePath": "Squad\\Parts\\Engine\\solidBoosterS2-17\\solidBoosterS2-17.cfg"
   },
   {
     "name": "Clydesdale",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\solidBoosterS2-33\\solidBoosterS2-33.cfg"
+    "filePath": "Squad\\Parts\\Engine\\solidBoosterS2-33\\solidBoosterS2-33.cfg"
   },
   {
     "name": "sepMotor1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\solidBoosterSep\\solidBoosterSep.cfg"
+    "filePath": "Squad\\Parts\\Engine\\solidBoosterSep\\solidBoosterSep.cfg"
   },
   {
     "name": "Shrimp",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\SolidBoostersF\\SolidBoosterF3S0.cfg"
+    "filePath": "Squad\\Parts\\Engine\\SolidBoostersF\\SolidBoosterF3S0.cfg"
   },
   {
     "name": "Mite",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Engine\\SolidBoostersF\\SolidBoosterFM1.cfg"
+    "filePath": "Squad\\Parts\\Engine\\SolidBoostersF\\SolidBoosterFM1.cfg"
   },
   {
     "name": "adapterMk3-Mk2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-Mk2.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-Mk2.cfg"
   },
   {
     "name": "adapterEngines",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-ShuttleAdapter.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-ShuttleAdapter.cfg"
   },
   {
     "name": "adapterMk3-Size2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-Size2.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-Size2.cfg"
   },
   {
     "name": "adapterMk3-Size2Slant",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-Size2Slant.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Mk3-Size2Slant.cfg"
   },
   {
     "name": "adapterSize2-Mk2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Size2-Mk2.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Size2-Mk2.cfg"
   },
   {
     "name": "adapterSize2-Size1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Size2-Size1.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Size2-Size1.cfg"
   },
   {
     "name": "adapterSize2-Size1Slant",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Size2-Size1Slant.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Size2-Size1Slant.cfg"
   },
   {
     "name": "adapterSize3-Mk3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\adapterTanks\\Size3-Mk3.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\adapterTanks\\Size3-Mk3.cfg"
   },
   {
     "name": "ReleaseValve",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\drainTankFTE-1\\ReleaseValve.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\drainTankFTE-1\\ReleaseValve.cfg"
   },
   {
     "name": "externalTankCapsule",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\FoilTanks\\RadialTank_Capsule.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\FoilTanks\\RadialTank_Capsule.cfg"
   },
   {
     "name": "externalTankRound",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\FoilTanks\\RadialTank_Round.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\FoilTanks\\RadialTank_Round.cfg"
   },
   {
     "name": "externalTankToroid",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\FoilTanks\\ToroidTank.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\FoilTanks\\ToroidTank.cfg"
   },
   {
     "name": "miniFuelTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\fuelTankOscarB\\fuelTankOscarB.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\fuelTankOscarB\\fuelTankOscarB.cfg"
   },
   {
     "name": "miniFuselage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\miniFuselage\\miniFuselage.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\miniFuselage\\miniFuselage.cfg"
   },
   {
     "name": "mk2_1m_Bicoupler",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2Adapters\\bicoupler.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2Adapters\\bicoupler.cfg"
   },
   {
     "name": "mk2_1m_AdapterLong",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2Adapters\\long.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2Adapters\\long.cfg"
   },
   {
     "name": "mk2SpacePlaneAdapter",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2Adapters\\standard.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2Adapters\\standard.cfg"
   },
   {
     "name": "mk2FuselageLongLFO",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2FuselageLong\\LFO_long.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2FuselageLong\\LFO_long.cfg"
   },
   {
     "name": "mk2Fuselage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2FuselageLong\\L_long.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2FuselageLong\\L_long.cfg"
   },
   {
     "name": "mk2FuselageShortLFO",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2FuselageShort\\LFO_short.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2FuselageShort\\LFO_short.cfg"
   },
   {
     "name": "mk2FuselageShortLiquid",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2FuselageShort\\L_short.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2FuselageShort\\L_short.cfg"
   },
   {
     "name": "mk2FuselageShortMono",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk2FuselageShort\\Mono_short.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk2FuselageShort\\Mono_short.cfg"
   },
   {
     "name": "mk3CrewCabin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\CREW.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\CREW.cfg"
   },
   {
     "name": "mk3FuselageLFO_100",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\LFO_100.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\LFO_100.cfg"
   },
   {
     "name": "mk3FuselageLFO_25",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\LFO_25.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\LFO_25.cfg"
   },
   {
     "name": "mk3FuselageLFO_50",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\LFO_50.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\LFO_50.cfg"
   },
   {
     "name": "mk3FuselageLF_100",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\LF_100.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\LF_100.cfg"
   },
   {
     "name": "mk3FuselageLF_25",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\LF_25.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\LF_25.cfg"
   },
   {
     "name": "mk3FuselageLF_50",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\LF_50.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\LF_50.cfg"
   },
   {
     "name": "mk3FuselageMONO",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\mk3Fuselage\\MONO.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\mk3Fuselage\\MONO.cfg"
   },
   {
     "name": "RCSTank1-2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RCSFuelTankR1\\RCSFuelTankR1.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RCSFuelTankR1\\RCSFuelTankR1.cfg"
   },
   {
     "name": "rcsTankMini",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RCSFuelTankR10\\RCSFuelTankR10.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RCSFuelTankR10\\RCSFuelTankR10.cfg"
   },
   {
     "name": "RCSFuelTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RCSFuelTankR25\\RCSFuelTankR25.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RCSFuelTankR25\\RCSFuelTankR25.cfg"
   },
   {
     "name": "radialRCSTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RCSTankRadial\\radialRCSTank.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RCSTankRadial\\radialRCSTank.cfg"
   },
   {
     "name": "rcsTankRadialLong",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RCStankRadialLong\\RCSTankRadialLong.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RCStankRadialLong\\RCSTankRadialLong.cfg"
   },
   {
     "name": "Rockomax16_BW",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax16.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax16.cfg"
   },
   {
     "name": "Rockomax32_BW",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax32.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax32.cfg"
   },
   {
     "name": "Rockomax64_BW",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax64.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax64.cfg"
   },
   {
     "name": "Rockomax8BW",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax8.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\RockomaxTanks\\Rockomax8.cfg"
   },
   {
     "name": "fuelTankSmallFlat",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT100.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT100.cfg"
   },
   {
     "name": "fuelTankSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT200.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT200.cfg"
   },
   {
     "name": "fuelTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT400.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT400.cfg"
   },
   {
     "name": "fuelTank_long",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT800.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size1_Tanks\\fuelTankT800.cfg"
   },
   {
     "name": "Size3LargeTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size3Tanks\\large.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size3Tanks\\large.cfg"
   },
   {
     "name": "Size3MediumTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size3Tanks\\medium.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size3Tanks\\medium.cfg"
   },
   {
     "name": "Size3SmallTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\Size3Tanks\\small.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\Size3Tanks\\small.cfg"
   },
   {
     "name": "xenonTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\xenonTank\\xenonTank.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\xenonTank\\xenonTank.cfg"
   },
   {
     "name": "xenonTankLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\xenonTankLarge\\xenonTankLarge.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\xenonTankLarge\\xenonTankLarge.cfg"
   },
   {
     "name": "xenonTankRadial",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\FuelTank\\xenonTankRadial\\xenonTankRadial.cfg"
+    "filePath": "Squad\\Parts\\FuelTank\\xenonTankRadial\\xenonTankRadial.cfg"
   },
   {
     "name": "InfraredTelescope",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Misc\\AsteroidDay\\CamSat.cfg"
+    "filePath": "Squad\\Parts\\Misc\\AsteroidDay\\CamSat.cfg"
   },
   {
     "name": "HECS2_ProbeCore",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Misc\\AsteroidDay\\HECS2.cfg"
+    "filePath": "Squad\\Parts\\Misc\\AsteroidDay\\HECS2.cfg"
   },
   {
     "name": "HighGainAntenna",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Misc\\AsteroidDay\\HighGainAntenna.cfg"
+    "filePath": "Squad\\Parts\\Misc\\AsteroidDay\\HighGainAntenna.cfg"
   },
   {
     "name": "LgRadialSolarPanel",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Misc\\AsteroidDay\\LgRadialSolar.cfg"
+    "filePath": "Squad\\Parts\\Misc\\AsteroidDay\\LgRadialSolar.cfg"
   },
   {
     "name": "PotatoComet",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Misc\\PotatoComet\\part.cfg"
+    "filePath": "Squad\\Parts\\Misc\\PotatoComet\\part.cfg"
   },
   {
     "name": "PotatoRoid",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Misc\\PotatoRoid\\part.cfg"
+    "filePath": "Squad\\Parts\\Misc\\PotatoRoid\\part.cfg"
   },
   {
     "name": "flag",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Prebuilt\\flag.cfg"
+    "filePath": "Squad\\Parts\\Prebuilt\\flag.cfg"
   },
   {
     "name": "kerbalEVA",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Prebuilt\\kerbalEVA.cfg"
+    "filePath": "Squad\\Parts\\Prebuilt\\kerbalEVA.cfg"
   },
   {
     "name": "kerbalEVAfemale",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Prebuilt\\kerbalEVAfemale.cfg"
+    "filePath": "Squad\\Parts\\Prebuilt\\kerbalEVAfemale.cfg"
   },
   {
     "name": "kerbalEVASlimSuit",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Prebuilt\\kerbalEVASlimSuit.cfg"
+    "filePath": "Squad\\Parts\\Prebuilt\\kerbalEVASlimSuit.cfg"
   },
   {
     "name": "kerbalEVASlimSuitFemale",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Prebuilt\\kerbalEVASlimSuitFemale.cfg"
+    "filePath": "Squad\\Parts\\Prebuilt\\kerbalEVASlimSuitFemale.cfg"
   },
   {
     "name": "FuelCell",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\FuelCell\\FuelCell.cfg"
+    "filePath": "Squad\\Parts\\Resources\\FuelCell\\FuelCell.cfg"
   },
   {
     "name": "FuelCellArray",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\FuelCell\\FuelCellArray.cfg"
+    "filePath": "Squad\\Parts\\Resources\\FuelCell\\FuelCellArray.cfg"
   },
   {
     "name": "ISRU",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\ISRU\\ISRU.cfg"
+    "filePath": "Squad\\Parts\\Resources\\ISRU\\ISRU.cfg"
   },
   {
     "name": "LargeTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\LargeTank\\LargeTank.cfg"
+    "filePath": "Squad\\Parts\\Resources\\LargeTank\\LargeTank.cfg"
   },
   {
     "name": "MiniDrill",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\MiniDrill\\MiniDrill.cfg"
+    "filePath": "Squad\\Parts\\Resources\\MiniDrill\\MiniDrill.cfg"
   },
   {
     "name": "MiniISRU",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\MiniISRU\\MiniISRU.cfg"
+    "filePath": "Squad\\Parts\\Resources\\MiniISRU\\MiniISRU.cfg"
   },
   {
     "name": "OrbitalScanner",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\OrbitalScanner\\OrbitalScanner.cfg"
+    "filePath": "Squad\\Parts\\Resources\\OrbitalScanner\\OrbitalScanner.cfg"
   },
   {
     "name": "RadialDrill",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\RadialDrill\\RadialDrill.cfg"
+    "filePath": "Squad\\Parts\\Resources\\RadialDrill\\RadialDrill.cfg"
   },
   {
     "name": "RadialOreTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\RadialTank\\RadialTank.cfg"
+    "filePath": "Squad\\Parts\\Resources\\RadialTank\\RadialTank.cfg"
   },
   {
     "name": "SmallTank",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\SmallTank\\SmallTank.cfg"
+    "filePath": "Squad\\Parts\\Resources\\SmallTank\\SmallTank.cfg"
   },
   {
     "name": "SurfaceScanner",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\SurfaceScanner\\SurfaceScanner.cfg"
+    "filePath": "Squad\\Parts\\Resources\\SurfaceScanner\\SurfaceScanner.cfg"
   },
   {
     "name": "SurveyScanner",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Resources\\SurveyScanner\\SurveyScanner.cfg"
+    "filePath": "Squad\\Parts\\Resources\\SurveyScanner\\SurveyScanner.cfg"
   },
   {
     "name": "sensorAtmosphere",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\AtmosphereSensor\\sensorAtmosphere.cfg"
+    "filePath": "Squad\\Parts\\Science\\AtmosphereSensor\\sensorAtmosphere.cfg"
   },
   {
     "name": "GooExperiment",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\GooExperiment\\gooExperiment.cfg"
+    "filePath": "Squad\\Parts\\Science\\GooExperiment\\gooExperiment.cfg"
   },
   {
     "name": "Large_Crewed_Lab",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\LargeCrewedLab\\largeCrewedLab.cfg"
+    "filePath": "Squad\\Parts\\Science\\LargeCrewedLab\\largeCrewedLab.cfg"
   },
   {
     "name": "Magnetometer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\Magnetometer\\Magnetometer.cfg"
+    "filePath": "Squad\\Parts\\Science\\Magnetometer\\Magnetometer.cfg"
   },
   {
     "name": "science_module",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\MaterialBay\\materialBay.cfg"
+    "filePath": "Squad\\Parts\\Science\\MaterialBay\\materialBay.cfg"
   },
   {
     "name": "ScienceBox",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\ScienceBox\\ScienceBox.cfg"
+    "filePath": "Squad\\Parts\\Science\\ScienceBox\\ScienceBox.cfg"
   },
   {
     "name": "sensorAccelerometer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\sensorAccelerometer\\sensorAccelerometer.cfg"
+    "filePath": "Squad\\Parts\\Science\\sensorAccelerometer\\sensorAccelerometer.cfg"
   },
   {
     "name": "sensorBarometer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\sensorBarometer\\sensorBarometer.cfg"
+    "filePath": "Squad\\Parts\\Science\\sensorBarometer\\sensorBarometer.cfg"
   },
   {
     "name": "sensorGravimeter",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\sensorGravimeter\\sensorGravimeter.cfg"
+    "filePath": "Squad\\Parts\\Science\\sensorGravimeter\\sensorGravimeter.cfg"
   },
   {
     "name": "sensorThermometer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Science\\sensorThermometer\\sensorThermometer.cfg"
+    "filePath": "Squad\\Parts\\Science\\sensorThermometer\\sensorThermometer.cfg"
   },
   {
     "name": "adapterSmallMiniShort",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\FLAdapters\\adapterSmallMiniShort.cfg"
+    "filePath": "Squad\\Parts\\Structural\\FLAdapters\\adapterSmallMiniShort.cfg"
   },
   {
     "name": "adapterSmallMiniTall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\FLAdapters\\adapterSmallMiniTall.cfg"
+    "filePath": "Squad\\Parts\\Structural\\FLAdapters\\adapterSmallMiniTall.cfg"
   },
   {
     "name": "radialEngineBody",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\mk1Parts\\engineBodyRadial.cfg"
+    "filePath": "Squad\\Parts\\Structural\\mk1Parts\\engineBodyRadial.cfg"
   },
   {
     "name": "nacelleBody",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\mk1Parts\\engineNacelle.cfg"
+    "filePath": "Squad\\Parts\\Structural\\mk1Parts\\engineNacelle.cfg"
   },
   {
     "name": "MK1Fuselage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\mk1Parts\\mk1Fuselage.cfg"
+    "filePath": "Squad\\Parts\\Structural\\mk1Parts\\mk1Fuselage.cfg"
   },
   {
     "name": "MK1IntakeFuselage",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\mk1Parts\\mk1FuselageIntake.cfg"
+    "filePath": "Squad\\Parts\\Structural\\mk1Parts\\mk1FuselageIntake.cfg"
   },
   {
     "name": "Mk1FuselageStructural",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\mk1Parts\\mk1Structural.cfg"
+    "filePath": "Squad\\Parts\\Structural\\mk1Parts\\mk1Structural.cfg"
   },
   {
     "name": "Size3To2Adapter_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\Size3To2Adapter_v2\\Size2to3_v2.cfg"
+    "filePath": "Squad\\Parts\\Structural\\Size3To2Adapter_v2\\Size2to3_v2.cfg"
   },
   {
     "name": "adapterLargeSmallBi",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\stackAdapters\\adapterLargeSmallBi.cfg"
+    "filePath": "Squad\\Parts\\Structural\\stackAdapters\\adapterLargeSmallBi.cfg"
   },
   {
     "name": "adapterLargeSmallQuad",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\stackAdapters\\adapterLargeSmallQuad.cfg"
+    "filePath": "Squad\\Parts\\Structural\\stackAdapters\\adapterLargeSmallQuad.cfg"
   },
   {
     "name": "adapterLargeSmallTri",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\stackAdapters\\adapterLargeSmallTri.cfg"
+    "filePath": "Squad\\Parts\\Structural\\stackAdapters\\adapterLargeSmallTri.cfg"
   },
   {
     "name": "stationHub",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\stationHub\\stationHub.cfg"
+    "filePath": "Squad\\Parts\\Structural\\stationHub\\stationHub.cfg"
   },
   {
     "name": "structuralIBeam2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralIBeam200\\structuralIBeam200.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralIBeam200\\structuralIBeam200.cfg"
   },
   {
     "name": "structuralIBeam3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralIBeam200Pocket\\structuralIBeam200Pocket.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralIBeam200Pocket\\structuralIBeam200Pocket.cfg"
   },
   {
     "name": "structuralIBeam1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralIBeam650\\structuralIBeam650.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralIBeam650\\structuralIBeam650.cfg"
   },
   {
     "name": "structuralMiniNode",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralMicronode\\structuralMicronode.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralMicronode\\structuralMicronode.cfg"
   },
   {
     "name": "structuralPanel1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralPanel1x1\\structuralPanel1x1.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralPanel1x1\\structuralPanel1x1.cfg"
   },
   {
     "name": "structuralPanel2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralPanel2x2\\structuralPanel2x2.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralPanel2x2\\structuralPanel2x2.cfg"
   },
   {
     "name": "smallHardpoint",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralPylons\\smallHardpoint.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralPylons\\smallHardpoint.cfg"
   },
   {
     "name": "structuralPylon",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\structuralPylons\\structuralPylon.cfg"
+    "filePath": "Squad\\Parts\\Structural\\structuralPylons\\structuralPylon.cfg"
   },
   {
     "name": "strutCube",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\strutCubicOcto\\strutCubicOcto.cfg"
+    "filePath": "Squad\\Parts\\Structural\\strutCubicOcto\\strutCubicOcto.cfg"
   },
   {
     "name": "strutOcto",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\strutOcto\\strutOcto.cfg"
+    "filePath": "Squad\\Parts\\Structural\\strutOcto\\strutOcto.cfg"
   },
   {
     "name": "trussAdapter",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\trussGirderAdapter\\trussGirderAdapter.cfg"
+    "filePath": "Squad\\Parts\\Structural\\trussGirderAdapter\\trussGirderAdapter.cfg"
   },
   {
     "name": "trussPiece1x",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\trussGirderL\\trussGirderL.cfg"
+    "filePath": "Squad\\Parts\\Structural\\trussGirderL\\trussGirderL.cfg"
   },
   {
     "name": "trussPiece3x",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Structural\\trussGirderXL\\trussGirderXL.cfg"
+    "filePath": "Squad\\Parts\\Structural\\trussGirderXL\\trussGirderXL.cfg"
   },
   {
     "name": "foldingRadLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Thermal\\FoldingRadiators\\foldingRadLarge.cfg"
+    "filePath": "Squad\\Parts\\Thermal\\FoldingRadiators\\foldingRadLarge.cfg"
   },
   {
     "name": "foldingRadMed",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Thermal\\FoldingRadiators\\foldingRadMed.cfg"
+    "filePath": "Squad\\Parts\\Thermal\\FoldingRadiators\\foldingRadMed.cfg"
   },
   {
     "name": "foldingRadSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Thermal\\FoldingRadiators\\foldingRadSmall.cfg"
+    "filePath": "Squad\\Parts\\Thermal\\FoldingRadiators\\foldingRadSmall.cfg"
   },
   {
     "name": "radPanelEdge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Thermal\\RadiatorPanels\\radPanelEdge.cfg"
+    "filePath": "Squad\\Parts\\Thermal\\RadiatorPanels\\radPanelEdge.cfg"
   },
   {
     "name": "radPanelLg",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Thermal\\RadiatorPanels\\radPanelLg.cfg"
+    "filePath": "Squad\\Parts\\Thermal\\RadiatorPanels\\radPanelLg.cfg"
   },
   {
     "name": "radPanelSm",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Thermal\\RadiatorPanels\\radPanelSm.cfg"
+    "filePath": "Squad\\Parts\\Thermal\\RadiatorPanels\\radPanelSm.cfg"
   },
   {
     "name": "commDish",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\commDish88-88\\commDish88-88.cfg"
+    "filePath": "Squad\\Parts\\Utility\\commDish88-88\\commDish88-88.cfg"
   },
   {
     "name": "mediumDishAntenna",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\commsAntennaDTS-M1\\commsAntennaDTS-M1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\commsAntennaDTS-M1\\commsAntennaDTS-M1.cfg"
   },
   {
     "name": "longAntenna",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\commsDish16\\commsAntenna16.cfg"
+    "filePath": "Squad\\Parts\\Utility\\commsDish16\\commsAntenna16.cfg"
   },
   {
     "name": "radialDecoupler1-2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\decouplerRadialHDM\\decouplerRadialHDM.cfg"
+    "filePath": "Squad\\Parts\\Utility\\decouplerRadialHDM\\decouplerRadialHDM.cfg"
   },
   {
     "name": "radialDecoupler",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\decouplerRadialTT-38K\\decouplerRadialTT-38K.cfg"
+    "filePath": "Squad\\Parts\\Utility\\decouplerRadialTT-38K\\decouplerRadialTT-38K.cfg"
   },
   {
     "name": "radialDecoupler2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\decouplerRadialTT-70\\decouplerRadialTT-70.cfg"
+    "filePath": "Squad\\Parts\\Utility\\decouplerRadialTT-70\\decouplerRadialTT-70.cfg"
   },
   {
     "name": "SurfAntenna",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\DirectAntennas\\C16S.cfg"
+    "filePath": "Squad\\Parts\\Utility\\DirectAntennas\\C16S.cfg"
   },
   {
     "name": "HighGainAntenna5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\DirectAntennas\\HG-5.cfg"
+    "filePath": "Squad\\Parts\\Utility\\DirectAntennas\\HG-5.cfg"
   },
   {
     "name": "HighGainAntenna5_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\DirectAntennas\\HG-5_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\DirectAntennas\\HG-5_v2.cfg"
   },
   {
     "name": "dockingPort2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\dockingPort\\dockingPort.cfg"
+    "filePath": "Squad\\Parts\\Utility\\dockingPort\\dockingPort.cfg"
   },
   {
     "name": "dockingPortLateral",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\dockingPortInline\\dockingPortInline.cfg"
+    "filePath": "Squad\\Parts\\Utility\\dockingPortInline\\dockingPortInline.cfg"
   },
   {
     "name": "dockingPort3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\dockingPortJr\\dockingPortJr.cfg"
+    "filePath": "Squad\\Parts\\Utility\\dockingPortJr\\dockingPortJr.cfg"
   },
   {
     "name": "dockingPort1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\dockingPortShielded\\dockingPortShielded.cfg"
+    "filePath": "Squad\\Parts\\Utility\\dockingPortShielded\\dockingPortShielded.cfg"
   },
   {
     "name": "dockingPortLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\dockingPortSr\\dockingPortSr.cfg"
+    "filePath": "Squad\\Parts\\Utility\\dockingPortSr\\dockingPortSr.cfg"
   },
   {
     "name": "fireworksLauncherBig",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Fireworks\\fireworksLauncherBig.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Fireworks\\fireworksLauncherBig.cfg"
   },
   {
     "name": "fireworksLauncherSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Fireworks\\fireworksLauncherSmall.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Fireworks\\fireworksLauncherSmall.cfg"
   },
   {
     "name": "flagPartFlat",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\flags\\flagFlat\\flagFlat.cfg"
+    "filePath": "Squad\\Parts\\Utility\\flags\\flagFlat\\flagFlat.cfg"
   },
   {
     "name": "flagPartSize0",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\flags\\flagSize0\\flagSize0.cfg"
+    "filePath": "Squad\\Parts\\Utility\\flags\\flagSize0\\flagSize0.cfg"
   },
   {
     "name": "flagPartSize1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\flags\\flagSize1\\flagSize1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\flags\\flagSize1\\flagSize1.cfg"
   },
   {
     "name": "flagPartSize2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\flags\\flagSize2\\flagSize2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\flags\\flagSize2\\flagSize2.cfg"
   },
   {
     "name": "flagPartSize3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\flags\\flagSize3\\flagSize3.cfg"
+    "filePath": "Squad\\Parts\\Utility\\flags\\flagSize3\\flagSize3.cfg"
   },
   {
     "name": "GrapplingDevice",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\GrapplingDevice\\part.cfg"
+    "filePath": "Squad\\Parts\\Utility\\GrapplingDevice\\part.cfg"
   },
   {
     "name": "ladder1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\ladderRadial\\ladderRadial.cfg"
+    "filePath": "Squad\\Parts\\Utility\\ladderRadial\\ladderRadial.cfg"
   },
   {
     "name": "telescopicLadder",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\ladderTelescopic\\ladderTelescopic.cfg"
+    "filePath": "Squad\\Parts\\Utility\\ladderTelescopic\\ladderTelescopic.cfg"
   },
   {
     "name": "telescopicLadderBay",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\ladderTelescopicBay\\ladderTelescopicBay.cfg"
+    "filePath": "Squad\\Parts\\Utility\\ladderTelescopicBay\\ladderTelescopicBay.cfg"
   },
   {
     "name": "landingLeg1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\landingLegLT-1\\landingLegLT-1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\landingLegLT-1\\landingLegLT-1.cfg"
   },
   {
     "name": "landingLeg1-2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\landingLegLT-2\\landingLegLT-2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\landingLegLT-2\\landingLegLT-2.cfg"
   },
   {
     "name": "miniLandingLeg",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\landingLegLT-5\\landingLegLT-5.cfg"
+    "filePath": "Squad\\Parts\\Utility\\landingLegLT-5\\landingLegLT-5.cfg"
   },
   {
     "name": "launchClamp1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\launchClamp1\\launchClamp1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\launchClamp1\\launchClamp1.cfg"
   },
   {
     "name": "LaunchEscapeSystem",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\launchEscapeSystem\\part.cfg"
+    "filePath": "Squad\\Parts\\Utility\\launchEscapeSystem\\part.cfg"
   },
   {
     "name": "domeLight1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Lights\\domeLight1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Lights\\domeLight1.cfg"
   },
   {
     "name": "groundLight1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Lights\\groundLight1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Lights\\groundLight1.cfg"
   },
   {
     "name": "groundLight2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Lights\\groundLight2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Lights\\groundLight2.cfg"
   },
   {
     "name": "navLight1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Lights\\navLight1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Lights\\navLight1.cfg"
   },
   {
     "name": "spotLight3 ",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Lights\\spotLight1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Lights\\spotLight1.cfg"
   },
   {
     "name": "stripLight1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\Lights\\stripLight1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\Lights\\stripLight1.cfg"
   },
   {
     "name": "linearRcs",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\linearVernorRCS\\linearRCS.cfg"
+    "filePath": "Squad\\Parts\\Utility\\linearVernorRCS\\linearRCS.cfg"
   },
   {
     "name": "vernierEngine",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\linearVernorRCS\\vernorEngine.cfg"
+    "filePath": "Squad\\Parts\\Utility\\linearVernorRCS\\vernorEngine.cfg"
   },
   {
     "name": "mk2CargoBayL",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk2CargoBay\\BayL.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk2CargoBay\\BayL.cfg"
   },
   {
     "name": "mk2CargoBayS",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk2CargoBay\\BayS.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk2CargoBay\\BayS.cfg"
   },
   {
     "name": "mk2CrewCabin",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk2CrewCabin\\mk2CrewCabin.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk2CrewCabin\\mk2CrewCabin.cfg"
   },
   {
     "name": "mk2DockingPort",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk2DockingPort\\mk2DockingPort.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk2DockingPort\\mk2DockingPort.cfg"
   },
   {
     "name": "mk3CargoBayL",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk3CargoBay\\long.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk3CargoBay\\long.cfg"
   },
   {
     "name": "mk3CargoBayM",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk3CargoBay\\medium.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk3CargoBay\\medium.cfg"
   },
   {
     "name": "mk3CargoRamp",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk3CargoBay\\ramp.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk3CargoBay\\ramp.cfg"
   },
   {
     "name": "mk3CargoBayS",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\mk3CargoBay\\short.cfg"
+    "filePath": "Squad\\Parts\\Utility\\mk3CargoBay\\short.cfg"
   },
   {
     "name": "parachuteSingle",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\parachuteMk1\\parachuteMk1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\parachuteMk1\\parachuteMk1.cfg"
   },
   {
     "name": "radialDrogue",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\parachuteMk12-R\\parachuteMk12-R.cfg"
+    "filePath": "Squad\\Parts\\Utility\\parachuteMk12-R\\parachuteMk12-R.cfg"
   },
   {
     "name": "parachuteLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\parachuteMk16-XL\\parachuteMk16-XL.cfg"
+    "filePath": "Squad\\Parts\\Utility\\parachuteMk16-XL\\parachuteMk16-XL.cfg"
   },
   {
     "name": "parachuteRadial",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\parachuteMk2-R\\parachuteMk2-R.cfg"
+    "filePath": "Squad\\Parts\\Utility\\parachuteMk2-R\\parachuteMk2-R.cfg"
   },
   {
     "name": "parachuteDrogue",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\parachuteMk25\\parachuteMk25.cfg"
+    "filePath": "Squad\\Parts\\Utility\\parachuteMk25\\parachuteMk25.cfg"
   },
   {
     "name": "stackPoint1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\radialAttachmentPoint\\radialAttachmentPoint.cfg"
+    "filePath": "Squad\\Parts\\Utility\\radialAttachmentPoint\\radialAttachmentPoint.cfg"
   },
   {
     "name": "RCSBlock_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\rcsBlockRV-105_v2\\rcsBlockRV-105.cfg"
+    "filePath": "Squad\\Parts\\Utility\\rcsBlockRV-105_v2\\rcsBlockRV-105.cfg"
   },
   {
     "name": "RCSblock_01_small",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\rcsBlockRV-105_v2\\RCSblock_01_small.cfg"
+    "filePath": "Squad\\Parts\\Utility\\rcsBlockRV-105_v2\\RCSblock_01_small.cfg"
   },
   {
     "name": "RCSLinearSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\rcsSmallLinear\\RCSLinearSmall.cfg"
+    "filePath": "Squad\\Parts\\Utility\\rcsSmallLinear\\RCSLinearSmall.cfg"
   },
   {
     "name": "RelayAntenna100",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\RelayAntennas\\RA-100.cfg"
+    "filePath": "Squad\\Parts\\Utility\\RelayAntennas\\RA-100.cfg"
   },
   {
     "name": "RelayAntenna5",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\RelayAntennas\\RA-5.cfg"
+    "filePath": "Squad\\Parts\\Utility\\RelayAntennas\\RA-5.cfg"
   },
   {
     "name": "RelayAntenna50",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\RelayAntennas\\RA-50.cfg"
+    "filePath": "Squad\\Parts\\Utility\\RelayAntennas\\RA-50.cfg"
   },
   {
     "name": "largeAdapter",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\rockomaxAdapters\\largeAdapter.cfg"
+    "filePath": "Squad\\Parts\\Utility\\rockomaxAdapters\\largeAdapter.cfg"
   },
   {
     "name": "largeAdapter2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\rockomaxAdapters\\largeAdapterShort.cfg"
+    "filePath": "Squad\\Parts\\Utility\\rockomaxAdapters\\largeAdapterShort.cfg"
   },
   {
     "name": "ServiceBay_125_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\ServiceBay_v2\\ServiceBay_125_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\ServiceBay_v2\\ServiceBay_125_v2.cfg"
   },
   {
     "name": "ServiceBay_250_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\ServiceBay_v2\\ServiceBay_250_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\ServiceBay_v2\\ServiceBay_250_v2.cfg"
   },
   {
     "name": "smallClaw",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\smallClaw\\smallClaw.cfg"
+    "filePath": "Squad\\Parts\\Utility\\smallClaw\\smallClaw.cfg"
   },
   {
     "name": "spotLight1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\spotLightMk1\\spotLightMk1.cfg"
+    "filePath": "Squad\\Parts\\Utility\\spotLightMk1\\spotLightMk1.cfg"
   },
   {
     "name": "spotLight1_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\spotLightMk1_v2\\spotLightMk1_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\spotLightMk1_v2\\spotLightMk1_v2.cfg"
   },
   {
     "name": "spotLight2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\spotLightMk2\\spotLightMk2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\spotLightMk2\\spotLightMk2.cfg"
   },
   {
     "name": "spotLight2_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\spotLightMk2_v2\\spotLightMk2_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\spotLightMk2_v2\\spotLightMk2_v2.cfg"
   },
   {
     "name": "stackBiCoupler_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\stackCouplers\\stackBiCoupler_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\stackCouplers\\stackBiCoupler_v2.cfg"
   },
   {
     "name": "stackQuadCoupler",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\stackCouplers\\stackQuadCoupler.cfg"
+    "filePath": "Squad\\Parts\\Utility\\stackCouplers\\stackQuadCoupler.cfg"
   },
   {
     "name": "stackTriCoupler_v2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Utility\\stackCouplers\\stackTriCoupler_v2.cfg"
+    "filePath": "Squad\\Parts\\Utility\\stackCouplers\\stackTriCoupler_v2.cfg"
   },
   {
     "name": "White",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\VariantThemes.cfg"
+    "filePath": "Squad\\Parts\\VariantThemes.cfg"
   },
   {
     "name": "GearLarge",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\LandingGear\\GearExtraLarge.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\LandingGear\\GearExtraLarge.cfg"
   },
   {
     "name": "GearFixed",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\LandingGear\\GearFixed.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\LandingGear\\GearFixed.cfg"
   },
   {
     "name": "GearFree",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\LandingGear\\GearFree.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\LandingGear\\GearFree.cfg"
   },
   {
     "name": "GearMedium",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\LandingGear\\GearLarge.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\LandingGear\\GearLarge.cfg"
   },
   {
     "name": "GearSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\LandingGear\\GearMedium.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\LandingGear\\GearMedium.cfg"
   },
   {
     "name": "SmallGearBay",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\LandingGear\\GearSmall.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\LandingGear\\GearSmall.cfg"
   },
   {
     "name": "roverWheel1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\roverWheelM1\\roverWheelM1.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\roverWheelM1\\roverWheelM1.cfg"
   },
   {
     "name": "roverWheel2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\roverWheelS2\\roverWheelS2.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\roverWheelS2\\roverWheelS2.cfg"
   },
   {
     "name": "wheelMed",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\roverWheelTR-2L\\roverWheelTR-2L.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\roverWheelTR-2L\\roverWheelTR-2L.cfg"
   },
   {
     "name": "roverWheel3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\Squad\\Parts\\Wheel\\roverWheelXL3\\roverWheelXL3.cfg"
+    "filePath": "Squad\\Parts\\Wheel\\roverWheelXL3\\roverWheelXL3.cfg"
   }
 ]

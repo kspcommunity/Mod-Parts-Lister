@@ -1,266 +1,266 @@
 [
   {
     "name": "bahaGatlingGun",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\20mmVulcan\\vulcanTurret.cfg"
+    "filePath": "BDArmory\\Parts\\20mmVulcan\\vulcanTurret.cfg"
   },
   {
     "name": "bahaTurret",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\50CalTurret\\50cal.cfg"
+    "filePath": "BDArmory\\Parts\\50CalTurret\\50cal.cfg"
   },
   {
     "name": "bahaABL",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\ABL\\ABL.cfg"
+    "filePath": "BDArmory\\Parts\\ABL\\ABL.cfg"
   },
   {
     "name": "bahaAdjustableRail",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\adjustableRail\\adjustableRail.cfg"
+    "filePath": "BDArmory\\Parts\\adjustableRail\\adjustableRail.cfg"
   },
   {
     "name": "bahaAgm86B",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AGM86-17\\AGM86-17.cfg"
+    "filePath": "BDArmory\\Parts\\AGM86-17\\AGM86-17.cfg"
   },
   {
     "name": "bahaAim120",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\aim-120\\amraam.cfg"
+    "filePath": "BDArmory\\Parts\\aim-120\\amraam.cfg"
   },
   {
     "name": "AMRAAM_EMP",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\aim-120\\amraam_emp.cfg"
+    "filePath": "BDArmory\\Parts\\aim-120\\amraam_emp.cfg"
   },
   {
     "name": "bdPilotAI",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\aiPilot\\part.cfg"
+    "filePath": "BDArmory\\Parts\\aiPilot\\part.cfg"
   },
   {
     "name": "bdShipAI",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\aiPilot\\surface_ai.cfg"
+    "filePath": "BDArmory\\Parts\\aiPilot\\surface_ai.cfg"
   },
   {
     "name": "baha20mmAmmo",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AmmoBox\\20mm.cfg"
+    "filePath": "BDArmory\\Parts\\AmmoBox\\20mm.cfg"
   },
   {
     "name": "baha30mmAmmo",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AmmoBox\\30mm.cfg"
+    "filePath": "BDArmory\\Parts\\AmmoBox\\30mm.cfg"
   },
   {
     "name": "baha50CalAmmo",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AmmoBox\\50cal.cfg"
+    "filePath": "BDArmory\\Parts\\AmmoBox\\50cal.cfg"
   },
   {
     "name": "BDAcUniversalAmmoBox",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AmmoBox\\BDAcUniversalAmmoBox.cfg"
+    "filePath": "BDArmory\\Parts\\AmmoBox\\BDAcUniversalAmmoBox.cfg"
   },
   {
     "name": "bahaCannonShellBox",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AmmoBox\\cannonShell.cfg"
+    "filePath": "BDArmory\\Parts\\AmmoBox\\cannonShell.cfg"
   },
   {
     "name": "UniversalAmmoBoxBDA",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\AmmoBox\\UniversalAmmoBoxBDA.cfg"
+    "filePath": "BDArmory\\Parts\\AmmoBox\\UniversalAmmoBoxBDA.cfg"
   },
   {
     "name": "BD1x1slopeArmor",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\ArmorPlate\\BD1x1panelArmor.cfg"
+    "filePath": "BDArmory\\Parts\\ArmorPlate\\BD1x1panelArmor.cfg"
   },
   {
     "name": "awacsRadar",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\awacsRadar\\awacsRadar.cfg"
+    "filePath": "BDArmory\\Parts\\awacsRadar\\awacsRadar.cfg"
   },
   {
     "name": "bdammGuidanceModule",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\bammGuidance\\part.cfg"
+    "filePath": "BDArmory\\Parts\\bammGuidance\\part.cfg"
   },
   {
     "name": "bahaBrowningAnm2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\browninganm2\\browninganm2.cfg"
+    "filePath": "BDArmory\\Parts\\browninganm2\\browninganm2.cfg"
   },
   {
     "name": "bahaClusterBomb",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\clusterBomb\\clusterBomb.cfg"
+    "filePath": "BDArmory\\Parts\\clusterBomb\\clusterBomb.cfg"
   },
   {
     "name": "bahaChaffPod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\cmDropper\\chaffDispenser.cfg"
+    "filePath": "BDArmory\\Parts\\cmDropper\\chaffDispenser.cfg"
   },
   {
     "name": "bahaCmPod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\cmDropper\\flareDispenser.cfg"
+    "filePath": "BDArmory\\Parts\\cmDropper\\flareDispenser.cfg"
   },
   {
     "name": "bahaECMJammer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\ecmJammer\\ecmj131.cfg"
+    "filePath": "BDArmory\\Parts\\ecmJammer\\ecmj131.cfg"
   },
   {
     "name": "bahaGau-8",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\gau-8\\gau8.cfg"
+    "filePath": "BDArmory\\Parts\\gau-8\\gau8.cfg"
   },
   {
     "name": "bahaGoalKeeper",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\goalkeeper\\goalkeeper.cfg"
+    "filePath": "BDArmory\\Parts\\goalkeeper\\goalkeeper.cfg"
   },
   {
     "name": "GoalKeeperBDAcMk1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\GoalKeeperBDAcMk1\\GoalKeeperBDAcMk1.cfg"
+    "filePath": "BDArmory\\Parts\\GoalKeeperBDAcMk1\\GoalKeeperBDAcMk1.cfg"
   },
   {
     "name": "BDAcGKmk2",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\GoalKeeperBDAcMk2\\BDAcGKmk2.cfg"
+    "filePath": "BDArmory\\Parts\\GoalKeeperBDAcMk2\\BDAcGKmk2.cfg"
   },
   {
     "name": "scanLockRadar1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\groundRadar\\radar1.cfg"
+    "filePath": "BDArmory\\Parts\\groundRadar\\radar1.cfg"
   },
   {
     "name": "scanLargeRadar",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\groundRadar\\radar2.cfg"
+    "filePath": "BDArmory\\Parts\\groundRadar\\radar2.cfg"
   },
   {
     "name": "bahaH70Launcher",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\h70Launcher\\h70Launcher.cfg"
+    "filePath": "BDArmory\\Parts\\h70Launcher\\h70Launcher.cfg"
   },
   {
     "name": "bahaH70Turret",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\h70turret\\h70turret.cfg"
+    "filePath": "BDArmory\\Parts\\h70turret\\h70turret.cfg"
   },
   {
     "name": "bahaHarm",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\harm\\harm.cfg"
+    "filePath": "BDArmory\\Parts\\harm\\harm.cfg"
   },
   {
     "name": "bahaHEKV1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\hekv1\\hekv1.cfg"
+    "filePath": "BDArmory\\Parts\\hekv1\\hekv1.cfg"
   },
   {
     "name": "bahaAGM-114",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\hellfireMissile\\hellfireMissile.cfg"
+    "filePath": "BDArmory\\Parts\\hellfireMissile\\hellfireMissile.cfg"
   },
   {
     "name": "HellfireEMP",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\hellfireMissile\\hellfire_emp.cfg"
+    "filePath": "BDArmory\\Parts\\hellfireMissile\\hellfire_emp.cfg"
   },
   {
     "name": "bahaHiddenVulcan",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\hiddenVulcan\\hiddenVulcan.cfg"
+    "filePath": "BDArmory\\Parts\\hiddenVulcan\\hiddenVulcan.cfg"
   },
   {
     "name": "bahaJdamMk83",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\jdamMk83\\jdam.cfg"
+    "filePath": "BDArmory\\Parts\\jdamMk83\\jdam.cfg"
   },
   {
     "name": "bahaM102Howitzer",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\m102Howitzer\\m102.cfg"
+    "filePath": "BDArmory\\Parts\\m102Howitzer\\m102.cfg"
   },
   {
     "name": "bahaM1Abrams",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\m1Abrams\\m1Abrams.cfg"
+    "filePath": "BDArmory\\Parts\\m1Abrams\\m1Abrams.cfg"
   },
   {
     "name": "bahaM230ChainGun",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\m230ChainGun\\m230.cfg"
+    "filePath": "BDArmory\\Parts\\m230ChainGun\\m230.cfg"
   },
   {
     "name": "bahaAGM-65",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\maverick\\maverickMissile.cfg"
+    "filePath": "BDArmory\\Parts\\maverick\\maverickMissile.cfg"
   },
   {
     "name": "missileTurretTest",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\missileTurret\\missileTurret.cfg"
+    "filePath": "BDArmory\\Parts\\missileTurret\\missileTurret.cfg"
   },
   {
     "name": "bahaMk82Bomb",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\mk82Bomb\\mk82Bomb.cfg"
+    "filePath": "BDArmory\\Parts\\mk82Bomb\\mk82Bomb.cfg"
   },
   {
     "name": "bahaMk82BombBrake",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\mk82BombBrake\\mk82BombBrake.cfg"
+    "filePath": "BDArmory\\Parts\\mk82BombBrake\\mk82BombBrake.cfg"
   },
   {
     "name": "bahaOMillennium",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\oMillennium\\oMillennium.cfg"
+    "filePath": "BDArmory\\Parts\\oMillennium\\oMillennium.cfg"
   },
   {
     "name": "bahaPac-3",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\pac-3\\pac3.cfg"
+    "filePath": "BDArmory\\Parts\\pac-3\\pac3.cfg"
   },
   {
     "name": "patriotLauncherTurret",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\patriotLauncher\\patriotLauncher.cfg"
+    "filePath": "BDArmory\\Parts\\patriotLauncher\\patriotLauncher.cfg"
   },
   {
     "name": "radarDataReceiver",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\radarDataReceiver\\radarDataReceiver.cfg"
+    "filePath": "BDArmory\\Parts\\radarDataReceiver\\radarDataReceiver.cfg"
   },
   {
     "name": "bdRadome1",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\radome125\\radome1.cfg"
+    "filePath": "BDArmory\\Parts\\radome125\\radome1.cfg"
   },
   {
     "name": "bdRadome1inline",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\radome125\\radome1inline.cfg"
+    "filePath": "BDArmory\\Parts\\radome125\\radome1inline.cfg"
   },
   {
     "name": "bdRadome1snub",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\radome125\\radome1snub.cfg"
+    "filePath": "BDArmory\\Parts\\radome125\\radome1snub.cfg"
   },
   {
     "name": "bahaRBS-15Cruise",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\RBS-15-17\\rbs15-17.cfg"
+    "filePath": "BDArmory\\Parts\\RBS-15-17\\rbs15-17.cfg"
   },
   {
     "name": "bahaRBS-15ALCruise",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\RBS-15-17AL\\rbs15-17AL.cfg"
+    "filePath": "BDArmory\\Parts\\RBS-15-17AL\\rbs15-17AL.cfg"
   },
   {
     "name": "bdRotBombBay",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\rotaryBombBay\\rotaryBombBay.cfg"
+    "filePath": "BDArmory\\Parts\\rotaryBombBay\\rotaryBombBay.cfg"
   },
   {
     "name": "bahaS-8Launcher",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\s-8Launcher\\s-8Launcher.cfg"
+    "filePath": "BDArmory\\Parts\\s-8Launcher\\s-8Launcher.cfg"
   },
   {
     "name": "SaturnAL31",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\SaturnAL31\\SaturnAL31.cfg"
+    "filePath": "BDArmory\\Parts\\SaturnAL31\\SaturnAL31.cfg"
   },
   {
     "name": "bahaAim9",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\sidewinder\\sidewinder.cfg"
+    "filePath": "BDArmory\\Parts\\sidewinder\\sidewinder.cfg"
   },
   {
     "name": "bdWarheadSmall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\smallWarhead\\part.cfg"
+    "filePath": "BDArmory\\Parts\\smallWarhead\\part.cfg"
   },
   {
     "name": "bahaSmokeCmPod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\smokeCm\\part.cfg"
+    "filePath": "BDArmory\\Parts\\smokeCm\\part.cfg"
   },
   {
     "name": "BDAsonarPod1A",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\SonarPod\\BDAsonarPod1A.cfg"
+    "filePath": "BDArmory\\Parts\\SonarPod\\BDAsonarPod1A.cfg"
   },
   {
     "name": "StingRayBDATorpedo",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\StingRayBDA\\StingRayBDATorpedo.cfg"
+    "filePath": "BDArmory\\Parts\\StingRayBDA\\StingRayBDATorpedo.cfg"
   },
   {
     "name": "bahaFlirBall",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\targetingCam\\flirBall.cfg"
+    "filePath": "BDArmory\\Parts\\targetingCam\\flirBall.cfg"
   },
   {
     "name": "bahaCamPod",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\targetingCam\\targetingCam.cfg"
+    "filePath": "BDArmory\\Parts\\targetingCam\\targetingCam.cfg"
   },
   {
     "name": "towLauncherTurret",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\towLauncher\\towLauncher.cfg"
+    "filePath": "BDArmory\\Parts\\towLauncher\\towLauncher.cfg"
   },
   {
     "name": "bahaTowMissile",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\towMissile\\towMissile.cfg"
+    "filePath": "BDArmory\\Parts\\towMissile\\towMissile.cfg"
   },
   {
     "name": "missileController",
-    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\BDArmory\\Parts\\weaponManager\\weaponManager.cfg"
+    "filePath": "BDArmory\\Parts\\weaponManager\\weaponManager.cfg"
   }
 ]
