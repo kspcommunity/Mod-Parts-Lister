@@ -1,0 +1,30 @@
+[
+  {
+    "name": "JackOLantern0",
+    "filePath": "JackOLantern\\Parts\\size0.cfg"
+  },
+  {
+    "name": "JackOLantern00",
+    "filePath": "JackOLantern\\Parts\\size00.cfg"
+  },
+  {
+    "name": "JackOLantern1",
+    "filePath": "JackOLantern\\Parts\\size1.cfg"
+  },
+  {
+    "name": "JackOLantern2",
+    "filePath": "JackOLantern\\Parts\\size2.cfg"
+  },
+  {
+    "name": "JackOLantern3",
+    "filePath": "JackOLantern\\Parts\\size3.cfg"
+  },
+  {
+    "name": "JackOLantern4",
+    "filePath": "JackOLantern\\Parts\\size4.cfg"
+  },
+  {
+    "name": "JackOLantern5",
+    "filePath": "JackOLantern\\Parts\\size5.cfg"
+  }
+]

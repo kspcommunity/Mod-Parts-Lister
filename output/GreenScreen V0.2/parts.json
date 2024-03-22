@@ -1,0 +1,10 @@
+[
+  {
+    "name": "greenPanel1",
+    "filePath": "GreenScreen V0.2\\Parts\\greenScreenPanel1x1\\structuralPanel1x1.cfg"
+  },
+  {
+    "name": "greenPanel2",
+    "filePath": "GreenScreen V0.2\\Parts\\greenScreenPanel2x2\\structuralPanel2x2.cfg"
+  }
+]

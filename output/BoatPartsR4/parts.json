@@ -1,0 +1,70 @@
+[
+  {
+    "name": "miniSubBow\t",
+    "filePath": "BoatPartsR4\\Parts\\miniSubBow\\part.cfg"
+  },
+  {
+    "name": "miniSubCenter\t",
+    "filePath": "BoatPartsR4\\Parts\\miniSubCenter\\part.cfg"
+  },
+  {
+    "name": "miniSubLimpet\t",
+    "filePath": "BoatPartsR4\\Parts\\miniSubLimpet\\part.cfg"
+  },
+  {
+    "name": "miniSubProbe\t",
+    "filePath": "BoatPartsR4\\Parts\\miniSubLimpet\\part2.cfg"
+  },
+  {
+    "name": "miniSubSaddleTank\t",
+    "filePath": "BoatPartsR4\\Parts\\miniSubSaddleTank\\part.cfg"
+  },
+  {
+    "name": "miniSubSternb\t",
+    "filePath": "BoatPartsR4\\Parts\\miniSubStern\\part.cfg"
+  },
+  {
+    "name": "SSNBow",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Bow\\part.cfg"
+  },
+  {
+    "name": "SSNBunk",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Bunk\\part.cfg"
+  },
+  {
+    "name": "SSNcAft",
+    "filePath": "BoatPartsR4\\Parts\\SSN-CenterAft\\part.cfg"
+  },
+  {
+    "name": "SSNcFore",
+    "filePath": "BoatPartsR4\\Parts\\SSN-CenterFore\\part.cfg"
+  },
+  {
+    "name": "SSNCmd",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Cmd\\part.cfg"
+  },
+  {
+    "name": "SSNIntVHatch",
+    "filePath": "BoatPartsR4\\Parts\\SSN-IntVHatch\\part.cfg"
+  },
+  {
+    "name": "SSNksP",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Keel\\part.cfg"
+  },
+  {
+    "name": "SSNksPb",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Keel\\part2.cfg"
+  },
+  {
+    "name": "SSNcPeri",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Periscope\\part.cfg"
+  },
+  {
+    "name": "SSNPropH",
+    "filePath": "BoatPartsR4\\Parts\\SSN-PropHousing\\part.cfg"
+  },
+  {
+    "name": "SSNStern",
+    "filePath": "BoatPartsR4\\Parts\\SSN-Stern\\part.cfg"
+  }
+]

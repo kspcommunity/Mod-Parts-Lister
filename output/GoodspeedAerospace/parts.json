@@ -1,0 +1,150 @@
+[
+  {
+    "name": "goodspeedSideNose1250",
+    "filePath": "GoodspeedAerospace\\Parts\\Aero\\sidenose.cfg"
+  },
+  {
+    "name": "goodspeedDiscovery1",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\discovery1.cfg"
+  },
+  {
+    "name": "goodspeedSmartDockingPortSr",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\dockingSmartSr.cfg"
+  },
+  {
+    "name": "goodspeedLaikaMk1",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\LaikaMk1\\LaikaMk1.cfg"
+  },
+  {
+    "name": "goodspeedCMG5RCU125",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\rcu125.cfg"
+  },
+  {
+    "name": "goodspeedCMG20RCU250",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\rcu250.cfg"
+  },
+  {
+    "name": "goodspeedStationCommandCore3",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\scc3.cfg"
+  },
+  {
+    "name": "goodspeedTinyProbeCube",
+    "filePath": "GoodspeedAerospace\\Parts\\Command\\tinycube.cfg"
+  },
+  {
+    "name": "goodspeed_zap01",
+    "filePath": "GoodspeedAerospace\\Parts\\Electrical\\microRTG.cfg"
+  },
+  {
+    "name": "goodspeedNuclearReactor1",
+    "filePath": "GoodspeedAerospace\\Parts\\Electrical\\reactor1.cfg"
+  },
+  {
+    "name": "goodspeedNuclearReactor2",
+    "filePath": "GoodspeedAerospace\\Parts\\Electrical\\reactor2.cfg"
+  },
+  {
+    "name": "goodspeedNuclearReactor3",
+    "filePath": "GoodspeedAerospace\\Parts\\Electrical\\reactor3.cfg"
+  },
+  {
+    "name": "goodspeedGoldFuelBall",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\goldfuelball.cfg"
+  },
+  {
+    "name": "goodspeedMonoStack3750",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\monostack3750.cfg"
+  },
+  {
+    "name": "goodspeedOrangeFuelBall",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\orangefuelball.cfg"
+  },
+  {
+    "name": "goodspeedOrangeFuelPill",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\orangefuelpill.cfg"
+  },
+  {
+    "name": "goodspeedJumboQuad",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\orangequad.cfg"
+  },
+  {
+    "name": "goodspeedRoundFuelCap",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\roundfuelcap.cfg"
+  },
+  {
+    "name": "goodspeedSideTank1",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\sidetank1.cfg"
+  },
+  {
+    "name": "goodspeedGoldXenonBall",
+    "filePath": "GoodspeedAerospace\\Parts\\FuelTank\\xenonball.cfg"
+  },
+  {
+    "name": "goodspeedDetector1",
+    "filePath": "GoodspeedAerospace\\Parts\\Science\\detector.cfg"
+  },
+  {
+    "name": "goodspeedStashBox",
+    "filePath": "GoodspeedAerospace\\Parts\\Science\\stashbox.cfg"
+  },
+  {
+    "name": "goodspeedHexFrame1",
+    "filePath": "GoodspeedAerospace\\Parts\\Structural\\hexframe1.cfg"
+  },
+  {
+    "name": "goodspeedHexFrame3",
+    "filePath": "GoodspeedAerospace\\Parts\\Structural\\hexframe3.cfg"
+  },
+  {
+    "name": "goodspeedHexSideMount1",
+    "filePath": "GoodspeedAerospace\\Parts\\Structural\\hexsidem1.cfg"
+  },
+  {
+    "name": "goodspeedSideMount1250",
+    "filePath": "GoodspeedAerospace\\Parts\\Structural\\sidemount.cfg"
+  },
+  {
+    "name": "goodspeedStackPoint0",
+    "filePath": "GoodspeedAerospace\\Parts\\Structural\\stackpoints.cfg"
+  },
+  {
+    "name": "goodspeedSweptPylon400",
+    "filePath": "GoodspeedAerospace\\Parts\\Structural\\sweptpylon.cfg"
+  },
+  {
+    "name": "goodspeedBipropRCS",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\biproprcs\\biproprcs.cfg"
+  },
+  {
+    "name": "goodspeedDockingPort2i",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\dockingPort2i.cfg"
+  },
+  {
+    "name": "goodspeedDockingPort2iJr",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\dockingPort2iJr.cfg"
+  },
+  {
+    "name": "goodspeedDockingPort2iSr",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\dockingPort2iSr.cfg"
+  },
+  {
+    "name": "goodspeedRocketPartsTank",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\partstank.cfg"
+  },
+  {
+    "name": "goodspeedPartsWarehouse",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\partswarehouse.cfg"
+  },
+  {
+    "name": "goodspeed125cmWeight",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\weight125cm.cfg"
+  },
+  {
+    "name": "goodspeed250cmWeight",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\weight250cm.cfg"
+  },
+  {
+    "name": "goodspeed625mmWeight",
+    "filePath": "GoodspeedAerospace\\Parts\\Utility\\weight625mm.cfg"
+  }
+]

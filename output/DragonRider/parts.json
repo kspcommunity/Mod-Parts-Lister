@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dragr-Capsule",
+    "filePath": "DragonRider\\Parts\\DragonCapsule\\dragr-Capsule.cfg"
+  },
+  {
+    "name": "dragr-Cover",
+    "filePath": "DragonRider\\Parts\\DragonCover\\dragr-Cover.cfg"
+  },
+  {
+    "name": "dragr-Nosecone",
+    "filePath": "DragonRider\\Parts\\DragonNosecone\\dragr-Nosecone.cfg"
+  },
+  {
+    "name": "dragr-Saddle",
+    "filePath": "DragonRider\\Parts\\DragonSaddle\\dragr-Saddle.cfg"
+  },
+  {
+    "name": "dragr-Trunk",
+    "filePath": "DragonRider\\Parts\\DragonTrunk\\dragr-Trunk.cfg"
+  }
+]

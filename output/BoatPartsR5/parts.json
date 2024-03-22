@@ -1,0 +1,18 @@
+[
+  {
+    "name": "IDCatapultTest",
+    "filePath": "BoatPartsR5\\Parts\\IDCatapult\\part.cfg"
+  },
+  {
+    "name": "R5ShipProp",
+    "filePath": "BoatPartsR5\\Parts\\IDR5ShipProp\\part.cfg"
+  },
+  {
+    "name": "R5ShipPropMed",
+    "filePath": "BoatPartsR5\\Parts\\IDR5ShipProp\\part2.cfg"
+  },
+  {
+    "name": "R5ShipPropSmall",
+    "filePath": "BoatPartsR5\\Parts\\IDR5ShipSProp\\part.cfg"
+  }
+]
