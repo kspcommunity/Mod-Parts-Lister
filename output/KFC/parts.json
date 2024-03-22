@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MagneticBerth",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\AGP.cfg"
+  },
+  {
+    "name": "ArrestWire",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\ArrestWire.cfg"
+  },
+  {
+    "name": "Catapult",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\Catapult.cfg"
+  },
+  {
+    "name": "CLLS",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\CLLS.cfg"
+  },
+  {
+    "name": "FixedPoint",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\FixedPoint.cfg"
+  },
+  {
+    "name": "FuelCap",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\FuelCap.cfg"
+  },
+  {
+    "name": "FuelNozzle",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\FuelNozzle.cfg"
+  },
+  {
+    "name": "OLS",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\OLS.cfg"
+  },
+  {
+    "name": "ReloadableRail",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\ReloadableRail.cfg"
+  },
+  {
+    "name": "TailHook",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\TailHook.cfg"
+  },
+  {
+    "name": "TailHook2",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\TailHook2.cfg"
+  },
+  {
+    "name": "MagneticHook",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\TailHookLarge.cfg"
+  },
+  {
+    "name": "TieDown",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\CVAccessories\\TieDown.cfg"
+  },
+  {
+    "name": "Enterprise",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\Enterprise\\Enterprise.cfg"
+  },
+  {
+    "name": "Liaoning",
+    "filePath": "D:\\kspcommunity\\Mod-Parts-Lister\\GameData\\KFC\\Parts\\Liaoning\\Liaoning.cfg"
+  }
+]

@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const kspGameDataPath = path.join(__dirname, 'GameData');
+const outputFolderPath = path.join(__dirname, 'output');
 
 function listMods() {
     const mods = fs.readdirSync(kspGameDataPath)
@@ -15,26 +16,45 @@ function listParts(mod) {
         return [];
     }
     
-    const parts = fs.readdirSync(partsPath)
-                    .filter(item => fs.statSync(path.join(partsPath, item)).isDirectory());
+    const parts = [];
+    const traverseDirectory = (dir) => {
+        const items = fs.readdirSync(dir);
+        items.forEach(item => {
+            const itemPath = path.join(dir, item);
+            if (fs.statSync(itemPath).isDirectory()) {
+                traverseDirectory(itemPath); // Recursively traverse subdirectories
+            } else if (item.endsWith('.cfg')) {
+                const partConfig = fs.readFileSync(itemPath, 'utf8');
+                const nameMatch = partConfig.match(/name\s*=\s*(.+)/);
+                const name = nameMatch ? nameMatch[1] : null;
+                if (name !== null) {
+                    parts.push({ name, filePath: itemPath });
+                }
+            }
+        });
+    };
+    traverseDirectory(partsPath);
+    
     return parts;
 }
 
-function saveToJson(mods) {
-    const modsWithParts = mods.map(mod => {
-        return {
-            modName: mod,
-            parts: listParts(mod)
-        };
-    });
+function createModFoldersWithParts(mods) {
+    if (!fs.existsSync(outputFolderPath)) {
+        fs.mkdirSync(outputFolderPath);
+    }
 
-    const jsonContent = JSON.stringify(modsWithParts, null, 2);
-    const outputFile = 'mods.json';
-    
-    fs.writeFileSync(outputFile, jsonContent);
-    
-    console.log(`List of mods with parts saved to ${outputFile}`);
+    mods.forEach(mod => {
+        const modFolderPath = path.join(outputFolderPath, mod);
+        if (!fs.existsSync(modFolderPath)) {
+            fs.mkdirSync(modFolderPath);
+        }
+
+        const parts = listParts(mod);
+        const partsJson = JSON.stringify(parts, null, 2);
+        fs.writeFileSync(path.join(modFolderPath, 'parts.json'), partsJson);
+        console.log(`Parts JSON created for mod: ${mod}`);
+    });
 }
 
 const modsList = listMods();
-saveToJson(modsList);
+createModFoldersWithParts(modsList);
