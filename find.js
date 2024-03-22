@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const outputFolderPath = path.join(__dirname, 'output');
+const outputFolderPath = path.join(__dirname, 'data');
 
 function findPart(partName) {
     const mods = fs.readdirSync(outputFolderPath);

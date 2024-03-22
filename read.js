@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const craftsFolderPath = path.join(__dirname, 'crafts');
-const outputFolderPath = path.join(__dirname, 'output');
+const outputFolderPath = path.join(__dirname, 'data');
 
 function readCraftFile(craftFileName) {
     const craftFilePath = path.join(craftsFolderPath, craftFileName);

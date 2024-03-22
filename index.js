@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const kspGameDataPath = path.join(__dirname, 'GameData');
-const outputFolderPath = path.join(__dirname, 'output');
+const outputFolderPath = path.join(__dirname, 'data');
 
 function listMods() {
     const mods = fs.readdirSync(kspGameDataPath)
