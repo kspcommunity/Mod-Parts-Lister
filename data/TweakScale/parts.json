@@ -1,9 +1,5 @@
 [
   {
-    "name": "exampleDiscrete",
-    "filePath": "TweakScale\\DefaultScales.cfg"
-  },
-  {
     "name": "AIES_Probe",
     "filePath": "TweakScale\\Deprecating\\patches\\AIES_TweakScale.cfg"
   },
@@ -100,44 +96,8 @@
     "filePath": "TweakScale\\patches\\035_ScaleBehaviors_Extended.cfg"
   },
   {
-    "name": "AIES_Probe",
-    "filePath": "TweakScale\\patches\\AIES_TweakScale.cfg"
-  },
-  {
-    "name": "TweakScale",
-    "filePath": "TweakScale\\patches\\BetterRovemates_TweakScale.cfg"
-  },
-  {
-    "name": "Klockheed_stack",
-    "filePath": "TweakScale\\patches\\KH_SSE_TweakScale.cfg"
-  },
-  {
     "name": "KOSMOS_stack",
     "filePath": "TweakScale\\patches\\KOSMOS_TweakScale.cfg"
-  },
-  {
-    "name": "TweakScale",
-    "filePath": "TweakScale\\patches\\MechJeb_TweakScale.cfg"
-  },
-  {
-    "name": "SSPXR_stack25",
-    "filePath": "TweakScale\\patches\\SSPXR_TweakScale.cfg"
-  },
-  {
-    "name": "TweakScale",
-    "filePath": "TweakScale\\patches\\Tantares_TweakScale.cfg"
-  },
-  {
-    "name": "Part",
-    "filePath": "TweakScale\\ScaleExponents.cfg"
-  },
-  {
-    "name": "FSfuelSwitch",
-    "filePath": "TweakScale\\ScaleExponents_Firespitter.cfg"
-  },
-  {
-    "name": "HLEnvelopePartModule",
-    "filePath": "TweakScale\\ScaleExponents_HLAirships.cfg"
   },
   {
     "name": "KASModuleGrab",
@@ -146,25 +106,5 @@
   {
     "name": "ModuleKISInventory",
     "filePath": "TweakScale\\ScaleExponents_KIS.cfg"
-  },
-  {
-    "name": "ModuleCurvedSolarPanel",
-    "filePath": "TweakScale\\ScaleExponents_NF.cfg"
-  },
-  {
-    "name": "OPTRamIntake",
-    "filePath": "TweakScale\\ScaleExponents_OPT.cfg"
-  },
-  {
-    "name": "ModuleGeneratorExtended",
-    "filePath": "TweakScale\\ScaleExponents_StockExtended.cfg"
-  },
-  {
-    "name": "ModuleTweakableDecouple",
-    "filePath": "TweakScale\\ScaleExponents_TweakableEverything.cfg"
-  },
-  {
-    "name": "ModuleLifeSupportRecycler",
-    "filePath": "TweakScale\\ScaleExponents_USI.cfg"
   }
 ]
