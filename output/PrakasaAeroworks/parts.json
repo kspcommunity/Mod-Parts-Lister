@@ -1,0 +1,78 @@
+[
+  {
+    "name": "AeroEngineHousing",
+    "filePath": "PrakasaAeroworks\\parts\\AerodynamicEngineHousing\\AeroEngineHousing.cfg"
+  },
+  {
+    "name": "AsimaPod",
+    "filePath": "PrakasaAeroworks\\parts\\AsimaPod\\AsimaPod.cfg"
+  },
+  {
+    "name": "AsimaPodS2",
+    "filePath": "PrakasaAeroworks\\parts\\AsimaPodS2\\AsimaPodS2.cfg"
+  },
+  {
+    "name": "ChiknaScram",
+    "filePath": "PrakasaAeroworks\\parts\\ChiknaEngine\\ChiknaSCRAM.cfg"
+  },
+  {
+    "name": "PrakCrewCabin",
+    "filePath": "PrakasaAeroworks\\parts\\CrewCabin\\PrakCrewCabin.cfg"
+  },
+  {
+    "name": "Dekhana",
+    "filePath": "PrakasaAeroworks\\parts\\DekhanaPod\\DekhanaCockpit.cfg"
+  },
+  {
+    "name": "KalpanPod",
+    "filePath": "PrakasaAeroworks\\parts\\KalpanPod\\KalpanCockpit.cfg"
+  },
+  {
+    "name": "NagaPod",
+    "filePath": "PrakasaAeroworks\\parts\\NagaCockpit\\NagaCockpit.cfg"
+  },
+  {
+    "name": "NirekshaPod",
+    "filePath": "PrakasaAeroworks\\parts\\NirekshaPod\\NirekshaCockpit.cfg"
+  },
+  {
+    "name": "SadhakPod",
+    "filePath": "PrakasaAeroworks\\parts\\SadhakPod\\SadhakCockpit.cfg"
+  },
+  {
+    "name": "VyapakScram",
+    "filePath": "PrakasaAeroworks\\parts\\VyapakEngine\\VyapakSCRAM.cfg"
+  },
+  {
+    "name": "AsimaInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\AsimaInternals\\internal.cfg"
+  },
+  {
+    "name": "AsimaS2Internals",
+    "filePath": "PrakasaAeroworks\\spaces\\AsimaS2Internals\\internal.cfg"
+  },
+  {
+    "name": "CabinInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\CabinInternals\\internal.cfg"
+  },
+  {
+    "name": "DekhanaInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\DekhanaInternals\\internal.cfg"
+  },
+  {
+    "name": "KalpanInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\KalpanInternals\\KalpanInternals.cfg"
+  },
+  {
+    "name": "NagaInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\NagaInternals\\Internals.cfg"
+  },
+  {
+    "name": "NirekshaInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\NirekshaInternals\\internal.cfg"
+  },
+  {
+    "name": "SadhakInternals",
+    "filePath": "PrakasaAeroworks\\spaces\\SadhakInternals\\internal.cfg"
+  }
+]

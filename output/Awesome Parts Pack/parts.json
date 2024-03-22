@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "name": "KKAOSS_Battery_Tank",
+    "filePath": "Awesome Parts Pack\\GameData\\KPBS Parts\\tank_Batterylarge\\tank_Batterylarge.cfg"
+  },
+  {
+    "name": "medCone",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Aero\\MedCone\\MedCone.cfg"
+  },
+  {
+    "name": "roverBody2",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Command\\probeRovemate2\\probeRovemate2.cfg"
+  },
+  {
+    "name": "LSA",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Electrics\\LSA\\LSA.cfg"
+  },
+  {
+    "name": "batteryBankMedium",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Electrics\\z-2kBattery\\z-2kBattery.cfg"
+  },
+  {
+    "name": "B1",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Engine\\liquidEngineB1\\liquidEngineB1.cfg"
+  },
+  {
+    "name": "nuclearEngine2",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Engine\\liquidEngineNuke\\liquidEngineNuke.cfg"
+  },
+  {
+    "name": "liquidEngineWarp",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Engine\\liquidEngineWarp\\warpLiquidEngine.cfg"
+  },
+  {
+    "name": "B1a",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Engine\\solidBoosterB1a\\solidBoosterB1a.cfg"
+  },
+  {
+    "name": "SSSRB",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Engine\\SSSRB\\part.cfg"
+  },
+  {
+    "name": "xenonEngine",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Engine\\xenonEngine\\xenonEngine.cfg"
+  },
+  {
+    "name": "largeJumbo",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Fuel Tank\\fuelTankSuper-128\\fuelTankSuper-128.cfg"
+  },
+  {
+    "name": "fuelTanktest",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Fuel Tank\\fuelTankTest\\fuelTankTest.cfg"
+  },
+  {
+    "name": "largefuelTanktest",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Fuel Tank\\largefuelTankTest\\largefuelTankTest.cfg"
+  },
+  {
+    "name": "minifuelTanktest",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Fuel Tank\\minifuelTankTest\\minifuelTankTest.cfg"
+  },
+  {
+    "name": "soyuzBooster",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Fuel Tank\\miniSoyuzCone\\miniSoyuzCone.cfg"
+  },
+  {
+    "name": "largesoyuzBooster",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Fuel Tank\\SoyuzCone\\SoyuzCone.cfg"
+  },
+  {
+    "name": "GimbalLarge",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Impossible Parts\\largeliquidEngineGimbal\\Gimballarge.cfg"
+  },
+  {
+    "name": "GimbalCannonLarge",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Impossible Parts\\largeliquidEngineGimbalCannon\\largeGimbalCannon.cfg"
+  },
+  {
+    "name": "Cannon",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Impossible Parts\\liquidEngineCannon\\Cannon.cfg"
+  },
+  {
+    "name": "liquidEngineFTL",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Impossible Parts\\liquidEngineFTL\\liquidEngineFTL.cfg"
+  },
+  {
+    "name": "Gimbal",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Impossible Parts\\liquidEngineGimbal\\Gimbal.cfg"
+  },
+  {
+    "name": "GimbalCannon",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Impossible Parts\\liquidEngineGimbalCannon\\GimbalCannon.cfg"
+  },
+  {
+    "name": "FastDrill",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Ore Management\\FastDrill\\FastDrill.cfg"
+  },
+  {
+    "name": "FastISRU",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Ore Management\\FastISRU\\FastISRU.cfg"
+  },
+  {
+    "name": "HugeTank",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Ore Management\\HugeTank\\HugeTank.cfg"
+  },
+  {
+    "name": "krakeniteModule",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Science\\KrakeniteUnit\\KrakeniteUnit.cfg"
+  },
+  {
+    "name": "spotLight3",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Utility\\spotLightMk3\\spotLightMk3.cfg"
+  },
+  {
+    "name": "spotLight4",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Utility\\spotLightMk4\\spotLightMk4.cfg"
+  },
+  {
+    "name": "upgradedWheelMed",
+    "filePath": "Awesome Parts Pack\\GameData\\Stock Parts\\Wheel\\roverWheelfast\\roverWheelfast.cfg"
+  }
+]

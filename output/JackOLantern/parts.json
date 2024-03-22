@@ -1,5 +1,13 @@
 [
   {
+    "name": "RoverAntiGravitySystemModule",
+    "filePath": "JackOLantern\\Compatibility\\RoverAntiGravitySystem.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "JackOLantern\\Compatibility\\TweakScale.cfg"
+  },
+  {
     "name": "JackOLantern0",
     "filePath": "JackOLantern\\Parts\\size0.cfg"
   },

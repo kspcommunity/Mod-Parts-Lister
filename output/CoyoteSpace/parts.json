@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\ConnectedLivingSpace.cfg"
+  },
+  {
+    "name": "CSI_ModuleAnimatedDocking",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\CSITools.cfg"
+  },
+  {
+    "name": "ELWorkshop",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\ExtraplanetaryLaunchpads.cfg"
+  },
+  {
+    "name": "FStextureSwitch2",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\Firespitter.cfg"
+  },
+  {
+    "name": "Hangar",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\Hanger.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\KerbalInventorySystem.cfg"
+  },
+  {
+    "name": "ELTarget",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\SimpleConstruction.cfg"
+  },
+  {
+    "name": "Karbonite",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\USI-Karbonite.cfg"
+  },
+  {
+    "name": "ModuleHabitation",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\USI-ModularKolonizationSystem.cfg"
+  },
+  {
+    "name": "dockNode",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\USIEdits.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport }",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\USILifeSupport.cfg"
+  },
+  {
+    "name": "OseModuleWorkshop",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Compatability\\Workshop.cfg"
+  },
+  {
+    "name": "// \t!TechRequired = DELETE",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "Coyote Cargo Freighter",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "ccf-aquarium",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-aquarium.cfg"
+  },
+  {
+    "name": "ccf-bay-cargo",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-bay-cargo.cfg"
+  },
+  {
+    "name": "ccf-bay-evaprep",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-bay-evaprep.cfg"
+  },
+  {
+    "name": "ccf-bay-storage",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-bay-storage.cfg"
+  },
+  {
+    "name": "ccf-bridge",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-bridge.cfg"
+  },
+  {
+    "name": "ccf-dock-500",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-dock-500.cfg"
+  },
+  {
+    "name": "ccf-engine",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-engine.cfg"
+  },
+  {
+    "name": "ccf-greenhouse-sm",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-greenhouse-sm.cfg"
+  },
+  {
+    "name": "ccf-greenhouse",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-greenhouse.cfg"
+  },
+  {
+    "name": "ccf-grinder",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-grinder.cfg"
+  },
+  {
+    "name": "ccf-hab-common",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-hab-common.cfg"
+  },
+  {
+    "name": "ccf-hab-passenger",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-hab-passenger.cfg"
+  },
+  {
+    "name": "ccf-hab-quarters",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-hab-quarters.cfg"
+  },
+  {
+    "name": "ccf-hull-truss-rear",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-hull-truss-rear.cfg"
+  },
+  {
+    "name": "ccf-hull",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-hull.cfg"
+  },
+  {
+    "name": "ccf-reactor-sm",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-reactor-sm.cfg"
+  },
+  {
+    "name": "ccf-recycler-sm",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-recycler-sm.cfg"
+  },
+  {
+    "name": "ccf-recycler",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Parts\\ccf-recycler.cfg"
+  },
+  {
+    "name": "EnrichedUranium",
+    "filePath": "CoyoteSpace\\CoyoteCargoFreighter\\Resources\\ResourcesGeneric.cfg"
+  }
+]

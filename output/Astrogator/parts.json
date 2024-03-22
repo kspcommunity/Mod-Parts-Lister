@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "astrogator",
+    "filePath": "Astrogator\\AstrogatorRPM.cfg"
+  }
+]

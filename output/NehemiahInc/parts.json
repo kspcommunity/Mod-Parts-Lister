@@ -1,0 +1,138 @@
+[
+  {
+    "name": "NE_ESC1",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\ExperimentContainer\\esc1.cfg"
+  },
+  {
+    "name": "NE_ESC2",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\ExperimentContainer\\esc2.cfg"
+  },
+  {
+    "name": "NE_ESC3C",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\ExperimentContainer\\esc3c.cfg"
+  },
+  {
+    "name": "NE_ESC4",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\ExperimentContainer\\esc4.cfg"
+  },
+  {
+    "name": "NE_ESC_US_Wedge",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\ExperimentContainer_US_Wedge\\part.cfg"
+  },
+  {
+    "name": "NE_Rack_Container",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\LabEquipmentContainer\\part.cfg"
+  },
+  {
+    "name": "NE_MPL",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Parts\\NE MPL-600\\part.cfg"
+  },
+  {
+    "name": "neMPL600IVA",
+    "filePath": "NehemiahInc\\MultiPurposeParts\\Spaces\\MPL-600\\internal.cfg"
+  },
+  {
+    "name": "Nehemiah Engineering",
+    "filePath": "NehemiahInc\\NE_Science_Common\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "MSL_LabTime",
+    "filePath": "NehemiahInc\\NE_Science_Common\\Resources\\Common_Resources.cfg"
+  },
+  {
+    "name": "NE_MIS1",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_3PR\\mis1.cfg"
+  },
+  {
+    "name": "NE_MIS2",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_3PR\\mis2.cfg"
+  },
+  {
+    "name": "NE_MIS3",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_3PR\\mis3.cfg"
+  },
+  {
+    "name": "NE_CFI",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_CIR\\cfi.cfg"
+  },
+  {
+    "name": "NE_FLEX",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_CIR\\flex.cfg"
+  },
+  {
+    "name": "NE_CVB",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_FIR\\cvb.cfg"
+  },
+  {
+    "name": "NE_PACE",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_FIR\\pace.cfg"
+  },
+  {
+    "name": "NE_ExpExp1",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_MEP\\mee1.cfg"
+  },
+  {
+    "name": "NE_ExpExp2",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_MEP\\mee2.cfg"
+  },
+  {
+    "name": "NE_CCFE",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_MSG\\ccf.cfg"
+  },
+  {
+    "name": "NE_CFE",
+    "filePath": "NehemiahInc\\OMS\\Parts\\Experiments_MSG\\cfe.cfg"
+  },
+  {
+    "name": "NE_3PR",
+    "filePath": "NehemiahInc\\OMS\\Parts\\LabEquipment\\3PR\\part.cfg"
+  },
+  {
+    "name": "NE_CIR",
+    "filePath": "NehemiahInc\\OMS\\Parts\\LabEquipment\\CIR\\part.cfg"
+  },
+  {
+    "name": "NE_FIR",
+    "filePath": "NehemiahInc\\OMS\\Parts\\LabEquipment\\FIR\\part.cfg"
+  },
+  {
+    "name": "NE_MSG",
+    "filePath": "NehemiahInc\\OMS\\Parts\\LabEquipment\\MSG\\part.cfg"
+  },
+  {
+    "name": "NE_MEP",
+    "filePath": "NehemiahInc\\OMS\\Parts\\NE MEP-825\\part.cfg"
+  },
+  {
+    "name": "NE_MSL",
+    "filePath": "NehemiahInc\\OMS\\Parts\\NE MSL-1000\\part.cfg"
+  },
+  {
+    "name": "NE_CIR_Laptop",
+    "filePath": "NehemiahInc\\OMS\\Props\\CIR_Laptop\\prop.cfg"
+  },
+  {
+    "name": "NE_FIR_Laptop",
+    "filePath": "NehemiahInc\\OMS\\Props\\FIR_Laptop\\prop.cfg"
+  },
+  {
+    "name": "NE_MEP_ExpScreen",
+    "filePath": "NehemiahInc\\OMS\\Props\\MEP_ExpScreen\\prop.cfg"
+  },
+  {
+    "name": "NE_MEP_StatusScreen",
+    "filePath": "NehemiahInc\\OMS\\Props\\MEP_StatusScreen\\prop.cfg"
+  },
+  {
+    "name": "CIRBurnTime",
+    "filePath": "NehemiahInc\\OMS\\Resources\\OMS_Resources.cfg"
+  },
+  {
+    "name": "neMEP825Internals",
+    "filePath": "NehemiahInc\\OMS\\Spaces\\MEP-825\\internal.cfg"
+  },
+  {
+    "name": "neMLS1000Internals",
+    "filePath": "NehemiahInc\\OMS\\Spaces\\NE MLS-1000\\internal.cfg"
+  }
+]

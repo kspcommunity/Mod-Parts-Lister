@@ -1,62 +1,66 @@
 [
   {
     "name": "MagneticBerth",
-    "filePath": "KFC\\Parts\\CVAccessories\\AGP.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\AGP.cfg"
   },
   {
     "name": "ArrestWire",
-    "filePath": "KFC\\Parts\\CVAccessories\\ArrestWire.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\ArrestWire.cfg"
   },
   {
     "name": "Catapult",
-    "filePath": "KFC\\Parts\\CVAccessories\\Catapult.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\Catapult.cfg"
   },
   {
     "name": "CLLS",
-    "filePath": "KFC\\Parts\\CVAccessories\\CLLS.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\CLLS.cfg"
   },
   {
     "name": "FixedPoint",
-    "filePath": "KFC\\Parts\\CVAccessories\\FixedPoint.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\FixedPoint.cfg"
   },
   {
     "name": "FuelCap",
-    "filePath": "KFC\\Parts\\CVAccessories\\FuelCap.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\FuelCap.cfg"
   },
   {
     "name": "FuelNozzle",
-    "filePath": "KFC\\Parts\\CVAccessories\\FuelNozzle.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\FuelNozzle.cfg"
   },
   {
     "name": "OLS",
-    "filePath": "KFC\\Parts\\CVAccessories\\OLS.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\OLS.cfg"
   },
   {
     "name": "ReloadableRail",
-    "filePath": "KFC\\Parts\\CVAccessories\\ReloadableRail.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\ReloadableRail.cfg"
   },
   {
     "name": "TailHook",
-    "filePath": "KFC\\Parts\\CVAccessories\\TailHook.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\TailHook.cfg"
   },
   {
     "name": "TailHook2",
-    "filePath": "KFC\\Parts\\CVAccessories\\TailHook2.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\TailHook2.cfg"
   },
   {
     "name": "MagneticHook",
-    "filePath": "KFC\\Parts\\CVAccessories\\TailHookLarge.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\TailHookLarge.cfg"
   },
   {
     "name": "TieDown",
-    "filePath": "KFC\\Parts\\CVAccessories\\TieDown.cfg"
+    "filePath": "KFC\\parts\\CVAccessories\\TieDown.cfg"
   },
   {
     "name": "Enterprise",
-    "filePath": "KFC\\Parts\\Enterprise\\Enterprise.cfg"
+    "filePath": "KFC\\parts\\Enterprise\\Enterprise.cfg"
   },
   {
     "name": "Liaoning",
-    "filePath": "KFC\\Parts\\Liaoning\\Liaoning.cfg"
+    "filePath": "KFC\\parts\\Liaoning\\Liaoning.cfg"
+  },
+  {
+    "name": "AntiProton",
+    "filePath": "KFC\\Resource\\ResourcesGeneric.cfg"
   }
 ]

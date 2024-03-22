@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ZG-27-LFS",
+    "filePath": "ZG-27Synthesizer\\Parts\\Utility\\ZG-27-LFS\\part.cfg"
+  },
+  {
+    "name": "ZG-27-MPS",
+    "filePath": "ZG-27Synthesizer\\Parts\\Utility\\ZG-27-MPS\\part.cfg"
+  }
+]

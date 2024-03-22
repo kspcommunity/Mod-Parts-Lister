@@ -146,5 +146,9 @@
   {
     "name": "goodspeed625mmWeight",
     "filePath": "GoodspeedAerospace\\Parts\\Utility\\weight625mm.cfg"
+  },
+  {
+    "name": "ExtraTons",
+    "filePath": "GoodspeedAerospace\\Resources\\TestMass.cfg"
   }
 ]

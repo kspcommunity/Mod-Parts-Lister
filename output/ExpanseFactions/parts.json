@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "MCR",
+    "filePath": "ExpanseFactions\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "Expanse Factions",
+    "filePath": "ExpanseFactions\\Localization\\en-us.cfg"
+  }
+]

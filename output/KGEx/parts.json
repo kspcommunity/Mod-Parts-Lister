@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "ModuleColorChanger",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Compatibility\\ReStock.cfg"
+  },
+  {
+    "name": "ModuleLight",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Compatibility\\StackInlineLights.cfg"
+  },
+  {
+    "name": "ShieldedPicoPortBasic",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "ShieldedPicoPortB",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Parts\\ShieldedPicoPortB.cfg"
+  },
+  {
+    "name": "ShieldedPicoPortF",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Parts\\ShieldedPicoPortF.cfg"
+  },
+  {
+    "name": "ShieldedPicoPortM",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Parts\\ShieldedPicoPortM.cfg"
+  },
+  {
+    "name": "ShieldedPicoPortP",
+    "filePath": "KGEx\\ShieldedPicoPorts\\Parts\\ShieldedPicoPortP.cfg"
+  }
+]

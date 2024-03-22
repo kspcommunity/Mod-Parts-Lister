@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Impactors",
+    "filePath": "WarpPrimeWeaponry\\Contracts\\Contracts.cfg"
+  },
+  {
+    "name": "ModuleCargoPart",
+    "filePath": "WarpPrimeWeaponry\\EzConstructs\\cargopartpatch.cfg"
+  },
+  {
+    "name": "kineticWeapon1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Aero\\kineticWeapon1\\kineticWeapon1.cfg"
+  },
+  {
+    "name": "microFin",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Aero\\microFin\\microFin.cfg"
+  },
+  {
+    "name": "tinyFin",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Aero\\tinyFin\\tinyFin.cfg"
+  },
+  {
+    "name": "pocketCargoContainer",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Cargo\\pocketCargoContainer\\pocketCargoContainer.cfg"
+  },
+  {
+    "name": "bigSAS",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Command\\bigSAS\\bigSAS.cfg"
+  },
+  {
+    "name": "compactCube",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Command\\compactCube\\compactCube.cfg"
+  },
+  {
+    "name": "droneShip",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Command\\droneShip\\droneShip.cfg"
+  },
+  {
+    "name": "inlineAvionics",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Command\\inlineAvionics\\inlineAvionics.cfg"
+  },
+  {
+    "name": "inlineAvionicsSmall",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Command\\inlineAvionicsSmall\\inlineAvionicsSmall.cfg"
+  },
+  {
+    "name": "strutConnector2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\CompoundParts\\strutConnector2\\strutConnector2.cfg"
+  },
+  {
+    "name": "radialDecouplerBomb",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Coupling\\decouplerRadialBomb\\decouplerRadialBomb.cfg"
+  },
+  {
+    "name": "radialDecouplerHalfScale",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Coupling\\decouplerRadialTT-19K\\decouplerRadialTT-19K.cfg"
+  },
+  {
+    "name": "BOLE_srb",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\BOLE\\BOLE.cfg"
+  },
+  {
+    "name": "wp_castor4",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\castor4\\castor4.cfg"
+  },
+  {
+    "name": "eveAerospike",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\eveAerospike\\eveAerospike.cfg"
+  },
+  {
+    "name": "eveAscent",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\eveAscent\\eveAscent.cfg"
+  },
+  {
+    "name": "adHocExplosive",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\heatGenerator\\heatGenerator.cfg"
+  },
+  {
+    "name": "highPowerNERVA",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\highPowerNERVA\\highPowerNERVA.cfg"
+  },
+  {
+    "name": "hugeLiquidEngine",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\hugeLiquidEngine\\hugeLiquidEngine.cfg"
+  },
+  {
+    "name": "RAPIER2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\hybridEngine\\hybridEngine.cfg"
+  },
+  {
+    "name": "hybridEngine2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\hybridEngine2\\hybridEngine2.cfg"
+  },
+  {
+    "name": "wp_J2S",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\J2S\\J2S.cfg"
+  },
+  {
+    "name": "wp_J79",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\J79\\J79.cfg"
+  },
+  {
+    "name": "keroloxHybrid",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\keroloxHybrid\\keroloxHybrid.cfg"
+  },
+  {
+    "name": "star1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star1.cfg"
+  },
+  {
+    "name": "star1a",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star1a.cfg"
+  },
+  {
+    "name": "star2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star2.cfg"
+  },
+  {
+    "name": "star3",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star3.cfg"
+  },
+  {
+    "name": "star4",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star4.cfg"
+  },
+  {
+    "name": "star4a",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star4a.cfg"
+  },
+  {
+    "name": "star5",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\kickstages\\star5.cfg"
+  },
+  {
+    "name": "wp_H1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\liquidEngineH1\\liquidEngineH1.cfg"
+  },
+  {
+    "name": "nuclearEngine",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\liquidEngineLV-N\\liquidEngineLV-N.cfg"
+  },
+  {
+    "name": "NervHighThrust",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\liquidEngineLV-N\\LV-N_Variants.cfg"
+  },
+  {
+    "name": "liquidEnginePhoenix",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\liquidEnginePhoenix\\liquidEnginePhoenix.cfg"
+  },
+  {
+    "name": "liquidEngineRL10",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\liquidEngineRL10\\liquidEngineRL10.cfg"
+  },
+  {
+    "name": "wp_LR101",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\LR101\\LR101.cfg"
+  },
+  {
+    "name": "thrustAugmentedThor",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\MB3\\MB3-3.cfg"
+  },
+  {
+    "name": "wp_MB3",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\MB3\\MB3.cfg"
+  },
+  {
+    "name": "miniCruiseEngine",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\miniCruiseJet\\SmallJetEngine.cfg"
+  },
+  {
+    "name": "wp_NK19",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\NK19\\NK19.cfg"
+  },
+  {
+    "name": "wp_NK33",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\NK33\\NK33.cfg"
+  },
+  {
+    "name": "wp_RD0210",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\RD0210\\RD0210.cfg"
+  },
+  {
+    "name": "wpRD191",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\RD191\\RD191.cfg"
+  },
+  {
+    "name": "wpRD253",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\RD253\\RD253.cfg"
+  },
+  {
+    "name": "RS25E",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\RS25E\\RS25E.cfg"
+  },
+  {
+    "name": "wp_RS68",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\RS68\\RS68.cfg"
+  },
+  {
+    "name": "wp_scramjet1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\scramJet\\scramjet.cfg"
+  },
+  {
+    "name": "sepMotor2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\solidBoosterSep2\\solidBoosterSep2.cfg"
+  },
+  {
+    "name": "solidBoosterT1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\solidBoosterT1\\solidBoosterT1.cfg"
+  },
+  {
+    "name": "solidBoosterT2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\solidBoosterT2\\solidBoosterT2.cfg"
+  },
+  {
+    "name": "upperStage1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\upperStage1\\upperStage1.cfg"
+  },
+  {
+    "name": "upperStage2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\upperStage2\\upperStage2.cfg"
+  },
+  {
+    "name": "wpYF100",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\YF100\\YF100.cfg"
+  },
+  {
+    "name": "wpYF21",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\YF21\\YF21.cfg"
+  },
+  {
+    "name": "wpYF25",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\YF21\\YF25.cfg"
+  },
+  {
+    "name": "wpYF75",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\YF75\\YF75.cfg"
+  },
+  {
+    "name": "wpYF77",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Engine\\YF77\\YF77.cfg"
+  },
+  {
+    "name": "fuelPellet",
+    "filePath": "WarpPrimeWeaponry\\Parts\\FuelTank\\fuelPellet\\fuelPellet.cfg"
+  },
+  {
+    "name": "HugeTank",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Resources\\HugeTank\\HugeTank.cfg"
+  },
+  {
+    "name": "PocketTank",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Resources\\PocketTank\\pocketTank.cfg"
+  },
+  {
+    "name": "hinge01CraneVariant",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Robotics\\hinge_01.cfg"
+  },
+  {
+    "name": "piston03CraneArmVariant",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Robotics\\piston_03.cfg"
+  },
+  {
+    "name": "mannedOrbitalLab",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Science\\mannedOrbitalLab\\mannedOrbitalLab.cfg"
+  },
+  {
+    "name": "particleAccelerator",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Science\\particleAccelerator\\particleAccelerator.cfg"
+  },
+  {
+    "name": "unkerbtainiumBox",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Science\\unkerbtainiumBox\\unkerbtainiumBox.cfg"
+  },
+  {
+    "name": "wetLab1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Science\\wetLab\\wetLab.cfg"
+  },
+  {
+    "name": "wetLab2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Science\\wetLab2\\wetLab2.cfg"
+  },
+  {
+    "name": "crashStick",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Structural\\crashStick\\crashStick.cfg"
+  },
+  {
+    "name": "stackPoint2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Structural\\radialAttachmentPoint2\\radialAttachmentPoint2.cfg"
+  },
+  {
+    "name": "ullageCase",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Structural\\ullageCase\\ullageCase.cfg"
+  },
+  {
+    "name": "heavyYoWeight",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Structural\\yoWeight\\heavyYoWeight.cfg"
+  },
+  {
+    "name": "lightYoWeight",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Structural\\yoWeight\\lightYoWeight.cfg"
+  },
+  {
+    "name": "mediumYoWeight",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Structural\\yoWeight\\mediumYoWeight.cfg"
+  },
+  {
+    "name": "BouncyHeatShield",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Thermal\\BouncyHeatShield\\HeatShield.cfg"
+  },
+  {
+    "name": "hugeHeatShield",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Thermal\\hugeHeatShield\\hugeHeatShield.cfg"
+  },
+  {
+    "name": "thermalTile",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Thermal\\thermalTile\\thermalTile.cfg"
+  },
+  {
+    "name": "boostLauncher",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\boostLauncher\\boostLauncher.cfg"
+  },
+  {
+    "name": "emergencyEnergy",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\emergencyEnergy\\emergencyEnergy.cfg"
+  },
+  {
+    "name": "heatCone0",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\heatCone0\\heatCone0.cfg"
+  },
+  {
+    "name": "impactor1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\impactor1\\impactor1.cfg"
+  },
+  {
+    "name": "impactorMed",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\impactorMed\\impactorMed.cfg"
+  },
+  {
+    "name": "impactorSmall",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\impactorSmall\\impactorSmall.cfg"
+  },
+  {
+    "name": "ISRUop",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\ISRUop\\ISRUop.cfg"
+  },
+  {
+    "name": "MiniDrillOp",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\MiniDrillop\\MiniDrillop.cfg"
+  },
+  {
+    "name": "MiniISRUop",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\MiniISRUop\\MiniISRUop.cfg"
+  },
+  {
+    "name": "pyroLauncher",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\pyroLauncher\\pyroLauncher.cfg"
+  },
+  {
+    "name": "RadialDrillop",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\RadialDrillop\\RadialDrillop.cfg"
+  },
+  {
+    "name": "rtg2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\RTG2\\RTG2.cfg"
+  },
+  {
+    "name": "solarArrayOp",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\solarArrayOp\\solarArrayOp.cfg"
+  },
+  {
+    "name": "thermalDissipator",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\thermalDissipator\\thermalDissipator.cfg"
+  },
+  {
+    "name": "warpdrive0.5c",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\warpDrive\\part.cfg"
+  },
+  {
+    "name": "compactBatteryBank",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\z-4kBattery\\z-4kBattery.cfg"
+  },
+  {
+    "name": "ultraBatteryBank",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Unobtainium\\z-8kBattery\\z-8kBattery.cfg"
+  },
+  {
+    "name": "heatDockingPort",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\heatDockingPort\\heatDockingPort.cfg"
+  },
+  {
+    "name": "landingLeg1-3",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\landingLegLT-3\\landingLegLT-3.cfg"
+  },
+  {
+    "name": "megaParachute",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\megaParachute\\megaParachute.cfg"
+  },
+  {
+    "name": "wp_mk1CargoBayL",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\mk1CargoBay\\long.cfg"
+  },
+  {
+    "name": "wp_mk1CargoBayM",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\mk1CargoBay\\medium.cfg"
+  },
+  {
+    "name": "mk3CargoRamp",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\mk1CargoBay\\ramp.cfg"
+  },
+  {
+    "name": "wp_mk1CargoBayS",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\mk1CargoBay\\short.cfg"
+  },
+  {
+    "name": "passengerModule",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\passengerModule\\passengerModule.cfg"
+  },
+  {
+    "name": "RelayAntenna100G",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\RA-100G\\RA-100G.cfg"
+  },
+  {
+    "name": "RelayAntenna100M",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\RA-100M\\RA-100M.cfg"
+  },
+  {
+    "name": "wheelFast",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Utility\\roverWheelTR-3L\\roverWheelTR-3L.cfg"
+  },
+  {
+    "name": "wp_bomb1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\bomb1\\bomb1.cfg"
+  },
+  {
+    "name": "guidedMissile1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\guidedMissile1\\guidedMissile1.cfg"
+  },
+  {
+    "name": "guidedMissile2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\guidedMissile2\\guidedMissile2.cfg"
+  },
+  {
+    "name": "wp_nukeOrion",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\guns\\orion.cfg"
+  },
+  {
+    "name": "wp_smallGun1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\guns\\smallgun1.cfg"
+  },
+  {
+    "name": "wp_smallGun2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\guns\\smallgun2.cfg"
+  },
+  {
+    "name": "missile1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\missile1\\missile1.cfg"
+  },
+  {
+    "name": "missile2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\missile2\\missile2.cfg"
+  },
+  {
+    "name": "warhead1",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\warhead1\\warhead1.cfg"
+  },
+  {
+    "name": "warhead1A",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\warhead1A\\warhead1A.cfg"
+  },
+  {
+    "name": "warhead2",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\warhead2\\warhead2.cfg"
+  },
+  {
+    "name": "warhead3",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\warhead3\\warhead3.cfg"
+  },
+  {
+    "name": "warhead4",
+    "filePath": "WarpPrimeWeaponry\\Parts\\Warhead\\warhead4\\warhead4.cfg"
+  }
+]

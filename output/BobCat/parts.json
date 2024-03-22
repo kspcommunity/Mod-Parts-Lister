@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "BobCat\\SovietPack\\Proton\\Compatability\\RealismOverhaul.cfg"
+  },
+  {
+    "name": "#$oldName$",
+    "filePath": "BobCat\\SovietPack\\Proton\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "Протон (Proton)",
+    "filePath": "BobCat\\SovietPack\\Proton\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Протон (Protón)",
+    "filePath": "BobCat\\SovietPack\\Proton\\Localization\\es-es.cfg"
+  },
+  {
+    "name": "Протон (Proton)",
+    "filePath": "BobCat\\SovietPack\\Proton\\Localization\\fr-fr.cfg"
+  },
+  {
+    "name": "Протон (Proton)",
+    "filePath": "BobCat\\SovietPack\\Proton\\Localization\\ru.cfg"
+  },
+  {
+    "name": "proton-booster-retro",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-booster-retro.cfg"
+  },
+  {
+    "name": "proton-decoupler-payload",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-decoupler-payload.cfg"
+  },
+  {
+    "name": "proton-decoupler-stage-one",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-decoupler-stage-one.cfg"
+  },
+  {
+    "name": "proton-decoupler-stage-two",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-decoupler-stage-two.cfg"
+  },
+  {
+    "name": "proton-fairing",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-fairing.cfg"
+  },
+  {
+    "name": "proton-stage-core",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-stage-core.cfg"
+  },
+  {
+    "name": "proton-stage-three",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-stage-three.cfg"
+  },
+  {
+    "name": "proton-stage-two",
+    "filePath": "BobCat\\SovietPack\\Proton\\Parts\\proton-stage-two.cfg"
+  }
+]

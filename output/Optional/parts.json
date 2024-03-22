@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "MechJebCore",
+    "filePath": "Optional\\GameData\\StockPlugins\\MechJeb.cfg"
+  }
+]

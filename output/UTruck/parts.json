@@ -1,0 +1,10 @@
+[
+  {
+    "name": "flatbedTruck",
+    "filePath": "UTruck\\Parts\\Command\\FlatbedTruck\\part.cfg"
+  },
+  {
+    "name": "wheelMain",
+    "filePath": "UTruck\\Parts\\Wheel\\KWheel.cfg"
+  }
+]

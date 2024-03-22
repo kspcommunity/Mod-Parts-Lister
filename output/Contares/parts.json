@@ -1,5 +1,9 @@
 [
   {
+    "name": "CONTARES",
+    "filePath": "Contares\\Agencies\\Agents.cfg"
+  },
+  {
     "name": "Fin_RIVER",
     "filePath": "Contares\\Parts\\AERO\\FIN_RIVER\\Fin_RIVER.cfg"
   },
@@ -714,5 +718,201 @@
   {
     "name": "U_ZARYA_SOLAR",
     "filePath": "Contares\\Parts\\UTIL\\U_ZARYA_SOLAR\\U_ZARYA_SOLAR.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "Contares\\Patches\\CONTARES_KIS.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "Contares\\Patches\\CONTARES_TAC.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_1250_RD0235_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_1875_ALIYANA_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_1875_LR87b_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_1875_LR91a_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_1875_R66Sx1_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_1875_R66Sx2_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_1875_R66Sx4_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Contares\\Patches\\E_1875_RD0124_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_ALIYANA_PAL_plume.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Contares\\Patches\\E_ALIYANA_PAP_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_ATV_Engine_4N_plume.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Contares\\Patches\\E_CA-1_Engine_S1_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_CA-1_Engine_S2_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Contares\\Patches\\E_H2B_S2_Engine_plume.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Contares\\Patches\\E_H2B_SRB_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Contares\\Patches\\E_HM-7_plume.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Contares\\Patches\\E_KhiKa_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_KhiLm_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_KhiSm_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_Mono_Mamba_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_MONO_RAD_GABUN_plume.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Contares\\Patches\\E_Mu-V_S1_plume.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Contares\\Patches\\E_Mu-V_S2_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-0-100F_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-0-100_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-0-200_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-1-100F_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-1-150F_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-Z_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_Rockot_S1_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_viking4_2_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_viking4_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_ZIRP-KM_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_ZIRP-M_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\K150_Engine_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\KhiE_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\P_BTG2S_ENGINE_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\ZARYA3_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\ZARYA_K3t_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\ZARYA_K4t_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\ZARYA_plume.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "Contares\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "Contares\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "Contares\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "Contares\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "Contares\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "Tucana_Crew_A_Interior_Basic",
+    "filePath": "Contares\\Spaces\\Tucana_Crew_A\\internal_basic.cfg"
   }
 ]

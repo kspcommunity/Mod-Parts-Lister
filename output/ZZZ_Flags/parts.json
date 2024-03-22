@@ -1,0 +1,58 @@
+[
+  {
+    "name": "curved_flag1",
+    "filePath": "ZZZ_Flags\\1_Curved Flag\\part1.cfg"
+  },
+  {
+    "name": "curved_flag2",
+    "filePath": "ZZZ_Flags\\1_Curved Flag\\part2.cfg"
+  },
+  {
+    "name": "curved_flag2b",
+    "filePath": "ZZZ_Flags\\1_Curved Flag\\part2b.cfg"
+  },
+  {
+    "name": "curved_flag3",
+    "filePath": "ZZZ_Flags\\1_Curved Flag\\part3.cfg"
+  },
+  {
+    "name": "curved_flag4",
+    "filePath": "ZZZ_Flags\\1_Curved Flag\\part4.cfg"
+  },
+  {
+    "name": "curved_flagV2",
+    "filePath": "ZZZ_Flags\\2_Vertical Curved Flag\\part2.cfg"
+  },
+  {
+    "name": "curved_flagV2b",
+    "filePath": "ZZZ_Flags\\2_Vertical Curved Flag\\part2b.cfg"
+  },
+  {
+    "name": "curved_flagV3",
+    "filePath": "ZZZ_Flags\\2_Vertical Curved Flag\\part3.cfg"
+  },
+  {
+    "name": "curved_flagV4",
+    "filePath": "ZZZ_Flags\\2_Vertical Curved Flag\\part4.cfg"
+  },
+  {
+    "name": "flat_flag1",
+    "filePath": "ZZZ_Flags\\3_Flat Flag\\part1.cfg"
+  },
+  {
+    "name": "flat_flag2",
+    "filePath": "ZZZ_Flags\\3_Flat Flag\\part2.cfg"
+  },
+  {
+    "name": "flat_flag3",
+    "filePath": "ZZZ_Flags\\3_Flat Flag\\part3.cfg"
+  },
+  {
+    "name": "flat_flag4",
+    "filePath": "ZZZ_Flags\\3_Flat Flag\\part4.cfg"
+  },
+  {
+    "name": "folding_flag",
+    "filePath": "ZZZ_Flags\\Folding Flag\\part.cfg"
+  }
+]

@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "SyncModuleControlSurface",
+    "filePath": "AtmosphereAutopilot\\csurf_sync.cfg"
+  }
+]

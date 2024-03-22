@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "MohoHVAC",
+    "filePath": "Rareden\\ArtOfReentry\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "aor-heatshield-375",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\heatshield-375.cfg"
+  },
+  {
+    "name": "aor-heatshield-650",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\heatshield-650.cfg"
+  },
+  {
+    "name": "aor-heatshield-huygens-125 ",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\heatshield-huygens-125.cfg"
+  },
+  {
+    "name": "aor-heatshield-huygens-250",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\heatshield-huygens-250.cfg"
+  },
+  {
+    "name": "aor-panel-1x1",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\panel-1x1.cfg"
+  }
+]

@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "Kronal Vessel Viewer",
+    "filePath": "KronalVesselViewer\\Localization\\en-us.cfg"
+  }
+]

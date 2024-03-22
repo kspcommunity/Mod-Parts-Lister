@@ -66,5 +66,17 @@
   {
     "name": "SSNStern",
     "filePath": "BoatPartsR4\\Parts\\SSN-Stern\\part.cfg"
+  },
+  {
+    "name": "BallastGas",
+    "filePath": "BoatPartsR4\\Resources\\BallastGas.cfg"
+  },
+  {
+    "name": "WaterBallast",
+    "filePath": "BoatPartsR4\\Resources\\WaterBallast.cfg"
+  },
+  {
+    "name": "SubPeriscopeInt",
+    "filePath": "BoatPartsR4\\Spaces\\SubPeriscopeInt\\internal.cfg"
   }
 ]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "KMI",
+    "filePath": "SolarScience\\Parts\\KMI.cfg"
+  },
+  {
+    "name": "STEREO",
+    "filePath": "SolarScience\\Parts\\STEREO.cfg"
+  }
+]

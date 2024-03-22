@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ICE4cyl",
+    "filePath": "IDiCEr1\\Parts\\ICE_4Cyl\\part.cfg"
+  },
+  {
+    "name": "ICERadLC1",
+    "filePath": "IDiCEr1\\Parts\\ICE_605Rad\\part.cfg"
+  },
+  {
+    "name": "FSjerrycan",
+    "filePath": "IDiCEr1\\Parts\\ICE_FS_jerryCan\\part.cfg"
+  },
+  {
+    "name": "ICEGenerator",
+    "filePath": "IDiCEr1\\Parts\\ICE_Generator\\part.cfg"
+  },
+  {
+    "name": "ICEEngineBeta",
+    "filePath": "IDiCEr1\\Parts\\ICE_Generator\\part2.cfg"
+  },
+  {
+    "name": "ICEOilStation",
+    "filePath": "IDiCEr1\\Parts\\ICE_OilStation\\part.cfg"
+  },
+  {
+    "name": "ICERepairStation",
+    "filePath": "IDiCEr1\\Parts\\ICE_RepairStation\\part.cfg"
+  },
+  {
+    "name": "ICEdDtrans",
+    "filePath": "IDiCEr1\\Parts\\ICE_Transmission\\part.cfg"
+  },
+  {
+    "name": "ICEdDtransATlow",
+    "filePath": "IDiCEr1\\Parts\\ICE_Transmission\\part2.cfg"
+  },
+  {
+    "name": "ICEWeight",
+    "filePath": "IDiCEr1\\Parts\\ICE_Weight\\part.cfg"
+  },
+  {
+    "name": "ICEbentlyBR1",
+    "filePath": "IDiCEr1\\Parts\\ICE_ww1Eng\\part.cfg"
+  },
+  {
+    "name": "ICEOberurselURII",
+    "filePath": "IDiCEr1\\Parts\\ICE_ww1EngG\\part.cfg"
+  },
+  {
+    "name": "ICEDB605k",
+    "filePath": "IDiCEr1\\Parts\\ICE_ww2DB605k\\part.cfg"
+  },
+  {
+    "name": "KobilOne",
+    "filePath": "IDiCEr1\\Resources\\KobilOne.cfg"
+  },
+  {
+    "name": "SpareParts",
+    "filePath": "IDiCEr1\\Resources\\SpareParts.cfg"
+  }
+]

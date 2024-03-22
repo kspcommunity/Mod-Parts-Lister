@@ -11,11 +11,11 @@ function listMods() {
 }
 
 function listParts(mod) {
-    const partsPath = path.join(kspGameDataPath, mod, 'Parts');
-    if (!fs.existsSync(partsPath)) {
+    const modPath = path.join(kspGameDataPath, mod);
+    if (!fs.existsSync(modPath) || !fs.statSync(modPath).isDirectory()) {
         return [];
     }
-    
+
     const parts = [];
     const traverseDirectory = (dir) => {
         const items = fs.readdirSync(dir);
@@ -33,7 +33,7 @@ function listParts(mod) {
             }
         });
     };
-    traverseDirectory(partsPath);
+    traverseDirectory(modPath);
     
     return parts;
 }

@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "name": "KModuleAnimateAirSpeed",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateAirSpeed.cfg"
+  },
+  {
+    "name": "KModuleAnimateAltitude",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateAltitude.cfg"
+  },
+  {
+    "name": "KModuleAnimateAtmosphericDensity",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateAtmosphericDensity.cfg"
+  },
+  {
+    "name": "KModuleAnimateGeeForce",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateGeeForce.cfg"
+  },
+  {
+    "name": "KModuleAnimateIntakeAir",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateIntakeAir.cfg"
+  },
+  {
+    "name": "KModuleAnimateLatitude",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateLatitude.cfg"
+  },
+  {
+    "name": "KModuleAnimateLongitude",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateLongitude.cfg"
+  },
+  {
+    "name": "KModuleAnimateMass",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateMass.cfg"
+  },
+  {
+    "name": "KModuleAnimateOrbitalVelocity",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateOrbitalVelocity.cfg"
+  },
+  {
+    "name": "KModuleAnimateStaticPressure",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateStaticPressure.cfg"
+  },
+  {
+    "name": "KModuleAnimateSurfaceHeight",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateSurfaceHeight.cfg"
+  },
+  {
+    "name": "KModuleAnimateSurfaceSpeed",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateSurfaceSpeed.cfg"
+  },
+  {
+    "name": "KModuleAnimateTargetDistance",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateTargetDistance.cfg"
+  },
+  {
+    "name": "KModuleAnimateTargetSpeed",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateTargetSpeed.cfg"
+  },
+  {
+    "name": "KModuleAnimateTargettedDistance",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateTargettedDistance.cfg"
+  },
+  {
+    "name": "KModuleAnimateTargettedSpeed",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateTargettedSpeed.cfg"
+  },
+  {
+    "name": "KModuleAnimateThrust",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateThrust.cfg"
+  },
+  {
+    "name": "KModuleAnimateVerticalSpeed",
+    "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateVerticalSpeed.cfg"
+  }
+]

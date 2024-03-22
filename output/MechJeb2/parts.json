@@ -1,5 +1,9 @@
 [
   {
+    "name": "KSC Pad",
+    "filePath": "MechJeb2\\LandingSites.cfg"
+  },
+  {
     "name": "mumech_MJ2_AR202",
     "filePath": "MechJeb2\\Parts\\MechJeb2_AR202\\part.cfg"
   },

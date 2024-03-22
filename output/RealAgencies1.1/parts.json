@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ASI",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\ASI.cfg"
+  },
+  {
+    "name": "Blue Origin",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\BlueOrigin.cfg"
+  },
+  {
+    "name": "CNES",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\CNES.cfg"
+  },
+  {
+    "name": "CSA_ASF",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\CSA_ASF.cfg"
+  },
+  {
+    "name": "DLR",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\DLR.cfg"
+  },
+  {
+    "name": "Eesa",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\ESA.cfg"
+  },
+  {
+    "name": "JAXA",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\JAXA.cfg"
+  },
+  {
+    "name": "NASA",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\NASA.cfg"
+  },
+  {
+    "name": "ROSCOSMOS",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\ROSCOSMOS.cfg"
+  },
+  {
+    "name": "Space X",
+    "filePath": "RealAgencies1.1\\GameData\\RealAgencies\\Agencies\\SpaceX.cfg"
+  }
+]

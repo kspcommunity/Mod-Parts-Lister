@@ -1,5 +1,41 @@
 [
   {
+    "name": "Bahamuto Dynamics",
+    "filePath": "BDArmory\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "def // do not change this!",
+    "filePath": "BDArmory\\BulletDefs\\BD_Bullets.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "BDArmory\\Localization\\localization-en-us.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "BDArmory\\Localization\\localization-es-es.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "BDArmory\\Localization\\localization-zh-cn.cfg"
+  },
+  {
+    "name": "ModuleECMJammer",
+    "filePath": "BDArmory\\MMPatches\\10_bdac_stealth.cfg"
+  },
+  {
+    "name": "TweakScale ",
+    "filePath": "BDArmory\\MMPatches\\BDA_Armor.cfg"
+  },
+  {
+    "name": "bdRadome1snubGA",
+    "filePath": "BDArmory\\MMPatches\\BDA_GroundRadar.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "BDArmory\\MMPatches\\BDA_TweakScale.cfg"
+  },
+  {
     "name": "bahaGatlingGun",
     "filePath": "BDArmory\\Parts\\20mmVulcan\\vulcanTurret.cfg"
   },
@@ -262,5 +298,21 @@
   {
     "name": "missileController",
     "filePath": "BDArmory\\Parts\\weaponManager\\weaponManager.cfg"
+  },
+  {
+    "name": "Armor",
+    "filePath": "BDArmory\\Resources\\Armor.cfg"
+  },
+  {
+    "name": "LaserBolt",
+    "filePath": "BDArmory\\Resources\\BDAmmo_Universal.cfg"
+  },
+  {
+    "name": "CMFlare",
+    "filePath": "BDArmory\\Resources\\Countermeasures.cfg"
+  },
+  {
+    "name": "HighExplosive",
+    "filePath": "BDArmory\\Resources\\HighExplosive.cfg"
   }
 ]

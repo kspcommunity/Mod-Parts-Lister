@@ -1,5 +1,9 @@
 [
   {
+    "name": "TweakScale",
+    "filePath": "GlassThings\\GlassthingsTweakScale.cfg"
+  },
+  {
     "name": "TubeSegmentAlloyAdapter",
     "filePath": "GlassThings\\Parts\\Structural\\glassadapter_nazari\\part.cfg"
   },

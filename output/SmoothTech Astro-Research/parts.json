@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SmoothTech. Astro-Research",
+    "filePath": "SmoothTech Astro-Research\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "fuelTank",
+    "filePath": "SmoothTech Astro-Research\\Parts\\Utility\\TeaContainer\\TeaContainer.cfg"
+  },
+  {
+    "name": "Tea",
+    "filePath": "SmoothTech Astro-Research\\Resources\\Resources.cfg"
+  }
+]

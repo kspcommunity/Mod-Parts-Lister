@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "DPSoundFX",
+    "filePath": "FP_DPSoundFX\\MM_Add_DPSoundFX.cfg"
+  }
+]

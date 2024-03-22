@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "CustomAsteroids_inner",
+    "filePath": "Standard Setup\\config\\Basic Asteroids.cfg"
+  },
+  {
+    "name": "CustomAsteroids_outer",
+    "filePath": "Standard Setup\\config\\Trans-Jool.cfg"
+  }
+]

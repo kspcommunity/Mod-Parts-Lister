@@ -1,5 +1,57 @@
 [
   {
+    "name": "C7 Aerospace Division",
+    "filePath": "Squad\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "rcsTankMini",
+    "filePath": "Squad\\Contracts\\constructionContractParts.cfg"
+  },
+  {
+    "name": "#autoLOC_6001233",
+    "filePath": "Squad\\Controls\\Azerty.cfg"
+  },
+  {
+    "name": "#autoLOC_6001234",
+    "filePath": "Squad\\Controls\\Dvorak.cfg"
+  },
+  {
+    "name": "#autoLOC_6001227",
+    "filePath": "Squad\\Controls\\Qwerty.cfg"
+  },
+  {
+    "name": "#autoLOC_6001228",
+    "filePath": "Squad\\Controls\\Qwerty_en-GB.cfg"
+  },
+  {
+    "name": "#autoLOC_6001229",
+    "filePath": "Squad\\Controls\\Qwerty_es-LA.cfg"
+  },
+  {
+    "name": "#autoLOC_6001230",
+    "filePath": "Squad\\Controls\\Qwerty_it-IT.cfg"
+  },
+  {
+    "name": "#autoLOC_6001231",
+    "filePath": "Squad\\Controls\\Qwerty_ja-JP.cfg"
+  },
+  {
+    "name": "#autoLOC_6001230",
+    "filePath": "Squad\\Controls\\Qwerty_pt-PT.cfg"
+  },
+  {
+    "name": "#autoLOC_6001232",
+    "filePath": "Squad\\Controls\\Qwertz.cfg"
+  },
+  {
+    "name": "Pilot",
+    "filePath": "Squad\\Experience\\Traits.cfg"
+  },
+  {
+    "name": "squad_ESA",
+    "filePath": "Squad\\Missions\\MissionPacks.cfg"
+  },
+  {
     "name": "noseCone",
     "filePath": "Squad\\Parts\\Aero\\aerodynamicNoseCone\\aerodynamicNoseCone.cfg"
   },
@@ -1434,5 +1486,601 @@
   {
     "name": "roverWheel3",
     "filePath": "Squad\\Parts\\Wheel\\roverWheelXL3\\roverWheelXL3.cfg"
+  },
+  {
+    "name": "AltimeterThreeHands",
+    "filePath": "Squad\\Props\\AltimeterThreeHands\\prop.cfg"
+  },
+  {
+    "name": "AtmosphereDepth",
+    "filePath": "Squad\\Props\\AtmosphereDepth\\prop.cfg"
+  },
+  {
+    "name": "AxisIndicatorPitch",
+    "filePath": "Squad\\Props\\AxisIndicator\\pitchConfig.cfg"
+  },
+  {
+    "name": "AxisIndicatorRoll",
+    "filePath": "Squad\\Props\\AxisIndicator\\rollConfig.cfg"
+  },
+  {
+    "name": "AxisIndicatorYaw",
+    "filePath": "Squad\\Props\\AxisIndicator\\yawConfig.cfg"
+  },
+  {
+    "name": "genericCircularButton",
+    "filePath": "Squad\\Props\\buttonsGeneric\\circularButton.cfg"
+  },
+  {
+    "name": "genericClusterButtons",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterButtons.cfg"
+  },
+  {
+    "name": "genericClusterButtons2",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterButtons2.cfg"
+  },
+  {
+    "name": "genericClusterKnobs",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterKnob.cfg"
+  },
+  {
+    "name": "genericClusterKnobs2",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterKnob2.cfg"
+  },
+  {
+    "name": "genericClusterMixed",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterMixed.cfg"
+  },
+  {
+    "name": "genericClusterSwitches01",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches01.cfg"
+  },
+  {
+    "name": "genericClusterSwitches02",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches02.cfg"
+  },
+  {
+    "name": "genericClusterSwitches03",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches03.cfg"
+  },
+  {
+    "name": "genericClusterSwitches04",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches04.cfg"
+  },
+  {
+    "name": "genericClusterSwitches05",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches05.cfg"
+  },
+  {
+    "name": "genericClusterSwitches06",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches06.cfg"
+  },
+  {
+    "name": "genericClusterSwitches07",
+    "filePath": "Squad\\Props\\buttonsGeneric\\clusterSwitches07.cfg"
+  },
+  {
+    "name": "genericDirectionalKnob",
+    "filePath": "Squad\\Props\\buttonsGeneric\\directionalKnob.cfg"
+  },
+  {
+    "name": "genericDirectionalKnob2",
+    "filePath": "Squad\\Props\\buttonsGeneric\\directionalKnob2.cfg"
+  },
+  {
+    "name": "genericPullSwitch",
+    "filePath": "Squad\\Props\\buttonsGeneric\\pullSwitch.cfg"
+  },
+  {
+    "name": "genericSquareButton",
+    "filePath": "Squad\\Props\\buttonsGeneric\\squareButton.cfg"
+  },
+  {
+    "name": "genericStandingSwitch",
+    "filePath": "Squad\\Props\\buttonsGeneric\\standingSwitch.cfg"
+  },
+  {
+    "name": "genericSwitch",
+    "filePath": "Squad\\Props\\buttonsGeneric\\switch.cfg"
+  },
+  {
+    "name": "genericSwitchWithGuards",
+    "filePath": "Squad\\Props\\buttonsGeneric\\switchWithGuards.cfg"
+  },
+  {
+    "name": "ButtonSquare",
+    "filePath": "Squad\\Props\\ButtonSquare\\prop.cfg"
+  },
+  {
+    "name": "circularButton",
+    "filePath": "Squad\\Props\\circularButton\\prop.cfg"
+  },
+  {
+    "name": "Compass",
+    "filePath": "Squad\\Props\\Compass\\prop.cfg"
+  },
+  {
+    "name": "directionalKnob",
+    "filePath": "Squad\\Props\\directionalKnob\\prop.cfg"
+  },
+  {
+    "name": "directionalKnob2",
+    "filePath": "Squad\\Props\\directionalKnob2\\prop.cfg"
+  },
+  {
+    "name": "IndicatorPanel",
+    "filePath": "Squad\\Props\\IndicatorPanel\\prop.cfg"
+  },
+  {
+    "name": "NavBall",
+    "filePath": "Squad\\Props\\IVANavBall\\prop.cfg"
+  },
+  {
+    "name": "NavBallNoBase",
+    "filePath": "Squad\\Props\\IVANavBallNoBase\\prop.cfg"
+  },
+  {
+    "name": "ledPanelSpeed",
+    "filePath": "Squad\\Props\\ledPanelSpeed\\prop.cfg"
+  },
+  {
+    "name": "MonitorDockingMode",
+    "filePath": "Squad\\Props\\Monitor\\DockingMode.cfg"
+  },
+  {
+    "name": "NavBall",
+    "filePath": "Squad\\Props\\NavBall\\prop.cfg"
+  },
+  {
+    "name": "Button_DockingMode",
+    "filePath": "Squad\\Props\\PropsGeneric\\Button_DockingMode.cfg"
+  },
+  {
+    "name": "CargoBagA",
+    "filePath": "Squad\\Props\\PropsGeneric\\CargoBagA.cfg"
+  },
+  {
+    "name": "CargoBagB",
+    "filePath": "Squad\\Props\\PropsGeneric\\CargoBagB.cfg"
+  },
+  {
+    "name": "CargoBagC",
+    "filePath": "Squad\\Props\\PropsGeneric\\CargoBagC.cfg"
+  },
+  {
+    "name": "Hatch_Plane",
+    "filePath": "Squad\\Props\\PropsGeneric\\Hatch_Plane.cfg"
+  },
+  {
+    "name": "Hatch_Plane_Curve90",
+    "filePath": "Squad\\Props\\PropsGeneric\\Hatch_Plane_Curve90.cfg"
+  },
+  {
+    "name": "Hatch_Plane_Frame",
+    "filePath": "Squad\\Props\\PropsGeneric\\Hatch_Plane_Frame.cfg"
+  },
+  {
+    "name": "Seat_Passenger",
+    "filePath": "Squad\\Props\\PropsGeneric\\Seat_Passenger.cfg"
+  },
+  {
+    "name": "Seat_Pilot",
+    "filePath": "Squad\\Props\\PropsGeneric\\Seat_Pilot.cfg"
+  },
+  {
+    "name": "Seat_Pilot_Helmet",
+    "filePath": "Squad\\Props\\PropsGeneric\\Seat_Pilot_Helmet.cfg"
+  },
+  {
+    "name": "SideStick",
+    "filePath": "Squad\\Props\\PropsGeneric\\SideStick.cfg"
+  },
+  {
+    "name": "pullSwitch",
+    "filePath": "Squad\\Props\\pullSwitch\\prop.cfg"
+  },
+  {
+    "name": "RadarAltimeter",
+    "filePath": "Squad\\Props\\radarAltitude\\prop.cfg"
+  },
+  {
+    "name": "squareButton",
+    "filePath": "Squad\\Props\\squareButton\\prop.cfg"
+  },
+  {
+    "name": "standingSwitch",
+    "filePath": "Squad\\Props\\standingSwitch\\prop.cfg"
+  },
+  {
+    "name": "switch",
+    "filePath": "Squad\\Props\\switch\\prop.cfg"
+  },
+  {
+    "name": "switchGuard",
+    "filePath": "Squad\\Props\\switchGuard\\prop.cfg"
+  },
+  {
+    "name": "switchWithGuards",
+    "filePath": "Squad\\Props\\switchWithGuards\\prop.cfg"
+  },
+  {
+    "name": "throttle",
+    "filePath": "Squad\\Props\\throttle\\prop.cfg"
+  },
+  {
+    "name": "VSI",
+    "filePath": "Squad\\Props\\VSI\\prop.cfg"
+  },
+  {
+    "name": "short",
+    "filePath": "Squad\\Resources\\CometDefs.cfg"
+  },
+  {
+    "name": "classicTrail",
+    "filePath": "Squad\\Resources\\FireworkFXDefinitions.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Squad\\Resources\\ResourcesGeneric.cfg"
+  },
+  {
+    "name": "crewCabinInternals",
+    "filePath": "Squad\\Spaces\\crewCabinInternals\\internal.cfg"
+  },
+  {
+    "name": "cupolaInternal",
+    "filePath": "Squad\\Spaces\\cupolaInternal\\internal.cfg"
+  },
+  {
+    "name": "GenericSpace1",
+    "filePath": "Squad\\Spaces\\GenericSpace1\\internal.cfg"
+  },
+  {
+    "name": "GenericSpace3",
+    "filePath": "Squad\\Spaces\\GenericSpace3\\internal.cfg"
+  },
+  {
+    "name": "landerCabinInternals",
+    "filePath": "Squad\\Spaces\\landerCabinInternals\\internal.cfg"
+  },
+  {
+    "name": "landerCabinSmallInternal",
+    "filePath": "Squad\\Spaces\\landerCabinSmallInternal\\internal.cfg"
+  },
+  {
+    "name": "Mobile_Processing_Lab_Int",
+    "filePath": "Squad\\Spaces\\LargeCrewedLabInternals\\internal.cfg"
+  },
+  {
+    "name": "Mk1-3",
+    "filePath": "Squad\\Spaces\\Mk1-3\\internal.cfg"
+  },
+  {
+    "name": "mk1CabinInternal",
+    "filePath": "Squad\\Spaces\\mk1CabinInternal\\internal.cfg"
+  },
+  {
+    "name": "mk1CockpitInternal",
+    "filePath": "Squad\\Spaces\\mk1CockpitInternal\\internal.cfg"
+  },
+  {
+    "name": "mk1InlineInternal",
+    "filePath": "Squad\\Spaces\\mk1InlineInternal\\internal.cfg"
+  },
+  {
+    "name": "mk1PodCockpit",
+    "filePath": "Squad\\Spaces\\mk1PodCockpit\\internal.cfg"
+  },
+  {
+    "name": "mk1pod_IVA",
+    "filePath": "Squad\\Spaces\\mk1pod_IVA\\mk1pod_Internal.cfg"
+  },
+  {
+    "name": "mk2CockpitStandardInternals",
+    "filePath": "Squad\\Spaces\\mk2CockpitStandardInternal\\internal.cfg"
+  },
+  {
+    "name": "MK2_CrewCab_Int",
+    "filePath": "Squad\\Spaces\\Mk2CrewCabinInternal\\internal_MK2_CrewCab.cfg"
+  },
+  {
+    "name": "mk2InlineInternal",
+    "filePath": "Squad\\Spaces\\mk2InlineInternal\\internal.cfg"
+  },
+  {
+    "name": "mk2LanderCanInternal",
+    "filePath": "Squad\\Spaces\\mk2LanderCanInternal\\internal.cfg"
+  },
+  {
+    "name": "MK3_Cockpit_Int",
+    "filePath": "Squad\\Spaces\\MK3CockpitInternal\\internal_MK3.cfg"
+  },
+  {
+    "name": "MK3_CrewCab_Int",
+    "filePath": "Squad\\Spaces\\MK3_CrewCab_Int\\internal_MK3_CrewCab.cfg"
+  },
+  {
+    "name": "Placeholder",
+    "filePath": "Squad\\Spaces\\Placeholder\\internal.cfg"
+  },
+  {
+    "name": "PodCockpit",
+    "filePath": "Squad\\Spaces\\PodCockpit\\internal.cfg"
+  },
+  {
+    "name": "Finances",
+    "filePath": "Squad\\Strategies\\Departments.cfg"
+  },
+  {
+    "name": "AppreciationCampaignCfg",
+    "filePath": "Squad\\Strategies\\Strategies.cfg"
+  },
+  {
+    "name": "FlightSuborbital",
+    "filePath": "Squad\\Tutorials\\FlightSuborbital.cfg"
+  },
+  {
+    "name": "FromMun",
+    "filePath": "Squad\\Tutorials\\FromMun.cfg"
+  },
+  {
+    "name": "GoForOrbit",
+    "filePath": "Squad\\Tutorials\\GoForOrbit.cfg"
+  },
+  {
+    "name": "noseCone",
+    "filePath": "Squad\\zDeprecated\\Parts\\Aero\\aerodynamicNoseCone_v1\\aerodynamicNoseCone.cfg"
+  },
+  {
+    "name": "pointyNoseConeA",
+    "filePath": "Squad\\zDeprecated\\Parts\\Aero\\cones_v1\\ConeA.cfg"
+  },
+  {
+    "name": "pointyNoseConeB",
+    "filePath": "Squad\\zDeprecated\\Parts\\Aero\\cones_v1\\ConeB.cfg"
+  },
+  {
+    "name": "standardNoseCone",
+    "filePath": "Squad\\zDeprecated\\Parts\\Aero\\cones_v1\\smallNoseCone.cfg"
+  },
+  {
+    "name": "rocketNoseCone",
+    "filePath": "Squad\\zDeprecated\\Parts\\Aero\\protectiveRocketNoseMk7_v1\\protectiveRocketNoseMk7.cfg"
+  },
+  {
+    "name": "Mark1-2Pod",
+    "filePath": "Squad\\zDeprecated\\Parts\\Command\\Mk1-2Pod\\mk1-2CommandPod.cfg"
+  },
+  {
+    "name": "mk1pod",
+    "filePath": "Squad\\zDeprecated\\Parts\\Command\\mk1pod_v1\\mk1Pod.cfg"
+  },
+  {
+    "name": "probeCoreCube",
+    "filePath": "Squad\\zDeprecated\\Parts\\Command\\probeCoreCube_v1\\probeCoreCube.cfg"
+  },
+  {
+    "name": "probeCoreOcto2",
+    "filePath": "Squad\\zDeprecated\\Parts\\Command\\probeCoreOcto2_v1\\probeCoreOcto2.cfg"
+  },
+  {
+    "name": "probeCoreOcto",
+    "filePath": "Squad\\zDeprecated\\Parts\\Command\\probeCoreOcto_v1\\probeCoreOcto.cfg"
+  },
+  {
+    "name": "probeCoreSphere",
+    "filePath": "Squad\\zDeprecated\\Parts\\Command\\probeStackSphere_v1\\probeStackSphere.cfg"
+  },
+  {
+    "name": "liquidEngineMini",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEngine48-7S_v1\\liquidEngine48-7S.cfg"
+  },
+  {
+    "name": "radialEngineMini",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEngineLV-1R_v1\\liquidEngineLV-1R.cfg"
+  },
+  {
+    "name": "microEngine",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEngineLV-1_v1\\liquidEngineLV-1.cfg"
+  },
+  {
+    "name": "liquidEngine3",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEngineLV-909_v1\\liquidEngineLV-909.cfg"
+  },
+  {
+    "name": "liquidEngine1-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEngineMainsail_v1\\liquidEngineMainsail.cfg"
+  },
+  {
+    "name": "liquidEngine2-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEnginePoodle_v1\\liquidEnginePoodle.cfg"
+  },
+  {
+    "name": "engineLargeSkipper",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\liquidEngineSkipper_v1\\skipperLiquidEngine.cfg"
+  },
+  {
+    "name": "omsEngine",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\OMSEngine_v1\\omsEngine.cfg"
+  },
+  {
+    "name": "solidBooster",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\solidBoosterRT-10_v1\\solidBoosterRT-10.cfg"
+  },
+  {
+    "name": "solidBooster_sm",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\solidBoosterRT-5_v1\\solidBoosterRT-5.cfg"
+  },
+  {
+    "name": "vernierEngine",
+    "filePath": "Squad\\zDeprecated\\Parts\\Engine\\vernorEngine_v1\\vernorEngine.cfg"
+  },
+  {
+    "name": "externalTankCapsule",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\FoilTanks_v1\\RadialTank_Capsule.cfg"
+  },
+  {
+    "name": "externalTankRound",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\FoilTanks_v1\\RadialTank_Round.cfg"
+  },
+  {
+    "name": "externalTankToroid",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\FoilTanks_v1\\ToroidTank.cfg"
+  },
+  {
+    "name": "fuelTank3-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankJumbo-64\\fuelTankJumbo-64.cfg"
+  },
+  {
+    "name": "fuelTankSmallFlat",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankT100_v1\\fuelTankT100.cfg"
+  },
+  {
+    "name": "fuelTankSmall",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankT200_v1\\fuelTankT200.cfg"
+  },
+  {
+    "name": "fuelTank",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankT400_v1\\fuelTankT400.cfg"
+  },
+  {
+    "name": "fuelTank_long",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankT800_v1\\fuelTankT800.cfg"
+  },
+  {
+    "name": "toroidalFuelTank",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankToroidal\\fuelTankToroidal.cfg"
+  },
+  {
+    "name": "fuelTank2-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankX200-16\\fuelTankX200-16.cfg"
+  },
+  {
+    "name": "fuelTank1-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankX200-32\\fuelTankX200-32.cfg"
+  },
+  {
+    "name": "fuelTank4-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\FuelTank\\fuelTankX200-8\\fuelTankX200-8.cfg"
+  },
+  {
+    "name": "HECS2_ProbeCore",
+    "filePath": "Squad\\zDeprecated\\Parts\\Misc\\AsteroidDay_v1\\HECS2.cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\adapterLargeSmallBi_v1\\adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\adapterLargeSmallQuad_v1\\adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\adapterLargeSmallTri_v1\\adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "adapterSmallMiniShort",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\adapterSmallMiniShort_v1\\adapterSmallMiniShort.cfg"
+  },
+  {
+    "name": "adapterSmallMiniTall",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\adapterSmallMiniTall_v1\\adapterSmallMiniTall.cfg"
+  },
+  {
+    "name": "size3Decoupler",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\Size3Decoupler\\part.cfg"
+  },
+  {
+    "name": "Size3to2Adapter",
+    "filePath": "Squad\\zDeprecated\\Parts\\Structural\\Size3To2Adapter_v1\\part.cfg"
+  },
+  {
+    "name": "stackSeparator",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\decouplerSeparatorTR-18D\\decouplerSeparatorTR-18D.cfg"
+  },
+  {
+    "name": "stackSeparatorMini",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\decouplerSeparatorTR-2C\\decouplerSeparatorTR-2C.cfg"
+  },
+  {
+    "name": "stackSeparatorBig",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\decouplerSeparatorTR-XL\\decouplerSeparatorTR-XL.cfg"
+  },
+  {
+    "name": "decoupler1-2",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\decouplerStack2m\\decouplerStack2m.cfg"
+  },
+  {
+    "name": "stackDecoupler",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\decouplerStackTR-18A\\decouplerStackTR-18A.cfg"
+  },
+  {
+    "name": "stackDecouplerMini",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\decouplerStackTR-2V\\decouplerStackTR-2V.cfg"
+  },
+  {
+    "name": "dockingPortLateral",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\dockingPortInline_v1\\dockingPortInline.cfg"
+  },
+  {
+    "name": "dockingPort3",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\dockingPortJr_v1\\dockingPortJr.cfg"
+  },
+  {
+    "name": "dockingPort1",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\dockingPortShielded_v1\\dockingPortShielded.cfg"
+  },
+  {
+    "name": "dockingPortLarge",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\dockingPortSr_v1\\dockingPortSr.cfg"
+  },
+  {
+    "name": "dockingPort2",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\dockingPort_v1\\dockingPort.cfg"
+  },
+  {
+    "name": "GrapplingDevice",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\GrapplingDevice_v1\\part.cfg"
+  },
+  {
+    "name": "largeAdapter2",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\largeAdapterShort_v1\\largeAdapterShort.cfg"
+  },
+  {
+    "name": "largeAdapter",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\largeAdapter_v1\\largeAdapter.cfg"
+  },
+  {
+    "name": "linearRcs",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\linearRCS_v1\\linearRCS.cfg"
+  },
+  {
+    "name": "mk2DockingPort",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\mk2DockingPort_v1\\mk2DockingPort.cfg"
+  },
+  {
+    "name": "RCSBlock",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\rcsBlockRV-105_v1\\rcsBlockRV-105.cfg"
+  },
+  {
+    "name": "ServiceBay_125",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\ServiceBay_v1\\ServiceBay_125.cfg"
+  },
+  {
+    "name": "ServiceBay_250",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\ServiceBay_v1\\ServiceBay_250.cfg"
+  },
+  {
+    "name": "stackBiCoupler",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\stackBiCoupler_v1\\stackBiCoupler.cfg"
+  },
+  {
+    "name": "stackQuadCoupler",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\stackQuadCoupler_v1\\stackQuadCoupler.cfg"
+  },
+  {
+    "name": "stackTriCoupler",
+    "filePath": "Squad\\zDeprecated\\Parts\\Utility\\stackTriCoupler_v1\\stackTriCoupler.cfg"
   }
 ]

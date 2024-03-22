@@ -1,0 +1,98 @@
+[
+  {
+    "name": "V2Industries",
+    "filePath": "NearFutureRovers\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "FStextureSwitch2",
+    "filePath": "NearFutureRovers\\Compatibility\\FireSpitter.cfg"
+  },
+  {
+    "name": "#$oldName$",
+    "filePath": "NearFutureRovers\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "Near Future Rovers",
+    "filePath": "NearFutureRovers\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Near Future Rovers",
+    "filePath": "NearFutureRovers\\Localization\\ru.cfg"
+  },
+  {
+    "name": "nfr-honeybadger-cockpit",
+    "filePath": "NearFutureRovers\\Parts\\Honeybadger\\nfr-honeybadger-cockpit.cfg"
+  },
+  {
+    "name": "nfr-honeybadger-tank",
+    "filePath": "NearFutureRovers\\Parts\\Honeybadger\\nfr-honeybadger-tank.cfg"
+  },
+  {
+    "name": "nfr-puma-adapter-125",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-adapter-125.cfg"
+  },
+  {
+    "name": "nfr-puma-battery",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-battery.cfg"
+  },
+  {
+    "name": "nfr-puma-cargo-n1",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-cargo-n1.cfg"
+  },
+  {
+    "name": "nfr-puma-cargo-n2",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-cargo-n2.cfg"
+  },
+  {
+    "name": "nfr-puma-cargo-r1",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-cargo-r1.cfg"
+  },
+  {
+    "name": "nfr-puma-cargo-r2",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-cargo-r2.cfg"
+  },
+  {
+    "name": "nfr-puma-chassis-025",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-chassis-025.cfg"
+  },
+  {
+    "name": "nfr-puma-chassis-100",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-chassis-100.cfg"
+  },
+  {
+    "name": "nfr-puma-chassis-200",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-chassis-200.cfg"
+  },
+  {
+    "name": "nfr-puma-cockpit",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-cockpit.cfg"
+  },
+  {
+    "name": "nfr-puma-crew-enc",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-crew-enc.cfg"
+  },
+  {
+    "name": "nfr-puma-crew",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-crew.cfg"
+  },
+  {
+    "name": "nfr-puma-ladder",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-ladder.cfg"
+  },
+  {
+    "name": "nfr-puma-side-fuel",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-side-fuel.cfg"
+  },
+  {
+    "name": "nfr-puma-side-mono",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-side-mono.cfg"
+  },
+  {
+    "name": "nfr-puma-side-ore",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-side-ore.cfg"
+  },
+  {
+    "name": "nfr-puma-tank",
+    "filePath": "NearFutureRovers\\Parts\\Puma\\nfr-puma-tank.cfg"
+  }
+]

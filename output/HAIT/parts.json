@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sputnik_Animated",
+    "filePath": "HAIT\\Sputnik\\Sputnik.cfg"
+  },
+  {
+    "name": "SputnikBaseCone",
+    "filePath": "HAIT\\Sputnik\\SputnikBasecone.cfg"
+  },
+  {
+    "name": "SputnikNoseCone",
+    "filePath": "HAIT\\Sputnik\\SputnikNosecone.cfg"
+  }
+]

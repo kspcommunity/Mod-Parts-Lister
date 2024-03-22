@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ACS",
+    "filePath": "QuizTech\\Parts\\Engine\\ACS\\ACS.cfg"
+  },
+  {
+    "name": "QT-500",
+    "filePath": "QuizTech\\Parts\\Engine\\QT-500\\QT-500.cfg"
+  },
+  {
+    "name": "QT-S25",
+    "filePath": "QuizTech\\Parts\\Engine\\QT-S25\\QT-S25.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "QuizTech\\QT_Tweakscale.cfg"
+  }
+]

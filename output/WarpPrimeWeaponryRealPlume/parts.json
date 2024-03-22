@@ -1,0 +1,206 @@
+[
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\eveAerospike.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\eveAscent.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\H1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\highPowerNERVA.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\hugeLiquidEngine.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\hybridEngine.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\hybridEngine2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\ionEngine2.cfg"
+  },
+  {
+    "name": "soundDry1",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\J79.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\keroloxHybrid.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\liquidEnginePhoenix.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\LR101.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\MB3.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\NK19.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\NK33.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\photonicRocket.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\RD0210.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\RD191.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\RD253.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\RL10.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\RS25E.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\RS68.cfg"
+  },
+  {
+    "name": "soundspool",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\scramjet1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\smallJetEngine.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\BOLE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\castor4.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\guidedMissile1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\guidedMissile2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\heatGenerator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\missile1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\missile2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\sepMotor2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\solidBoosterT1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\solidBoosterT2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\star.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\SRB\\zRealPlumePatch.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\upperStage1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\upperStage2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\YF100.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\YF21.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\YF75.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "WarpPrimeWeaponryRealPlume\\configs\\YF77.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-orange-hypergolic-upper.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-rd253-core.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-rd253.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-rs-68-core.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-rs-68.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-yf-21-core.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-yf-21.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-yf-77-core.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "WarpPrimeWeaponryRealPlume\\templates\\wp-yf-77.cfg"
+  }
+]

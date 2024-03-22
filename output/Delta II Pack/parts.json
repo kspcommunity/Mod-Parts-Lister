@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "liquidEngineRS27",
+    "filePath": "Delta II Pack\\liquidEngineRS27\\RS27LiquidEngine.cfg"
+  },
+  {
+    "name": "solidBoosterGEM46",
+    "filePath": "Delta II Pack\\solidBoosterGEM46\\solidBoosterGEM46.cfg"
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "name": "LeBeau Space Industries",
+    "filePath": "LBSI\\Agencies\\LBSI.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "LBSI\\Configs\\LBSI_Tweak-Scale.cfg"
+  },
+  {
+    "name": "LBSI_AFA500-2",
+    "filePath": "LBSI\\Parts\\Aero\\LBSI_AFA.500_2-Fairing\\LBSI_AFA-500_2.cfg"
+  },
+  {
+    "name": "LBSI-NG1v5",
+    "filePath": "LBSI\\Parts\\Command\\LBSI_Gamma_NG1v5\\LBSI_NG1-V5.cfg"
+  },
+  {
+    "name": "LBSI-CX2c",
+    "filePath": "LBSI\\Parts\\Command\\LBSI_Kappa_CX02c\\LBSI_CX02c.cfg"
+  },
+  {
+    "name": "LBSI-Kappa_NK-V",
+    "filePath": "LBSI\\Parts\\Command\\LBSI_Kappa_NK-V\\LBSI_Kappa_NK-V.cfg"
+  },
+  {
+    "name": "LBSI-Kappa-NK1-2",
+    "filePath": "LBSI\\Parts\\Command\\LBSI_Kappa_NK1-2\\LBSI_NK1-2.cfg"
+  },
+  {
+    "name": "LBSI-Kappa-NK2",
+    "filePath": "LBSI\\Parts\\Command\\LBSI_Kappa_NK2\\LBSI_NK2.cfg"
+  },
+  {
+    "name": "LBSI-Kappa-SiGMA-V5",
+    "filePath": "LBSI\\Parts\\Command\\LBSI_Kappa_SiGMA-V5\\LBSI_Kappa_SiGMA-V5.cfg"
+  },
+  {
+    "name": "LBSI_TRc_LQP",
+    "filePath": "LBSI\\Parts\\Control\\LBSI_Truster.TRc_LQP\\LBSI_TR-c_LQP.cfg"
+  },
+  {
+    "name": "LBSI_TRc_MNP",
+    "filePath": "LBSI\\Parts\\Control\\LBSI_Truster.TRc_MNP\\LBSI_TR-c_MNP.cfg"
+  },
+  {
+    "name": "LBSI-ENG-LAE-250M",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI-ENG-LAE-250M-SkyClimber\\LBSI-ENG-LAE-250M.cfg"
+  },
+  {
+    "name": "LBSI-ENG-WPt1200-SkyWipe",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI-ENG-WPt1200-SkyWipe\\LBSI_ENG_WPt1200_SkyWipe.cfg"
+  },
+  {
+    "name": "LBSI-ENG-WPt2800-SkyWipe",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI-ENG-WPt2800-SkyWipe\\LBSI_ENG_WPt2800_SkyWipe.cfg"
+  },
+  {
+    "name": "LBSI-ENG-WPt500-SkyWipe",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI-ENG-WPt500-SkyWipe\\LBSI_ENG_WPt500_SkyWipe.cfg"
+  },
+  {
+    "name": "LBSI-ENG-BPt180-HB",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI_ENG-BPt180-HB\\LBSI_ENG_BPt180_HB.cfg"
+  },
+  {
+    "name": "LBSI-ENG-LAE-250",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI_ENG-LAE-250-SkyClimber\\LBSI-ENG-LAE-250.cfg"
+  },
+  {
+    "name": "LBSI-ENG-MPt180-HB",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI_ENG-MPt180-HB\\LBSI_ENG_MPt180_HB.cfg"
+  },
+  {
+    "name": "LBSI-SB-FRT360",
+    "filePath": "LBSI\\Parts\\Engine\\LBSI_SB-FRT-360\\LBSI_SB_FRT-360.cfg"
+  },
+  {
+    "name": "FLAD200-SF",
+    "filePath": "LBSI\\Parts\\FuelTank\\LBSI_SRV_FLAD200-SF\\LBSI_SRV_FLAD200-SF.cfg"
+  },
+  {
+    "name": "FLAD250-SF",
+    "filePath": "LBSI\\Parts\\FuelTank\\LBSI_SRV_FLAD250-SF\\LBSI_SRV_FLAD250-SF.cfg"
+  },
+  {
+    "name": "LBSI-FLAD-SRV-500",
+    "filePath": "LBSI\\Parts\\FuelTank\\LBSI_SRV_FLAD500-Tank\\LBSI_SRV_FLT-800.cfg"
+  },
+  {
+    "name": "LBSI-SRV-FLT-1200",
+    "filePath": "LBSI\\Parts\\FuelTank\\LBSI_SRV_FLT-1200\\LBSI_SRV_FLT-1200.cfg"
+  },
+  {
+    "name": "LBSI-SRV-FLT-800",
+    "filePath": "LBSI\\Parts\\FuelTank\\LBSI_SRV_FLT-800\\LBSI_SRV_FLT-800.cfg"
+  },
+  {
+    "name": "LBSI-SRV-FLTB220k",
+    "filePath": "LBSI\\Parts\\FuelTank\\LBSI_SRV_FLTB-220\\LBSI_SRV_FLTB-220.cfg"
+  },
+  {
+    "name": "LBSIElecGENRadial",
+    "filePath": "LBSI\\Parts\\Generators\\LBSIElecGENRadial\\LBSIElecGENRadial.cfg"
+  },
+  {
+    "name": "LBSIElecGENStack",
+    "filePath": "LBSI\\Parts\\Generators\\LBSIElecGENStack\\LBSIElecGENStack.cfg"
+  },
+  {
+    "name": "LBSIfuelGENRadial",
+    "filePath": "LBSI\\Parts\\Generators\\LBSIfuelGENRadial\\LBSIfuelGENRadial.cfg"
+  },
+  {
+    "name": "LBSIfuelGENStack",
+    "filePath": "LBSI\\Parts\\Generators\\LBSIfuelGENStack\\LBSIfuelGENStack.cfg"
+  },
+  {
+    "name": "LBSIFlad200",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_FLAD_200\\LBSI_FLAD200.cfg"
+  },
+  {
+    "name": "LBSISTRDCng200",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCng200\\LBSISTRDCng200.cfg"
+  },
+  {
+    "name": "LBSISTRDCx065",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx065.cfg"
+  },
+  {
+    "name": "LBSISTRDCx125",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx125.cfg"
+  },
+  {
+    "name": "LBSISTRDCx250",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx250.cfg"
+  },
+  {
+    "name": "LBSISTRDCx375",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCx\\LBSISTRDCx375.cfg"
+  },
+  {
+    "name": "LBSISTRDC_XL_500",
+    "filePath": "LBSI\\Parts\\Structural\\LBSI_STR_Separator_DCXL500\\LBSISTRDCXL_500.cfg"
+  },
+  {
+    "name": "LBSI-DPNG200-20",
+    "filePath": "LBSI\\Parts\\Utility\\DockingPorts\\DP_NG200-2.0m_Gamma\\DPNG200-2.0m.cfg"
+  },
+  {
+    "name": "LBSI-DPSG-160-16",
+    "filePath": "LBSI\\Parts\\Utility\\DockingPorts\\DP_SG160-1.64m_SiGMA\\LBSI-DPSG160.cfg"
+  },
+  {
+    "name": "Chute-NKVDCV",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_Chute_NKV_DC-V\\Chute_NKV-DC-V.cfg"
+  },
+  {
+    "name": "Chute-SC160Duna",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_CHUTE_SC160\\LBSI_SC160_Duna_Chute.cfg"
+  },
+  {
+    "name": "LBSI_DRG-SOLAR-PN01",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_DRG-PN01_SolarPanel\\DRGSOLARPN01.cfg"
+  },
+  {
+    "name": "LBSI_ESP-R790-60",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP-R790-60.cfg"
+  },
+  {
+    "name": "LBSI_ESP-R800-40",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP-R800-40.cfg"
+  },
+  {
+    "name": "LBSI_ESP220s",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP220s.cfg"
+  },
+  {
+    "name": "LBSI_ESP365m",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_E-SolarPanel_series\\LBSI_ESP365m.cfg"
+  },
+  {
+    "name": "LBSI_ESP-R880-SXL",
+    "filePath": "LBSI\\Parts\\Utility\\LBSI_ESP-R880-SX\\LBSI_ESP-R880-SX.cfg"
+  },
+  {
+    "name": "CX02bintern",
+    "filePath": "LBSI\\Spaces\\LBSI_CX02b\\internal.cfg"
+  },
+  {
+    "name": "NG1intern",
+    "filePath": "LBSI\\Spaces\\LBSI_NG1\\internal.cfg"
+  },
+  {
+    "name": "NKIVintern",
+    "filePath": "LBSI\\Spaces\\LBSI_NK-IV\\internal.cfg"
+  },
+  {
+    "name": "NKVintern",
+    "filePath": "LBSI\\Spaces\\LBSI_NK-V\\internal.cfg"
+  },
+  {
+    "name": "NK1intern",
+    "filePath": "LBSI\\Spaces\\LBSI_NK1\\internal.cfg"
+  },
+  {
+    "name": "NK2intern",
+    "filePath": "LBSI\\Spaces\\LBSI_NK2\\internal.cfg"
+  },
+  {
+    "name": "SIGMAintern",
+    "filePath": "LBSI\\Spaces\\LBSI_SiGMA\\internal.cfg"
+  }
+]

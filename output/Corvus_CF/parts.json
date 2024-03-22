@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "name": "ModuleAnimatedDecoupler",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\MM_Patches\\Corvus_AnimatedDecouplers.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\MM_Patches\\Corvus_CLS.cfg"
+  },
+  {
+    "name": "ModuleHeatShield",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\MM_Patches\\Corvus_DRE.cfg"
+  },
+  {
+    "name": "RealChuteModule",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\MM_Patches\\Corvus_RealChute.cfg"
+  },
+  {
+    "name": "Corvus_Interior_RPM",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\MM_Patches\\Corvus_RPM.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\MM_Patches\\Corvus_TACLS.cfg"
+  },
+  {
+    "name": "Corvus_1875Adapter",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\1875Adapter\\Corvus_1875Adapter.cfg"
+  },
+  {
+    "name": "CLV_Tank",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\CLV_Tank\\CLV_Tank.cfg"
+  },
+  {
+    "name": "Corvus_Exterior",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Corvus_Exterior.cfg"
+  },
+  {
+    "name": "Corvus_Interior",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Corvus_Interior.cfg"
+  },
+  {
+    "name": "Corvus_Interior_RPM",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Corvus_Interior_RPM.cfg"
+  },
+  {
+    "name": "Corvus_Nose",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Corvus_Nose.cfg"
+  },
+  {
+    "name": "Corvus_Supply",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Corvus_Supply.cfg"
+  },
+  {
+    "name": "Corvus_Decoupler",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Heatshield_Decoupler\\Corvus_Decoupler.cfg"
+  },
+  {
+    "name": "Corvus_Heatshield",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Heatshield_Decoupler\\Corvus_Heatshield.cfg"
+  },
+  {
+    "name": "OAS",
+    "filePath": "Corvus_CF\\GameData\\Corvus\\Parts\\Orbital_Attitude_System.cfg"
+  },
+  {
+    "name": "BigBook",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\BigBook\\prop.cfg"
+  },
+  {
+    "name": "ComputerBank",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\ComputerBank\\prop.cfg"
+  },
+  {
+    "name": "Cookies",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\Cookies\\prop.cfg"
+  },
+  {
+    "name": "FireExtinguisher",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\FireExtinguisher\\prop.cfg"
+  },
+  {
+    "name": "Hatch",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\Hatch\\prop.cfg"
+  },
+  {
+    "name": "Light",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\Light\\prop.cfg"
+  },
+  {
+    "name": "Monitor",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\Monitor\\prop.cfg"
+  },
+  {
+    "name": "FlightSeat2",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\NewSeat\\prop.cfg"
+  },
+  {
+    "name": "Stowage",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\Stowage\\prop.cfg"
+  },
+  {
+    "name": "Tank2",
+    "filePath": "Corvus_CF\\GameData\\HGR\\Props\\Tank_New\\prop.cfg"
+  }
+]

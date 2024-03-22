@@ -1,0 +1,254 @@
+[
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Dragon_KIS.cfg"
+  },
+  {
+    "name": "BFRenginesAtmos",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\3Raptor.cfg"
+  },
+  {
+    "name": "BFRenginesAtmos2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\3Raptor2.cfg"
+  },
+  {
+    "name": "Aerofinring",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\aerofin.cfg"
+  },
+  {
+    "name": "AerofinringGrey",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\aerofinblack.cfg"
+  },
+  {
+    "name": "KerbalizedBFR",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFR.cfg"
+  },
+  {
+    "name": "BFRenginesB",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRBoosterEngines.cfg"
+  },
+  {
+    "name": "BFRenginesB2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRBOosterEngines2.cfg"
+  },
+  {
+    "name": "KerbalizedBFRcargo",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRcargo.cfg"
+  },
+  {
+    "name": "BFRCrewQuaters2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRCrewQuarters - Copy.cfg"
+  },
+  {
+    "name": "BFRCrewQuaters",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRCrewQuarters.cfg"
+  },
+  {
+    "name": "BFRcoupler",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\bfrdecoupler.cfg"
+  },
+  {
+    "name": "BFRcoupler2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\bfrdecoupler2.cfg"
+  },
+  {
+    "name": "BFRFin2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRFin - Copy.cfg"
+  },
+  {
+    "name": "BFRFin",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRFin.cfg"
+  },
+  {
+    "name": "BFRtankupper2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRtank - Copy.cfg"
+  },
+  {
+    "name": "BFRtankupper",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRtank.cfg"
+  },
+  {
+    "name": "BFRengines",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRuppercluster.cfg"
+  },
+  {
+    "name": "BFRengines2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\BFRuppercluster2.cfg"
+  },
+  {
+    "name": "KerbalizedDragon1.2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Dragon1.2.cfg"
+  },
+  {
+    "name": "KerbalizedDragon1",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Dragon1.cfg"
+  },
+  {
+    "name": "dragon1nosecone",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\dragonnosecone.cfg"
+  },
+  {
+    "name": "dragon1nosecone1.2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\dragonnosecone2 (1).cfg"
+  },
+  {
+    "name": "dragoncover",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\dragonPanelCovers.cfg"
+  },
+  {
+    "name": "F9FTFairing",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\F9_Fairing.cfg"
+  },
+  {
+    "name": "F9FTFairing_Base",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\F9_Fairing_Base.cfg"
+  },
+  {
+    "name": "F9_Heavy_noseCone",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\F9_Heavy_Nosecone.cfg"
+  },
+  {
+    "name": "HeavyFalconDecoupler2x",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\F9_Radial_Decoupler.cfg"
+  },
+  {
+    "name": "Falcon9FTbooster",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9booster.cfg"
+  },
+  {
+    "name": "Falcon9FTdecouplerblack",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9Decoupler.cfg"
+  },
+  {
+    "name": "Falcon9FTdecoupler",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9Decouplerwhite.cfg"
+  },
+  {
+    "name": "KerbalizedSpaceXLegs-XL2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9Legs.cfg"
+  },
+  {
+    "name": "KerbalizedSpaceXLegs-XL2Grey",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9Legs2.cfg"
+  },
+  {
+    "name": "f9XupperS",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9upper.cfg"
+  },
+  {
+    "name": "f9Xupper2x",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Falcon9upperFT.cfg"
+  },
+  {
+    "name": "Falcon9FTbooster2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\FalconFTbooster.cfg"
+  },
+  {
+    "name": "Falcon9FTbooster2Blackxx",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\FalconFTbooster2.cfg"
+  },
+  {
+    "name": "Falcon9FTbooster2Black",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\FalconFTboosterBlack.cfg"
+  },
+  {
+    "name": "Falcon9FTbooster2Black1",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\FalconFTboosterBlackSideways.cfg"
+  },
+  {
+    "name": "Falcon9FTbooster2White1",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\FalconFTboosterWhiteSideways.cfg"
+  },
+  {
+    "name": "HeatDragonV2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\HeatShield-M.cfg"
+  },
+  {
+    "name": "Falcon9FTdecouplerinline",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\heavy_decoupler_inline.cfg"
+  },
+  {
+    "name": "Falcon9FTdecouplerinline2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\heavy_decoupler_inline_grey.cfg"
+  },
+  {
+    "name": "ITSTitan",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\ITSTitan.cfg"
+  },
+  {
+    "name": "Kerbalizeddragon_Trunk",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\KerbalizedDragon1trunk.cfg"
+  },
+  {
+    "name": "KerbalizedDragonV2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\KerbalizedDragonv2-2.cfg"
+  },
+  {
+    "name": "KerbalizedDragonV2909",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\KerbalizedDragonv2.cfg"
+  },
+  {
+    "name": "Kerbalizedv2_Trunk",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Kerbalizedv2trunk.cfg"
+  },
+  {
+    "name": "Kerbalizedv2_Trunk3x",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Kerbalizedv2trunkX.cfg"
+  },
+  {
+    "name": "Kerbalizedv2_Trunk3x459",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\Kerbalizedv2trunkX2.cfg"
+  },
+  {
+    "name": "Falcon9cluster",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\MerlinCluster.cfg"
+  },
+  {
+    "name": "Falcon9clusterBlack",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\MerlinClusterblack.cfg"
+  },
+  {
+    "name": "MerlinSingle",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\MerlinSingle.cfg"
+  },
+  {
+    "name": "MerlinVacuumKerb",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\MerlinVacuum.cfg"
+  },
+  {
+    "name": "Dragonmonotank1",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\smallmono.cfg"
+  },
+  {
+    "name": "SpaceBug",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\spacebug.cfg"
+  },
+  {
+    "name": "SpaceBug2a",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\spacebug2.cfg"
+  },
+  {
+    "name": "HeavyFalconDecoupler",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Parts\\SX_DECOUPLER.cfg"
+  },
+  {
+    "name": "BFRCrew",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Spaces\\BFRCREW\\BFRCrew.cfg"
+  },
+  {
+    "name": "BFRCockpit",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Spaces\\BFRIVA\\DragonCockpit.cfg"
+  },
+  {
+    "name": "DragonCockpit",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Spaces\\Dragon2\\DragonCockpit.cfg"
+  },
+  {
+    "name": "DragonCockpitV2X",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Spaces\\DragonV2\\Dragonv2internal.cfg"
+  },
+  {
+    "name": "DragonCockpitV2",
+    "filePath": "Kerbalized_SpaceX\\GameData\\JNH\\Spaces\\Dragonv2interior\\DragonCockpitV2.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\DMOrbitalScience.cfg"
+  },
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\GC.cfg"
+  },
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\JX2.cfg"
+  },
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\MKS.cfg"
+  },
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\RTRA.cfg"
+  },
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\SEP.cfg"
+  },
+  {
+    "name": "ModuleSignalDelay",
+    "filePath": "SignalDelay\\Patches\\Stock.cfg"
+  }
+]

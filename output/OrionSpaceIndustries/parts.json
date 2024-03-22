@@ -1,0 +1,102 @@
+[
+  {
+    "name": "KipponAerospaceExplorationAgency",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleScienceExperiment",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Compatibility\\Kurrikane.cfg"
+  },
+  {
+    "name": "ODFC",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Compatibility\\OnDemandFuelCells.cfg.cfg"
+  },
+  {
+    "name": "SCANsat",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Compatibility\\SCANSat.cfg"
+  },
+  {
+    "name": "rhs-angular-025",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Angular\\rhs-angular-025.cfg"
+  },
+  {
+    "name": "rhs-angular-100",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Angular\\rhs-angular-100.cfg"
+  },
+  {
+    "name": "rhs-angular-200",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Angular\\rhs-angular-200.cfg"
+  },
+  {
+    "name": "rhs-circular-0625",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\circular\\rhs-circular-0625.cfg"
+  },
+  {
+    "name": "rhs-circular-125",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\circular\\rhs-circular-125.cfg"
+  },
+  {
+    "name": "rhs-circular-250",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\circular\\rhs-circular-250.cfg"
+  },
+  {
+    "name": "rhs-popup-0625",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Popup\\rhs-popup-0625.cfg"
+  },
+  {
+    "name": "rhs-popup-125",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Popup\\rhs-popup-125.cfg"
+  },
+  {
+    "name": "rhs-popup-1875",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Popup\\rhs-popup-1875.cfg"
+  },
+  {
+    "name": "rhs-popup-250",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Popup\\rhs-popup-250.cfg"
+  },
+  {
+    "name": "rhs-popup-375",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Popup\\rhs-popup-375.cfg"
+  },
+  {
+    "name": "rhs-probe-1875",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Probe\\rhs-probe-1875.cfg"
+  },
+  {
+    "name": "rhs-rectangular-025",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Rectangular\\rhs-rectangular-025.cfg"
+  },
+  {
+    "name": "rhs-rectangular-100",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Rectangular\\rhs-rectangular-100.cfg"
+  },
+  {
+    "name": "rhs-rectangular-200",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Rectangular\\rhs-rectangular-200.cfg"
+  },
+  {
+    "name": "rhs-square-025",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Square\\rhs-square-025.cfg"
+  },
+  {
+    "name": "rhs-square-100",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Square\\rhs-square-100.cfg"
+  },
+  {
+    "name": "rhs-square-200",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Square\\rhs-square-200.cfg"
+  },
+  {
+    "name": "rhs-tile-black",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Tile\\rhs-tile-black.cfg"
+  },
+  {
+    "name": "rhs-tile-white",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Tile\\rhs-tile-white.cfg"
+  },
+  {
+    "name": "rhs-tile",
+    "filePath": "OrionSpaceIndustries\\RadialHeatShields\\Parts\\Tile\\rhs-tile.cfg"
+  }
+]

@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "default",
+    "filePath": "MouseAimFlight\\MAFSettings.cfg"
+  }
+]

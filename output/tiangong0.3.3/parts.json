@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "Antenna",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_Antenna\\Antenna.cfg"
+  },
+  {
+    "name": "Command",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_Command\\Command.cfg"
+  },
+  {
+    "name": "tiangong-crew",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_crew\\crew.cfg"
+  },
+  {
+    "name": "dockingPort",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_dockingPort\\dockingPort.cfg"
+  },
+  {
+    "name": "Engine",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_Engine\\Engine.cfg"
+  },
+  {
+    "name": "tgrcs",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_rcs\\TG_rcs.cfg"
+  },
+  {
+    "name": "SolarPanels",
+    "filePath": "tiangong0.3.3\\GameData\\tiangong\\parts\\TG_SolarPanels\\SolarPanels.cfg"
+  }
+]

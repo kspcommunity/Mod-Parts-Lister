@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Kerbin-Aurora",
+    "filePath": "GEALite\\GameData\\BoulderCo\\Atmosphere\\auroras.cfg"
+  },
+  {
+    "name": "Kerbin-clouds1",
+    "filePath": "GEALite\\GameData\\BoulderCo\\Atmosphere\\clouds.cfg"
+  },
+  {
+    "name": "Kerbin-snow1",
+    "filePath": "GEALite\\GameData\\BoulderCo\\Atmosphere\\storms_snowstorms.cfg"
+  },
+  {
+    "name": "BoulderCo/Atmosphere/Textures/fair",
+    "filePath": "GEALite\\GameData\\BoulderCo\\Atmosphere\\Textures\\textures.cfg"
+  },
+  {
+    "name": "BoulderCo/Textures/cube",
+    "filePath": "GEALite\\GameData\\BoulderCo\\textures.cfg"
+  },
+  {
+    "name": "Moho",
+    "filePath": "GEALite\\GameData\\DistantObject\\PlanetColors.cfg"
+  },
+  {
+    "name": "Duna",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Duna\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Eve\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Eve\\ocean.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Jool\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Kerbin\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Kerbin\\ocean.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Laythe\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "GEALite\\GameData\\scatterer\\config\\Planets\\Laythe\\ocean.cfg"
+  }
+]

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "BingoAerospace",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "FSanimateGeneric",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Compatibility\\Firespitter.cfg"
+  },
+  {
+    "name": "SerCom1m",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "S6 Service Compartment Tubes",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "sct-sercom-1m",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Parts\\sct-sercom-1m.cfg"
+  },
+  {
+    "name": "sct-sercom-1mT",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Parts\\sct-sercom-1mT.cfg"
+  },
+  {
+    "name": "sct-sercom-2m",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Parts\\sct-sercom-2m.cfg"
+  },
+  {
+    "name": "sct-sercom-2mT",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Parts\\sct-sercom-2mT.cfg"
+  },
+  {
+    "name": "sct-sercom-3m",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Parts\\sct-sercom-3m.cfg"
+  },
+  {
+    "name": "sct-sercom-3mT",
+    "filePath": "Nothke\\ServiceCompartmentTubes\\Parts\\sct-sercom-3mT.cfg"
+  }
+]

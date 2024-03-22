@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ModuleAnimateGenericEffects",
+    "filePath": "LazTek\\LaunchPack\\Compatibility\\ModuleAnimateGenericEffects.cfg"
+  },
+  {
+    "name": "#$oldName$",
+    "filePath": "LazTek\\LaunchPack\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "Launch Pack",
+    "filePath": "LazTek\\LaunchPack\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "llp-bay-payload",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-bay-payload.cfg"
+  },
+  {
+    "name": "llp-chute-dragon-2",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-chute-dragon-2.cfg"
+  },
+  {
+    "name": "llp-chute-dragon",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-chute-dragon.cfg"
+  },
+  {
+    "name": "llp-decoupler-radial",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-decoupler-radial.cfg"
+  },
+  {
+    "name": "llp-decoupler-sps",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-decoupler-sps.cfg"
+  },
+  {
+    "name": "llp-decoupler-trunk",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-decoupler-trunk.cfg"
+  },
+  {
+    "name": "llp-dock-dragon",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-dock-dragon.cfg"
+  },
+  {
+    "name": "llp-eng-draco",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-eng-draco.cfg"
+  },
+  {
+    "name": "llp-eng-merlin-1D-vac",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-eng-merlin-1D-vac.cfg"
+  },
+  {
+    "name": "llp-eng-merlin-1D",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-eng-merlin-1D.cfg"
+  },
+  {
+    "name": "llp-eng-plate-merlin",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-eng-plate-merlin.cfg"
+  },
+  {
+    "name": "llp-eng-sep",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-eng-sep.cfg"
+  },
+  {
+    "name": "llp-fairing-falcon-9-inter",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-fairing-falcon-9-inter.cfg"
+  },
+  {
+    "name": "llp-fairing-falcon-base",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-fairing-falcon-base.cfg"
+  },
+  {
+    "name": "llp-fairing-falcon-expanded",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-fairing-falcon-expanded.cfg"
+  },
+  {
+    "name": "llp-fairing-falcon-heavy-inter",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-fairing-falcon-heavy-inter.cfg"
+  },
+  {
+    "name": "llp-fin-grid-sm",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-fin-grid-sm.cfg"
+  },
+  {
+    "name": "llp-fin-grid",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-fin-grid.cfg"
+  },
+  {
+    "name": "llp-ladder-dragon",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-ladder-dragon.cfg"
+  },
+  {
+    "name": "llp-leg-falcon-lower",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-leg-falcon-lower.cfg"
+  },
+  {
+    "name": "llp-leg-falcon-upper",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-leg-falcon-upper.cfg"
+  },
+  {
+    "name": "llp-nosecone-dragon-2-retractable",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-nosecone-dragon-2-retractable.cfg"
+  },
+  {
+    "name": "llp-nosecone-dragon-2",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-nosecone-dragon-2.cfg"
+  },
+  {
+    "name": "llp-nosecone-falcon-heavy",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-nosecone-falcon-heavy.cfg"
+  },
+  {
+    "name": "llp-payload-sat",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-payload-sat.cfg"
+  },
+  {
+    "name": "llp-pod-cargo",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-pod-cargo.cfg"
+  },
+  {
+    "name": "llp-pod-dragon-2",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-pod-dragon-2.cfg"
+  },
+  {
+    "name": "llp-probe-falcon-250",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-probe-falcon-250.cfg"
+  },
+  {
+    "name": "llp-sherpa-core",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-sherpa-core.cfg"
+  },
+  {
+    "name": "llp-solar-cover",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-solar-cover.cfg"
+  },
+  {
+    "name": "llp-solar-dragon",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-solar-dragon.cfg"
+  },
+  {
+    "name": "llp-tank-falcon-upper",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-tank-falcon-heavy-upper.cfg"
+  },
+  {
+    "name": "llp-tank-falcon-main",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-tank-falcon-main.cfg"
+  },
+  {
+    "name": "llp-tank-sherpa",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-tank-sherpa.cfg"
+  },
+  {
+    "name": "llp-trunk-dragon-2",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-trunk-dragon-2.cfg"
+  },
+  {
+    "name": "llp-trunk-dragon",
+    "filePath": "LazTek\\LaunchPack\\Parts\\llp-trunk-dragon.cfg"
+  },
+  {
+    "name": "DragonV2Command",
+    "filePath": "LazTek\\LaunchPack\\Spaces\\DragonV2Command\\DragonV2Command-int.cfg"
+  }
+]

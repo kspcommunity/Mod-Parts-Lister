@@ -1,5 +1,257 @@
 [
   {
+    "name": "squad_MakingHistory",
+    "filePath": "MakingHistory\\Missions\\MissionPacks.cfg"
+  },
+  {
+    "name": "TestAccuracyLogic",
+    "filePath": "MakingHistory\\Nodes\\AccuracyLogic.cfg"
+  },
+  {
+    "name": "ActionPartResourceAmount",
+    "filePath": "MakingHistory\\Nodes\\ActionChancePartResourceLevels.cfg"
+  },
+  {
+    "name": "ActionVesselExplode",
+    "filePath": "MakingHistory\\Nodes\\ActionExplode.cfg"
+  },
+  {
+    "name": "MissionScore",
+    "filePath": "MakingHistory\\Nodes\\ActionMissionScore.cfg"
+  },
+  {
+    "name": "ModifyFunds",
+    "filePath": "MakingHistory\\Nodes\\ActionModifierFunds.cfg"
+  },
+  {
+    "name": "MissionScore",
+    "filePath": "MakingHistory\\Nodes\\ActionModifierScore.cfg"
+  },
+  {
+    "name": "ActionPartExplode",
+    "filePath": "MakingHistory\\Nodes\\ActionPartExplode.cfg"
+  },
+  {
+    "name": "ActionPartResourceDrain",
+    "filePath": "MakingHistory\\Nodes\\ActionPartResourceDrain.cfg"
+  },
+  {
+    "name": "ActionVesselActionGroup",
+    "filePath": "MakingHistory\\Nodes\\ActionVesselActionGroup.cfg"
+  },
+  {
+    "name": "ActionVesselStage",
+    "filePath": "MakingHistory\\Nodes\\ActionVesselStage.cfg"
+  },
+  {
+    "name": "CreateAsteroid",
+    "filePath": "MakingHistory\\Nodes\\CreateAsteroid.cfg"
+  },
+  {
+    "name": "CreateComet",
+    "filePath": "MakingHistory\\Nodes\\CreateComet.cfg"
+  },
+  {
+    "name": "CreateFlag",
+    "filePath": "MakingHistory\\Nodes\\CreateFlag.cfg"
+  },
+  {
+    "name": "CreateLaunchSite",
+    "filePath": "MakingHistory\\Nodes\\CreateLaunchSite.cfg"
+  },
+  {
+    "name": "CreateVessel",
+    "filePath": "MakingHistory\\Nodes\\CreateVessel.cfg"
+  },
+  {
+    "name": "TestCrewAssignment",
+    "filePath": "MakingHistory\\Nodes\\CrewAssignment.cfg"
+  },
+  {
+    "name": "Crashed",
+    "filePath": "MakingHistory\\Nodes\\Destroyed.cfg"
+  },
+  {
+    "name": "DialogMessage",
+    "filePath": "MakingHistory\\Nodes\\DialogMessage.cfg"
+  },
+  {
+    "name": "Distance",
+    "filePath": "MakingHistory\\Nodes\\Distance.cfg"
+  },
+  {
+    "name": "EmptyFalse",
+    "filePath": "MakingHistory\\Nodes\\EmptyFalse.cfg"
+  },
+  {
+    "name": "EmptyTrue",
+    "filePath": "MakingHistory\\Nodes\\EmptyTrue.cfg"
+  },
+  {
+    "name": "SOILeft",
+    "filePath": "MakingHistory\\Nodes\\EscapeSOI.cfg"
+  },
+  {
+    "name": "EVA",
+    "filePath": "MakingHistory\\Nodes\\EVA.cfg"
+  },
+  {
+    "name": "Flying",
+    "filePath": "MakingHistory\\Nodes\\Flying.cfg"
+  },
+  {
+    "name": "FundsRecovery",
+    "filePath": "MakingHistory\\Nodes\\FundsRecovery.cfg"
+  },
+  {
+    "name": "TestKerbalBoarded",
+    "filePath": "MakingHistory\\Nodes\\KerbalBoarded.cfg"
+  },
+  {
+    "name": "EVA",
+    "filePath": "MakingHistory\\Nodes\\KerbalKilled.cfg"
+  },
+  {
+    "name": "KerbalRecovery",
+    "filePath": "MakingHistory\\Nodes\\KerbalRecovery.cfg"
+  },
+  {
+    "name": "KerbalRescue",
+    "filePath": "MakingHistory\\Nodes\\KerbalRescue.cfg"
+  },
+  {
+    "name": "Landed",
+    "filePath": "MakingHistory\\Nodes\\Landed.cfg"
+  },
+  {
+    "name": "Message",
+    "filePath": "MakingHistory\\Nodes\\Message.cfg"
+  },
+  {
+    "name": "MissionFunds",
+    "filePath": "MakingHistory\\Nodes\\MissionFunds.cfg"
+  },
+  {
+    "name": "MissionScore",
+    "filePath": "MakingHistory\\Nodes\\MissionScore.cfg"
+  },
+  {
+    "name": "Orbit",
+    "filePath": "MakingHistory\\Nodes\\Orbit.cfg"
+  },
+  {
+    "name": "OrbitParams",
+    "filePath": "MakingHistory\\Nodes\\OrbitParams.cfg"
+  },
+  {
+    "name": "TestPartDocking",
+    "filePath": "MakingHistory\\Nodes\\PartDocking.cfg"
+  },
+  {
+    "name": "PartFailure",
+    "filePath": "MakingHistory\\Nodes\\PartFailure.cfg"
+  },
+  {
+    "name": "TestGrapple",
+    "filePath": "MakingHistory\\Nodes\\PartGrapple.cfg"
+  },
+  {
+    "name": "PartRepair",
+    "filePath": "MakingHistory\\Nodes\\PartRepair.cfg"
+  },
+  {
+    "name": "CreateKerbal",
+    "filePath": "MakingHistory\\Nodes\\PlaceKerbal.cfg"
+  },
+  {
+    "name": "PlantFlag",
+    "filePath": "MakingHistory\\Nodes\\PlantFlag.cfg"
+  },
+  {
+    "name": "ReachSOI",
+    "filePath": "MakingHistory\\Nodes\\ReachSOI.cfg"
+  },
+  {
+    "name": "ResourceAmount",
+    "filePath": "MakingHistory\\Nodes\\Resource.cfg"
+  },
+  {
+    "name": "TestResourcesRecovery",
+    "filePath": "MakingHistory\\Nodes\\ResourceRecovery.cfg"
+  },
+  {
+    "name": "ScienceExperiment",
+    "filePath": "MakingHistory\\Nodes\\ScienceExperiment.cfg"
+  },
+  {
+    "name": "SetCamera",
+    "filePath": "MakingHistory\\Nodes\\SetCamera.cfg"
+  },
+  {
+    "name": "SplashDown",
+    "filePath": "MakingHistory\\Nodes\\SplashDown.cfg"
+  },
+  {
+    "name": "TestVesselStageActivated",
+    "filePath": "MakingHistory\\Nodes\\StageActivated.cfg"
+  },
+  {
+    "name": "TestTakeKerbal",
+    "filePath": "MakingHistory\\Nodes\\TakeKerbal.cfg"
+  },
+  {
+    "name": "TestFlyThrough",
+    "filePath": "MakingHistory\\Nodes\\TestFlyThrough.cfg"
+  },
+  {
+    "name": "TestGoTo",
+    "filePath": "MakingHistory\\Nodes\\TestGoTo.cfg"
+  },
+  {
+    "name": "TimeMET",
+    "filePath": "MakingHistory\\Nodes\\TimeMET.cfg"
+  },
+  {
+    "name": "TimeOfMission",
+    "filePath": "MakingHistory\\Nodes\\TimeOfMission.cfg"
+  },
+  {
+    "name": "TestTimeSinceNode",
+    "filePath": "MakingHistory\\Nodes\\TimeSinceNode.cfg"
+  },
+  {
+    "name": "TestVesselActiveCount",
+    "filePath": "MakingHistory\\Nodes\\VesselActiveCount.cfg"
+  },
+  {
+    "name": "VesselAltitudeGoal",
+    "filePath": "MakingHistory\\Nodes\\VesselAltitudeGoal.cfg"
+  },
+  {
+    "name": "VeselCrewCount",
+    "filePath": "MakingHistory\\Nodes\\VesselCrewCount.cfg"
+  },
+  {
+    "name": "VesselMass",
+    "filePath": "MakingHistory\\Nodes\\VesselMassLogic.cfg"
+  },
+  {
+    "name": "PartCount",
+    "filePath": "MakingHistory\\Nodes\\VesselPartCount.cfg"
+  },
+  {
+    "name": "TestVesselRecovery",
+    "filePath": "MakingHistory\\Nodes\\VesselRecovery.cfg"
+  },
+  {
+    "name": "TestVesselStage",
+    "filePath": "MakingHistory\\Nodes\\VesselStage.cfg"
+  },
+  {
+    "name": "VesselVelocity",
+    "filePath": "MakingHistory\\Nodes\\VesselVelocity.cfg"
+  },
+  {
     "name": "rocketNoseConeSize4",
     "filePath": "MakingHistory\\Parts\\Aero\\protectiveRocketNoseMk16\\rocketNoseCone_size4.cfg"
   },
@@ -282,5 +534,77 @@
   {
     "name": "flagPartSize4",
     "filePath": "MakingHistory\\Parts\\Utility\\flags\\flagSize4\\flagSize4.cfg"
+  },
+  {
+    "name": "Airlock_IVA",
+    "filePath": "MakingHistory\\Spaces\\KVPods\\Airlock_Internal.cfg"
+  },
+  {
+    "name": "KV1_IVA",
+    "filePath": "MakingHistory\\Spaces\\KVPods\\KV1_Internal.cfg"
+  },
+  {
+    "name": "KV2_IVA",
+    "filePath": "MakingHistory\\Spaces\\KVPods\\KV2_Internal.cfg"
+  },
+  {
+    "name": "KV3_IVA",
+    "filePath": "MakingHistory\\Spaces\\KVPods\\KV3_Internal.cfg"
+  },
+  {
+    "name": "MEM_IVA",
+    "filePath": "MakingHistory\\Spaces\\MEM\\MEM_IVA.cfg"
+  },
+  {
+    "name": "MK2POD_IVA",
+    "filePath": "MakingHistory\\Spaces\\Mk2Pod\\Mk2Pod_Internal.cfg"
+  },
+  {
+    "name": "EquiTriangle0",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\EquiTriangle0.cfg"
+  },
+  {
+    "name": "EquiTriangle1",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\EquiTriangle1.cfg"
+  },
+  {
+    "name": "EquiTriangle1p5",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\EquiTriangle1p5.cfg"
+  },
+  {
+    "name": "EquiTriangle2",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\EquiTriangle2.cfg"
+  },
+  {
+    "name": "Panel0",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Panel0.cfg"
+  },
+  {
+    "name": "Panel1",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Panel1.cfg"
+  },
+  {
+    "name": "Panel1p5",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Panel1p5.cfg"
+  },
+  {
+    "name": "Panel2",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Panel2.cfg"
+  },
+  {
+    "name": "Triangle0",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Triangle0.cfg"
+  },
+  {
+    "name": "Triangle1",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Triangle1.cfg"
+  },
+  {
+    "name": "Triangle1p5",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Triangle1p5.cfg"
+  },
+  {
+    "name": "Triangle2",
+    "filePath": "MakingHistory\\zDeprecated\\Parts\\Structural\\Panels_v1\\Triangle2.cfg"
   }
 ]

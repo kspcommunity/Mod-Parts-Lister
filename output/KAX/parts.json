@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Kerbal Aircraft Expansioneers Ltd.",
+    "filePath": "KAX\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "KAXelectricprop",
+    "filePath": "KAX\\Parts\\KAX_electricProp\\KAX_electricProp.cfg"
+  },
+  {
+    "name": "KAXjumpJet",
+    "filePath": "KAX\\Parts\\KAX_jumpJet\\KAX_jumpJet.cfg"
+  },
+  {
+    "name": "KAXkueyEngine",
+    "filePath": "KAX\\Parts\\KAX_kueyEngine\\KAX_kueyEngine.cfg"
+  },
+  {
+    "name": "KAXkueyTailRotor",
+    "filePath": "KAX\\Parts\\KAX_kueyTailRotor\\KAX_kueyTailRotor.cfg"
+  },
+  {
+    "name": "KAXmedCockpit",
+    "filePath": "KAX\\Parts\\KAX_medCockpit\\KAX_medCockpit.cfg"
+  },
+  {
+    "name": "KAXmedFuselage",
+    "filePath": "KAX\\Parts\\KAX_medFuselage\\KAX_medFuselage.cfg"
+  },
+  {
+    "name": "KAXmedJetFuel",
+    "filePath": "KAX\\Parts\\KAX_medJetFuel\\KAX_medJetFuel.cfg"
+  },
+  {
+    "name": "KAXmedTail",
+    "filePath": "KAX\\Parts\\KAX_medTail\\KAX_medTail.cfg"
+  },
+  {
+    "name": "KAXradialprop",
+    "filePath": "KAX\\Parts\\KAX_radialProp\\KAX_radialProp.cfg"
+  },
+  {
+    "name": "KAXsportprop",
+    "filePath": "KAX\\Parts\\KAX_sportProp\\KAX_sportProp.cfg"
+  },
+  {
+    "name": "KAXturboprop",
+    "filePath": "KAX\\Parts\\KAX_turboProp\\KAX_turboProp.cfg"
+  }
+]

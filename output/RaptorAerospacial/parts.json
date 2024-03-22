@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "Heatshield100",
+    "filePath": "RaptorAerospacial\\Ablator\\Heatshield100.cfg"
+  },
+  {
+    "name": "Heatshield67",
+    "filePath": "RaptorAerospacial\\Ablator\\Heatshield67.cfg"
+  },
+  {
+    "name": "IVA_S100",
+    "filePath": "RaptorAerospacial\\Spaces\\IVA_S100\\IVA_S100.cfg"
+  },
+  {
+    "name": "IVA_S100",
+    "filePath": "RaptorAerospacial\\StockIVA\\Spaces\\IVA_S100\\IVA_S100.cfg"
+  },
+  {
+    "name": "Super100",
+    "filePath": "RaptorAerospacial\\StockIVA\\Super100\\Super100.cfg"
+  },
+  {
+    "name": "Super100",
+    "filePath": "RaptorAerospacial\\Super100\\Super100.cfg"
+  },
+  {
+    "name": "Super67",
+    "filePath": "RaptorAerospacial\\Super67\\Super67.cfg"
+  }
+]

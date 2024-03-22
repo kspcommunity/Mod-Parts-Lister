@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "ModulePartVariants",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters-MM-FTP-size0.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters-MM-FTP-size1.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters-MM-FTP-size2.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters-MM-FTP-size3.cfg"
+  },
+  {
+    "name": "CCCOxidizer",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters-MM-fuelswitch.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters-MM-tanks.cfg"
+  },
+  {
+    "name": "CCCStock",
+    "filePath": "ColorCodedCans\\ColorCodedCanisters_Themes.cfg"
+  }
+]

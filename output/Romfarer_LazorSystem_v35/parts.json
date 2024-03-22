@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Romfarer_LazorSystem",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_LazorSystem\\part.cfg"
+  },
+  {
+    "name": "Romfarer_LazorSystemStack",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_LazorSystemStack\\part.cfg"
+  },
+  {
+    "name": "Romfarer_LazorSystemStackBig",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_LazorSystemStackBig\\part.cfg"
+  },
+  {
+    "name": "Romfarer_Lazor_Blue",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_Lazor_Blue\\part.cfg"
+  },
+  {
+    "name": "Romfarer_Lazor_Green",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_Lazor_Green\\part.cfg"
+  },
+  {
+    "name": "Romfarer_Lazor_Magenta",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_Lazor_Magenta\\part.cfg"
+  },
+  {
+    "name": "Romfarer_Lazor_Red",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_Lazor_Red\\part.cfg"
+  },
+  {
+    "name": "Romfarer_Lazor_Yellow",
+    "filePath": "Romfarer_LazorSystem_v35\\GameData\\Romfarer\\Parts\\Romfarer_Lazor_Yellow\\part.cfg"
+  }
+]

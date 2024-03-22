@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "FuelCellFuel",
+    "filePath": "HotBeverage\\ServiceModules\\Compatibility\\Kerturn.cfg"
+  },
+  {
+    "name": "HB_ServiceModule_25",
+    "filePath": "HotBeverage\\ServiceModules\\Config\\ghostparts.cfg"
+  },
+  {
+    "name": "Service Modules",
+    "filePath": "HotBeverage\\ServiceModules\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "serv-125",
+    "filePath": "HotBeverage\\ServiceModules\\Parts\\serv-125.cfg"
+  },
+  {
+    "name": "serv-1875",
+    "filePath": "HotBeverage\\ServiceModules\\Parts\\serv-1875.cfg"
+  },
+  {
+    "name": "serv-250",
+    "filePath": "HotBeverage\\ServiceModules\\Parts\\serv-250.cfg"
+  },
+  {
+    "name": "serv-375",
+    "filePath": "HotBeverage\\ServiceModules\\Parts\\serv-375.cfg"
+  }
+]

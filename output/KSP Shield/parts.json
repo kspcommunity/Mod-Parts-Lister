@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "deflectorshieldmodule",
+    "filePath": "KSP Shield\\GameData\\Parts\\KSP-Shield-Module.cfg"
+  },
+  {
+    "name": "Anti-Matter // the fuel for Deflector Shield",
+    "filePath": "KSP Shield\\GameData\\Resources.cfg"
+  }
+]

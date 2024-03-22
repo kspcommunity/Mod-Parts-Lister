@@ -1,5 +1,9 @@
 [
   {
+    "name": "Engineer",
+    "filePath": "Serenity\\Experience\\Traits.cfg"
+  },
+  {
     "name": "FanShroud_01",
     "filePath": "Serenity\\Parts\\Aero\\FanShroud_01.cfg"
   },
@@ -238,5 +242,9 @@
   {
     "name": "sGripStrip",
     "filePath": "Serenity\\Parts\\Structural\\gripPads\\sGripStrip.cfg"
+  },
+  {
+    "name": "MediumGrip",
+    "filePath": "Serenity\\Resources\\PhysicsMaterials.cfg"
   }
 ]

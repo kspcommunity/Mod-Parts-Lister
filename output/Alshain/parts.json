@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "ModuleLightBulb } }",
+    "filePath": "Alshain\\BULB\\Config\\BrightUtilitarianLuminescentBeacon.cfg"
+  },
+  {
+    "name": "Bright Utilitarian Luminescent Beacon",
+    "filePath": "Alshain\\BULB\\Localization\\en-us.cfg"
+  }
+]

@@ -182,5 +182,21 @@
   {
     "name": "R4CmdChair\t",
     "filePath": "BoatPartsR3\\Parts\\R4CmdChair\\part.cfg"
+  },
+  {
+    "name": "SpareParts",
+    "filePath": "BoatPartsR3\\Resources\\SpareParts.cfg"
+  },
+  {
+    "name": "Structure",
+    "filePath": "BoatPartsR3\\Resources\\Structure.cfg"
+  },
+  {
+    "name": "Uranium",
+    "filePath": "BoatPartsR3\\Resources\\Uranium.cfg"
+  },
+  {
+    "name": "CarrierR3ConTowerInt",
+    "filePath": "BoatPartsR3\\Spaces\\CarrierR3ConTowerInt\\internal.cfg"
   }
 ]

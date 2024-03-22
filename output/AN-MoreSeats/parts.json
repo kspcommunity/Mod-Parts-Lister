@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Kerci co.inc.",
+    "filePath": "AN-MoreSeats\\Localization\\dictionary.cfg"
+  },
+  {
+    "name": "AN-BathSeat",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-BathSeat\\part.cfg"
+  },
+  {
+    "name": "AN-CheapStool",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-CheapStool\\part.cfg"
+  },
+  {
+    "name": "AN-OfficeChair",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-OfficeChair\\part.cfg"
+  },
+  {
+    "name": "AN-Sofa",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-Sofa\\part.cfg"
+  },
+  {
+    "name": "AN-Throne",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-Throne\\part.cfg"
+  },
+  {
+    "name": "AN-TortureChair",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-TortureChair\\part.cfg"
+  },
+  {
+    "name": "AN-TwinSofa",
+    "filePath": "AN-MoreSeats\\Parts\\Command\\AN-TwinSofa\\part.cfg"
+  }
+]

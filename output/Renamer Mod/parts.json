@@ -1,0 +1,30 @@
+[
+  {
+    "name": "advSasModule",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\advSasModuledone\\part.cfg"
+  },
+  {
+    "name": "asasmodule1-2",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\asasmodule1-2done\\part.cfg"
+  },
+  {
+    "name": "avionicsNoseCone",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\avionicsNoseConedone\\part.cfg"
+  },
+  {
+    "name": "crewCabin",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\crewCabindone\\part.cfg"
+  },
+  {
+    "name": "cupola",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\cupoladone\\part.cfg"
+  },
+  {
+    "name": "landerCabinSmall",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\landerCabinSmalldone\\part.cfg"
+  },
+  {
+    "name": "Mark1Cockpit",
+    "filePath": "Renamer Mod\\Gamedata\\Renamer Mod\\Parts\\command\\Mark1Cockpitdone\\part.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "advSasModule",
+    "filePath": "KerbalSpaceJunk\\Command\\inlineAdvancedStabilizer\\inlineAdvancedStabilizer.cfg"
+  },
+  {
+    "name": "sasModule",
+    "filePath": "KerbalSpaceJunk\\Command\\inlineReactionWheel\\inlineReactionWheel.cfg"
+  },
+  {
+    "name": "xenonTank_Large",
+    "filePath": "KerbalSpaceJunk\\FuelTank\\xenonTank_Large\\xenonTank_Large.cfg"
+  },
+  {
+    "name": "xenonTank_Medium",
+    "filePath": "KerbalSpaceJunk\\FuelTank\\xenonTank_Medium\\xenonTank_Medium.cfg"
+  },
+  {
+    "name": "longAntenna",
+    "filePath": "KerbalSpaceJunk\\Utility\\commsDish17\\commsAntenna17.cfg"
+  },
+  {
+    "name": "HeavyDutyGearBay",
+    "filePath": "KerbalSpaceJunk\\Wheel\\HeavyDutyGearBay\\smallGearBay.cfg"
+  },
+  {
+    "name": "MediumDutyGearBay",
+    "filePath": "KerbalSpaceJunk\\Wheel\\MediumDutyGearBay\\MediumDutyGearBay.cfg"
+  }
+]

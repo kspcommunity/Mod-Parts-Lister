@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FuelRcsEngineWing",
+    "filePath": "HM\\Parts\\FREW\\FuelRcsEngineWing.cfg"
+  },
+  {
+    "name": "MRcommandpod",
+    "filePath": "HM\\Parts\\MRCP\\MRcommandpod.cfg"
+  },
+  {
+    "name": "MRdecouple",
+    "filePath": "HM\\Parts\\MRD\\MRdecouple.cfg"
+  },
+  {
+    "name": "MRles",
+    "filePath": "HM\\Parts\\MRLES\\MRles.cfg"
+  },
+  {
+    "name": "MRnosecone",
+    "filePath": "HM\\Parts\\MRNC\\MRnosecone.cfg"
+  }
+]

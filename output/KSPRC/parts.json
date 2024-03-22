@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ParticlesA",
+    "filePath": "KSPRC\\Atmospheres\\clouds.cfg"
+  },
+  {
+    "name": "Base",
+    "filePath": "KSPRC\\KSPRC.cfg"
+  }
+]

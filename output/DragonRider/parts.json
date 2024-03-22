@@ -1,5 +1,29 @@
 [
   {
+    "name": "cBBp",
+    "filePath": "DragonRider\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "DragonRider\\Compatibility\\Kerbalism.cfg"
+  },
+  {
+    "name": "LazorSystemDockingCamera",
+    "filePath": "DragonRider\\Compatibility\\Lazor.cfg"
+  },
+  {
+    "name": "MechJebCore",
+    "filePath": "DragonRider\\Compatibility\\Mechjeb.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "DragonRider\\Compatibility\\TacLifeSupport.cfg"
+  },
+  {
+    "name": "Dragon Rider",
+    "filePath": "DragonRider\\Localization\\en-us.cfg"
+  },
+  {
     "name": "dragr-Capsule",
     "filePath": "DragonRider\\Parts\\DragonCapsule\\dragr-Capsule.cfg"
   },
@@ -18,5 +42,9 @@
   {
     "name": "dragr-Trunk",
     "filePath": "DragonRider\\Parts\\DragonTrunk\\dragr-Trunk.cfg"
+  },
+  {
+    "name": "DragonGuts",
+    "filePath": "DragonRider\\Spaces\\DragonGuts\\DragonGuts.cfg"
   }
 ]

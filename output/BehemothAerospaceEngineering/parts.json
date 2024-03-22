@@ -1,5 +1,73 @@
 [
   {
+    "name": "BehemothAerospaceEngineering",
+    "filePath": "BehemothAerospaceEngineering\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "SolidFuel",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\BoosterSegments.cfg"
+  },
+  {
+    "name": "ModuleCrossFeed } }",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\CrossFeedEnabler.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\DefaultActionGroups.cfg"
+  },
+  {
+    "name": "ModuleEngineIgnitor",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\EngineIgnitor.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\FuelSwitchers\\B9FuelSwitch.cfg"
+  },
+  {
+    "name": "InterstellarFuelSwitch",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\FuelSwitchers\\FuelSwitch.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\FuelSwitchers\\ModularFuelTanks.cfg"
+  },
+  {
+    "name": "GimbalTrim",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\GimbalTrim.cfg"
+  },
+  {
+    "name": "kOSProcessor",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\kOS.cfg"
+  },
+  {
+    "name": "BuildEngineer}",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\MechJeb.cfg"
+  },
+  {
+    "name": "ModuleSPU",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\RemoteTech.cfg"
+  },
+  {
+    "name": "SCANsat",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\SCANSat.cfg"
+  },
+  {
+    "name": "TSTScienceHardDrive",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\TarsierSpaceTech.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "BehemothAerospaceEngineering\\Compatability\\TweakScale.0.cfg"
+  },
+  {
+    "name": "Behemoth Aerospace Engineering",
+    "filePath": "BehemothAerospaceEngineering\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Behemoth Aerospace Engineering",
+    "filePath": "BehemothAerospaceEngineering\\Localization\\ru.cfg"
+  },
+  {
     "name": "bae-fairing-1000",
     "filePath": "BehemothAerospaceEngineering\\Parts\\Aero\\bae-fairing-1000.cfg"
   },
@@ -394,5 +462,9 @@
   {
     "name": "bae-leg-800",
     "filePath": "BehemothAerospaceEngineering\\Parts\\Utility\\bae-leg-800.cfg"
+  },
+  {
+    "name": "ModularSolidFuel",
+    "filePath": "BehemothAerospaceEngineering\\Resources\\Resources.cfg"
   }
 ]

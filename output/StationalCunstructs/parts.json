@@ -1,0 +1,102 @@
+[
+  {
+    "name": "JSpaceCo",
+    "filePath": "StationalCunstructs\\Agencies\\JSpaceCoAgency.cfg"
+  },
+  {
+    "name": "ModuleB9AnimateIntake",
+    "filePath": "StationalCunstructs\\MM_B9Patches.cfg"
+  },
+  {
+    "name": "ScaleStationRings",
+    "filePath": "StationalCunstructs\\MM_TweakScalePatches.cfg"
+  },
+  {
+    "name": "JRadialMountedFuelTankTI",
+    "filePath": "StationalCunstructs\\Parts\\EnginesAndTanks\\RadialFuelTankTypeI.cfg"
+  },
+  {
+    "name": "JRadialMountedFuelTankTII",
+    "filePath": "StationalCunstructs\\Parts\\EnginesAndTanks\\RadialFuelTankTypeII.cfg"
+  },
+  {
+    "name": "JRadialMountedFuelTankTIII",
+    "filePath": "StationalCunstructs\\Parts\\EnginesAndTanks\\RadialFuelTankTypeIII.cfg"
+  },
+  {
+    "name": "JRadialMountedRapierTI",
+    "filePath": "StationalCunstructs\\Parts\\EnginesAndTanks\\RadialRapierEngineTypeI.cfg"
+  },
+  {
+    "name": "JRadialMountedRapierTII",
+    "filePath": "StationalCunstructs\\Parts\\EnginesAndTanks\\RadialRapierEngineTypeII.cfg"
+  },
+  {
+    "name": "JRadialMountedRapierTIII",
+    "filePath": "StationalCunstructs\\Parts\\EnginesAndTanks\\RadialRapierEngineTypeIII.cfg"
+  },
+  {
+    "name": "JConcaveCanisterColumn",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\CanisterColumn.cfg"
+  },
+  {
+    "name": "JConcaveCanisterGapped",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\CanisterGapped.cfg"
+  },
+  {
+    "name": "JConcaveCapSider",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\CapSpider.cfg"
+  },
+  {
+    "name": "JConcaveCapTriders",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\CapTriders.cfg"
+  },
+  {
+    "name": "JConcaveExpander",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\Expander.cfg"
+  },
+  {
+    "name": "JConcaveLBeamAkimbo",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\LBeamAkimbo.cfg"
+  },
+  {
+    "name": "JConcaveLBeamFlush",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\LBeamFlush.cfg"
+  },
+  {
+    "name": "JProfileWallTIRingIn",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\ProfileRingInWall.cfg"
+  },
+  {
+    "name": "JProfileWallTIRingOut",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\ProfileRingOutWall.cfg"
+  },
+  {
+    "name": "JProfileWallTIRingRampBottom",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\ProfileRingRampBottomWall.cfg"
+  },
+  {
+    "name": "JProfileWallTIRingRampTop",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\ProfileRingRampTopWall.cfg"
+  },
+  {
+    "name": "JProfileWallTIRingTop",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\ProfileRingTopWall.cfg"
+  },
+  {
+    "name": "JProfileStationTI",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\ProfileRingTypeI.cfg"
+  },
+  {
+    "name": "JConcaveSlippers",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\Slippers.cfg"
+  },
+  {
+    "name": "JSolidStationTI",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\SolidRingTypeI.cfg"
+  },
+  {
+    "name": "JSolidStationTII",
+    "filePath": "StationalCunstructs\\Parts\\RingsAndConstrains\\SolidRingTypeII.cfg"
+  }
+]

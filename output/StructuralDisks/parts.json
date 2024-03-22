@@ -1,0 +1,26 @@
+[
+  {
+    "name": "structuralDisk0.625",
+    "filePath": "StructuralDisks\\Parts\\structuralDisk0.625.cfg"
+  },
+  {
+    "name": "structuralDisk1.25",
+    "filePath": "StructuralDisks\\Parts\\structuralDisk1.25.cfg"
+  },
+  {
+    "name": "structuralDisk2.5",
+    "filePath": "StructuralDisks\\Parts\\structuralDisk2.5.cfg"
+  },
+  {
+    "name": "structuralDisk3.75",
+    "filePath": "StructuralDisks\\Parts\\structuralDisk3.75.cfg"
+  },
+  {
+    "name": "InterstellarTextureSwitch2",
+    "filePath": "StructuralDisks\\Patches\\StructuralDisks-MM.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "StructuralDisks\\Patches\\StructuralDisks_TweakScale.cfg"
+  }
+]

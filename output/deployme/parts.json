@@ -1,1 +1,174 @@
-[]
+[
+  {
+    "name": "VABScaleDetector",
+    "filePath": "deployme\\StanfordTorus\\MM_TorusVABScaler.cfg"
+  },
+  {
+    "name": "ndStanfordTorus10k",
+    "filePath": "deployme\\StanfordTorus\\Parts\\10kmHull\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorus25m",
+    "filePath": "deployme\\StanfordTorus\\Parts\\25mstanfordtorus\\part.cfg"
+  },
+  {
+    "name": "3mBooster",
+    "filePath": "deployme\\StanfordTorus\\Parts\\3MeterSRB\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusBatteryCore",
+    "filePath": "deployme\\StanfordTorus\\Parts\\batteryArray\\part.cfg"
+  },
+  {
+    "name": "BiologyExperiment",
+    "filePath": "deployme\\StanfordTorus\\Parts\\biologyExperiment\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusRocketPartBay",
+    "filePath": "deployme\\StanfordTorus\\Parts\\cargoBays\\part.cfg"
+  },
+  {
+    "name": "ndCncMillSmall",
+    "filePath": "deployme\\StanfordTorus\\Parts\\cncmill\\part.cfg"
+  },
+  {
+    "name": "exLaunchPadGarage",
+    "filePath": "deployme\\StanfordTorus\\Parts\\eplGarage\\part.cfg"
+  },
+  {
+    "name": "stforestModule",
+    "filePath": "deployme\\StanfordTorus\\Parts\\forestModule\\part.cfg"
+  },
+  {
+    "name": "ndGardenModule",
+    "filePath": "deployme\\StanfordTorus\\Parts\\GardenModule\\part.cfg"
+  },
+  {
+    "name": "stGroundModule",
+    "filePath": "deployme\\StanfordTorus\\Parts\\groundModuleMk2\\part.cfg"
+  },
+  {
+    "name": "NDGooExperiment",
+    "filePath": "deployme\\StanfordTorus\\Parts\\inlineGoo\\part.cfg"
+  },
+  {
+    "name": "NDKarbonite Smelter",
+    "filePath": "deployme\\StanfordTorus\\Parts\\KarboniteSmelter\\part.cfg"
+  },
+  {
+    "name": "exLaunchPadLarge",
+    "filePath": "deployme\\StanfordTorus\\Parts\\largeEPL\\part.cfg"
+  },
+  {
+    "name": "nddockingPortLarge",
+    "filePath": "deployme\\StanfordTorus\\Parts\\largeSurfaceMountDockingPort\\part.cfg"
+  },
+  {
+    "name": "Laser Smelter",
+    "filePath": "deployme\\StanfordTorus\\Parts\\laserSmelter\\part.cfg"
+  },
+  {
+    "name": "massAccelerator",
+    "filePath": "deployme\\StanfordTorus\\Parts\\MassAcceleratorMaster\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusMetalBay",
+    "filePath": "deployme\\StanfordTorus\\Parts\\metalBay\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusOreBay",
+    "filePath": "deployme\\StanfordTorus\\Parts\\orebay\\part.cfg"
+  },
+  {
+    "name": "ParticleAcceleratorExperiment",
+    "filePath": "deployme\\StanfordTorus\\Parts\\ParticleAcceleratorexperiment\\part.cfg"
+  },
+  {
+    "name": "PsychologyExperiment",
+    "filePath": "deployme\\StanfordTorus\\Parts\\PsychologyExperiment\\part.cfg"
+  },
+  {
+    "name": "stScienceStation",
+    "filePath": "deployme\\StanfordTorus\\Parts\\sciencestation\\part.cfg"
+  },
+  {
+    "name": "ndSmallCargoBay",
+    "filePath": "deployme\\StanfordTorus\\Parts\\smallCargobay\\part.cfg"
+  },
+  {
+    "name": "ndSmallFuelCell",
+    "filePath": "deployme\\StanfordTorus\\Parts\\smallFuelCell\\part.cfg"
+  },
+  {
+    "name": "stationSolarPanelsmall",
+    "filePath": "deployme\\StanfordTorus\\Parts\\solarPanelMedium\\part.cfg"
+  },
+  {
+    "name": "stationSolarPanel",
+    "filePath": "deployme\\StanfordTorus\\Parts\\solarPanelsGigantic\\part.cfg"
+  },
+  {
+    "name": "nd1200SpaceDockModule",
+    "filePath": "deployme\\StanfordTorus\\Parts\\spacedockModule\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorus",
+    "filePath": "deployme\\StanfordTorus\\Parts\\StanfordTorus\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusFuelTank",
+    "filePath": "deployme\\StanfordTorus\\Parts\\stationFuelTank\\part.cfg"
+  },
+  {
+    "name": "ndStationHabitat",
+    "filePath": "deployme\\StanfordTorus\\Parts\\stationHabitat\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusKarboniteTank",
+    "filePath": "deployme\\StanfordTorus\\Parts\\stationKarboniteTank\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusKethaneTank",
+    "filePath": "deployme\\StanfordTorus\\Parts\\stationKethaneTank\\part.cfg"
+  },
+  {
+    "name": "ndStanfordTorusDockingModule",
+    "filePath": "deployme\\StanfordTorus\\Parts\\torusDockingModule\\part.cfg"
+  },
+  {
+    "name": "GooExperiment2",
+    "filePath": "deployme\\StanfordTorus\\Parts\\tutorialPart\\part.cfg"
+  },
+  {
+    "name": "vernierEngine2",
+    "filePath": "deployme\\StanfordTorus\\Parts\\vernorEngine2\\vernorEngine.cfg"
+  },
+  {
+    "name": "GooData",
+    "filePath": "deployme\\StanfordTorus\\Resources\\Resources.cfg"
+  },
+  {
+    "name": "tutorialpart",
+    "filePath": "deployme\\StanfordTorus\\SourceCode\\plugintutorial1\\output\\parts\\tutorialPart\\part.cfg"
+  },
+  {
+    "name": "25mStanfordTorusInternals",
+    "filePath": "deployme\\StanfordTorus\\Spaces\\25mstanfordtorus\\internal.cfg"
+  },
+  {
+    "name": "GardenModuleInternals",
+    "filePath": "deployme\\StanfordTorus\\Spaces\\GardenModule\\internal.cfg"
+  },
+  {
+    "name": "PsychologyExperimentInternals",
+    "filePath": "deployme\\StanfordTorus\\Spaces\\PsychologyExperiment\\internal.cfg"
+  },
+  {
+    "name": "StationScienceModuleInternals",
+    "filePath": "deployme\\StanfordTorus\\Spaces\\scienceStation\\internal.cfg"
+  },
+  {
+    "name": "StationHabitatInternals",
+    "filePath": "deployme\\StanfordTorus\\Spaces\\stationHabitat\\internal.cfg"
+  }
+]

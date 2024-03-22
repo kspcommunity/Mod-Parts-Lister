@@ -1,0 +1,46 @@
+[
+  {
+    "name": "spikedCone",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\Aero\\spikedCone\\spikedCone.cfg"
+  },
+  {
+    "name": "spikedIntake",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\Aero\\spikedIntake\\spikedIntake.cfg"
+  },
+  {
+    "name": "batteryBankBTB-100",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\Electrical\\batteryBankBTB-100\\batteryBankBTB-100.cfg"
+  },
+  {
+    "name": "batteryBankBTB-200",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\Electrical\\batteryBankBTB-200\\batteryBankBTB-200.cfg"
+  },
+  {
+    "name": "batteryBankBTB-400",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\Electrical\\batteryBankBTB-400\\batteryBankBTB-400.cfg"
+  },
+  {
+    "name": "largeIonEngine",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\Engine\\largeIonEngine\\largeIonEngine.cfg"
+  },
+  {
+    "name": "fuelTankCFT-200",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\FuelTank\\fuelTankCFT-200\\fuelTankCFT-200.cfg"
+  },
+  {
+    "name": "fuelTankCFT-400",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\FuelTank\\fuelTankCFT-400\\fuelTankCFT-400.cfg"
+  },
+  {
+    "name": "fuelTankOFT-100",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\FuelTank\\fuelTankOFT-100\\fuelTankOFT-100.cfg"
+  },
+  {
+    "name": "fuelTankOFT-200",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\FuelTank\\fuelTankOFT-200\\fuelTankOFT-200.cfg"
+  },
+  {
+    "name": "fuelTankOFT-400",
+    "filePath": "The Aviation Expansion V1\\Gamedata (TAE)\\Parts\\FuelTank\\fuelTankOFT-400\\fuelTankOFT-400.cfg"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "KEAM",
+    "filePath": "KEAM-1-0\\GameData\\KEAM\\KEAM.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "KEAM-1-0\\OptionalConfigs\\KEAM-CLS.cfg"
+  }
+]

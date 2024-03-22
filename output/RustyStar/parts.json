@@ -1,0 +1,50 @@
+[
+  {
+    "name": "RSR_ReactoRR",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Electrical\\RSR_ReactoRR\\RSR_ReactoRR.cfg"
+  },
+  {
+    "name": "RSR_Reactor_s1",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Electrical\\RSR_Reactor_s1\\RSR_Reactor_s1.cfg"
+  },
+  {
+    "name": "VTOL2L",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Engine\\RSR_VTOL_Engines\\VTOL2L.cfg"
+  },
+  {
+    "name": "VTOL2R",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Engine\\RSR_VTOL_Engines\\VTOL2R.cfg"
+  },
+  {
+    "name": "RSR_ZPE_Engine",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Engine\\RSR_ZPE_Engine\\RSR_ZPE_Engine.cfg"
+  },
+  {
+    "name": "RSR_ZPE_Engine_s1",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Engine\\RSR_ZPE_Engine_s1\\RSR_ZPE_Engine_s1.cfg"
+  },
+  {
+    "name": "RSR_UCC",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\FuelTank\\RSR_UCC\\RSR_UCC.cfg"
+  },
+  {
+    "name": "RSR_UCC_s1",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\FuelTank\\RSR_UCC_s1\\RSR_UCC_s1.cfg"
+  },
+  {
+    "name": "RSR_QFE",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Utility\\RSR_QFE\\RSR_QFE.cfg"
+  },
+  {
+    "name": "RSR_QFE_s1",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Utility\\RSR_QFE_s1\\RSR_QFE_s1.cfg"
+  },
+  {
+    "name": "RSR_QFE_X",
+    "filePath": "RustyStar\\ZPEPropulsion\\Parts\\Utility\\RSR_QFE_X\\RSR_QFE_X.cfg"
+  },
+  {
+    "name": "QuantumFluctuations",
+    "filePath": "RustyStar\\ZPEPropulsion\\Resources\\ResourcesGeneric.cfg"
+  }
+]

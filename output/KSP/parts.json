@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Relations Publiques",
+    "filePath": "KSP\\GameData\\TradFR\\cfg\\Departments.cfg"
+  },
+  {
+    "name": "crewCabinInternalsFR",
+    "filePath": "KSP\\GameData\\TradFR\\internals\\config.cfg"
+  },
+  {
+    "name": "Mobile_Processing_Lab_IntFR",
+    "filePath": "KSP\\GameData\\TradFR\\internals\\MPL\\internal.cfg"
+  },
+  {
+    "name": "crewCabinInternalsFR",
+    "filePath": "KSP\\GameData\\TradFR\\internals\\PPD-10\\internal.cfg"
+  }
+]

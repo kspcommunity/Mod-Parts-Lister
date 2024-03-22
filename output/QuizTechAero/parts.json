@@ -1,0 +1,114 @@
+[
+  {
+    "name": "ThunderboltIVA_RPM",
+    "filePath": "QuizTechAero\\MM_Patches\\quizTech_aero_RPM.cfg"
+  },
+  {
+    "name": "quizTechMk1K10Cockpit",
+    "filePath": "QuizTechAero\\Parts\\Command\\K-10\\K-10.cfg"
+  },
+  {
+    "name": "quizTechMk1EagleCockpit",
+    "filePath": "QuizTechAero\\Parts\\Command\\Mk1_Eagle\\eagle.cfg"
+  },
+  {
+    "name": "mk2ProbeNose",
+    "filePath": "QuizTechAero\\Parts\\Command\\Mk2ProbeNose\\Mk2NoseProbe.cfg"
+  },
+  {
+    "name": "quizTechMk2ThunderboltCockpit",
+    "filePath": "QuizTechAero\\Parts\\Command\\Mk2_Thunderbolt\\thunderbolt.cfg"
+  },
+  {
+    "name": "Mk2TwinTurboJet",
+    "filePath": "QuizTechAero\\Parts\\Engine\\Mk2TwinTurboJet\\Mk2TwinTurboJet.cfg"
+  },
+  {
+    "name": "cyclone",
+    "filePath": "QuizTechAero\\Parts\\Engine\\Mk2vtol\\cyclone.cfg"
+  },
+  {
+    "name": "K-35B",
+    "filePath": "QuizTechAero\\Parts\\Engine\\Mk2vtol\\k35B.cfg"
+  },
+  {
+    "name": "KFAN",
+    "filePath": "QuizTechAero\\Parts\\Engine\\Mk2vtol\\KFAN.cfg"
+  },
+  {
+    "name": "razorMk1",
+    "filePath": "QuizTechAero\\Parts\\Engine\\Mk2vtol\\razor.cfg"
+  },
+  {
+    "name": "Mk2_LinAerospike",
+    "filePath": "QuizTechAero\\Parts\\Engine\\mk2_LinAerospike\\Mk2_LinAerospike.cfg"
+  },
+  {
+    "name": "Mk2_NERVA",
+    "filePath": "QuizTechAero\\Parts\\Engine\\Mk2_NERVA\\Mk_NERVA.cfg"
+  },
+  {
+    "name": "rcsJet",
+    "filePath": "QuizTechAero\\Parts\\Engine\\rcsJet\\rcsJet.cfg"
+  },
+  {
+    "name": "quizTechVTOLwing",
+    "filePath": "QuizTechAero\\Parts\\Engine\\VTOL_FanWing\\VTOL_FanWing.cfg"
+  },
+  {
+    "name": "Mk2QuarterTank",
+    "filePath": "QuizTechAero\\Parts\\FuelTank\\Mk2_Quarter_Tank\\Mk2_Quart_Tank.cfg"
+  },
+  {
+    "name": "Mk2-0.625x2",
+    "filePath": "QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2-0.625x2.cfg"
+  },
+  {
+    "name": "mk2-1AdapterIntakes",
+    "filePath": "QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2-1AdapterIntakes.cfg"
+  },
+  {
+    "name": "Mk2-1_Adapter_Slanted",
+    "filePath": "QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2-1_Adapter_Slanted.cfg"
+  },
+  {
+    "name": "mk2SnubNose",
+    "filePath": "QuizTechAero\\Parts\\Structural\\Mk2_Adapters\\Mk2SnubNose.cfg"
+  },
+  {
+    "name": "mk2MedNose",
+    "filePath": "QuizTechAero\\Parts\\Structural\\Mk2_Med_Nose\\Mk2MedNose.cfg"
+  },
+  {
+    "name": "Mk2_Half_ServiceBay",
+    "filePath": "QuizTechAero\\Parts\\Utility\\Mk2_Half_ServiceBay\\Mk2_Half_ServiceBay.cfg"
+  },
+  {
+    "name": "Mk2_ShieldedNosePort",
+    "filePath": "QuizTechAero\\Parts\\Utility\\Mk2_ShieldedNosePort\\mk2DockingPort.cfg"
+  },
+  {
+    "name": "QTSquareButtonCockpitLight",
+    "filePath": "QuizTechAero\\Props\\Buttons.cfg"
+  },
+  {
+    "name": "EagleInternal",
+    "filePath": "QuizTechAero\\Spaces\\Eagle\\EagleInternal.cfg"
+  },
+  {
+    "name": "EagleInternal_RPM",
+    "filePath": "QuizTechAero\\Spaces\\Eagle\\EagleInternalRPM.cfg"
+  },
+  {
+    "name": "ThunderboltIVA",
+    "filePath": "QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternal.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_B9",
+    "filePath": "QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternalB9.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_RPM",
+    "filePath": "QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternalRPM.cfg"
+  }
+]

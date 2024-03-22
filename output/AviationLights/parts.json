@@ -1,5 +1,9 @@
 [
   {
+    "name": "DefaultAviationLightsColors",
+    "filePath": "AviationLights\\AviationLightsPresets.cfg"
+  },
+  {
     "name": "light_aviation",
     "filePath": "AviationLights\\Parts\\aviation_light.cfg"
   },
