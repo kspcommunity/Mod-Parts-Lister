@@ -52,7 +52,7 @@ const main = () => {
     try {
         const mods = fs.readdirSync(dataFolderPath);
         mods.forEach(processMod);
-        fs.writeFileSync('final_data.json', JSON.stringify(finalData, null, 2));
+        fs.writeFileSync('data.json', JSON.stringify(finalData, null, 2));
         console.log('Final data compiled successfully.');
     } catch (error) {
         console.error('Error processing mods:', error);
