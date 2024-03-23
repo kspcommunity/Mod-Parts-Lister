@@ -79,10 +79,6 @@ def get_user_info(data_folder, subfolder_info):
             user_info['preferredName'] = preferred_name_entry.get()
             user_info['link'] = link_entry.get()
 
-            # Create subfolder if it doesn't exist
-            if not os.path.exists(subfolder_name):
-                os.makedirs(subfolder_name)
-
             # Create info.json for the folder if it doesn't exist
             info_file = os.path.join(data_folder, subfolder_name, 'info.json')
             if not os.path.exists(info_file):
