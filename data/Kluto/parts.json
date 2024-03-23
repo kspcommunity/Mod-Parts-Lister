@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Kluto",
+    "filePath": "Kluto\\KopernicusFiles\\Kluto\\0-Kluto.cfg"
+  },
+  {
+    "name": "Karon",
+    "filePath": "Kluto\\KopernicusFiles\\Kluto\\1-Karon.cfg"
+  },
+  {
+    "name": "Kstyx",
+    "filePath": "Kluto\\KopernicusFiles\\Kluto\\2. Kstyx.cfg"
+  },
+  {
+    "name": "Kix",
+    "filePath": "Kluto\\KopernicusFiles\\Kluto\\3-Kix.cfg"
+  },
+  {
+    "name": "Kerkeros",
+    "filePath": "Kluto\\KopernicusFiles\\Kluto\\4-Kerkeros.cfg"
+  },
+  {
+    "name": "Kydra",
+    "filePath": "Kluto\\KopernicusFiles\\Kluto\\5-Kydra.cfg"
+  },
+  {
+    "name": "Duna",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Duna\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Eve\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Eve\\ocean.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Jool\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Kerbin\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Kerbin\\ocean.cfg"
+  },
+  {
+    "name": "Kluto",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Kluto\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Laythe\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "Kluto\\scatterer\\config\\Planets\\Laythe\\ocean.cfg"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "electricityGenerator",
+    "filePath": "JatwaaDemolitionsCo\\Parts\\utilities\\liquidFuelElectricityGenerator\\jatwaaFuelCell.cfg"
+  },
+  {
+    "name": "Liquids",
+    "filePath": "JatwaaDemolitionsCo\\Resources.cfg"
+  }
+]

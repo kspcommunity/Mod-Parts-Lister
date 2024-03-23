@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BillBoard-Outpost",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\BillBoard-Outpost-instances.cfg"
+  },
+  {
+    "name": "BillBoard-Outpost",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\BillBoard-Outpost.cfg"
+  },
+  {
+    "name": "cc_ground_lightpole",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\cc_ground_lightpole-instances.cfg"
+  },
+  {
+    "name": "HexVehicleSpawn",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\HexVehicleSpawn-instances.cfg"
+  },
+  {
+    "name": "Jukebox",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\Jukebox\\Jukebox.cfg"
+  },
+  {
+    "name": "Jukebox",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\Jukebox-instances.cfg"
+  },
+  {
+    "name": "Beer",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\Resources.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_Building",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\SQUAD_Desert_Airfield_Building-instances.cfg"
+  },
+  {
+    "name": "Standalone_utility_building",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\Standalone_utility_building-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "The-Outpost-1.0.2\\GameData\\TheOutpost\\UniversalSpawnPoint-instances.cfg"
+  }
+]

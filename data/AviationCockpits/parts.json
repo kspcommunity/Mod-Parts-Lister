@@ -1,0 +1,158 @@
+[
+  {
+    "name": "F8f Bearcat Cockpit",
+    "filePath": "AviationCockpits\\Command\\Bearcat.cfg"
+  },
+  {
+    "name": "Focke-Wulf Bearcat Cockpit",
+    "filePath": "AviationCockpits\\Command\\Fw_190.cfg"
+  },
+  {
+    "name": "Interceptor Cockpit",
+    "filePath": "AviationCockpits\\Command\\Interceptor.cfg"
+  },
+  {
+    "name": "Mk1 Mirage Cockpit",
+    "filePath": "AviationCockpits\\Command\\Mirage.cfg"
+  },
+  {
+    "name": "Mk1 S39 Cockpit",
+    "filePath": "AviationCockpits\\Command\\S39.cfg"
+  },
+  {
+    "name": "Mk1 Su30 Cockpit",
+    "filePath": "AviationCockpits\\Command\\Su30.cfg"
+  },
+  {
+    "name": "Trainer Cockpit",
+    "filePath": "AviationCockpits\\Command\\Trainer.cfg"
+  },
+  {
+    "name": "Typhoon Cockpit",
+    "filePath": "AviationCockpits\\Command\\Typhoon.cfg"
+  },
+  {
+    "name": "MProp_GunSight",
+    "filePath": "AviationCockpits\\Props\\GunSight\\prop.cfg"
+  },
+  {
+    "name": "MProp_GunSight_Pipper",
+    "filePath": "AviationCockpits\\Props\\GunSight_Pipper\\prop.cfg"
+  },
+  {
+    "name": "MProp_GunSight_Round",
+    "filePath": "AviationCockpits\\Props\\Gunsight_Round\\Gunsight_Round.cfg"
+  },
+  {
+    "name": "MProp_Gunsight_Pipper_Fw190",
+    "filePath": "AviationCockpits\\Props\\Gunsight_Round_Pipper\\Gunsight_Pipper_Fw190.cfg"
+  },
+  {
+    "name": "MProp_Gunsight_Round_Pipper",
+    "filePath": "AviationCockpits\\Props\\Gunsight_Round_Pipper\\Gunsight_Round_Pipper.cfg"
+  },
+  {
+    "name": "MProp_Hud_2",
+    "filePath": "AviationCockpits\\Props\\Hud_2\\prop.cfg"
+  },
+  {
+    "name": "MProp_Seat",
+    "filePath": "AviationCockpits\\Props\\Seat\\prop.cfg"
+  },
+  {
+    "name": "MProp_ADI",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\Adi.cfg"
+  },
+  {
+    "name": "MProp_ADI_2",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\Adi_2.cfg"
+  },
+  {
+    "name": "MProp_EAS",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\EAS.cfg"
+  },
+  {
+    "name": "MProp_Hud_ALT",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\NALT.cfg"
+  },
+  {
+    "name": "MProp_Hud_SPD",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\NSPD.cfg"
+  },
+  {
+    "name": "MProp_Hud_Pitch",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\Pitch.cfg"
+  },
+  {
+    "name": "MProp_Hud_AOA",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\Prograde.cfg"
+  },
+  {
+    "name": "MProp_Hud_Brake",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\SBrake.cfg"
+  },
+  {
+    "name": "MProp_Hud_Gear",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\SGear.cfg"
+  },
+  {
+    "name": "MProp_Hud_Light",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\SLight.cfg"
+  },
+  {
+    "name": "MProp_Hud_SAS",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\SSAS.cfg"
+  },
+  {
+    "name": "MProp_Hud_Yaw",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\HUD\\Yaw.cfg"
+  },
+  {
+    "name": "MProp_Hud_1",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\Hud_1.cfg"
+  },
+  {
+    "name": "MProp_Hud_3",
+    "filePath": "AviationCockpits\\Props\\SharedTextureProps\\Hud_3.cfg"
+  },
+  {
+    "name": "MProp_Simple_Radar",
+    "filePath": "AviationCockpits\\Props\\SimpleRadar\\Prop.cfg"
+  },
+  {
+    "name": "MProp_Stick",
+    "filePath": "AviationCockpits\\Props\\Stick\\prop.cfg"
+  },
+  {
+    "name": "Bearcat_Internal",
+    "filePath": "AviationCockpits\\Spaces\\Bearcat_internal.cfg"
+  },
+  {
+    "name": "Fw_190_Internal",
+    "filePath": "AviationCockpits\\Spaces\\Fw_190_internal.cfg"
+  },
+  {
+    "name": "Interceptor_IVA",
+    "filePath": "AviationCockpits\\Spaces\\Interceptor_internal.cfg"
+  },
+  {
+    "name": "Mirage_IVA",
+    "filePath": "AviationCockpits\\Spaces\\Mirage_internal.cfg"
+  },
+  {
+    "name": "S39_IVA",
+    "filePath": "AviationCockpits\\Spaces\\S39_internal.cfg"
+  },
+  {
+    "name": "Su30 IVA",
+    "filePath": "AviationCockpits\\Spaces\\Su30_internal.cfg"
+  },
+  {
+    "name": "Trainer_IVA",
+    "filePath": "AviationCockpits\\Spaces\\Trainer_internal.cfg"
+  },
+  {
+    "name": "Typhoon_IVA",
+    "filePath": "AviationCockpits\\Spaces\\Typhoon_internal.cfg"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "20MMAAGunBalaoClassFront",
+    "filePath": "BalaoClassFleetBoat\\20mmFF\\part.cfg"
+  },
+  {
+    "name": "20MMAAGunBalaoClassRear",
+    "filePath": "BalaoClassFleetBoat\\20mmRF\\part.cfg"
+  },
+  {
+    "name": "4InchGunBalaoClassForward",
+    "filePath": "BalaoClassFleetBoat\\4inchFF\\part.cfg"
+  },
+  {
+    "name": "4InchGunBalaoClassRear",
+    "filePath": "BalaoClassFleetBoat\\4inchRF\\part.cfg"
+  },
+  {
+    "name": "50CalGunBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\50Cal\\part.cfg"
+  },
+  {
+    "name": "AftPlanesBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\AftPlanes\\Part.cfg"
+  },
+  {
+    "name": "AntennaBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\Antenna\\part.cfg"
+  },
+  {
+    "name": "BowPlanesBalaoClassANIMATED",
+    "filePath": "BalaoClassFleetBoat\\BOWDIVEPLANES\\Part.cfg"
+  },
+  {
+    "name": "BowPlanesBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\BowPlanes\\Part.cfg"
+  },
+  {
+    "name": "BalaoClassHull",
+    "filePath": "BalaoClassFleetBoat\\Hull\\part.cfg"
+  },
+  {
+    "name": "BalaoClassScrew",
+    "filePath": "BalaoClassFleetBoat\\PROP\\Part.cfg"
+  },
+  {
+    "name": "BalaoGatoClass",
+    "filePath": "BalaoClassFleetBoat\\Rudder\\Part.cfg"
+  },
+  {
+    "name": "BalaoClassSail",
+    "filePath": "BalaoClassFleetBoat\\Sail\\part.cfg"
+  },
+  {
+    "name": "PeriscopeBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\Scope\\part.cfg"
+  },
+  {
+    "name": "40MMAAGunBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\Single40mm\\part.cfg"
+  },
+  {
+    "name": "SnorkelBalaoClass",
+    "filePath": "BalaoClassFleetBoat\\Snorkel\\part.cfg"
+  }
+]

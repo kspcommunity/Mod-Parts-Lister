@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sputnik10mWalls",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\10m Walls\\Walls10KK.cfg"
+  },
+  {
+    "name": "Sputnik15mHexagon",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\15m Hexagon\\Hexagon15KK.cfg"
+  },
+  {
+    "name": "Sputnik30mHexagon",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\30m Hexagon\\Hexagon30KK.cfg"
+  },
+  {
+    "name": "Sputnik5mWalls",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\5m Walls\\Walls5KK.cfg"
+  },
+  {
+    "name": "SputnikBerm",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\Berm\\Berm.cfg"
+  },
+  {
+    "name": "SputnikHighBay",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\HighBay\\HighBayKK.cfg"
+  },
+  {
+    "name": "SputnikWideBay",
+    "filePath": "Starbase-Parts-main\\GameData\\Sputnik's Starbase Parts\\WideBay\\WideBayKK.cfg"
+  }
+]

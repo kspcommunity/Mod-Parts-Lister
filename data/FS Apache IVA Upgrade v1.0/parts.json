@@ -1,0 +1,94 @@
+[
+  {
+    "name": "FSapacheCockpit",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\Firespitter\\Parts\\Command\\FS_apacheCockpit\\part.cfg"
+  },
+  {
+    "name": "FSapacheInternal",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\Firespitter\\Spaces\\FSapacheInternal\\internal.cfg"
+  },
+  {
+    "name": "MAS_pb_Ventilator_2",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_pb_Ventilator_2.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alarm_EngineOverheat",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alarm_EngineOverheat.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alarm_LowFuel",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alarm_LowFuel.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alarm_LowPower",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alarm_LowPower.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alarm_Stall",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alarm_Stall.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alarm_Tumble",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alarm_Tumble.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alternator_Active",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alternator_Active.cfg"
+  },
+  {
+    "name": "MAS_RWL_Alternator_Avalable",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_Alternator_Avalable.cfg"
+  },
+  {
+    "name": "MAS_RWL_APU_Active",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_APU_Active.cfg"
+  },
+  {
+    "name": "MAS_RWL_APU_Available",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_APU_Available.cfg"
+  },
+  {
+    "name": "MAS_RWL_EngineCutOff",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_EngineCutOff.cfg"
+  },
+  {
+    "name": "MAS_RWL_EngineFailure",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_EngineFailure.cfg"
+  },
+  {
+    "name": "MAS_RWL_FuelCell_Active",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_FuelCell_Active.cfg"
+  },
+  {
+    "name": "MAS_RWL_FuelCell_Available",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_RWL_FuelCell_Available.cfg"
+  },
+  {
+    "name": "MAS_swRotary_Flood_Light_V2",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_swRotary_Flood_Light_V2.cfg"
+  },
+  {
+    "name": "MAS_swRotary_Ventilator_Speed_V2",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_swRotary_Ventilator_Speed_V2.cfg"
+  },
+  {
+    "name": "MAS_swTumbler_V2_APU",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_swTumbler_V2_APU.cfg"
+  },
+  {
+    "name": "MAS_Tablo_Alarm_Master_R",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\MAS_Tablo_Alarm_Master_R.cfg"
+  },
+  {
+    "name": "MAS_SwitcherCover_APU",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\CUSTOM Props\\SwitcherCover_APU.cfg"
+  },
+  {
+    "name": "MAS_FSapacheIVA",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\MAS_FSapacheIVA.cfg"
+  },
+  {
+    "name": "MAS_FSapacheIVA",
+    "filePath": "FS Apache IVA Upgrade v1.0\\GameData\\FSapacheIVA\\MAS_FSapacheIVA_Internal.cfg"
+  }
+]

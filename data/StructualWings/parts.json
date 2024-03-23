@@ -1,0 +1,110 @@
+[
+  {
+    "name": "wingConnectorSW",
+    "filePath": "StructualWings\\Configs\\connector1.cfg"
+  },
+  {
+    "name": "wingConnector2SW",
+    "filePath": "StructualWings\\Configs\\connector2.cfg"
+  },
+  {
+    "name": "wingConnector3SW",
+    "filePath": "StructualWings\\Configs\\connector3.cfg"
+  },
+  {
+    "name": "wingConnector4SW",
+    "filePath": "StructualWings\\Configs\\connector4.cfg"
+  },
+  {
+    "name": "wingConnector5SW",
+    "filePath": "StructualWings\\Configs\\connector5.cfg"
+  },
+  {
+    "name": "wingShuttleDeltaSW",
+    "filePath": "StructualWings\\Configs\\delta.cfg"
+  },
+  {
+    "name": "deltaWingSW",
+    "filePath": "StructualWings\\Configs\\delta_s.cfg"
+  },
+  {
+    "name": "delta_smallSW",
+    "filePath": "StructualWings\\Configs\\delta_small.cfg"
+  },
+  {
+    "name": "wingShuttleElevon1SW",
+    "filePath": "StructualWings\\Configs\\elevon1.cfg"
+  },
+  {
+    "name": "StandardCtrlSrfSW",
+    "filePath": "StructualWings\\Configs\\elevon1_b.cfg"
+  },
+  {
+    "name": "wingShuttleElevon2SW",
+    "filePath": "StructualWings\\Configs\\elevon2.cfg"
+  },
+  {
+    "name": "elevon2SW",
+    "filePath": "StructualWings\\Configs\\elevon2_b.cfg"
+  },
+  {
+    "name": "elevon3SW",
+    "filePath": "StructualWings\\Configs\\elevon3.cfg"
+  },
+  {
+    "name": "smallCtrlSrfSW",
+    "filePath": "StructualWings\\Configs\\elevon4.cfg"
+  },
+  {
+    "name": "elevon5SW",
+    "filePath": "StructualWings\\Configs\\elevon5.cfg"
+  },
+  {
+    "name": "wingShuttleRudderSW",
+    "filePath": "StructualWings\\Configs\\rudder.cfg"
+  },
+  {
+    "name": "wingShuttleStrakeSW",
+    "filePath": "StructualWings\\Configs\\strake.cfg"
+  },
+  {
+    "name": "wingStrakeSW",
+    "filePath": "StructualWings\\Configs\\strake_b.cfg"
+  },
+  {
+    "name": "structuralWingSW",
+    "filePath": "StructualWings\\Configs\\structural1.cfg"
+  },
+  {
+    "name": "structuralWing2SW",
+    "filePath": "StructualWings\\Configs\\structural2.cfg"
+  },
+  {
+    "name": "structuralWing3SW",
+    "filePath": "StructualWings\\Configs\\structural3.cfg"
+  },
+  {
+    "name": "structuralWing4SW",
+    "filePath": "StructualWings\\Configs\\structural4.cfg"
+  },
+  {
+    "name": "sweptWing1SW",
+    "filePath": "StructualWings\\Configs\\swept1.cfg"
+  },
+  {
+    "name": "sweptWing2SW",
+    "filePath": "StructualWings\\Configs\\swept2.cfg"
+  },
+  {
+    "name": "R8wingletSW",
+    "filePath": "StructualWings\\Configs\\wingletAV-R8.cfg"
+  },
+  {
+    "name": "wingletSW",
+    "filePath": "StructualWings\\Configs\\wingletAV-T1.cfg"
+  },
+  {
+    "name": "winglet3SW",
+    "filePath": "StructualWings\\Configs\\wingletDeltaDeluxe.cfg"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "name": "CC_Altair_Lander_SM",
+    "filePath": "CapsuleCorp\\Parts\\AltairLander\\AltairLander_S.cfg"
+  },
+  {
+    "name": "CC_Altair_Lander_SM_BB",
+    "filePath": "CapsuleCorp\\Parts\\AltairLander_BB\\AltairLander_S.cfg"
+  },
+  {
+    "name": "CC_AltairPod_S",
+    "filePath": "CapsuleCorp\\Parts\\AltairPod\\AltairPod_S.cfg"
+  },
+  {
+    "name": "CC_AltairPod_BB",
+    "filePath": "CapsuleCorp\\Parts\\AltairPod_BB\\AltairPod_S.cfg"
+  },
+  {
+    "name": "CCC_GB_120",
+    "filePath": "CapsuleCorp\\Parts\\Engine_GB120\\CCCGB120.cfg"
+  },
+  {
+    "name": "CCC_GB_33",
+    "filePath": "CapsuleCorp\\Parts\\Engine_GB33\\CCCGB33.cfg"
+  },
+  {
+    "name": "CCC_GB_ICPS",
+    "filePath": "CapsuleCorp\\Parts\\Engine_ICPS\\Engine_ICPS.cfg"
+  },
+  {
+    "name": "CCC_GB_ICPS_LKH",
+    "filePath": "CapsuleCorp\\Parts\\Engine_ICPS_LKH\\Engine_ICPS.cfg"
+  },
+  {
+    "name": "CCC_GB_RL10",
+    "filePath": "CapsuleCorp\\Parts\\Engine_RL10\\CCCGBRL10.cfg"
+  },
+  {
+    "name": "CCC_GB_RL10Mini",
+    "filePath": "CapsuleCorp\\Parts\\Engine_RL10\\CCCGBRL10_mini.cfg"
+  },
+  {
+    "name": "CC_ESA_HAB_MoonCover",
+    "filePath": "CapsuleCorp\\Parts\\ESA_HAB_Cover\\part.cfg"
+  },
+  {
+    "name": "CC_ESA_HAB_MoonCoverCuppola",
+    "filePath": "CapsuleCorp\\Parts\\ESA_HAB_Cover_Cuppola\\part.cfg"
+  },
+  {
+    "name": "CC_ESA_HAB_GRNH",
+    "filePath": "CapsuleCorp\\Parts\\ESA_HAB_GRNH\\ESA_HAB_GRNH.cfg"
+  },
+  {
+    "name": "CC_ESA_HAB_MNG",
+    "filePath": "CapsuleCorp\\Parts\\ESA_HAB_MNG\\ESA_HAB_MNG.cfg"
+  },
+  {
+    "name": "CC_ESA_HAB_SCI",
+    "filePath": "CapsuleCorp\\Parts\\ESA_HAB_SCI\\ESA_HAB_SCI.cfg"
+  },
+  {
+    "name": "CC_HAB_SolarPanels",
+    "filePath": "CapsuleCorp\\Parts\\ESA_HAB_SolarPanels\\part.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_Cuppola",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_MV_Cuppola.cfg"
+  },
+  {
+    "name": "CC_ESA_HAB_MoonCover",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_MV_HabCover.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_PlanCol_GRN",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_GRN.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_PlanCol_HAB",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_HAB.cfg"
+  },
+  {
+    "name": "CC_KKP_PlanCol_Cover",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_HabCover.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_PlanCol_Hub",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_Hub.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_PlanCol_LAB",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_LAB.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_PlanCol_Main",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_Main.cfg"
+  },
+  {
+    "name": "CC_KKP_T1_PlanCol_WHR",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T1_PlanCol_WHR.cfg"
+  },
+  {
+    "name": "CC_KKP_T2_Dunaha_hab_lab",
+    "filePath": "CapsuleCorp\\Parts\\KKP\\T2_DunaHa_HAB_LAB.cfg"
+  },
+  {
+    "name": "ModuleAnimGenericResourceUsage",
+    "filePath": "CapsuleCorp\\Parts\\KKP_PatchAnim_Resources\\Patch_1.0.cfg"
+  },
+  {
+    "name": "CC_MMSEV_Antenna",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\antenna.cfg"
+  },
+  {
+    "name": "CC_DockingPort_T2",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\dockingPort.cfg"
+  },
+  {
+    "name": "CC_MMSEV_GrapplingDevice",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\grappling.cfg"
+  },
+  {
+    "name": "CC_MMSEV_spotLight",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\lights.cfg"
+  },
+  {
+    "name": "CC_MMSEV_MainPod",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\MainPOD.cfg"
+  },
+  {
+    "name": "CC_MMSEVRCSBase",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\rcs_base.cfg"
+  },
+  {
+    "name": "CC_MMSEVRoverBase",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\roverBase.cfg"
+  },
+  {
+    "name": "CC_MMSEV_Wheels_T1",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\MMSEV\\wheels.cfg"
+  },
+  {
+    "name": "KE_Escavator",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\Others\\KE_Escavator.cfg"
+  },
+  {
+    "name": "CC_KE_InfBoat",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\Others\\KE_InflatableBoat.cfg"
+  },
+  {
+    "name": "KE_ISRU",
+    "filePath": "CapsuleCorp\\Parts\\KolonyEssentials\\Others\\KE_ISRU.cfg"
+  },
+  {
+    "name": "LRE_GIE",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Giant_Ion_Engine\\LRE_GIE.cfg"
+  },
+  {
+    "name": "LRE_CC_HermesAntenna",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesAntenna\\LRE_HermesAntenna.cfg"
+  },
+  {
+    "name": "CC_LRE_HermesPod",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesComandPod\\LRE_HermesPod.cfg"
+  },
+  {
+    "name": "CC_LRE_HermesFrontStrut",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesComandPod\\LRE_Hermes_StructuralFront.cfg"
+  },
+  {
+    "name": "CC_LRE_HermesRing",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesRing\\LRE_HermesRing.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_A",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_A\\LRE_Hermes_Struct_A.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_A1",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_A1\\LRE_Hermes_Struct_A.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_B",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_B\\LRE_Hermes_Struct_B.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_BigA",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_BigA\\LRE_Hermes_Struct_BigA.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_Mid",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_Mid\\LRE_Hermes_Mid.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_RCS",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_RCS\\LRE_Hermes_RCS.cfg"
+  },
+  {
+    "name": "LRE_CC_Structu_Top",
+    "filePath": "CapsuleCorp\\Parts\\LRE_HermesStruct_TOP\\LRE_Hermes_Top.cfg"
+  },
+  {
+    "name": "CC_LRE_DockingPort",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Hermes_DockingPort\\dockingPort.cfg"
+  },
+  {
+    "name": "CC_LRE_Hermes_FrontProbe",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Hermes_FrontProbe\\LRE_FrontProbe.cfg"
+  },
+  {
+    "name": "LRE_FuelSystem",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Hermes_FuelSystem\\LRE_Hermes_FuellSystem.cfg"
+  },
+  {
+    "name": "CC_LRE_Giant_Solar_Panel",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Hermes_GiantSolarPanel\\part.cfg"
+  },
+  {
+    "name": "LRE_CC_N_Bay1_bot",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Nautilus\\LRE_Nautilus_Bay_1_bot.cfg"
+  },
+  {
+    "name": "LRE_CC_N_Bay1_mid",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Nautilus\\LRE_Nautilus_Bay_1_mid.cfg"
+  },
+  {
+    "name": "LRE_CC_N_Bay1_top",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Nautilus\\LRE_Nautilus_Bay_1_top.cfg"
+  },
+  {
+    "name": "LRE_CC_N_Bay2",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Nautilus\\LRE_Nautilus_Bay_2.cfg"
+  },
+  {
+    "name": "LRE_CC_N_BayDoor",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Nautilus\\LRE_Nautilus_Bay_Door.cfg"
+  },
+  {
+    "name": "LRE_CC_N_CommPod",
+    "filePath": "CapsuleCorp\\Parts\\LRE_Nautilus\\LRE_Nautilus_ComPod.cfg"
+  },
+  {
+    "name": "CC_LRE_TitanComPOd",
+    "filePath": "CapsuleCorp\\Parts\\LRE_TitanCommandPodLander\\LRE_TitanComPod.cfg"
+  },
+  {
+    "name": "CC_LRE_TitanComPOdEngine",
+    "filePath": "CapsuleCorp\\Parts\\LRE_TitanCommandPodLander\\LRE_TitanEngines.cfg"
+  },
+  {
+    "name": "CC_LRE_TitanEngine",
+    "filePath": "CapsuleCorp\\Parts\\LRE_TitanEngine\\LRE_TitanEngine.cfg"
+  },
+  {
+    "name": "CC_LRE_TitanFuelTank",
+    "filePath": "CapsuleCorp\\Parts\\LRE_TitanFuelTank\\LRE_TitanFuelTank.cfg"
+  },
+  {
+    "name": "CC_LRE_TitanRing",
+    "filePath": "CapsuleCorp\\Parts\\LRE_TitanRing\\LRE_TitanRing.cfg"
+  },
+  {
+    "name": "CC_DockingPort_T3",
+    "filePath": "CapsuleCorp\\Parts\\MBC_DKPort\\dockingPort.cfg"
+  },
+  {
+    "name": "CC_DockingPort_T1",
+    "filePath": "CapsuleCorp\\Parts\\MBC_DKPort\\dockingPort_Medium.cfg"
+  },
+  {
+    "name": "CC_DockingPort_T0",
+    "filePath": "CapsuleCorp\\Parts\\MBC_DKPort\\dockingPort_small.cfg"
+  },
+  {
+    "name": "CC_EMULand",
+    "filePath": "CapsuleCorp\\Parts\\MBC_EMLU\\EMULand.cfg"
+  },
+  {
+    "name": "CC_EMU",
+    "filePath": "CapsuleCorp\\Parts\\MBC_EMU\\EMU.cfg"
+  },
+  {
+    "name": "CC_MBC_GRNH",
+    "filePath": "CapsuleCorp\\Parts\\MBC_GRNH\\MBC_GRNH.cfg"
+  },
+  {
+    "name": "CC_MBC_ISRU",
+    "filePath": "CapsuleCorp\\Parts\\MBC_ISRU\\MBC_ISRU.cfg"
+  },
+  {
+    "name": "CC_MBC_MADV",
+    "filePath": "CapsuleCorp\\Parts\\MBC_MADV\\MBC_MADV.cfg"
+  },
+  {
+    "name": "CC_MBC_MESM",
+    "filePath": "CapsuleCorp\\Parts\\MBC_MESM\\MBC_MESM.cfg"
+  },
+  {
+    "name": "CC_MBC_SCI",
+    "filePath": "CapsuleCorp\\Parts\\MBC_SCI\\MBC_SCI.cfg"
+  },
+  {
+    "name": "CC_MBC_STL",
+    "filePath": "CapsuleCorp\\Parts\\MBC_STL\\MBC_STL.cfg"
+  },
+  {
+    "name": "CC_MMSEV",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV\\MMSEV.cfg"
+  },
+  {
+    "name": "CC_MMSEV_Antenna",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_Antenna\\MMSEV_antenna.cfg"
+  },
+  {
+    "name": "CC_DockingPort_T2",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_DockingPort\\dockingPort.cfg"
+  },
+  {
+    "name": "CC_MMSEV_GrapplingDevice",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_Grappling\\part.cfg"
+  },
+  {
+    "name": "CC_MMSEV_spotLight",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_Lights\\MMSEV_Lights.cfg"
+  },
+  {
+    "name": "CC_MMSEVRCSBase",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_RCS\\rcs_base.cfg"
+  },
+  {
+    "name": "CC_MMSEVRoverBase",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_RoverBase\\roverBase.cfg"
+  },
+  {
+    "name": "CC_MMSEV_Wheels_T1",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_Wheels\\MMSEV_wheels.cfg"
+  },
+  {
+    "name": "CC_MMSEV_Wheels_T2",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_Wheels_T2\\MMSEV_wheels.cfg"
+  },
+  {
+    "name": "CC_MMSEV_Wheels_T21",
+    "filePath": "CapsuleCorp\\Parts\\MMSEV_Wheels_T2\\MMSEV_wheels_Tiny.cfg"
+  },
+  {
+    "name": "CC_Orion_Pod",
+    "filePath": "CapsuleCorp\\Parts\\Orion\\Orion.cfg"
+  },
+  {
+    "name": "CC_Orion_CAP_Escape_Module",
+    "filePath": "CapsuleCorp\\Parts\\OrionCAP\\Orion_CAP.cfg"
+  },
+  {
+    "name": "CC_OrionParachute",
+    "filePath": "CapsuleCorp\\Parts\\OrionParachute\\OrionChute.cfg"
+  },
+  {
+    "name": "CC_Orion_Cover",
+    "filePath": "CapsuleCorp\\Parts\\Orion_Cover\\Orion_Cover.cfg"
+  },
+  {
+    "name": "CC_Orion_Petal_Adapter",
+    "filePath": "CapsuleCorp\\Parts\\Orion_PetalAdapter\\petalAdapter.cfg"
+  },
+  {
+    "name": "CC_Orion_Round_Solar_Panel_V2",
+    "filePath": "CapsuleCorp\\Parts\\Orion_RSP_LKHM\\part.cfg"
+  },
+  {
+    "name": "CC_Large_MBC_Round_Solar_Panel_V2",
+    "filePath": "CapsuleCorp\\Parts\\Orion_RSP_LKHM\\part_large.cfg"
+  },
+  {
+    "name": "CC_Orion_Service_Module",
+    "filePath": "CapsuleCorp\\Parts\\Orion_ServiceModule\\Orion_SM.cfg"
+  },
+  {
+    "name": "CC_AltairRCS",
+    "filePath": "CapsuleCorp\\Parts\\RCS\\AltairRCS.cfg"
+  },
+  {
+    "name": "CC_SLS_Booster",
+    "filePath": "CapsuleCorp\\Parts\\SLS_Booster\\part.cfg"
+  },
+  {
+    "name": "CC_SLS_Main_Body",
+    "filePath": "CapsuleCorp\\Parts\\SLS_MainBody\\largeTank.cfg"
+  },
+  {
+    "name": "CC_SLS_Single_Booster",
+    "filePath": "CapsuleCorp\\Parts\\SLS_OrionSingleBooster\\part.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\CCGB120.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\CCGB33.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\ICPS.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\ICPS_LKH.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\LRE_GIE.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\LRE_TitanEngine.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\LRE_TItanIIPodEngine.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\RL10.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CapsuleCorp\\RealPlumesConfig\\RL10_mini.cfg"
+  },
+  {
+    "name": "altairBBIVA",
+    "filePath": "CapsuleCorp\\Spaces\\Altair_POD_BB_IVA\\internal.cfg"
+  },
+  {
+    "name": "altairlanderCabinInternals",
+    "filePath": "CapsuleCorp\\Spaces\\Altair_POD_IVA\\internal.cfg"
+  },
+  {
+    "name": "KKP_DUNAHA_IVA_HAB_LAB",
+    "filePath": "CapsuleCorp\\Spaces\\KKP_DUNAHA_IVA_HAB_LAB\\internal.cfg"
+  },
+  {
+    "name": "KKP_PC_IVA_GRN",
+    "filePath": "CapsuleCorp\\Spaces\\KKP_PC_IVA_GRN\\internal.cfg"
+  },
+  {
+    "name": "KKP_PC_IVA_HAB",
+    "filePath": "CapsuleCorp\\Spaces\\KKP_PC_IVA_HAB\\internal.cfg"
+  },
+  {
+    "name": "KKP_PC_IVA_LAB",
+    "filePath": "CapsuleCorp\\Spaces\\KKP_PC_IVA_LAB\\internal.cfg"
+  },
+  {
+    "name": "KKP_PC_IVA_WHR",
+    "filePath": "CapsuleCorp\\Spaces\\KKP_PC_IVA_WHR\\internal.cfg"
+  },
+  {
+    "name": "LRE_Hermes_Internals",
+    "filePath": "CapsuleCorp\\Spaces\\LRE_Hermes\\internal.cfg"
+  },
+  {
+    "name": "LRE_Titan_Internals",
+    "filePath": "CapsuleCorp\\Spaces\\LRE_TitanPod\\internal.cfg"
+  },
+  {
+    "name": "MADVInternals",
+    "filePath": "CapsuleCorp\\Spaces\\MADV_IVA\\internal.cfg"
+  },
+  {
+    "name": "MBC_SCI_IVA",
+    "filePath": "CapsuleCorp\\Spaces\\MBC_SCI_IVA\\internal.cfg"
+  },
+  {
+    "name": "MMSEVCabinInternals",
+    "filePath": "CapsuleCorp\\Spaces\\MMSEV_IVA\\internal.cfg"
+  },
+  {
+    "name": "OrionPodCabinInternals",
+    "filePath": "CapsuleCorp\\Spaces\\Orion_POD_IVA\\internal.cfg"
+  }
+]

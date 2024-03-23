@@ -1,0 +1,350 @@
+[
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Alcolox_Lower.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ammonialox]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Ammonialox.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic_LowerAblative_CE]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Cryogenic_LowerAblative_CE.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic_LowerRed_CE]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Cryogenic_LowerRed_CE.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic_LowerSSME_CE]:HAS[~processed[*]]/plumeIdentifier$-shock",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Cryogenic_LowerSSME_CE.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic_VernierOrange]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Cryogenic_OrangeVernier.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic_UpperBlue_CE]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Cryogenic_UpperBlue_CE.cfg"
+  },
+  {
+    "name": "#$/PLUME[Alcolox-Lower-A6]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Alcolox-Lower-A6.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic-UpperLower-125]:HAS[~processed[*]]/plumeIdentifier$-smoke",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Cryogenic-UpperLower-125.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic-UpperLower-25]:HAS[~processed[*]]/plumeIdentifier$-smoke",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Cryogenic-UpperLower-25.cfg"
+  },
+  {
+    "name": "#$/PLUME[Cryogenic-UpperLower-375]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Cryogenic-UpperLower-375.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydrogen-NTR-HighTemp]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hydrogen-NTR-HighTemp.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydrogen-NTR]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hydrogen-NTR.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydrolox-Lower]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hydrolox-Lower.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydrolox-Upper]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hydrolox-Upper.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydrolox_LowerBlaze]:HAS[~processed[*]]/plumeIdentifier$-blaze",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hydrolox_LowerBlaze.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydynelox-A7]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hydynelox-A7.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic-OMS-Red]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hypergolic-OMS-Red.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic-Upper]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Hypergolic-Upper.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion-Argon-Gridded]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Ion-Argon-Gridded.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion-Krypton-Gridded]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Ion-Krypton-Gridded.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion-Krypton-Hall]:HAS[~processed[*]]/plumeIdentifier$-ring",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Ion-Krypton-Hall.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion-Xenon-Gridded]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Ion-Xenon-Gridded.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion-Xenon-Hall]:HAS[~processed[*]]/plumeIdentifier$-ring",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Ion-Xenon-Hall.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox-Lower-F1]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox-Lower-F1.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox-Lower]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox-Lower.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox-Upper]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox-Upper.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox-Vernier]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox-Vernier.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerBlaze]:HAS[~processed[*]]/plumeIdentifier$-blaze",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox_LowerBlaze.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerIbis]:HAS[~processed[*]]/plumeIdentifier$-lamp",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox_LowerIbis.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerSparrow]:HAS[~processed[*]]/plumeIdentifier$-blaze",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox_LowerSparrow.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_UpperEagle]:HAS[~processed[*]]/plumeIdentifier$-blaze",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Deprecated\\Kerolox_UpperEagle.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\HTP_RP1_lower.cfg"
+  },
+  {
+    "name": "flare00",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hydrolox_Aerospike.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydrolox_UpperBlue]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hydrolox_UpperBlue.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hydynelox]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hydynelox.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic-Apollo-SM]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic-Apollo-SM.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic-Lower]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic-Lower.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic-OMS-White]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic-OMS-White.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic-Vernier]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic-Vernier.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_Aerozine50Lower.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_LowerOrangeShock.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_LowerRed_shock.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_UpperAerozine]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_UpperAerozine.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_UpperOrange]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_UpperOrange.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_UpperRed]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_UpperRed.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_UpperWhite]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_UpperWhite.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_UpperYellow]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_UpperYellow.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_VernierOrange]:HAS[~processed[*]]/plumeIdentifier$-fume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_VernierOrange.cfg"
+  },
+  {
+    "name": "#$/PLUME[Hypergolic_VernierRed]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Hypergolic_VernierRed.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion_Argon_Gridded_NFP]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Ion_Argon_Gridded_NFP.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion_Argon_Hall_NFP]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Ion_Argon_Hall_NFP.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion_Xenon_Gridded_NFP]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Ion_Xenon_Gridded_NFP.cfg"
+  },
+  {
+    "name": "#$/PLUME[Ion_Xenon_Hall_NFP]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Ion_Xenon_Hall_NFP.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox-Exhaust]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox-Exhaust.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerAlt]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_LowerAlt.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerAspirated]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_LowerAspirated.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerFlame]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_LowerFlame.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_LowerNK33]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_LowerNK33.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_SL_FilmCooled]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_SL_FilmCooled.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_TurboExhaust]:HAS[~processed[*]]/plumeIdentifier$-turbopump",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_TurboExhaust.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_Upper2]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_Upper.cfg"
+  },
+  {
+    "name": "#$/PLUME[Kerolox_VernierEagle]:HAS[~processed[*]]/plumeIdentifier$-blaze",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Kerolox_VernierEagle.cfg"
+  },
+  {
+    "name": "#$/PLUME[MagnetoPlasmaDynamicThruster]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\MagnetoPlasmaDynamicThruster.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Methalox_AirBreathingMode.cfg"
+  },
+  {
+    "name": "#$/PLUME[Methalox_Lower]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Methalox_Lower.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Methalox_LowerShock.cfg"
+  },
+  {
+    "name": "#$/PLUME[Methalox_Upper]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Methalox_Upper.cfg"
+  },
+  {
+    "name": "#$/PLUME[Nuclear_GasCore_LH2]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Nuclear_GasCore_LH2.cfg"
+  },
+  {
+    "name": "#$/PLUME[Nuclear_GasCore_Open_LH2]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Nuclear_GasCore_Open_LH2.cfg"
+  },
+  {
+    "name": "#$/PLUME[Nuclear_SolidCore_LH2]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Nuclear_SolidCore_LH2.cfg"
+  },
+  {
+    "name": "#$/PLUME[Nuclear_SolidCore_LOX]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Nuclear_SolidCore_LOX.cfg"
+  },
+  {
+    "name": "#$/PLUME[Nuclear_VernierExhaust]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Nuclear_VernierExhaust.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Penataborane_Lower.cfg"
+  },
+  {
+    "name": "#$/PLUME[PulsedInductiveThruster_Argon]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\PulsedInductiveThruster_Argon.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-LES]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Solid-LES.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Lower]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Solid-Lower.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Sepmotor]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Solid-Sepmotor.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Upper]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Solid-Upper.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Vacuum]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Solid-Vacuum.cfg"
+  },
+  {
+    "name": "#$/PLUME[Turbofan]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Turbofan.cfg"
+  },
+  {
+    "name": "#$/PLUME[TurbofanOxPlume]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\TurbofanOxPlume.cfg"
+  },
+  {
+    "name": "#$/PLUME[Turbojet]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\Turbojet.cfg"
+  },
+  {
+    "name": "#$/PLUME[TurbojetOxPlume]:HAS[~processed[*]]/plumeIdentifier$-flare",
+    "filePath": "RealPlume\\000_Generic_Plumes\\TurbojetOxPlume.cfg"
+  },
+  {
+    "name": "#$/PLUME[VASIMIR_Argon]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\VASIMIR_Argon.cfg"
+  },
+  {
+    "name": "#$/PLUME[VASIMIR_Xenon]:HAS[~processed[*]]/plumeIdentifier$-core",
+    "filePath": "RealPlume\\000_Generic_Plumes\\VASIMIR_Xenon.cfg"
+  },
+  {
+    "name": "#$/PLUME[zRN_Decoupler]:HAS[~processed[*]]/plumeIdentifier$-plume",
+    "filePath": "RealPlume\\000_Generic_Plumes\\zRN_Decoupler.cfg"
+  }
+]

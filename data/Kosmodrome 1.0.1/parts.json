@@ -1,0 +1,46 @@
+[
+  {
+    "name": "ProcessedOre",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\KerbalKonstructs\\PluginData\\KerbalKonstructs\\CustomResources.cfg"
+  },
+  {
+    "name": "Floodlight",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Floodlight.cfg"
+  },
+  {
+    "name": "Floodlight2",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Floodlight2.cfg"
+  },
+  {
+    "name": "FloodlightT",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\FloodlightT.cfg"
+  },
+  {
+    "name": "kourou",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\kourou.cfg"
+  },
+  {
+    "name": "Launchpad-G",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Launchpad-G.cfg"
+  },
+  {
+    "name": "Launchpad-P",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Launchpad-P.cfg"
+  },
+  {
+    "name": "Lightning",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Lightning.cfg"
+  },
+  {
+    "name": "Plateau",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Plateau.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Spawnmarker.cfg"
+  },
+  {
+    "name": "Train",
+    "filePath": "Kosmodrome 1.0.1\\GameData\\Kosmodrome\\Train.cfg"
+  }
+]

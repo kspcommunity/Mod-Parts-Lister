@@ -1,0 +1,322 @@
+[
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Ant.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Bobcat.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Cheetah.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Cub.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Dart.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Dawn.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Goliath.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Juno.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Kodiak.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Lights.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Mainsail.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Mammoth.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Mastodon.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Nerv.cfg"
+  },
+  {
+    "name": "soundDry1",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Panther.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Poodle.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Puff.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Rapier.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\RCS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Reliant.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Rhino.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Skiff.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Skipper.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Spark.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Spider.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Swivel.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Terrier.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Thud.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\TwinBoar.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Twitch.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Vector.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Wheesley.cfg"
+  },
+  {
+    "name": "soundspool",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Whiplash.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "StockWaterfallEffects\\Engine Configurations\\Wolfhound.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\BDB_kerolox_lower_4_SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-1-SWE.cfg"
+  },
+  {
+    "name": "innerGlow",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-2-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-4-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-5-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-5-twinboar-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-RD170-1-SWE.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-1.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-mammoth.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-rhino.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hypergolic-core.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-kerolox-core-twinboar.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-kerolox-core.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core-rapier.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-nuclear-core.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-floodlight-1.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-ledstrip-1.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-1.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-2.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-3.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-4.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-aerozine50-lower-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-aerozine50-upper-1.cfg"
+  },
+  {
+    "name": "spikeFlameInner",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-aerospike.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-generator.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-1.cfg"
+  },
+  {
+    "name": "shock0",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-2.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-3.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-generator-twinboar.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-generator.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-sustainer.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-vernier.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-afterburner-2.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-afterburner.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-turbofan-1.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-turbofan-2.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methalox-lower-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methalox-upper-2.cfg"
+  },
+  {
+    "name": "BackFlame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methane_jet.cfg"
+  },
+  {
+    "name": "coreFlame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-nuclear-upper-1.cfg"
+  },
+  {
+    "name": "Jet",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-jet-1.cfg"
+  },
+  {
+    "name": "Jet",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-jet-2.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-kerolox-1.cfg"
+  },
+  {
+    "name": "centerSource",
+    "filePath": "StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-xenon-ion.cfg"
+  }
+]

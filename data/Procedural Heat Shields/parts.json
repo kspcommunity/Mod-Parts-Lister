@@ -1,0 +1,10 @@
+[
+  {
+    "name": "KzProcShield1",
+    "filePath": "Procedural Heat Shields\\GameData\\ProceduralFairings\\shield1.cfg"
+  },
+  {
+    "name": "KzProcShield2",
+    "filePath": "Procedural Heat Shields\\GameData\\ProceduralFairings\\shield2.cfg"
+  }
+]

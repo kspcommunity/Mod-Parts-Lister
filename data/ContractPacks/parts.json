@@ -1,5 +1,17 @@
 [
   {
+    "name": "Space Program HQ",
+    "filePath": "ContractPacks\\additionalprogressioncontracts\\Agencies\\apcagent.cfg"
+  },
+  {
+    "name": "APCFirstPlanetProbe",
+    "filePath": "ContractPacks\\additionalprogressioncontracts\\apc.cfg"
+  },
+  {
+    "name": "APC",
+    "filePath": "ContractPacks\\additionalprogressioncontracts\\apcgroup.cfg"
+  },
+  {
     "name": "Tudor Aerospace",
     "filePath": "ContractPacks\\PWP\\Agencies.cfg"
   },

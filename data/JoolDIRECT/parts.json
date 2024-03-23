@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Altair_Ascent",
+    "filePath": "JoolDIRECT\\Parts\\ALTAIR\\Altair_Ascent\\Altair_Ascent.cfg"
+  },
+  {
+    "name": "Altair_Descent",
+    "filePath": "JoolDIRECT\\Parts\\ALTAIR\\Altair_Decent\\Altair_Descent.cfg"
+  },
+  {
+    "name": "DIRECT_5m_Engine_Mount",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\DIRECT_5m_Engine_Mount\\DIRECT_5m_Engine_Mount.cfg"
+  },
+  {
+    "name": "DIRECT_5mTank_Large",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\DIRECT_5m_Tanks\\LargeTank\\DIRECT_5mTank_Large.cfg"
+  },
+  {
+    "name": "DIRECT_5mTank_Medium",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\DIRECT_5m_Tanks\\MediumTank\\DIRECT_5mTank_Medium.cfg"
+  },
+  {
+    "name": "DIRECT_5mTank_Small",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\DIRECT_5m_Tanks\\SmallTank\\DIRECT_5mTank_Small.cfg"
+  },
+  {
+    "name": "DIRECT_Thrust_Plate_5m",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\DIRECT_Thurst_Plate_5m\\DIRECT_Thrust_Plate_5m.cfg"
+  },
+  {
+    "name": "fairingSize4",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\fairings\\faringSize4.cfg"
+  },
+  {
+    "name": "size4Decoupler",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\Size4Decoupler\\part.cfg"
+  },
+  {
+    "name": "SuperMassiveSRB",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_5m_Parts\\SuperMassiveSRB\\SuperMassiveSRB.cfg"
+  },
+  {
+    "name": "DIRECT_Engine_Mount",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Engine_Mount\\DIRECT_Engine_Mount.cfg"
+  },
+  {
+    "name": "DIRECT_Orange_Bottom",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Orange_Tanks\\Orange_Bottom\\DIRECT_Orange_Bottom.cfg"
+  },
+  {
+    "name": "DIRECT_Oragne_Tank",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Orange_Tanks\\Orange_Tank\\DIRECT_Orange_Tank.cfg"
+  },
+  {
+    "name": "DIRECT_Orange_Top",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Orange_Tanks\\Orange_Top\\DIRECT_Orange_Top.cfg"
+  },
+  {
+    "name": "DIRECT_Payload_Base",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Payload\\Base\\DIRECT_Payload_Base.cfg"
+  },
+  {
+    "name": "DIRECT_Payload_Base_SDHI",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Payload\\Base\\DIRECT_Payload_Base_SDHI.cfg"
+  },
+  {
+    "name": "DIRECT_Payload_Cover",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Payload\\Fairing\\DIRECT_Payload_Cover.cfg"
+  },
+  {
+    "name": "DIRECT_Payload",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Payload\\Payload\\DIRECT_Payload.cfg"
+  },
+  {
+    "name": "DIRECT_Thrust_Plate",
+    "filePath": "JoolDIRECT\\Parts\\DIRECT_Thrust_Plate\\DIRECT_Thrust_Plate.cfg"
+  }
+]

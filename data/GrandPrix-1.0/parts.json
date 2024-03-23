@@ -1,0 +1,434 @@
+[
+  {
+    "name": "BankedCorner1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\BankedCorner1.cfg"
+  },
+  {
+    "name": "BankedCorner2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\BankedCorner2.cfg"
+  },
+  {
+    "name": "BankedU1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\BankedU1.cfg"
+  },
+  {
+    "name": "BankedU2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\BankedU2.cfg"
+  },
+  {
+    "name": "Corner1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Corner1.cfg"
+  },
+  {
+    "name": "Corner2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Corner2.cfg"
+  },
+  {
+    "name": "Corner3",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Corner3.cfg"
+  },
+  {
+    "name": "Corner4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Corner4.cfg"
+  },
+  {
+    "name": "Corner6",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Corner6.cfg"
+  },
+  {
+    "name": "Corner8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Corner8.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\FinishLine.cfg"
+  },
+  {
+    "name": "Flatgrass",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Flatgrass.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Grandstand.cfg"
+  },
+  {
+    "name": "KinkL",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\KinkL.cfg"
+  },
+  {
+    "name": "KinkR",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\KinkR.cfg"
+  },
+  {
+    "name": "LightyearTestTrack",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\LightyearTestTrack.cfg"
+  },
+  {
+    "name": "Loop",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Loop.cfg"
+  },
+  {
+    "name": "Ramp",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Ramp.cfg"
+  },
+  {
+    "name": "Straight1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Straight1.cfg"
+  },
+  {
+    "name": "Straight2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Straight2.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Straight4.cfg"
+  },
+  {
+    "name": "Straight8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Straight8.cfg"
+  },
+  {
+    "name": "StriaghtEnd",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\StriaghtEnd.cfg"
+  },
+  {
+    "name": "TBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\TBranch.cfg"
+  },
+  {
+    "name": "TestTrack",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\TestTrack.cfg"
+  },
+  {
+    "name": "Trackjump",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Trackjump.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\Trackspawn.cfg"
+  },
+  {
+    "name": "YBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Assets\\YBranch.cfg"
+  },
+  {
+    "name": "BankedU2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\BankedU2.cfg"
+  },
+  {
+    "name": "Corner3",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Corner3.cfg"
+  },
+  {
+    "name": "Corner4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Corner4.cfg"
+  },
+  {
+    "name": "Corner6",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Corner6.cfg"
+  },
+  {
+    "name": "Corner8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Corner8.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\FinishLine.cfg"
+  },
+  {
+    "name": "Flatgrass",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Flatgrass.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Grandstand.cfg"
+  },
+  {
+    "name": "KinkL",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\KinkL.cfg"
+  },
+  {
+    "name": "KinkR",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\KinkR.cfg"
+  },
+  {
+    "name": "Straight2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Straight2.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Straight4.cfg"
+  },
+  {
+    "name": "Straight8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Straight8.cfg"
+  },
+  {
+    "name": "StriaghtEnd",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\StriaghtEnd.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\Trackspawn.cfg"
+  },
+  {
+    "name": "YBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KerlingtonCircuit\\YBranch.cfg"
+  },
+  {
+    "name": "BankedCorner1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\BankedCorner1.cfg"
+  },
+  {
+    "name": "BankedCorner2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\BankedCorner2.cfg"
+  },
+  {
+    "name": "Corner3",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Corner3.cfg"
+  },
+  {
+    "name": "Corner4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Corner4.cfg"
+  },
+  {
+    "name": "Corner6",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Corner6.cfg"
+  },
+  {
+    "name": "Corner8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Corner8.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\FinishLine.cfg"
+  },
+  {
+    "name": "Flatgrass",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Flatgrass.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Grandstand.cfg"
+  },
+  {
+    "name": "KinkR",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\KinkR.cfg"
+  },
+  {
+    "name": "Ramp",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Ramp.cfg"
+  },
+  {
+    "name": "Straight1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Straight1.cfg"
+  },
+  {
+    "name": "Straight2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Straight2.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Straight4.cfg"
+  },
+  {
+    "name": "Straight8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Straight8.cfg"
+  },
+  {
+    "name": "StriaghtEnd",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\StriaghtEnd.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\Trackspawn.cfg"
+  },
+  {
+    "name": "YBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\KWRSInternational\\YBranch.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\LightyearMotorplex\\FinishLine.cfg"
+  },
+  {
+    "name": "Flatgrass",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\LightyearMotorplex\\Flatgrass.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\LightyearMotorplex\\Grandstand.cfg"
+  },
+  {
+    "name": "LightyearTestTrack",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\LightyearMotorplex\\LightyearTestTrack.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\LightyearMotorplex\\Trackspawn.cfg"
+  },
+  {
+    "name": "BankedCorner2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\BankedCorner2.cfg"
+  },
+  {
+    "name": "Corner8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\Corner8.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\FinishLine.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\Grandstand.cfg"
+  },
+  {
+    "name": "KinkL",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\KinkL.cfg"
+  },
+  {
+    "name": "KinkR",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\KinkR.cfg"
+  },
+  {
+    "name": "Straight1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\Straight1.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\Straight4.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\Straight8.cfg"
+  },
+  {
+    "name": "StriaghtEnd",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\StriaghtEnd.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\Trackspawn.cfg"
+  },
+  {
+    "name": "YBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\MonolithSpeedway\\YBranch.cfg"
+  },
+  {
+    "name": "BankedCorner2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\BankedCorner2.cfg"
+  },
+  {
+    "name": "BankedU2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\BankedU2.cfg"
+  },
+  {
+    "name": "Corner6",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Corner6.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\FinishLine.cfg"
+  },
+  {
+    "name": "Flatgrass",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Flatgrass.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Grandstand.cfg"
+  },
+  {
+    "name": "KinkL",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\KinkL.cfg"
+  },
+  {
+    "name": "KinkR",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\KinkR.cfg"
+  },
+  {
+    "name": "Straight1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Straight1.cfg"
+  },
+  {
+    "name": "Straight2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Straight2.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Straight4.cfg"
+  },
+  {
+    "name": "StriaghtEnd",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\StriaghtEnd.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\Trackspawn.cfg"
+  },
+  {
+    "name": "YBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RockomaxAutodrome\\YBranch.cfg"
+  },
+  {
+    "name": "Corner2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Corner2.cfg"
+  },
+  {
+    "name": "Corner3",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Corner3.cfg"
+  },
+  {
+    "name": "Corner4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Corner4.cfg"
+  },
+  {
+    "name": "Corner8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Corner8.cfg"
+  },
+  {
+    "name": "FinishLine",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\FinishLine.cfg"
+  },
+  {
+    "name": "Flatgrass",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Flatgrass.cfg"
+  },
+  {
+    "name": "Grandstand",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Grandstand.cfg"
+  },
+  {
+    "name": "Ramp",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Ramp.cfg"
+  },
+  {
+    "name": "Straight1",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Straight1.cfg"
+  },
+  {
+    "name": "Straight2",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Straight2.cfg"
+  },
+  {
+    "name": "Straight4",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Straight4.cfg"
+  },
+  {
+    "name": "Straight8",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Straight8.cfg"
+  },
+  {
+    "name": "StriaghtEnd",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\StriaghtEnd.cfg"
+  },
+  {
+    "name": "Trackspawn",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\Trackspawn.cfg"
+  },
+  {
+    "name": "YBranch",
+    "filePath": "GrandPrix-1.0\\GameData\\GrandPrix\\Racetracks\\RoveMaxProvingGround\\YBranch.cfg"
+  }
+]

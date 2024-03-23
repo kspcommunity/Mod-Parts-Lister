@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger",
+    "filePath": "Medieval_Weapons_Pack_for_KIS-1.0\\GameData\\MedievalWeapons\\Parts\\Dagger\\dagger.cfg"
+  },
+  {
+    "name": "longSword",
+    "filePath": "Medieval_Weapons_Pack_for_KIS-1.0\\GameData\\MedievalWeapons\\Parts\\longSword\\longSword.cfg"
+  },
+  {
+    "name": "shortSword",
+    "filePath": "Medieval_Weapons_Pack_for_KIS-1.0\\GameData\\MedievalWeapons\\Parts\\shortSword\\shortSword.cfg"
+  },
+  {
+    "name": "spear",
+    "filePath": "Medieval_Weapons_Pack_for_KIS-1.0\\GameData\\MedievalWeapons\\Parts\\spear\\spear.cfg"
+  }
+]

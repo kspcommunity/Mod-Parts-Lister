@@ -1,0 +1,26 @@
+[
+  {
+    "name": "RSBadapterCastor2x3",
+    "filePath": "RealScaleBoostersStockalike\\Assets\\RSBadapterCastor2x3.cfg"
+  },
+  {
+    "name": "RSBadapterCastor3x4",
+    "filePath": "RealScaleBoostersStockalike\\Assets\\RSBadapterCastor3x4.cfg"
+  },
+  {
+    "name": "RSBadapterDelta5x6",
+    "filePath": "RealScaleBoostersStockalike\\Assets\\RSBadapterDelta5x6.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "RealScaleBoostersStockalike\\Patches\\0_All.cfg"
+  },
+  {
+    "name": "RSBfairingDeltaIII4m",
+    "filePath": "RealScaleBoostersStockalike\\Patches\\Delta.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "RealScaleBoostersStockalike\\Patches\\Saturn.cfg"
+  }
+]

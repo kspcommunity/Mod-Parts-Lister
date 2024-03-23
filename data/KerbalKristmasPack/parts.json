@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kkp_light_blue",
+    "filePath": "KerbalKristmasPack\\Parts\\kkp_light (blue).cfg"
+  },
+  {
+    "name": "kkp_light_green",
+    "filePath": "KerbalKristmasPack\\Parts\\kkp_light (green).cfg"
+  },
+  {
+    "name": "kkp_light_red",
+    "filePath": "KerbalKristmasPack\\Parts\\kkp_light (red).cfg"
+  },
+  {
+    "name": "kkp_light",
+    "filePath": "KerbalKristmasPack\\Parts\\kkp_light (white).cfg"
+  },
+  {
+    "name": "kkp_light_yellow",
+    "filePath": "KerbalKristmasPack\\Parts\\kkp_light (yellow).cfg"
+  },
+  {
+    "name": "kkp_present",
+    "filePath": "KerbalKristmasPack\\Parts\\kkp_present.cfg"
+  }
+]

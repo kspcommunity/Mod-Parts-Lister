@@ -1,0 +1,38 @@
+[
+  {
+    "name": "WEP24-70",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\Engines\\WEPSS24-77Variants.cfg"
+  },
+  {
+    "name": "WEPSSLV-808",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\Engines\\WEPSSLV-808.cfg"
+  },
+  {
+    "name": "WEPLV-T29",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\Engines\\WEPSSLVT-29.cfg"
+  },
+  {
+    "name": "WEPSSLVT-75",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\Engines\\WEPSSLVT-75.cfg"
+  },
+  {
+    "name": "WEPSSMK-45",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\Engines\\WEPSSMK-45.cfg"
+  },
+  {
+    "name": "WEPRadialProbe",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\WEPRadialProbe.cfg"
+  },
+  {
+    "name": "WEPSSHub",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\WEPSSHub.cfg"
+  },
+  {
+    "name": "WEPSSmallRadialAttach",
+    "filePath": "Watermel00nTechTree\\ExtraParts\\WEPSSmallRadialAttach.cfg"
+  },
+  {
+    "name": "ModuleScienceContainer",
+    "filePath": "Watermel00nTechTree\\Tweaks\\QBEfix.cfg"
+  }
+]

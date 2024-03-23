@@ -1,0 +1,34 @@
+[
+  {
+    "name": "A6Booster",
+    "filePath": "Without Real Fuel\\GameData\\Ariane6\\booster\\Booster.cfg"
+  },
+  {
+    "name": "A6Fairing",
+    "filePath": "Without Real Fuel\\GameData\\Ariane6\\Fairing\\Fairing.cfg"
+  },
+  {
+    "name": "A6S1",
+    "filePath": "Without Real Fuel\\GameData\\Ariane6\\first_Stage\\FirstStage.cfg"
+  },
+  {
+    "name": "A9INTERSTAGE",
+    "filePath": "Without Real Fuel\\GameData\\Ariane6\\interstage\\interstage.cfg"
+  },
+  {
+    "name": "A9S2",
+    "filePath": "Without Real Fuel\\GameData\\Ariane6\\Second_Stage\\SecondStage.cfg"
+  },
+  {
+    "name": "NewShepard",
+    "filePath": "Without Real Fuel\\GameData\\NewShepard\\Core\\NewShepardCore.cfg"
+  },
+  {
+    "name": "New_Shepard_Int",
+    "filePath": "Without Real Fuel\\GameData\\NewShepard\\int\\New_Shepard_Int.cfg"
+  },
+  {
+    "name": "NewShepard Pod",
+    "filePath": "Without Real Fuel\\GameData\\NewShepard\\Pod\\New_Shepard_Ext.cfg"
+  }
+]

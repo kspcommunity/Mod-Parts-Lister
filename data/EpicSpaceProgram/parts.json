@@ -1,0 +1,58 @@
+[
+  {
+    "name": "NASA",
+    "filePath": "EpicSpaceProgram\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "Ground Test",
+    "filePath": "EpicSpaceProgram\\Contracts\\1. TheFirstFlights.cfg"
+  },
+  {
+    "name": "Send a rover to the Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\10. ThePathfinderProgram.cfg"
+  },
+  {
+    "name": "Build a Orbital Station arround Kerbin",
+    "filePath": "EpicSpaceProgram\\Contracts\\11. TheAuroraProgram.cfg"
+  },
+  {
+    "name": "Build a base on the Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\12. TheEndeavourProgram.cfg"
+  },
+  {
+    "name": "Flyby The Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\2. TheVanguardProgram.cfg"
+  },
+  {
+    "name": "Orbit The Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\3. ThePioneerProgram.cfg"
+  },
+  {
+    "name": "Survey Kerbin",
+    "filePath": "EpicSpaceProgram\\Contracts\\4. TheExplorerProgram.cfg"
+  },
+  {
+    "name": "Land on the Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\5. TheMarinerProgram.cfg"
+  },
+  {
+    "name": "Circumnavigate the Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\6. TheRangerProgram.cfg"
+  },
+  {
+    "name": "To the Mun and back",
+    "filePath": "EpicSpaceProgram\\Contracts\\7. TheAscensionProgram.cfg"
+  },
+  {
+    "name": "Land on the Mun and come back home",
+    "filePath": "EpicSpaceProgram\\Contracts\\8. TheBelisariusProgram.cfg"
+  },
+  {
+    "name": "Land Kerbonauts on the Mun",
+    "filePath": "EpicSpaceProgram\\Contracts\\9. TheEnterpriseProgram.cfg"
+  },
+  {
+    "name": "EpicSpaceProgram",
+    "filePath": "EpicSpaceProgram\\EpicSpaceProgram.cfg"
+  }
+]

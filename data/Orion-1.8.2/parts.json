@@ -1,0 +1,206 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "Orion-1.8.2\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "Orion-1.8.2\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "Orion-1.8.2\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "Applied Atomiks",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "AA-64 \"Orion\" Nuclear Pulse Propulsion Engine",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "SPO_CommandCapsule",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Command\\Mk15Pod\\Capsule.cfg"
+  },
+  {
+    "name": "SPO_LargeMag",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\BombMagazine\\LargeTank.cfg"
+  },
+  {
+    "name": "SPO_MedMag",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\BombMagazine\\MedTank.cfg"
+  },
+  {
+    "name": "SPO_SmallMag",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\BombMagazine\\SmallTank.cfg"
+  },
+  {
+    "name": "SPO_LargeLFO",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\LFO\\LargeTank.cfg"
+  },
+  {
+    "name": "SPO_MediumLFO",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\LFO\\MedTank.cfg"
+  },
+  {
+    "name": "SPO_SmallLFO",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\LFO\\ShortTank.cfg"
+  },
+  {
+    "name": "SPO_Med_RCS_Tank",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\RCS\\MedTank.cfg"
+  },
+  {
+    "name": "SPO_Short_RCS_Tank",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\FuelTanks\\RCS\\ShortTank.cfg"
+  },
+  {
+    "name": "SPO_Medusa50Meter",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Propulsion\\Medusa\\part.cfg"
+  },
+  {
+    "name": "SPO_Orion5Meter",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Propulsion\\Orion\\part.cfg"
+  },
+  {
+    "name": "SPO_UraniumProcessor",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\Centerfuge\\Processor.cfg"
+  },
+  {
+    "name": "SPO_MetalContainer",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\ResourceContainers\\MetalContainer.cfg"
+  },
+  {
+    "name": "SPO_MetalOreContainer",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\ResourceContainers\\MetallicOreContainer.cfg"
+  },
+  {
+    "name": "SPO_OreContainer",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\ResourceContainers\\OreContainer.cfg"
+  },
+  {
+    "name": "SPO_EnrichedUContainer",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\ResourceContainers\\U238Container.cfg"
+  },
+  {
+    "name": "SPO_UraniniteContainer",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\ResourceContainers\\UranititeContainer.cfg"
+  },
+  {
+    "name": "SPO_Smelter",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Resources\\Smelter\\Smelter.cfg"
+  },
+  {
+    "name": "SPO_Adapter125_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter125.cfg"
+  },
+  {
+    "name": "SPO_Adapter125_Tall_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter125Tall.cfg"
+  },
+  {
+    "name": "SPO_Adapter25_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter25.cfg"
+  },
+  {
+    "name": "SPO_Adapter25_Tall_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter25Tall.cfg"
+  },
+  {
+    "name": "SPO_Adapter375_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter375.cfg"
+  },
+  {
+    "name": "SPO_Adapter375_Tall_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter375Tall.cfg"
+  },
+  {
+    "name": "SPO_Adapter5_Std",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Adapter5.cfg"
+  },
+  {
+    "name": "SPO_size15Endcap",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\Adapters\\Endcap.cfg"
+  },
+  {
+    "name": "SPO_SpineL",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\SpineTruss\\SpineL.cfg"
+  },
+  {
+    "name": "SPO_SpineS",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\SpineTruss\\SpineS.cfg"
+  },
+  {
+    "name": "SPO_Adapter125",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\TrussAdapters\\Adapter125.cfg"
+  },
+  {
+    "name": "SPO_Adapter25",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\TrussAdapters\\Adapter25.cfg"
+  },
+  {
+    "name": "SPO_Adapter375",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\TrussAdapters\\Adapter375.cfg"
+  },
+  {
+    "name": "SPO_Adapter5",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Structural\\TrussAdapters\\Adapter5.cfg"
+  },
+  {
+    "name": "SPO_5mCargoBay_Long",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\CargoBay\\BayLong.cfg"
+  },
+  {
+    "name": "SPO_5mCargoBay_Short",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\CargoBay\\BayShort.cfg"
+  },
+  {
+    "name": "SPO_CrewedLab",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\CrewedLab\\Lab.cfg"
+  },
+  {
+    "name": "SPO_CrewSpine_Short",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\CrewHabs\\CrewSpineShort.cfg"
+  },
+  {
+    "name": "SPO_375mHab",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\CrewHabs\\Hab.cfg"
+  },
+  {
+    "name": "SPO_RadialCargoBay_Long",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\RadialCargoBay\\BayLongRadial.cfg"
+  },
+  {
+    "name": "SPO_RadialCargoBay",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Parts\\Utility\\RadialCargoBay\\BayRadial.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Patches\\SMX_Drills.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Patches\\Stock_Drills.cfg"
+  },
+  {
+    "name": "VYPulseUnit ",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Resources.cfg"
+  },
+  {
+    "name": "375HabInternal",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Spaces\\375Internal.cfg"
+  },
+  {
+    "name": "LongWorkshopInternal",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Spaces\\LWSinternal.cfg"
+  },
+  {
+    "name": "ShortHabInternal",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Spaces\\ShortHabInternal.cfg"
+  },
+  {
+    "name": "ShortWorkshopInternal",
+    "filePath": "Orion-1.8.2\\GameData\\Orion\\Spaces\\SWSInternal.cfg"
+  }
+]

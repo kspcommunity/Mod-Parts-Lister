@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Besco",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Besco\\Besco.cfg"
+  },
+  {
+    "name": "Brayes",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Brayes\\Brayes.cfg"
+  },
+  {
+    "name": "Dalom",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Dalom\\Dalom.cfg"
+  },
+  {
+    "name": "Kespochim",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Kespochim\\Kespochim.cfg"
+  },
+  {
+    "name": "Walan",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Walan\\Walan.cfg"
+  },
+  {
+    "name": "Walan",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Walan -  DistantObject.cfg"
+  },
+  {
+    "name": "Walan",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Walan -  PlanetShine.cfg"
+  },
+  {
+    "name": "InnerWalan",
+    "filePath": "Walan [0.91]\\GameData\\Walan\\Walan - AsteroidSpawner.cfg"
+  }
+]

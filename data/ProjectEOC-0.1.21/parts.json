@@ -1,0 +1,22 @@
+[
+  {
+    "name": "EOC_cargobay",
+    "filePath": "ProjectEOC-0.1.21\\GameData\\ProjectEOC\\Parts\\EOC_cargobay.cfg"
+  },
+  {
+    "name": "EOC_CargoBay_Cover",
+    "filePath": "ProjectEOC-0.1.21\\GameData\\ProjectEOC\\Parts\\EOC_CargoBay_Cover.cfg"
+  },
+  {
+    "name": "EOC_enginebase",
+    "filePath": "ProjectEOC-0.1.21\\GameData\\ProjectEOC\\Parts\\EOC_enginebase.cfg"
+  },
+  {
+    "name": "EOC_nosecone",
+    "filePath": "ProjectEOC-0.1.21\\GameData\\ProjectEOC\\Parts\\EOC_nosecone.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "ProjectEOC-0.1.21\\GameData\\ProjectEOC\\Patches\\STS_ET_decoupler_patch.cfg"
+  }
+]

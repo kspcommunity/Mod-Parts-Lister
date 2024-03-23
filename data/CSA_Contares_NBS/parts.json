@@ -1,0 +1,346 @@
+[
+  {
+    "name": "CONTARES-NBS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "BAe_MRRC_CM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BAe_MRRC\\BAe_MRRC_CM.cfg"
+  },
+  {
+    "name": "BAe_MRRC_HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BAe_MRRC\\BAe_MRRC_HS.cfg"
+  },
+  {
+    "name": "BAe_MRRC_SM1",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BAe_MRRC\\BAe_MRRC_SM1.cfg"
+  },
+  {
+    "name": "BAe_MRRC_SM2",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BAe_MRRC\\BAe_MRRC_SM2.cfg"
+  },
+  {
+    "name": "BAe_SP",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BAe_MRRC\\BAe_SP.cfg"
+  },
+  {
+    "name": "BERG_CM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG\\BERG_CM.cfg"
+  },
+  {
+    "name": "BERG_DC",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG\\BERG_DC.cfg"
+  },
+  {
+    "name": "BERG_DC2",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG\\BERG_DC2.cfg"
+  },
+  {
+    "name": "BERG_OM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG\\BERG_OM.cfg"
+  },
+  {
+    "name": "BERG_SM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG\\BERG_SM.cfg"
+  },
+  {
+    "name": "BERG-SM2",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG\\FUJI-SM2.cfg"
+  },
+  {
+    "name": "BERG-S-CP",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG-S\\BERG-S-CP.cfg"
+  },
+  {
+    "name": "BERG-S-HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG-S\\BERG-S-HS.cfg"
+  },
+  {
+    "name": "BERG-S_OM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BERG-S\\BERG-S_OM.cfg"
+  },
+  {
+    "name": "P_BTG2S_ENGINE",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BTG2\\P_BTG2S_ENGINE.cfg"
+  },
+  {
+    "name": "P_BTG2S_HS_1875",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BTG2\\P_BTG2S_HS_1875.cfg"
+  },
+  {
+    "name": "P_BTG2S_HS_2500",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BTG2\\P_BTG2S_HS_2500.cfg"
+  },
+  {
+    "name": "P_BTG2S_POD",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\BTG2\\P_BTG2S_POD.cfg"
+  },
+  {
+    "name": "CA-1_E4N",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CA_1\\CA-1_E4N.cfg"
+  },
+  {
+    "name": "CA_1_FIN",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CA_1\\CA_1_FIN.cfg"
+  },
+  {
+    "name": "CA-1_Pod",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CA_1\\CA_1_Pod.cfg"
+  },
+  {
+    "name": "CA-1_Tank_S1",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CA_1\\CA_1_Tank_S1.cfg"
+  },
+  {
+    "name": "U_Bremse",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CA_1\\U_Bremse.cfg"
+  },
+  {
+    "name": "CCM_003",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CCM_003\\CM_003.cfg"
+  },
+  {
+    "name": "CCM_003_AIL",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CCM_003\\CM_003_AIL.cfg"
+  },
+  {
+    "name": "CCM_003_SM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CCM_003\\CM_003_SM.cfg"
+  },
+  {
+    "name": "CCM_003_YAW",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CCM_003\\CM_003_YAW.cfg"
+  },
+  {
+    "name": "CKC-1",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CKC-1\\CKC-1.cfg"
+  },
+  {
+    "name": "CKC-HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CKC-1\\CKC-HS.cfg"
+  },
+  {
+    "name": "RCK9_CAPSULE",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CRK9\\RCK9_CAPSULE.cfg"
+  },
+  {
+    "name": "RCSK9_HEATSHIELD",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\CRK9\\RCSK9_HEATSHIELD.cfg"
+  },
+  {
+    "name": "DROP-CP",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\DROP\\DROP-CP.cfg"
+  },
+  {
+    "name": "DROP-DC",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\DROP\\DROP-DC.cfg"
+  },
+  {
+    "name": "DROP-HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\DROP\\DROP-HS.cfg"
+  },
+  {
+    "name": "DROP_OM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\DROP\\DROP-OM.cfg"
+  },
+  {
+    "name": "E_RK-0-100",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\Engines\\E_RK-0-100\\E_RK-0-100.cfg"
+  },
+  {
+    "name": "EUF-CM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUF\\EUF-CM.cfg"
+  },
+  {
+    "name": "EUF-DE",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUF\\EUF-DE.cfg"
+  },
+  {
+    "name": "EUF-EM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUF\\EUF-EM.cfg"
+  },
+  {
+    "name": "EUF-HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUF\\EUF-HS.cfg"
+  },
+  {
+    "name": "EUF-RCSR",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUF\\EUF-RCSR.cfg"
+  },
+  {
+    "name": "EUF-SM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUF\\EUF-SM.cfg"
+  },
+  {
+    "name": "EUFM-CM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUFM\\EUFM_CM.cfg"
+  },
+  {
+    "name": "EUFM-DC",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUFM\\EUFM_DC.cfg"
+  },
+  {
+    "name": "EUFM-SM-LR",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\EUFM\\EUFM_SM_LR.cfg"
+  },
+  {
+    "name": "HIGGS-S1",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\HIGGS\\HIGGS-S1.cfg"
+  },
+  {
+    "name": "HIGGS-S2",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\HIGGS\\HIGGS-S2.cfg"
+  },
+  {
+    "name": "RK-H-13",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\HIGGS\\RK-H-13.cfg"
+  },
+  {
+    "name": "RK-H-14",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\HIGGS\\RK-H-14.cfg"
+  },
+  {
+    "name": "MEU_POD_CM_09375",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MEU_POD_9375\\MEU_POD_CM_09375.cfg"
+  },
+  {
+    "name": "MEU_POD_HS_09375",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MEU_POD_9375\\MEU_POD_HS_09375.cfg"
+  },
+  {
+    "name": "MEU_POD_SM_09375",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MEU_POD_9375\\MEU_POD_SM_09375.cfg"
+  },
+  {
+    "name": "MR2-CA",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\Morgenrot_2\\MR2_Capsule.cfg"
+  },
+  {
+    "name": "MR2_HAB",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\Morgenrot_2\\MR2_HAB.cfg"
+  },
+  {
+    "name": "MR2-HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\Morgenrot_2\\MR2_HS.cfg"
+  },
+  {
+    "name": "MR2-SM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\Morgenrot_2\\MR2_SM.cfg"
+  },
+  {
+    "name": "T_Morgenrot",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\T_Morgenrot\\T_Morgenrot.cfg"
+  },
+  {
+    "name": "T_ZARYA_SM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\T_ZARYA_SM\\T_ZARYA_SM.cfg"
+  },
+  {
+    "name": "ZARYA_k3t",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\ZARYA_T\\ZARYA_3t.cfg"
+  },
+  {
+    "name": "ZARYA_k4t",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\MORGENROT\\ZARYA_T\\ZARYA_4t.cfg"
+  },
+  {
+    "name": "NRAP-WH-N",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\NRAP_WH\\NRAP-WH-N.cfg"
+  },
+  {
+    "name": "NRAP-WH-R",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\NRAP_WH\\NRAP-WH-R.cfg"
+  },
+  {
+    "name": "Khi-P714_CM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\P-714\\Khi-P714_CM.cfg"
+  },
+  {
+    "name": "Khi-P714_NC",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\P-714\\Khi-P714_NC.cfg"
+  },
+  {
+    "name": "Khi-P714_SM",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\P-714\\Khi-P714_SM.cfg"
+  },
+  {
+    "name": "V9-OE-1",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\V9-OE\\V9-OE-1.cfg"
+  },
+  {
+    "name": "ZARYA_V2",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\ZARYA\\ZARYA_V2.cfg"
+  },
+  {
+    "name": "ZARYA_V2_HS",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Parts\\ZARYA\\ZARYA_V2_HS.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Patches\\Contares_NBS_HIGGS_plume.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Patches\\Contares_NBS_KIS.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Patches\\Contares_NBS_plume.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Patches\\Contares_NBS_TACLS.cfg"
+  },
+  {
+    "name": "BAe_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\BAe_Crew_A\\BAe_Crew_A.cfg"
+  },
+  {
+    "name": "BERG-S_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\BERG-S_Crew_A\\BERG-S_Crew_A.cfg"
+  },
+  {
+    "name": "BERG_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\BERG_Crew_A\\BERG_Crew_A.cfg"
+  },
+  {
+    "name": "BTG2_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\BTG2_Crew_A\\BTG2_Crew_A.cfg"
+  },
+  {
+    "name": "C-MR2_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\C-MR2_Crew_A\\C-MR2_Crew_A.cfg"
+  },
+  {
+    "name": "CA-1_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\CA-1_Crew_A\\CA-1_Crew_A.cfg"
+  },
+  {
+    "name": "CCM003_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\CCM003_Crew_A\\CCM003_Crew_A.cfg"
+  },
+  {
+    "name": "CKC-1_POD_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\CKC-1_POD_Crew_A\\CKC-1_POD_Crew_A.cfg"
+  },
+  {
+    "name": "EUFM_CM_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\EUFM_CM_Crew_A\\EUFM_CM_Crew_A.cfg"
+  },
+  {
+    "name": "Morgenrot_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\Morgenrot_Crew_A\\Morgenrot_Crew_A.cfg"
+  },
+  {
+    "name": "P714_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\P714_Crew_A\\P714_Crew_A.cfg"
+  },
+  {
+    "name": "RCK9_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\RCK9_Crew_A\\RCK9_Crew_A.cfg"
+  },
+  {
+    "name": "UIHC_Crew_A",
+    "filePath": "CSA_Contares_NBS\\GameData\\Contares_NBS\\Spaces\\UIHC_Crew_A\\UIHC_Crew_A.cfg"
+  }
+]

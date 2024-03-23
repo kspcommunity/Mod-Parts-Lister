@@ -1,0 +1,14 @@
+[
+  {
+    "name": "C7 - Divisão Aeroespacial",
+    "filePath": "PTBR\\Arquivos CFG\\Agencias.cfg"
+  },
+  {
+    "name": "Finanças",
+    "filePath": "PTBR\\Arquivos CFG\\Departments.cfg"
+  },
+  {
+    "name": "Combustível Líquido",
+    "filePath": "PTBR\\Arquivos CFG\\ResourcesGeneric.cfg"
+  }
+]

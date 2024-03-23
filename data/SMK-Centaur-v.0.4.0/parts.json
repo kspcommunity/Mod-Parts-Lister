@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SMK-Geometric",
+    "filePath": "SMK-Centaur-v.0.4.0\\AtomicTech\\SMK-Centaur\\CONFIG_SMK_CentaurDecoupler.cfg"
+  },
+  {
+    "name": "AtomicTechCentaur",
+    "filePath": "SMK-Centaur-v.0.4.0\\AtomicTech\\SMK-Centaur\\CONFIG_SMK_CentaurEngine.cfg"
+  },
+  {
+    "name": "SMK-CentaurService",
+    "filePath": "SMK-Centaur-v.0.4.0\\AtomicTech\\SMK-Centaur\\CONFIG_SMK_CentaurService.cfg"
+  },
+  {
+    "name": "SMK-OrangeTank",
+    "filePath": "SMK-Centaur-v.0.4.0\\AtomicTech\\SMK-Centaur\\CONFIG_SMK_OrangeTank.cfg"
+  },
+  {
+    "name": "SMK-CentaurTruss",
+    "filePath": "SMK-Centaur-v.0.4.0\\AtomicTech\\SMK-Centaur\\MM_SMK_CentaurTruss.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SMK-Centaur-v.0.4.0\\AtomicTech\\SMK-Centaur\\MM_SMK_Centaur_WaterFall.cfg"
+  }
+]

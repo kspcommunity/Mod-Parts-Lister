@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Venus",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\Configs\\DOE.cfg"
+  },
+  {
+    "name": "Venus",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\Configs\\PlanetShine.cfg"
+  },
+  {
+    "name": "VenusCloudsMain",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\KRVE\\Clouds\\Configs\\Clouds.cfg"
+  },
+  {
+    "name": "Venus-Lightning",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\KRVE\\Clouds\\Configs\\Lightning.cfg"
+  },
+  {
+    "name": "VenusClouds",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\KRVE\\Clouds\\Configs\\Textures.cfg"
+  },
+  {
+    "name": "Ceres",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\Localization\\en_us.cfg"
+  },
+  {
+    "name": "Venus",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\Scatterer\\Planets\\Venus\\atmo.cfg"
+  },
+  {
+    "name": "Integrated",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\Scatterer\\qualityPresets.cfg"
+  },
+  {
+    "name": "Venus",
+    "filePath": "ModularRSS-Venus\\GameData\\ModularRSS-Venus\\Venus.cfg"
+  }
+]

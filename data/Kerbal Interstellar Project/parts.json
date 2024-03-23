@@ -1,0 +1,1390 @@
+[
+  {
+    "name": "Moho",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Alternate Planet Color Configs\\Alternis Kerbol\\DistantObejct\\PlanetColors.cfg"
+  },
+  {
+    "name": "Ablate",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Alternate Planet Color Configs\\PlanetFactory (default)\\DistantObject\\PlanetColors_PF.cfg"
+  },
+  {
+    "name": "Halley",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Alternate Planet Color Configs\\Real Solar System (default)\\DistantObject\\PlanetColors.cfg"
+  },
+  {
+    "name": "Mercury",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Alternate Planet Color Configs\\Real Solar System (metaphor's PlanetFactory config)\\DistantObject\\PlanetColors.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "ModuleB9PropagateCopyEvents",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9PartSwitch\\CopyEventsPropagator.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "Tetragon Projects",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "B9_LH2O",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_Aerospace-CryoTanks.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_Aerospace-DRE.cfg"
+  },
+  {
+    "name": "IntakeAir",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_Aerospace-Globals.cfg"
+  },
+  {
+    "name": "B9_Rocket",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_Aerospace-MFT-RF.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_Aerospace-TACLS-MFT-RF.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_Aerospace-TACLS.cfg"
+  },
+  {
+    "name": "B9_LiquidFuel",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\B9_TankTypes.cfg"
+  },
+  {
+    "name": "B9_Adapter_C125",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Adapter_C125\\Adapter_C125.cfg"
+  },
+  {
+    "name": "B9_Adapter_SM1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Adapter_M1\\Adapter_SM1.cfg"
+  },
+  {
+    "name": "B9_Adapter_SM2",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Adapter_M2\\Adapter_SM2.cfg"
+  },
+  {
+    "name": "B9_Adapter_LM3",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Adapter_M3\\LM3.cfg"
+  },
+  {
+    "name": "B9_Adapter_SM3",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Adapter_M3\\SM3.cfg"
+  },
+  {
+    "name": "B9_Adapter_Y1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Adapter_Y1\\Adapter_Y1.cfg"
+  },
+  {
+    "name": "B9_Aero_AirBrake_Surface",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Airbrake_Surface\\airbrake.cfg"
+  },
+  {
+    "name": "B9_Aero_AirBrake_Surface_Large",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Airbrake_Surface\\airbrake_large.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Adapter_Front",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Adapter_Front\\Aero_HL_Adapter_Front.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_SAS_05m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\05m-Universal-SAS.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Structure_05m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\05m-Universal.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Structure_1m_U",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\1m-Universal.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Adapter_2m_Side",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\2m-Adapter-Side.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Structure_2m_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\2m-Universal-Adapter.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Structure_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\2m-Universal.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Structure_6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\6m-Universal.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Cargo_Tail_Wide",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\8m-Universal-Tail-Cargo.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Tail_8m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body\\8m-Universal-Tail.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Cargo_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body_Cargo\\A.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Cargo_B",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body_Cargo\\B.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Body_Cargo_C",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Body_Cargo\\C.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Extension_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Extension_A\\Aero_HL_Extension_A.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Extension_B1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Extension_B\\Universal.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Extension_C",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_HL_Extension_C\\Aero_HL_Extension_C.cfg"
+  },
+  {
+    "name": "B9_Aero_Intake_CLR",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Intake_CLR\\Aero_Intake_CLR.cfg"
+  },
+  {
+    "name": "B9_Aero_Intake_DSI",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Intake_DSI\\DSI.cfg"
+  },
+  {
+    "name": "B9_Aero_Intake_DSIX",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Intake_DSI\\DSIX.cfg"
+  },
+  {
+    "name": "B9_Aero_Intake_Mount",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Intake_Ramp\\Mount.cfg"
+  },
+  {
+    "name": "B9_Aero_Intake_RBM",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Intake_Ramp\\RBM.cfg"
+  },
+  {
+    "name": "B9_Aero_Intake_RNM",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_Intake_Ramp\\RNM.cfg"
+  },
+  {
+    "name": "B9_Aero_T2_Tail",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Aero_T2_Tail\\Aero_T2_Tail.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Fuselage_025m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_025m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Fuselage_050m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_050m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Cargo_Bay_050m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_050m_payload_bay.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Fuselage_100m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_100m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Cargo_Bay_100m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_100m_payload_bay.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Fuselage_200m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_200m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Cargo_Bay_200m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_200m_payload_bay.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Fuselage_400m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk1\\body_mk1_section_400m.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_125m_Bicoupler",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_125m_bicoupler.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_125m_Long",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_125m_long.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_125m_Short",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_125m_short.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_Mk2_Rot",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_125m_shroud_full.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_125m_Shroud",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_125m_shroud_half.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_250m_Long",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_250m_long.cfg"
+  },
+  {
+    "name": "B9_Body_Adapter_Mk2_250m_Short",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_adapter_250m_short.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Nosecone_Long",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_nosecone_125m_long.cfg"
+  },
+  {
+    "name": "B9_Body_Mk1_Nosecone_Short",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_nosecone_125m_short.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Nosecone_Long",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_nosecone_direct_long.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Nosecone_Short",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_nosecone_direct_short.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Fuselage_050m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_section_0m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_SAS_050m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_section_0m_sas.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Fuselage_1m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_section_1m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Cargo_Bay_1m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_section_1m_payload_bay.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Fuselage_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_section_2m.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Cargo_Bay_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2\\body_mk2_section_2m_payload_bay.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Cockpit",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2_Cockpit\\body_mk2_cockpit_a.cfg"
+  },
+  {
+    "name": "B9_Body_Mk2_Cockpit_Intake",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Body_Mk2_Cockpit\\body_mk2_cockpit_a_intake.cfg"
+  },
+  {
+    "name": "B9_Cargo_M2_Adapter",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cargo_M2_Adapter\\Adapter.cfg"
+  },
+  {
+    "name": "B9_Cargo_M2_Separator",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cargo_M2_Adapter\\Separator.cfg"
+  },
+  {
+    "name": "B9_Cargo_M2_Body_B",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cargo_M2_Body\\Doors.cfg"
+  },
+  {
+    "name": "B9_Cockpit_D25",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_D25\\Cockpit_D25.cfg"
+  },
+  {
+    "name": "HL_Aero_Cockpit",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_HL\\HL_Aero_Cockpit.cfg"
+  },
+  {
+    "name": "B9_Cockpit_M27",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_M27\\Cockpit_M27.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK1_Junction",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_MK1_Junction\\Cockpit_MK1_Junction.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK5",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_MK5\\Cockpit_MK5.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2\\Cockpit_S2.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Adapter",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Adapter\\Cockpit_S2_Adapter.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Control_SAS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body\\05m-SAS.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_05m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body\\05m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_RCS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body\\1m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body\\2m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body\\6m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_Cargo_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Cargo\\S2-2m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_Cargo_6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Cargo\\S2-6m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Cargo_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Cargo\\S2W-2m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Cargo_6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Cargo\\S2W-6m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_Crew",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Crew\\2m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_Crew_6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Crew\\6m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Body_Tail",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_Body_Tail\\Tail.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Back_EngineMount1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_W_Body\\Body-Back-EM1-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Back_EngineMount2",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_W_Body\\Body-Back-EM2-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Back",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_W_Body\\Body-Back-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Front",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_W_Body\\Body-Front-Intake.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge_Front2",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_W_Body\\Body-Front-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_BodyLarge",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S2_W_Body\\Body.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S3",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Cockpit_S3\\Cockpit_S3.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Block_R12",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Blocks\\Block_R12.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Block_R5",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Blocks\\Block_R5.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Block_R6",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Blocks\\Block_R6.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Port_R1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Blocks\\Port_R1.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Port_R1A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Blocks\\Port_R1A.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Port_S1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Shielded\\control_rcs_shielded_s1.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Block_S5",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Shielded\\control_rcs_shielded_s5.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Tank_MT1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Tank_MT\\MT1.cfg"
+  },
+  {
+    "name": "B9_Control_RCS_Tank_MT4",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Control_RCS_Tank_MT\\MT4.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Pod_Medium",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Pod_Medium\\Engine_Jet_Pod_Medium.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Pod_Medium_PylonR",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Pod_Medium\\Engine_Jet_Pod_Medium_Pylon_Raked.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Pod_Medium_PylonS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Pod_Medium\\Engine_Jet_Pod_Medium_Pylon_Straight.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Pod_Small",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Pod_Small\\Engine_Jet_Pod_Small.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Pod_Small_PylonR",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Pod_Small\\Engine_Jet_Pod_Small_Pylon_Raked.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Pod_Small_PylonS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Pod_Small\\Engine_Jet_Pod_Small_Pylon_Straight.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Turbofan_F119",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Turbofan_F119\\Engine_Jet_Turbofan_F119.cfg"
+  },
+  {
+    "name": "B9_Engine_Jet_Turbojet",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Jet_Turbojet\\Engine_Jet_Turbojet.cfg"
+  },
+  {
+    "name": "B9_Engine_L2_Atlas",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_L2_Atlas\\Engine_L2_Atlas.cfg"
+  },
+  {
+    "name": "B9_Engine_SABRE_M_Body",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_SABRE_Body\\M.cfg"
+  },
+  {
+    "name": "B9_Engine_SABRE_S_Body",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_SABRE_Body\\S.cfg"
+  },
+  {
+    "name": "B9_Engine_SABRE_Intake_M",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_SABRE_Intake\\SABRE_Intake_M.cfg"
+  },
+  {
+    "name": "B9_Engine_SABRE_Intake_S",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_SABRE_Intake\\SABRE_Intake_S.cfg"
+  },
+  {
+    "name": "B9_Engine_SABRE_M",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_SABRE_M\\Engine_SABRE_M.cfg"
+  },
+  {
+    "name": "B9_Engine_SABRE_S",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_SABRE_S\\Engine_SABRE_S.cfg"
+  },
+  {
+    "name": "B9_Engine_T2_SRBS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_T2_SRBS\\T2.cfg"
+  },
+  {
+    "name": "B9_Engine_T2A_SRBS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_T2_SRBS\\T2A.cfg"
+  },
+  {
+    "name": "B9_Engine_VA1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_VA1\\Engine_VA1.cfg"
+  },
+  {
+    "name": "B9_Engine_VS1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_VS1\\Engine_VS1.cfg"
+  },
+  {
+    "name": "B9_Engine_VA1_Intake",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Vx1_Nose\\Intake.cfg"
+  },
+  {
+    "name": "B9_Engine_VS1_Nosecone",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Engine_Vx1_Nose\\Nosecone.cfg"
+  },
+  {
+    "name": "B9_Structure_L1_Ladder",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\L1_Ladder.cfg"
+  },
+  {
+    "name": "B9_Structure_L2_Ladder",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\L2_Ladder.cfg"
+  },
+  {
+    "name": "B9_Structure_L4_Ladder",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\L4_Ladder.cfg"
+  },
+  {
+    "name": "B9_Structure_L8_Ladder",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\L8_Ladder.cfg"
+  },
+  {
+    "name": "B9_Structure_R0_Railing",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\R0_Railing.cfg"
+  },
+  {
+    "name": "B9_Structure_R1_Railing",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\R1_Railing.cfg"
+  },
+  {
+    "name": "B9_Structure_R2_Railing",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\R2_Railing.cfg"
+  },
+  {
+    "name": "B9_Structure_R4_Railing",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_Ladders-Railings\\R4_Railing.cfg"
+  },
+  {
+    "name": "B9_Structure_PA_Adapter",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_PA_Adapter\\Structure_PA_Adapter.cfg"
+  },
+  {
+    "name": "B9_Structure_P1_Surface_Half",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Clear-Half\\P1_Surface_Half.cfg"
+  },
+  {
+    "name": "B9_Structure_P2_Surface_Half",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Clear-Half\\P2_Surface_Half.cfg"
+  },
+  {
+    "name": "B9_Structure_P4_Surface_Half",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Clear-Half\\P4_Surface_Half.cfg"
+  },
+  {
+    "name": "B9_Structure_P8_Surface_Half",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Clear-Half\\P8_Surface_Half.cfg"
+  },
+  {
+    "name": "B9_Structure_P1_Surface",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Standard-Frame\\P1_Universal.cfg"
+  },
+  {
+    "name": "B9_Structure_P2_Surface",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Standard-Frame\\P2_Universal.cfg"
+  },
+  {
+    "name": "B9_Structure_P4_Surface",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Standard-Frame\\P4_Universal.cfg"
+  },
+  {
+    "name": "B9_Structure_P8_Surface",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_P_Standard-Frame\\P8_Universal.cfg"
+  },
+  {
+    "name": "B9_Structure_SNM_Strut",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_SNM_Strut\\Structure_SNM_Strut.cfg"
+  },
+  {
+    "name": "B9_Structure_SN_Strut",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_SN_Strut\\Structure_SN_Strut.cfg"
+  },
+  {
+    "name": "B9_Structure_StackSeparator_MSR",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Structure_StackSeparator_MSR\\Structure_StackSeparator_MSR.cfg"
+  },
+  {
+    "name": "B9_Utility_DockingPort_CDP",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_DockingPort_CDP\\Utility_DockingPort_CDP.cfg"
+  },
+  {
+    "name": "B9_Utility_InfoDrive",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_InfoDrive\\Utility_InfoDrive.cfg"
+  },
+  {
+    "name": "B9_Utility_Leg_H50",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Leg_H50\\H50.cfg"
+  },
+  {
+    "name": "B9_Utility_Leg_H50P",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Leg_H50\\H50P.cfg"
+  },
+  {
+    "name": "B9_Utility_Light_A1_Closed",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Light_A\\A1_Closed_U.cfg"
+  },
+  {
+    "name": "B9_Utility_Light_A1_White",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Light_A\\A1_White.cfg"
+  },
+  {
+    "name": "B9_Utility_Light_A4_White",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Light_A\\A4_White.cfg"
+  },
+  {
+    "name": "B9_Utility_Light_A8_White",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Light_A\\A8_White.cfg"
+  },
+  {
+    "name": "B9_Utility_Light_N1_White",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Light_N\\N1_Omni_Small.cfg"
+  },
+  {
+    "name": "B9_Utility_Light_N1_Large_White",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Light_N\\N2_Omni_Large.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Nosecone",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Nosecone_Science\\Nosecone.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Nosecone_Science",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Nosecone_Science\\Nosecone_Science.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Nosecone_ASAS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Nosecone_Science\\Nosecone_Sensor.cfg"
+  },
+  {
+    "name": "B9_Control_ASAS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Nosecone_Science\\Radial_Science.cfg"
+  },
+  {
+    "name": "B9_Control_ACU",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Parts\\Utility_Nosecone_Science\\Radial_Sensor.cfg"
+  },
+  {
+    "name": "B9_AbortButton",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_AbortButton\\abort.cfg"
+  },
+  {
+    "name": "B9_BarInd_Fuel",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_Bar_Indicator\\horizontal.cfg"
+  },
+  {
+    "name": "B9_BarInd_Fuel_Vertical",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_Bar_Indicator\\vertical.cfg"
+  },
+  {
+    "name": "B9_Analog_Gauges ",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_Gauges\\prop.cfg"
+  },
+  {
+    "name": "B9_Analog_Gauges_Vertical",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_Gauges\\verticalprop.cfg"
+  },
+  {
+    "name": "B9_IVA_Joystick",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_IVA_Joystick\\prop.cfg"
+  },
+  {
+    "name": "B9_IVA_Pedals",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_IVA_Pedals\\prop.cfg"
+  },
+  {
+    "name": "B9RPMMFD",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_MFD\\B9_MFD.cfg"
+  },
+  {
+    "name": "B9_HUD",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_MFD\\HUD.cfg"
+  },
+  {
+    "name": "B9_RockerSwitch_AG01",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_RockerSwitch\\rockerswitch.cfg"
+  },
+  {
+    "name": "B9_ButtonLight",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Props\\B9_SquareButtons\\B9buttons.cfg"
+  },
+  {
+    "name": "B9CompressedAir",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Resources\\B9Resources.cfg"
+  },
+  {
+    "name": "body_mk2_cockpit_a_iva",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\Body_MK2_Cockpit_A\\body_mk2_cockpit_a_iva.cfg"
+  },
+  {
+    "name": "B9_Cockpit_HL_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\hlinternal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_M27_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\m27internal.cfg"
+  },
+  {
+    "name": "B9_Crewtank_Mk2_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\mk2ctinternal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\mk2internal.cfg"
+  },
+  {
+    "name": "B9_Crewtank_S2_2m_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\s2ct2minternal.cfg"
+  },
+  {
+    "name": "B9_Crewtank_S2_6m_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\s2ct6minternal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S2_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\s2internal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_S3_Internal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace\\Spaces\\s3internal.cfg"
+  },
+  {
+    "name": "Tetragon Projects",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\B9_Aerospace_HX-DRE.cfg"
+  },
+  {
+    "name": "B9_HX",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\B9_Aerospace_HX-MFT-RF.cfg"
+  },
+  {
+    "name": "B9_HX_LFO",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\B9_Aerospace_HX-Tank_Types.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_Hangar_Shield_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\body_hx_hangar_shield_a.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_Hangar_Shield_B",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\body_hx_hangar_shield_b.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_HPD1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hpd1.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_S_2",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_side_2m.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_S_8",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_side_8m.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_S_RCS_F",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_side_rcs_front.cfg"
+  },
+  {
+    "name": "B9_Structure_HX_S_RCS_L",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_side_rcs_lat.cfg"
+  },
+  {
+    "name": "B9_Structure_HX0_E",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size0_endpiece.cfg"
+  },
+  {
+    "name": "B9_Structure_HX0_S",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size0_structure.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_375",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_375m.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_375B",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_375m_b.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_375C",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_375m_c.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_LLL",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_lll.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_P",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_panel.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_SD",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_side.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_A_S0",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_adapter_size0.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_E1",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_endpiece1.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_G",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_generator.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_H",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_hangar.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_SAS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_sas.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_S_H3",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_structure_hub3.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_S_H4",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_structure_hub4.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_S_H6",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_structure_hub6.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_S_HS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_structure_hub_support.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_S_T",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_structure_turn.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_U",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_universal.cfg"
+  },
+  {
+    "name": "B9_Structure_HX1_U_S",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size1_universal_s.cfg"
+  },
+  {
+    "name": "B9_Structure_HX2_A_375",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size2_adapter_375m.cfg"
+  },
+  {
+    "name": "B9_Structure_HX2_A_S1_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size2_adapter_size1_a.cfg"
+  },
+  {
+    "name": "B9_Structure_HX2_A_S1_B",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size2_adapter_size1_b.cfg"
+  },
+  {
+    "name": "B9_Structure_HX2_H",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size2_hangar.cfg"
+  },
+  {
+    "name": "B9_Structure_HX2_U",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size2_universal.cfg"
+  },
+  {
+    "name": "B9_Structure_HX4_A_375",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size3_adapter_375m.cfg"
+  },
+  {
+    "name": "B9_Structure_HX4_A_HX1_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size3_adapter_size1_a.cfg"
+  },
+  {
+    "name": "B9_Structure_HX4_A_HX2_A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size3_adapter_size2_a.cfg"
+  },
+  {
+    "name": "B9_Structure_HX4_A_HX2_B",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size3_adapter_size2_b.cfg"
+  },
+  {
+    "name": "B9_Structure_HX4_H",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size3_hangar.cfg"
+  },
+  {
+    "name": "B9_Structure_HX4_U",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_HX\\Parts\\Structure_HX\\model_hx_size3_universal.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\B9_Aerospace_LandingGear-DRE.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\B9_Aerospace_Mk1Mk2-DRE.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\B9_Aerospace_Mk1Mk2-MFT-RF.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\B9_Aerospace_Mk1Mk2-TACLS-MFT-RF.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\B9_Aerospace_Mk1Mk2-TACLS.cfg"
+  },
+  {
+    "name": "ModuleHeatShield",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\B9_Aerospace_Wings-DRE.cfg"
+  },
+  {
+    "name": "B9_Aero_HL_Adapter_MK4",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_HL_Adapter_MK4\\part.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_SE_1m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\SE_1m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_SE_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\SE_2m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_SE_4m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\SE_4m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_SH_1m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\SH_1m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_SH_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\SH_2m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_SH_4m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\SH_4m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_T_1m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\T_1m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_T_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\T_2m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_ControlSurface_T_4m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_ControlSurface\\T_4m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_HW21",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_HW21\\part.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SH_A35_4m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SH_A35_4m\\part.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SH_A45_4m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SH_A45_4m\\part.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SH_A65_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SH_A65_2m\\part.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SH_S_1m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SH_S\\SH_1m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SH_S_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SH_S\\SH_2m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SH_S_4m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SH_S\\SH_4m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Canard_2-3x1-6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Canard_2-3x1-6m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Canard_3x2-2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Canard_3x2-2m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Canard_5x3-5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Canard_4x3-5m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Canard_6x5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Canard_6x5m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Winglet_2-3x1-6m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Winglet_2-3x1-6m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Winglet_3x2-2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Winglet_3x2-2m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Winglet_3x2-75m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Winglet_3x2-75m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Winglet_4x2-75m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Winglet_4x2-75m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Winglet_5x4-5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Winglet_5x4-5m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Winglet_6x5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Winglet_6x5m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Wingtip_2x7m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Wingtip_2x7m.cfg"
+  },
+  {
+    "name": "B9_Aero_Wing_SW_Wingtip_4x7m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Aero_Wing_SW\\Wingtip_4x7m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK1_Body_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK1_Body\\Body-2m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK1_Body_5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK1_Body\\Body-5m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK1_Control_ACU",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK1_Body\\Body-ACU.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK1_Control_SAS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK1_Body\\Body-SAS.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK1_Tail",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK1_Tail\\Tail.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2\\Cockpit_MK2.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Adapter",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Adapter\\Cockpit_MK2_Adapter.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Adapter_M125",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Adapter_M125\\Cockpit_MK2_Adapter_M125.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Bicoupler",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Bicoupler\\Cockpit_MK2_Bicoupler.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Bicoupler_S",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Bicoupler_S\\Cockpit_MK2_Bicoupler_S.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Control_SAS",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body\\05m-SAS.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Body_RCS_05m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body\\05m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Body_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body\\2m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Body_5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body\\5m-Universal.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Body_Cargo_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body_Cargo\\2m-Cargo.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Body_Cargo_5m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body_Cargo\\5m-Cargo.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Body_Crew_2m",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Body_Crew\\Cockpit_MK2_Body_Crew_2m.cfg"
+  },
+  {
+    "name": "B9_Cockpit_MK2_Tail",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Cockpit_MK2_Tail\\Tail.cfg"
+  },
+  {
+    "name": "B9_Utility_Landing_Gear_HDG1A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Utility_Landing_Gear_HDG\\HDG1.cfg"
+  },
+  {
+    "name": "B9_Utility_Landing_Gear_HDG1AL",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Utility_Landing_Gear_HDG\\HDG1L.cfg"
+  },
+  {
+    "name": "B9_Utility_Landing_Gear_HDG2A",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Utility_Landing_Gear_HDG\\HDG2.cfg"
+  },
+  {
+    "name": "B9_Utility_Landing_Gear_HDG2AL",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\B9_Aerospace_Legacy\\Parts\\Utility_Landing_Gear_HDG\\HDG2L.cfg"
+  },
+  {
+    "name": "Moho",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\DistantObject\\PlanetColors.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\CLSConfigs.cfg"
+  },
+  {
+    "name": "ENcargoContainer",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Colony\\container.cfg"
+  },
+  {
+    "name": "ENdeployableHabitat",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Colony\\deployableHabitat.cfg"
+  },
+  {
+    "name": "ENdeployableLab",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Colony\\deployableLab.cfg"
+  },
+  {
+    "name": "ENcolonyflag",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Colony\\flag.cfg"
+  },
+  {
+    "name": "ENbox_small",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Colony\\inventoryBox.cfg"
+  },
+  {
+    "name": "ENrangerDock",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\DockingPorts\\port1.cfg"
+  },
+  {
+    "name": "ENrangerDock125",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\DockingPorts\\port2.cfg"
+  },
+  {
+    "name": "ENOuterDock125",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\DockingPorts\\port3.cfg"
+  },
+  {
+    "name": "ENOuterRangerDock125",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\DockingPorts\\port4.cfg"
+  },
+  {
+    "name": "ENcargoEndurance",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\cargoEndurance.cfg"
+  },
+  {
+    "name": "ENcommandEndurance",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\commandEndurance.cfg"
+  },
+  {
+    "name": "ENenduranceEngine",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\enduranceEngine.cfg"
+  },
+  {
+    "name": "ENhabEndurance",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\habEndurance.cfg"
+  },
+  {
+    "name": "ENmountEndurance",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\mountEndurance.cfg"
+  },
+  {
+    "name": "ENringEndurance",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\ringEndurance.cfg"
+  },
+  {
+    "name": "ENendSciBox",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Endurance\\sciBox.cfg"
+  },
+  {
+    "name": "enduranceCommandIVA",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Internals\\commandIVA.cfg"
+  },
+  {
+    "name": "deployableLabIVA",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Internals\\labIVA.cfg"
+  },
+  {
+    "name": "EnduranceLander",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Internals\\landerIVA.cfg"
+  },
+  {
+    "name": "miniRangerIVA",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Internals\\miniRangerIVA.cfg"
+  },
+  {
+    "name": "rangerInternal",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Internals\\Rangerinternal.cfg"
+  },
+  {
+    "name": "ENlanderBody",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Lander\\landerBody.cfg"
+  },
+  {
+    "name": "JSIAdvTransparentPod\t\t",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Lander\\LanderJSIATP.cfg"
+  },
+  {
+    "name": "ENlanderVTOL",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Lander\\landerVTOL.cfg"
+  },
+  {
+    "name": "Encapmult",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\LSConfigs.cfg"
+  },
+  {
+    "name": "ENminiRanger",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Mini_Ranger\\miniRanger.cfg"
+  },
+  {
+    "name": "JSIAdvTransparentPod\t\t",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Mini_Ranger\\MiniRangerJSIATP.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\MM_KIS_KAS.cfg"
+  },
+  {
+    "name": "ENrangerBody",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Ranger\\ranger.cfg"
+  },
+  {
+    "name": "ENrangerEngine",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Ranger\\rangerEngine.cfg"
+  },
+  {
+    "name": "JSIAdvTransparentPod\t\t",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\Endurance\\Parts\\Ranger\\RangerJSIATP.cfg"
+  },
+  {
+    "name": "JSIPrimitiveExternalCamera",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Parts\\ExternalCameraPart\\external-camera.cfg"
+  },
+  {
+    "name": "JSIEvaCockpitHandle",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\CockpitHandle\\eva-hatch.cfg"
+  },
+  {
+    "name": "IndicatorPanelRPM",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\IndicatorPanelReplacement\\prop.cfg"
+  },
+  {
+    "name": "JSIEvaHatchFull",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\InternalAirlock\\eva-hatch-with-model.cfg"
+  },
+  {
+    "name": "JSIInternalFlagPlate",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\InternalFlagPlate\\prop.cfg"
+  },
+  {
+    "name": "JSIEvaHatch",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\InternalHatch\\eva-hatch.cfg"
+  },
+  {
+    "name": "JSIActionGroupLabelButton01",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\ActionGroupLabelledButtons.cfg"
+  },
+  {
+    "name": "JSIAA_Throttle",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\AxisIndicator.cfg"
+  },
+  {
+    "name": "JSIStockSquareBlinkenlichten",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\Blinkenlichten.cfg"
+  },
+  {
+    "name": "JSIStockAltimeter",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\JSISwitchable.cfg"
+  },
+  {
+    "name": "JSISASPrograde",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\SASModeButtons.cfg"
+  },
+  {
+    "name": "JSIStockSquareButtonLight",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\SquareButtons.cfg"
+  },
+  {
+    "name": "JSITrimKnobPitch",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SimpleProps\\TrimmerKnobs.cfg"
+  },
+  {
+    "name": "JSIswitch_GEAR",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\JSI\\RasterPropMonitor\\Library\\Props\\SwitchWCover\\mechSwitch.cfg"
+  },
+  {
+    "name": "Sun",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\PlanetShine\\Config\\CelestialBodies.cfg"
+  },
+  {
+    "name": "exampleDiscrete",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\DefaultScales.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\Examples.cfg"
+  },
+  {
+    "name": "AIES_Probe",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\AIES_TweakScale.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\BetterRovemates_TweakScale.cfg"
+  },
+  {
+    "name": "Klockheed_stack",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\KH_SSE_TweakScale.cfg"
+  },
+  {
+    "name": "KOSMOS_stack",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\KOSMOS_TweakScale.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\MechJeb_TweakScale.cfg"
+  },
+  {
+    "name": "SSPXR_stack25",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\SSPXR_TweakScale.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\patches\\Tantares_TweakScale.cfg"
+  },
+  {
+    "name": "Part",
+    "filePath": "Kerbal Interstellar Project\\Gamedata\\TweakScale\\ScaleExponents.cfg"
+  },
+  {
+    "name": "Construction",
+    "filePath": "Kerbal Interstellar Project\\SoundTrack\\Playlists\\playlists.cfg"
+  }
+]

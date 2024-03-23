@@ -1,0 +1,30 @@
+[
+  {
+    "name": "45_Adapter",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\45_Adapter\\45_Adapter.cfg"
+  },
+  {
+    "name": "Ablative_Nose_Cone",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\Ablative_Nose_Cone\\Ablative_Nose_Cone.cfg"
+  },
+  {
+    "name": "Engineering_Assist_Module_LE //This MUST be unique!!!",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\Engineer_Assist_Module\\Engineer_Assist_Module.cfg"
+  },
+  {
+    "name": "Engineer_Assist_Radial",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\Engineer_Assist_Radial\\Engineer_Assist Radial.cfg"
+  },
+  {
+    "name": "Mk_Radial_Tank_LEI",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\Mk2_Radial_Tank\\Mk_Radial_Tank.cfg"
+  },
+  {
+    "name": "Modular_Adapter_0625 //This MUST be unique!!!",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\Modular_Adapter_Small\\Modular_Adapter_Small.cfg"
+  },
+  {
+    "name": "Resource_Jettison_Module //This MUST be unique!!!",
+    "filePath": "Low_Expectations_Inc-0.63\\Low_Expectations\\Parts\\Resource_Jettison_Module\\Resouce_Jettison_Module.cfg"
+  }
+]

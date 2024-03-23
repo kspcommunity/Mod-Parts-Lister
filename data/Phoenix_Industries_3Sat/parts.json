@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Phoenix Industries",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "3sat_small_decoupler",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Decouplers\\smallDecoupler.cfg"
+  },
+  {
+    "name": "3sat_tiny_decoupler",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Decouplers\\tinyDecoupler.cfg"
+  },
+  {
+    "name": "3sat_science_small",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Science Module\\3sat_science_small.cfg"
+  },
+  {
+    "name": "3sat_science_tiny",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Science Module\\3sat_science_tiny.cfg"
+  },
+  {
+    "name": "3Sat_small",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Small\\small3Sat.cfg"
+  },
+  {
+    "name": "3Sat_smallSolar",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Small Solar\\3satSmallSolar.cfg"
+  },
+  {
+    "name": "3Sat_tiny",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Tiny\\tiny3Sat.cfg"
+  },
+  {
+    "name": "3Sat_tinySolar",
+    "filePath": "Phoenix_Industries_3Sat\\GameData\\CTN\\Parts\\3Sat\\Tiny Solar\\3satTinySolar.cfg"
+  }
+]

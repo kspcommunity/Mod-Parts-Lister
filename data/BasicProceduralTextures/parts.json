@@ -1,0 +1,10 @@
+[
+  {
+    "name": "YellowStripe",
+    "filePath": "BasicProceduralTextures\\GameData\\BasicProceduralTextures\\DecouplerShroudTextures.cfg"
+  },
+  {
+    "name": "BasicProceduralTextures",
+    "filePath": "BasicProceduralTextures\\GameData\\BasicProceduralTextures\\ProceduralPartsTextures.cfg"
+  }
+]

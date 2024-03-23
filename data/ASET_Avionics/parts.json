@@ -1,0 +1,106 @@
+[
+  {
+    "name": "ASET_AHI",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_AHI\\ASET_AHI.cfg"
+  },
+  {
+    "name": "ASET_AHI_FD_ON",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_AHI\\ASET_AHI_CUSTOMs.cfg"
+  },
+  {
+    "name": "ASET_AirFuelFLOW",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_Air_Fuel_FLOW\\ASET_Air_Fuel_FLOW.cfg"
+  },
+  {
+    "name": "ASET_ALTIMETER",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_ALTIMETER\\ASET_ALTIMETER.cfg"
+  },
+  {
+    "name": "ASET_ASI",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_ASI\\ASET_ASI.cfg"
+  },
+  {
+    "name": "ASET_BatteryGauge",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_BatteryGauge\\ASET_BatteryGauge.cfg"
+  },
+  {
+    "name": "ASET_DynamicPressure",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_DynamicPressure\\ASET_DynamicPressure.cfg"
+  },
+  {
+    "name": "ASET_EngineGauge",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_EngineGauge\\ASET_EngineGauge.cfg"
+  },
+  {
+    "name": "ASET_FlapsIndicator",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_FlapsIndicator\\ASET_FlapsIndicator.cfg"
+  },
+  {
+    "name": "ASET_FuelQTY_Digital",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_FuelQTY_Digital\\ASET_FuelQTY_Digital.cfg"
+  },
+  {
+    "name": "ASET_G-METER",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_G-METER\\ASET_G-METER.cfg"
+  },
+  {
+    "name": "ASET_GroundSpeed",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_GroundSpeed\\ASET_GroundSpeed.cfg"
+  },
+  {
+    "name": "ASET_Heading",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_Heading\\ASET_Heading.cfg"
+  },
+  {
+    "name": "ASET_LG_Lever",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_LG_Lever\\ASET_LG_Lever.cfg"
+  },
+  {
+    "name": "ASET_MachNumber",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_MachNumber\\ASET_MachNumber.cfg"
+  },
+  {
+    "name": "ASET_RadarAltimeter",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_RadarAltimeter\\ASET_RadarAltimeter.cfg"
+  },
+  {
+    "name": "ASET_RADARALTWARN100",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_RadarAltimeter\\ASET_RadarAltimeter_CUSTOMs.cfg"
+  },
+  {
+    "name": "ASET_TemperatureGauge",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_TemperatureGauge\\ASET_TemperatureGauge.cfg"
+  },
+  {
+    "name": "ASET_TrimIndicator",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_TrimIndicator\\ASET_TrimIndicator.cfg"
+  },
+  {
+    "name": "ASET_TurnCoordinator",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_TurnCoordinator\\ASET_TurnCoordinator.cfg"
+  },
+  {
+    "name": "ASET_VSI",
+    "filePath": "ASET_Avionics\\ClassicPack\\ASET_VSI\\ASET_VSI.cfg"
+  },
+  {
+    "name": "ASET_FlapsCtrl",
+    "filePath": "ASET_Avionics\\ModernPack\\ASET_FlapsCtrl\\ASET_FlapsCtrl.cfg"
+  },
+  {
+    "name": "ASET_HUD",
+    "filePath": "ASET_Avionics\\ModernPack\\ASET_HUD\\ASET_HUD.cfg"
+  },
+  {
+    "name": "ASET_SpoilersLever",
+    "filePath": "ASET_Avionics\\ModernPack\\ASET_SpoilersLever\\ASET_SpoilersLever.cfg"
+  },
+  {
+    "name": "ASET_Yoke_V01",
+    "filePath": "ASET_Avionics\\ModernPack\\ASET_Yoke_V01\\ASET_Yoke_V01.cfg"
+  },
+  {
+    "name": "ASET_HUD_TGTINFRONT",
+    "filePath": "ASET_Avionics\\ModernPack\\CUSTOMs\\HUD_Customs.cfg"
+  }
+]

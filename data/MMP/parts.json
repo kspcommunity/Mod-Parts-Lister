@@ -1,0 +1,58 @@
+[
+  {
+    "name": "FAB-3000",
+    "filePath": "MMP\\FAB3000\\FAB-5000bomb.cfg"
+  },
+  {
+    "name": "SU27CW",
+    "filePath": "MMP\\jet\\27CW\\27CW.cfg"
+  },
+  {
+    "name": "KSG-2",
+    "filePath": "MMP\\jet\\27ksg\\ksg.cfg"
+  },
+  {
+    "name": "27RD",
+    "filePath": "MMP\\jet\\27LD\\27RD.cfg"
+  },
+  {
+    "name": "27bady ",
+    "filePath": "MMP\\jet\\27sk\\27bady.cfg"
+  },
+  {
+    "name": "27uhf",
+    "filePath": "MMP\\jet\\27UHF\\27uhf.cfg"
+  },
+  {
+    "name": "SU27zw",
+    "filePath": "MMP\\jet\\27zw\\27zw.cfg"
+  },
+  {
+    "name": "SU27zwn",
+    "filePath": "MMP\\jet\\27zwn\\27zw.cfg"
+  },
+  {
+    "name": "aa2",
+    "filePath": "MMP\\missile\\AA2\\model.cfg"
+  },
+  {
+    "name": "aa4",
+    "filePath": "MMP\\missile\\AA3\\model.cfg"
+  },
+  {
+    "name": "KSG1",
+    "filePath": "MMP\\Pitot tube\\ksg-1\\ksg27.cfg"
+  },
+  {
+    "name": "KSG-2",
+    "filePath": "MMP\\Pitot tube\\KSG-2\\ksg27.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "MMP\\space\\27IVA_ASET-patch.cfg"
+  },
+  {
+    "name": "27IVA_ASET",
+    "filePath": "MMP\\space\\27IVA_ASET.cfg"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "GrasColorDemo",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\KKflagDemo\\AutoGrasDemo.cfg"
+  },
+  {
+    "name": "KKflagDemo",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\KKflagDemo\\KKflagDemo.cfg"
+  },
+  {
+    "name": "AdvTextureDemo",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\KKflagDemo\\TextureDemo.cfg"
+  },
+  {
+    "name": "kkaimpoint",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\aimpoint.cfg"
+  },
+  {
+    "name": "kkdisplacement",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\displacement.cfg"
+  },
+  {
+    "name": "kkfixed1500",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\fixed1500.cfg"
+  },
+  {
+    "name": "kkfixed500",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\fixed500.cfg"
+  },
+  {
+    "name": "kkkourseXX",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\kourseXX.cfg"
+  },
+  {
+    "name": "kkthreshold6",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\threshold6.cfg"
+  },
+  {
+    "name": "kkthreshold8",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\threshold8.cfg"
+  },
+  {
+    "name": "SoundCube",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\SoundCube\\SoundCube.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\UniversalSpawnPoint\\UniversalSpawnPoint.cfg"
+  },
+  {
+    "name": "KKSurfaceRound50x100",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\WaterSurfaces\\WaterSurfaceRound.cfg"
+  },
+  {
+    "name": "KKSurfaceSquare50x100",
+    "filePath": "Manhattan Airport\\Gamedata\\KerbalKonstructs\\FreeStatics\\WaterSurfaces\\WaterSurfaceSquare.cfg"
+  },
+  {
+    "name": "ControlTowerSmall",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\ControlTowerSmall.cfg"
+  },
+  {
+    "name": "Heliport",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\Heliport.cfg"
+  },
+  {
+    "name": "KSC_AstronautComplex_level_3",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\KSC_AstronautComplex_level_3.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_2",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\KSC_FlagPole_level_2.cfg"
+  },
+  {
+    "name": "KSC_Runway_level_3",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\KSC_Runway_level_3.cfg"
+  },
+  {
+    "name": "LandingZone2",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\LandingZone2.cfg"
+  },
+  {
+    "name": "LandingZoneSmall",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\LandingZoneSmall.cfg"
+  },
+  {
+    "name": "LargeHangarsClosed",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\LargeHangarsClosed.cfg"
+  },
+  {
+    "name": "LargeHangarsOpen",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\LargeHangarsOpen.cfg"
+  },
+  {
+    "name": "SmallHangarsOpen",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\SmallHangarsOpen.cfg"
+  },
+  {
+    "name": "WindTurbine",
+    "filePath": "Manhattan Airport\\Gamedata\\Manhattan_Airport\\Manhattan\\WindTurbine.cfg"
+  },
+  {
+    "name": "AdvancedTextures",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\OSS_MM_patch.cfg"
+  },
+  {
+    "name": "ControlTowerSmall",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Airport\\ControlTowerSmall\\ControlTowerSmall.cfg"
+  },
+  {
+    "name": "Heliport",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Airport\\Heliport\\Heliport.cfg"
+  },
+  {
+    "name": "LargeHangarsClosed",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Airport\\LargeHangarsClosed\\LargeHangarsClosed.cfg"
+  },
+  {
+    "name": "LargeHangarsOpen",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Airport\\LargeHangarsOpen\\LargeHangarsOpen.cfg"
+  },
+  {
+    "name": "SmallHangarsClosed",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Airport\\SmallHangarsClosed\\SmallHangarsClosed.cfg"
+  },
+  {
+    "name": "SmallHangarsOpen",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Airport\\SmallHangarsOpen\\SmallHangarsOpen.cfg"
+  },
+  {
+    "name": "S1Crawlerway208m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 208m\\S1Crawlerway208m.cfg"
+  },
+  {
+    "name": "S1Crawlerway416m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 416m\\S1Crawlerway416m.cfg"
+  },
+  {
+    "name": "S1Crawlerway52m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 52m\\S1Crawlerway52m.cfg"
+  },
+  {
+    "name": "S1Crawlerway84m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 84m\\S1Crawlerway84m.cfg"
+  },
+  {
+    "name": "S1CrawlerwayCorner",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway Corner\\S1CrawlerwayCorner.cfg"
+  },
+  {
+    "name": "S1CrawlerwaySplitLeft",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway Split Left\\S1CrawlerwaySplitLeft.cfg"
+  },
+  {
+    "name": "S1CrawlerwaySplitRight",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway Split Right\\S1CrawlerwaySplitRight.cfg"
+  },
+  {
+    "name": "S2Crawlerway208m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 208m\\S2Crawlerway208m.cfg"
+  },
+  {
+    "name": "S2Crawlerway416m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 416m\\S2Crawlerway416m.cfg"
+  },
+  {
+    "name": "S2Crawlerway52m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 52m\\S2Crawlerway52m.cfg"
+  },
+  {
+    "name": "S2Crawlerway84m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 84m\\S2Crawlerway84m.cfg"
+  },
+  {
+    "name": "S2CrawlerwayCorner",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway Corner\\S2CrawlerwayCorner.cfg"
+  },
+  {
+    "name": "S2CrawlerwaySplitLeft",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 CrawlerwaySplit Left\\S2CrawlerwaySplitLeft.cfg"
+  },
+  {
+    "name": "S2CrawlerwaySplitRight",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 CrawlerwaySplit Right\\S2CrawlerwaySplitRight.cfg"
+  },
+  {
+    "name": "LandingZone1",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\LandingZones\\LandingZone1\\LandingZone1.cfg"
+  },
+  {
+    "name": "LandingZone2",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\LandingZones\\LandingZone2\\LandingZone2.cfg"
+  },
+  {
+    "name": "LandingZoneSmall",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\LandingZones\\LandingZoneSmall\\LandingZoneSmall.cfg"
+  },
+  {
+    "name": "AdministrationBuilding",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Large Tile\\AdministrationBuilding\\AdministrationBuilding.cfg"
+  },
+  {
+    "name": "PlumbrookResearchFacility",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Large Tile\\Plumbrook\\PlumbrookResearchFacility.cfg"
+  },
+  {
+    "name": "Tier4LaunchControlCentre",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Large Tile\\T4LCC\\Tier4LaunchControlCentre.cfg"
+  },
+  {
+    "name": "Tier4VerticalAssemblyBuilding",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Large Tile\\T4VAB\\Tier4VerticalAssemblyBuilding.cfg"
+  },
+  {
+    "name": "SMAB",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Medium+ Tile\\SMAB\\SMAB.cfg"
+  },
+  {
+    "name": "SMARF",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Medium+ Tile\\SMARF\\SMARF.cfg"
+  },
+  {
+    "name": "AtlasVIF",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\AtlasVIF\\AtlasVIF.cfg"
+  },
+  {
+    "name": "HorizontalIntegrationFacility",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Horizontal Integration Facility\\HorizontalIntegrationFacility.cfg"
+  },
+  {
+    "name": "observatory_complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Observatory complex\\Observatory complex.cfg"
+  },
+  {
+    "name": "Orbiter_Processing_Complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Orbiter Processing complex\\OrbiterProcessingComplex.cfg"
+  },
+  {
+    "name": "payload_intergration_complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Payload Intergration complex\\PayloadIntergrationcomplex.cfg"
+  },
+  {
+    "name": "radome_complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Radome complex\\Radomecomplex.cfg"
+  },
+  {
+    "name": "research_complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Research complex\\Researchcomplex.cfg"
+  },
+  {
+    "name": "tracking_station_complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\TrackingStationComplex\\TrackingStationComplex.cfg"
+  },
+  {
+    "name": "transmitter_mast",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\MediumTile\\TransmitterMast\\TransmitterMast.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Misc\\UniversalSpawnPoint\\UniversalSpawnPoint.cfg"
+  },
+  {
+    "name": "Road208m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\208m\\Road208m.cfg"
+  },
+  {
+    "name": "Road416m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\416m\\Road416m.cfg"
+  },
+  {
+    "name": "Road52m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\52m\\Road52m.cfg"
+  },
+  {
+    "name": "Road84m",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\84m\\Road84m.cfg"
+  },
+  {
+    "name": "RoadCorner",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadCorner\\RoadCorner.cfg"
+  },
+  {
+    "name": "RoadIntersection",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadIntersection\\RoadIntersection.cfg"
+  },
+  {
+    "name": "RoadTileAdapter",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadTileAdapter\\RoadTileAdapter.cfg"
+  },
+  {
+    "name": "RoadTJunction",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadTJunction\\RoadTJunction.cfg"
+  },
+  {
+    "name": "Full_Dish_Complex",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\FullDishComplex\\FullDishComplex.cfg"
+  },
+  {
+    "name": "HexVehicleSpawn",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\HexVehicleSpawn\\HexVehicleSpawn.cfg"
+  },
+  {
+    "name": "Launch_Control_Centre",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\Launch Control Centre\\LaunchControlCentre.cfg"
+  },
+  {
+    "name": "Medium_Dish_Station",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\MediumDishComplex\\MediumDishComplex.cfg"
+  },
+  {
+    "name": "ObservatoryStandalone",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ObservatoryStandalone\\ObservatoryStandalone.cfg"
+  },
+  {
+    "name": "ResearchStationA",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationA\\ResearchStationA.cfg"
+  },
+  {
+    "name": "ResearchStationB",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationB\\ResearchStationB.cfg"
+  },
+  {
+    "name": "ResearchStationC",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationC\\ResearchStationC.cfg"
+  },
+  {
+    "name": "ResearchStationD",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationD\\ResearchStationD.cfg"
+  },
+  {
+    "name": "ResearchStationE",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationE\\ResearchStationE.cfg"
+  },
+  {
+    "name": "ResearchStationF",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationF\\ResearchStationF.cfg"
+  },
+  {
+    "name": "ResearchStationG",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationG\\ResearchStationG.cfg"
+  },
+  {
+    "name": "CommDishStandaloneOutpost",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\CommDishStandaloneOutpost\\CommDishStandaloneOutpost.cfg"
+  },
+  {
+    "name": "fuel_depot_outpost",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\FuelDepotOutpost\\FuelDepotOutpost.cfg"
+  },
+  {
+    "name": "HelipadOutpost",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\HelipadOutpost\\HelipadOutpost.cfg"
+  },
+  {
+    "name": "MedVehicleSpawn",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\MedVehicleSpawn\\MedVehicleSpawn.cfg"
+  },
+  {
+    "name": "SmallRadomeOutpost",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\SmallRadomeOutpost\\SmallRadomeOutpost.cfg"
+  },
+  {
+    "name": "ThickEdgedTile",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\ThickEdgedTile\\ThickEdgedTile.cfg"
+  },
+  {
+    "name": "ThinEdgedTile",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\ThinEdgedTile\\ThinEdgedTile.cfg"
+  },
+  {
+    "name": "TransmitterOutpost",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\Triangle\\TransmitterOutpost\\TransmitterOutpost.cfg"
+  },
+  {
+    "name": "CellMastStandaloneA",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\CellMastStandaloneA\\CellMastStandaloneA.cfg"
+  },
+  {
+    "name": "CellMastStandaloneB",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\CellMastStandaloneB\\CellMastStandaloneB.cfg"
+  },
+  {
+    "name": "LOX_tank_standalone",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\LOX tank standalone\\LOX_tank_standalone.cfg"
+  },
+  {
+    "name": "Radome_Standalone",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\Radome Standalone\\Radome_Standalone.cfg"
+  },
+  {
+    "name": "SmallHelipad",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\SmallHelipad\\SmallHelipad.cfg"
+  },
+  {
+    "name": "SmallVehicleSpawn",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\SmallVehicleSpawn\\SmallVehicleSpawn.cfg"
+  },
+  {
+    "name": "Standalone_utility_building",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\Standalone utility building\\Standalone_utility_building.cfg"
+  },
+  {
+    "name": "StandaloneSmallCommDish",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\StandaloneSmallCommDish\\StandaloneSmallCommDish.cfg"
+  },
+  {
+    "name": "ThickEdgeSmallTile",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\ThickEdgeSmallTile\\ThickEdgeSmallTile.cfg"
+  },
+  {
+    "name": "ThinEdgeSmallTile",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\ThinEdgeSmallTile\\ThinEdgeSmallTile.cfg"
+  },
+  {
+    "name": "Watertower_Standalone",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\Watertower Standalone\\Watertower_Standalone.cfg"
+  },
+  {
+    "name": "WindTurbine",
+    "filePath": "Manhattan Airport\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\WindTurbine\\WindTurbine.cfg"
+  }
+]

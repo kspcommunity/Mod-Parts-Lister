@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NewShepard",
+    "filePath": "With Real Fuel\\GameData\\NewShepard\\Core\\NewShepardCore.cfg"
+  },
+  {
+    "name": "New_Shepard_Int",
+    "filePath": "With Real Fuel\\GameData\\NewShepard\\int\\New_Shepard_Int.cfg"
+  },
+  {
+    "name": "NewShepard Pod",
+    "filePath": "With Real Fuel\\GameData\\NewShepard\\Pod\\New_Shepard_Ext.cfg"
+  }
+]

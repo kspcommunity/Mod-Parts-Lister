@@ -1,0 +1,106 @@
+[
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "UniversalStorage\\Compatability\\US ModularFuelTanks.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "UniversalStorage\\Compatability\\US Tweakscale.cfg"
+  },
+  {
+    "name": "US_1C10_Wedge_Quadcore",
+    "filePath": "UniversalStorage\\Parts\\US_1C10_Wedge_Quadcore\\US_1C10_Wedge_Quadcore.cfg"
+  },
+  {
+    "name": "US_1C15_Wedge_Hexacore",
+    "filePath": "UniversalStorage\\Parts\\US_1C15_Wedge_Hexacore\\US_1C15_Wedge_Hexacore.cfg"
+  },
+  {
+    "name": "US_1C20_Wedge_Octocore",
+    "filePath": "UniversalStorage\\Parts\\US_1C20_Wedge_Octocore\\US_1C20_Wedge_Octocore.cfg"
+  },
+  {
+    "name": "US_f_Dec_SafetyDecoupler125",
+    "filePath": "UniversalStorage\\Parts\\US_1D10_Wedge_Adapter_125\\part.cfg"
+  },
+  {
+    "name": "US_e_Dec_SafetyDecoupler250",
+    "filePath": "UniversalStorage\\Parts\\US_1D20_Wedge_Adapter_250\\part.cfg"
+  },
+  {
+    "name": "US_1M110_Wedge_ScienceBay",
+    "filePath": "UniversalStorage\\Parts\\US_1M110_Wedge_ScienceBay\\US_1M110_Wedge_ScienceBay.cfg"
+  },
+  {
+    "name": "US_1P110_Wedge_Fuelcell",
+    "filePath": "UniversalStorage\\Parts\\US_1P110_Wedge_Fuelcell\\US_1P110_Wedge_Fuelcell.cfg"
+  },
+  {
+    "name": "US_1P120_Wedge_Elektron",
+    "filePath": "UniversalStorage\\Parts\\US_1P120_Wedge_Elektron\\US_1P120_Wedge_Elektron.cfg"
+  },
+  {
+    "name": "US_1P130_Wedge_Sabatier",
+    "filePath": "UniversalStorage\\Parts\\US_1P130_Wedge_Sabatier\\US_1P130_Wedge_Sabatier.cfg"
+  },
+  {
+    "name": "US_1P140_Wedge_WRS",
+    "filePath": "UniversalStorage\\Parts\\US_1P140_Wedge_WRS\\US_1P140_Wedge_WRS.cfg"
+  },
+  {
+    "name": "US_1R110_Wedge_KISContainer",
+    "filePath": "UniversalStorage\\Parts\\US_1R110_Wedge_KISContainer\\US_1R110_Wedge_KISContainer.cfg"
+  },
+  {
+    "name": "US_1R210_Wedge_Liquidfuel",
+    "filePath": "UniversalStorage\\Parts\\US_1R210_Wedge_Liquidfuel\\US_1R210_Wedge_Liquidfuel.cfg"
+  },
+  {
+    "name": "US_1R220_Wedge_Monoprop",
+    "filePath": "UniversalStorage\\Parts\\US_1R220_Wedge_Monoprop\\US_1R220_Wedge_Monoprop.cfg"
+  },
+  {
+    "name": "US_1R310_Wedge_CarbonDioxide",
+    "filePath": "UniversalStorage\\Parts\\US_1R310_Wedge_CarbonDioxide\\US_1R310_Wedge_CarbonDioxide.cfg"
+  },
+  {
+    "name": "US_1R320_Wedge_Food",
+    "filePath": "UniversalStorage\\Parts\\US_1R320_Wedge_Food\\US_1R320_Wedge_Food.cfg"
+  },
+  {
+    "name": "US_1R330_Wedge_Hydrogen",
+    "filePath": "UniversalStorage\\Parts\\US_1R330_Wedge_Hydrogen\\US_1R330_Wedge_Hydrogen.cfg"
+  },
+  {
+    "name": "US_1R340_Wedge_Oxygen",
+    "filePath": "UniversalStorage\\Parts\\US_1R340_Wedge_Oxygen\\US_1R340_Wedge_Oxygen.cfg"
+  },
+  {
+    "name": "US_1R350_Wedge_Waste",
+    "filePath": "UniversalStorage\\Parts\\US_1R350_Wedge_Waste\\US_1R350_Wedge_Waste.cfg"
+  },
+  {
+    "name": "US_1R360_Wedge_Water",
+    "filePath": "UniversalStorage\\Parts\\US_1R360_Wedge_Water\\US_1R360_Wedge_Water.cfg"
+  },
+  {
+    "name": "US_1R370_Wedge_WasteWater",
+    "filePath": "UniversalStorage\\Parts\\US_1R370_Wedge_WasteWater\\US_1R370_Wedge_WasteWater.cfg"
+  },
+  {
+    "name": "US_Radial_R40_Food",
+    "filePath": "UniversalStorage\\Parts\\US_2R320_Radial_Food\\US_2R320_Radial_Food.cfg"
+  },
+  {
+    "name": "US_2R340_Radial_Oxygen",
+    "filePath": "UniversalStorage\\Parts\\US_2R340_Radial_Oxygen\\US_2R340_Radial_Oxygen.cfg"
+  },
+  {
+    "name": "US_Radial_R30_Water",
+    "filePath": "UniversalStorage\\Parts\\US_2R360_Radial_Water\\US_2R360_Radial_Water.cfg"
+  },
+  {
+    "name": "US_3R310_EVA_EVAX",
+    "filePath": "UniversalStorage\\Parts\\US_3R310_EVA_EVAX\\US_3R310_EVA_EVAX.cfg"
+  }
+]

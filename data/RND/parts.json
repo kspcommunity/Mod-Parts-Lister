@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CJBB8",
+    "filePath": "RND\\DroidBody\\BB8.cfg"
+  },
+  {
+    "name": "CJGronkRetract",
+    "filePath": "RND\\DroidBody\\GronkRetract.cfg"
+  },
+  {
+    "name": "CJRND",
+    "filePath": "RND\\DroidBody\\RND.cfg"
+  },
+  {
+    "name": "CJEngineRND",
+    "filePath": "RND\\DroidEngine\\EngineRND.cfg"
+  },
+  {
+    "name": "CJBB8Body",
+    "filePath": "RND\\DroidWheel\\BB8Body.cfg"
+  },
+  {
+    "name": "CJGonkWheel",
+    "filePath": "RND\\DroidWheel\\GonkWheel.cfg"
+  },
+  {
+    "name": "CJRNDWheel",
+    "filePath": "RND\\DroidWheel\\RNDWheel.cfg"
+  },
+  {
+    "name": "CJGonkArm",
+    "filePath": "RND\\GonkArm\\GonkArm.cfg"
+  }
+]

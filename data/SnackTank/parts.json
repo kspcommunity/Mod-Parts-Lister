@@ -1,0 +1,10 @@
+[
+  {
+    "name": "SnacksResourceSwitcher",
+    "filePath": "SnackTank\\Patches\\restockplus_patches.cfg"
+  },
+  {
+    "name": "SnacksResourceSwitcher",
+    "filePath": "SnackTank\\Patches\\stock_patches.cfg"
+  }
+]

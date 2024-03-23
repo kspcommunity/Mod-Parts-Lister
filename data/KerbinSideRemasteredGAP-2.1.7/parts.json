@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Kerbin Side Remastered GAP",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Agencies.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Certification1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Certification1.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Certification2",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Certification2.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Hazard-Patrol",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Patrol-Hazard.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Kola-Patrol",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Patrol-Kola.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Meeda-Patrol",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Patrol-Meeda.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Sandy-Patrol",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Patrol-Sandy.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Hazard-Rescue",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Rescue-Hazard.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Kola-Rescue",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Rescue-Kola.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Meeda-Rescue",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Rescue-Meeda.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Sandy-Rescue",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Rescue-Sandy.cfg"
+  },
+  {
+    "name": "KSRGAP-Navy-Transport",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\AirSeaRescue\\Navy-Transport.cfg"
+  },
+  {
+    "name": "BillBoard-TKA",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Objects\\Billboards\\BillBoard-TKA.cfg"
+  },
+  {
+    "name": "BillBoard-UKHQ",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Objects\\Billboards\\BillBoard-UKHQ.cfg"
+  },
+  {
+    "name": "billboard1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Objects\\Billboards\\billboard1.cfg"
+  },
+  {
+    "name": "arriveKSC",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Objects\\KerbalCities\\roads\\leaveenterKSC.cfg"
+  },
+  {
+    "name": "lowcraft",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Objects\\KerbalCities\\roads\\lowaircraftsign.cfg"
+  },
+  {
+    "name": "lowcraftS",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Objects\\KerbalCities\\roads\\low_spacecraft.cfg"
+  },
+  {
+    "name": "KSR_pstr",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\Baikerbaunur\\KSR_pstr-instances.cfg"
+  },
+  {
+    "name": "KSR_ptee",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\Baikerbaunur\\KSR_ptee-instances.cfg"
+  },
+  {
+    "name": "arriveKSC",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\KSC\\arriveKSC-instances.cfg"
+  },
+  {
+    "name": "BillBoard-TKA",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\KSC\\BillBoard-TKA-instances.cfg"
+  },
+  {
+    "name": "ksideapartmentblock1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\KSC\\ksideapartmentblock1-instances.cfg"
+  },
+  {
+    "name": "ksideofficeestate2",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\KSC\\ksideofficeestate2-instances.cfg"
+  },
+  {
+    "name": "Baobab_Tree_1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\Baobab_Tree_1-instances.cfg"
+  },
+  {
+    "name": "BillBoard-UKHQ",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\BillBoard-UKHQ-instances.cfg"
+  },
+  {
+    "name": "kside50x100plat",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\kside50x100plat-instances.cfg"
+  },
+  {
+    "name": "ksideapartmentblock1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksideapartmentblock1-instances.cfg"
+  },
+  {
+    "name": "ksidearcology",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksidearcology-instances.cfg"
+  },
+  {
+    "name": "ksidebiodome",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksidebiodome-instances.cfg"
+  },
+  {
+    "name": "ksidekashcorp",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksidekashcorp-instances.cfg"
+  },
+  {
+    "name": "ksidekscapartments",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksidekscapartments-instances.cfg"
+  },
+  {
+    "name": "ksideoffice3f",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksideoffice3f-instances.cfg"
+  },
+  {
+    "name": "ksideoffice6f",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksideoffice6f-instances.cfg"
+  },
+  {
+    "name": "ksideradiotower",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksideradiotower-instances.cfg"
+  },
+  {
+    "name": "ksidestreetlights3",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksidestreetlights3-instances.cfg"
+  },
+  {
+    "name": "ksideterraced2",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksideterraced2-instances.cfg"
+  },
+  {
+    "name": "ksidewatertower",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\ksidewatertower-instances.cfg"
+  },
+  {
+    "name": "KSR_pC90L",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\KSR_pC90L-instances.cfg"
+  },
+  {
+    "name": "KSR_pC90R",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\KSR_pC90R-instances.cfg"
+  },
+  {
+    "name": "KSR_pstr",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\KSR_pstr-instances.cfg"
+  },
+  {
+    "name": "KSR_ptee",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Base-Instances\\UKHQ\\KSR_ptee-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Common-Instances\\KSR NAS Navy Docks-instances.cfg"
+  },
+  {
+    "name": "billboard1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Kerbal-Konstructs\\Sites\\Common-Instances\\TKA-Arrivals-instances.cfg"
+  },
+  {
+    "name": "climbingPiton",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Parts\\ClimbingPiton\\climbingpitons.cfg"
+  },
+  {
+    "name": "UKTransponder",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Assets\\Parts\\UKTransponder\\UKTransponder.cfg"
+  },
+  {
+    "name": "KSRGAP01-LetsStartAnAirline",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\01 - LetsStartAnAirline.cfg"
+  },
+  {
+    "name": "KSRGAP02-LandingRights",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\02 - LandingRights.cfg"
+  },
+  {
+    "name": "KSRGAP03-CommercialFlights1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\03 - CommercialFlights1.cfg"
+  },
+  {
+    "name": "KSRGAP04-CommercialFlights2",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\04 - CommercialFlights2.cfg"
+  },
+  {
+    "name": "KSRGAP05-CommercialFlights3",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\05 - CommercialFlights3.cfg"
+  },
+  {
+    "name": "KSRGAP06-CommercialMultiFlights1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\06 - CommercialMultiFlights1.cfg"
+  },
+  {
+    "name": "KSRGAP07-CommercialMultiFlights2",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\07 - CommercialMultiFlights2.cfg"
+  },
+  {
+    "name": "KSRGAP08-CommercialMultiFlights3",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Flights\\08 - CommercialMultiFlights3.cfg"
+  },
+  {
+    "name": "KSRGAP",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Groups.cfg"
+  },
+  {
+    "name": "KSRGAP-Hinterland-Adventure-Tour",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Hinterland\\HinterlandAdventureTour.cfg"
+  },
+  {
+    "name": "KSRGAP-Hinterland-Remote-Bush-Plane-Adventure",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Hinterland\\HinterlandRemoteBushPlaneAdventure.cfg"
+  },
+  {
+    "name": "KSRGAPX-Jeb-Cargo-Flights",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\JebsJunkyard\\01 - CargoRetrievalFlights.cfg"
+  },
+  {
+    "name": "KSRGAP-KGO-Camping",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KerbinGeographics\\Camping.cfg"
+  },
+  {
+    "name": "KSRGAP-KGO-Field-Expedition",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KerbinGeographics\\FieldExpedition.cfg"
+  },
+  {
+    "name": "KSRGAP-KGO-Mountaineeing",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KerbinGeographics\\MountainClimbing.cfg"
+  },
+  {
+    "name": "KSRGAP-KSIS-Civil-Unrest",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KSIS\\CivilUnrest.cfg"
+  },
+  {
+    "name": "KSRGAP-KSIS-Deploy-Agent",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KSIS\\DeployAgent.cfg"
+  },
+  {
+    "name": "KSRGAP-KSIS-Extract-Agent",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KSIS\\ExtractAgent.cfg"
+  },
+  {
+    "name": "KSRGAP-KSIS-Mr-White",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KSIS\\MrWhite.cfg"
+  },
+  {
+    "name": "KSRGAP-KSIS-Cargo-Flights",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KSIS\\TSA15Cargoflights.cfg"
+  },
+  {
+    "name": "KSRGAP-KSIS-VIK-Transport",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\KSIS\\TSA15VIKTransport.cfg"
+  },
+  {
+    "name": "Kola Island ",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Patches\\CustomWaypoints.KSRGAP.cfg"
+  },
+  {
+    "name": "Island ILS 27",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Patches\\KerbinSideRemasteredFlightPlans.cfg"
+  },
+  {
+    "name": "Cape Kerman 33",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Patches\\MechJeb2.cfg"
+  },
+  {
+    "name": "KSRGAPX-SkyMedIntroduction",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\SkyMed\\01 - Introduction.cfg"
+  },
+  {
+    "name": "KSRGAPX-SkyMed-1",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\SkyMed\\02 - MedevacFlights1.cfg"
+  },
+  {
+    "name": "KSRGAPX-SkyMed-2",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\SkyMed\\03 - MedevacFlights2.cfg"
+  },
+  {
+    "name": "KSRGAPX-SkyMed-3",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\SkyMed\\04 - MedevacFlights3.cfg"
+  },
+  {
+    "name": "Civil-Servant",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Traits\\CommunityTraitIcons.cfg"
+  },
+  {
+    "name": "RosterCheckCitizen",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Traits\\RosterCheck.cfg"
+  },
+  {
+    "name": "Civil-Servant",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\Traits\\Traits.cfg"
+  },
+  {
+    "name": "KSRGAP-UK-Cargo-Flights",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\UnitedKnations\\Cargoflights.cfg"
+  },
+  {
+    "name": "KSRGAP-UK-Disaster-Relief",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\UnitedKnations\\DisasterRelief.cfg"
+  },
+  {
+    "name": "KSRGAP-UK-Missing-Aircraft",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\UnitedKnations\\MissingAircraft.cfg"
+  },
+  {
+    "name": "KSRGAP-UK-Introduction",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\UnitedKnations\\UKIntroduction.cfg"
+  },
+  {
+    "name": "KSRGAP-UK-VIK-Transport",
+    "filePath": "KerbinSideRemasteredGAP-2.1.7\\GameData\\ContractPacks\\KerbinSideRemasteredGAP\\UnitedKnations\\VIKTransport.cfg"
+  }
+]

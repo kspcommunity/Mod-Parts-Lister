@@ -1,0 +1,62 @@
+[
+  {
+    "name": "APARradar",
+    "filePath": "MalFunc Industries\\Parts\\APAR\\apar.cfg"
+  },
+  {
+    "name": "mediumhullshortvls",
+    "filePath": "MalFunc Industries\\Parts\\MediumHullShortVLS\\medhullshort.cfg"
+  },
+  {
+    "name": "RAMLauncherTurret",
+    "filePath": "MalFunc Industries\\Parts\\MK-49 Launcher\\RAM.cfg"
+  },
+  {
+    "name": "MK29Launcher",
+    "filePath": "MalFunc Industries\\Parts\\MK29\\mk29.cfg"
+  },
+  {
+    "name": "MK41VLSQUAD",
+    "filePath": "MalFunc Industries\\Parts\\MK41Quad\\MK41 Quad.cfg"
+  },
+  {
+    "name": "MK41VLSINGLE",
+    "filePath": "MalFunc Industries\\Parts\\MK41Single\\MK41 Single.cfg"
+  },
+  {
+    "name": "theotomelara76compact",
+    "filePath": "MalFunc Industries\\Parts\\OTO Melara 76mm Compact\\otomelara76compact.cfg"
+  },
+  {
+    "name": "thephalanx",
+    "filePath": "MalFunc Industries\\Parts\\Phalanx CIWS\\part.cfg"
+  },
+  {
+    "name": "THERIM-116",
+    "filePath": "MalFunc Industries\\Parts\\RIM-116\\part.cfg"
+  },
+  {
+    "name": "THERIM-162",
+    "filePath": "MalFunc Industries\\Parts\\RIM-162\\part.cfg"
+  },
+  {
+    "name": "THERIM-162cap",
+    "filePath": "MalFunc Industries\\Parts\\RIM-162 for MK29\\part.cfg"
+  },
+  {
+    "name": "THERIM-67B",
+    "filePath": "MalFunc Industries\\Parts\\RIM-67B\\part.cfg"
+  },
+  {
+    "name": "SEARAMLauncherTurret",
+    "filePath": "MalFunc Industries\\Parts\\SeaRAM\\part.cfg"
+  },
+  {
+    "name": "smartsradar",
+    "filePath": "MalFunc Industries\\Parts\\SMART-S\\part.cfg"
+  },
+  {
+    "name": "STIRradar",
+    "filePath": "MalFunc Industries\\Parts\\STIR\\part.cfg"
+  }
+]

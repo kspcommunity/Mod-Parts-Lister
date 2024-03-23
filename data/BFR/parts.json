@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BFR_cargo_variant",
+    "filePath": "BFR\\GameData\\BFR\\BFR_CARGO_VARIANT\\BFR_cargo_variant.cfg"
+  },
+  {
+    "name": "BFR_RAPTOR",
+    "filePath": "BFR\\GameData\\BFR\\ENGINES\\Raptor.cfg"
+  },
+  {
+    "name": "BFR_RAPTOR_VACUUM",
+    "filePath": "BFR\\GameData\\BFR\\ENGINES\\Raptor_Vacuum.cfg"
+  },
+  {
+    "name": "BFR_LANDING_PLATFORM",
+    "filePath": "BFR\\GameData\\BFR\\PAYLOAD\\BFR_LANDING_PLATFORM.cfg"
+  },
+  {
+    "name": "BigFalconDecoupler",
+    "filePath": "BFR\\GameData\\BFR\\ROCKET\\BFR_DECOUPLER.cfg"
+  },
+  {
+    "name": "BigFalconFins",
+    "filePath": "BFR\\GameData\\BFR\\ROCKET\\BFR_FINS.cfg"
+  },
+  {
+    "name": "BigFalconRCS",
+    "filePath": "BFR\\GameData\\BFR\\ROCKET\\BFR_RCS.cfg"
+  },
+  {
+    "name": "BigFalconRocket",
+    "filePath": "BFR\\GameData\\BFR\\ROCKET\\BFR_ROCKET.cfg"
+  },
+  {
+    "name": "BigFalconSpacecraft",
+    "filePath": "BFR\\GameData\\BFR\\SPACECRAFT\\BFR.cfg"
+  },
+  {
+    "name": "BFR_DOCKING_PORT",
+    "filePath": "BFR\\GameData\\BFR\\SPACECRAFT\\BFR_docking_port.cfg"
+  },
+  {
+    "name": "BFR_SOLAR_PANEL",
+    "filePath": "BFR\\GameData\\BFR\\SPACECRAFT\\BFR_SOLAR_PANEL.cfg"
+  },
+  {
+    "name": "BFR_EVELON_L",
+    "filePath": "BFR\\GameData\\BFR\\SPACECRAFT\\EVELON_L.cfg"
+  },
+  {
+    "name": "BFR_EVELON_R",
+    "filePath": "BFR\\GameData\\BFR\\SPACECRAFT\\EVELON_R.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "BFR\\GameData\\RealismOverhaul\\GameData\\RealismOverhaul\\RO_SuggestedMods\\BFR\\BFR.cfg"
+  },
+  {
+    "name": "LqdMethane",
+    "filePath": "BFR\\GameData\\RealismOverhaul\\GameData\\RealismOverhaul\\RO_SuggestedMods\\BFR\\RAPTOR V.cfg"
+  },
+  {
+    "name": "LqdMethane",
+    "filePath": "BFR\\GameData\\RealismOverhaul\\GameData\\RealismOverhaul\\RO_SuggestedMods\\BFR\\RAPTOR.cfg"
+  }
+]

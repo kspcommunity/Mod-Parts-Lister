@@ -2430,5 +2430,3185 @@
   {
     "name": "Transtage-1",
     "filePath": "Stock\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAMiscSatellites\\Transtage-1.cfg"
+  },
+  {
+    "name": "HistoryofSpaceflight",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\HistoryofSpaceflight.cfg"
+  },
+  {
+    "name": "Aeolus",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\AustraliaMissions\\Sounding Rockets\\Aeolus.cfg"
+  },
+  {
+    "name": "HAD",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\AustraliaMissions\\Sounding Rockets\\HAD.cfg"
+  },
+  {
+    "name": "HAT",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\AustraliaMissions\\Sounding Rockets\\HAT.cfg"
+  },
+  {
+    "name": "Long-Tom",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\AustraliaMissions\\Sounding Rockets\\Long-Tom.cfg"
+  },
+  {
+    "name": "Dongfeng-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-1\\Dongfeng-1.cfg"
+  },
+  {
+    "name": "Dongfeng-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-1\\Dongfeng-1A.cfg"
+  },
+  {
+    "name": "Dongfeng-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-2\\Dongfeng-2.cfg"
+  },
+  {
+    "name": "Dongfeng-2A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-2\\Dongfeng-2A.cfg"
+  },
+  {
+    "name": "Dongfeng-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-3\\Dongfeng-3.cfg"
+  },
+  {
+    "name": "Dongfeng-3A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-3\\Dongfeng-3A.cfg"
+  },
+  {
+    "name": "Dongfeng-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-4\\Dongfeng-4.cfg"
+  },
+  {
+    "name": "Dongfeng-4A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\Dongfeng-4\\Dongfeng-4A.cfg"
+  },
+  {
+    "name": "T-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\T-7.cfg"
+  },
+  {
+    "name": "T-7M",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ChinaMissions\\T-7M.cfg"
+  },
+  {
+    "name": "EA-1941",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\EarlyMissions\\EA-1941.cfg"
+  },
+  {
+    "name": "Eole",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\EarlyMissions\\Eole.cfg"
+  },
+  {
+    "name": "Veronique",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\EarlyMissions\\Veronique.cfg"
+  },
+  {
+    "name": "Asterix",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\Asterix.cfg"
+  },
+  {
+    "name": "Diademe-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\Diademe-1.cfg"
+  },
+  {
+    "name": "Diademe-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\Diademe-2.cfg"
+  },
+  {
+    "name": "DIAL-MIKA",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\DIAL-MIKA.cfg"
+  },
+  {
+    "name": "Diapason",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\Diapason.cfg"
+  },
+  {
+    "name": "France-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\France-1.cfg"
+  },
+  {
+    "name": "Peole",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\Satellites\\Peole.cfg"
+  },
+  {
+    "name": "Belier-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\SoundingRockets\\Belier-1.cfg"
+  },
+  {
+    "name": "Berenice-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\FranceMissions\\SoundingRockets\\Berenice-1.cfg"
+  },
+  {
+    "name": "A-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\GermanyMissions\\A-2.cfg"
+  },
+  {
+    "name": "A-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\GermanyMissions\\A-3.cfg"
+  },
+  {
+    "name": "A-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\GermanyMissions\\A-4.cfg"
+  },
+  {
+    "name": "A-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\GermanyMissions\\A-5.cfg"
+  },
+  {
+    "name": "Wasserfall",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\GermanyMissions\\Wasserfall.cfg"
+  },
+  {
+    "name": "San-Marco-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\ItalyMissions\\Satellites\\San-Marco-1.cfg"
+  },
+  {
+    "name": "K-150",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\EarlyMissions\\K-150.cfg"
+  },
+  {
+    "name": "Kappa-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-1.cfg"
+  },
+  {
+    "name": "Kappa-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-10.cfg"
+  },
+  {
+    "name": "Kappa-10S",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-10S.cfg"
+  },
+  {
+    "name": "Kappa-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-2.cfg"
+  },
+  {
+    "name": "Kappa-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-3.cfg"
+  },
+  {
+    "name": "Kappa-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-4.cfg"
+  },
+  {
+    "name": "Kappa-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-5.cfg"
+  },
+  {
+    "name": "Kappa-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-6.cfg"
+  },
+  {
+    "name": "Kappa-6H",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-6H.cfg"
+  },
+  {
+    "name": "Kappa-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-7.cfg"
+  },
+  {
+    "name": "Kappa-8-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-8-2.cfg"
+  },
+  {
+    "name": "Kappa-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-8.cfg"
+  },
+  {
+    "name": "Kappa-8L",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-8L.cfg"
+  },
+  {
+    "name": "Kappa-9L",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-9L.cfg"
+  },
+  {
+    "name": "Kappa-9M",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Kappa\\Kappa-9M.cfg"
+  },
+  {
+    "name": "Lambda-4S-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Lambda\\Lambda-4S-1.cfg"
+  },
+  {
+    "name": "Lambda-4S-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Lambda\\Lambda-4S-2.cfg"
+  },
+  {
+    "name": "Lambda-4S-3         ",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\JapanMissions\\Lambda\\Lambda-4S-3.cfg"
+  },
+  {
+    "name": "Black-Knight",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\UnitedKingdomMissions\\BallisticMissiles\\Black-Knight.cfg"
+  },
+  {
+    "name": "Blue-Water",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\UnitedKingdomMissions\\BallisticMissiles\\Blue-Water.cfg"
+  },
+  {
+    "name": "Skylark-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\UnitedKingdomMissions\\EarlyMissions\\Skylark-1.cfg"
+  },
+  {
+    "name": "Ariel-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\UnitedKingdomMissions\\Satellites\\Ariel-1.cfg"
+  },
+  {
+    "name": "Ariel-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\International\\UnitedKingdomMissions\\Satellites\\Ariel-2.cfg"
+  },
+  {
+    "name": "R-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\R-14.cfg"
+  },
+  {
+    "name": "R-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\R-16.cfg"
+  },
+  {
+    "name": "R-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\R-17.cfg"
+  },
+  {
+    "name": "R-36",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\R-36.cfg"
+  },
+  {
+    "name": "R-7A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\R-7A.cfg"
+  },
+  {
+    "name": "R-9A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\R-9A.cfg"
+  },
+  {
+    "name": "UR-100",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\BallisticMissileTests\\UR-100.cfg"
+  },
+  {
+    "name": "GIRD-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\GIRD-5.cfg"
+  },
+  {
+    "name": "GIRD-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\GIRD-9.cfg"
+  },
+  {
+    "name": "GIRD-X",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\GIRD-X.cfg"
+  },
+  {
+    "name": "Ivanov",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\Ivanov.cfg"
+  },
+  {
+    "name": "M-100",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\M-100.cfg"
+  },
+  {
+    "name": "R-101",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-101.cfg"
+  },
+  {
+    "name": "R-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-11.cfg"
+  },
+  {
+    "name": "R-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-12.cfg"
+  },
+  {
+    "name": "R-1B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-1B.cfg"
+  },
+  {
+    "name": "R-2E",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-2E.cfg"
+  },
+  {
+    "name": "R-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-5.cfg"
+  },
+  {
+    "name": "R-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\EarlyMissions\\R-7.cfg"
+  },
+  {
+    "name": "Elektron-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Elektron\\Elektron-1.cfg"
+  },
+  {
+    "name": "Elektron-3         ",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Elektron\\Elektron-3.cfg"
+  },
+  {
+    "name": "Kosmos-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-1.cfg"
+  },
+  {
+    "name": "Kosmos-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-10.cfg"
+  },
+  {
+    "name": "Kosmos-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-11.cfg"
+  },
+  {
+    "name": "Kosmos-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-12.cfg"
+  },
+  {
+    "name": "Kosmos-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-13.cfg"
+  },
+  {
+    "name": "Kosmos-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-14.cfg"
+  },
+  {
+    "name": "Kosmos-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-15.cfg"
+  },
+  {
+    "name": "Kosmos-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-16.cfg"
+  },
+  {
+    "name": "Kosmos-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-17.cfg"
+  },
+  {
+    "name": "Kosmos-18",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-18.cfg"
+  },
+  {
+    "name": "Kosmos-19",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-19.cfg"
+  },
+  {
+    "name": "Kosmos-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-2.cfg"
+  },
+  {
+    "name": "Kosmos-20",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-20.cfg"
+  },
+  {
+    "name": "Kosmos-21",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-21.cfg"
+  },
+  {
+    "name": "Kosmos-22",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-22.cfg"
+  },
+  {
+    "name": "Kosmos-23",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-23.cfg"
+  },
+  {
+    "name": "Kosmos-24",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-24.cfg"
+  },
+  {
+    "name": "Kosmos-25",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-25.cfg"
+  },
+  {
+    "name": "Kosmos-26",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-26.cfg"
+  },
+  {
+    "name": "Kosmos-27",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-27.cfg"
+  },
+  {
+    "name": "Kosmos-28",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-28.cfg"
+  },
+  {
+    "name": "Kosmos-29",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-29.cfg"
+  },
+  {
+    "name": "Kosmos-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-3.cfg"
+  },
+  {
+    "name": "Kosmos-30",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-30.cfg"
+  },
+  {
+    "name": "Kosmos-31",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-31.cfg"
+  },
+  {
+    "name": "Kosmos-32",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-32.cfg"
+  },
+  {
+    "name": "Kosmos-33",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-33.cfg"
+  },
+  {
+    "name": "Kosmos-34",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-34.cfg"
+  },
+  {
+    "name": "Kosmos-35",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-35.cfg"
+  },
+  {
+    "name": "Kosmos-36",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-36.cfg"
+  },
+  {
+    "name": "Kosmos-37",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-37.cfg"
+  },
+  {
+    "name": "Kosmos-38-40",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-38-40.cfg"
+  },
+  {
+    "name": "Kosmos-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-4.cfg"
+  },
+  {
+    "name": "Kosmos-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-5.cfg"
+  },
+  {
+    "name": "Kosmos-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-6.cfg"
+  },
+  {
+    "name": "Kosmos-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-7.cfg"
+  },
+  {
+    "name": "Kosmos-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-8.cfg"
+  },
+  {
+    "name": "Kosmos-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Kosmos-9.cfg"
+  },
+  {
+    "name": "Kosmos-DS-1-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-DS-1-1.cfg"
+  },
+  {
+    "name": "Kosmos-DS-1-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-DS-1-2.cfg"
+  },
+  {
+    "name": "Kosmos-DS-A1-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-DS-A1-3.cfg"
+  },
+  {
+    "name": "Kosmos-DS-A1-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-DS-A1-4.cfg"
+  },
+  {
+    "name": "Kosmos-DS-MT-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-DS-MT-1.cfg"
+  },
+  {
+    "name": "Kosmos-DS-P1-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-DS-P1-2.cfg"
+  },
+  {
+    "name": "Kosmos-Zenit-2-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-Zenit-2-1.cfg"
+  },
+  {
+    "name": "Kosmos-Zenit-2-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-Zenit-2-12.cfg"
+  },
+  {
+    "name": "Kosmos-Zenit-2-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-Zenit-2-14.cfg"
+  },
+  {
+    "name": "Kosmos-Zenit-2-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 1-40\\Launch Failures\\Kosmos-Zenit-2-3.cfg"
+  },
+  {
+    "name": "Kosmos-121",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-121.cfg"
+  },
+  {
+    "name": "Kosmos-122",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-122.cfg"
+  },
+  {
+    "name": "Kosmos-123",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-123.cfg"
+  },
+  {
+    "name": "Kosmos-124",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-124.cfg"
+  },
+  {
+    "name": "Kosmos-125",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-125.cfg"
+  },
+  {
+    "name": "Kosmos-126",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-126.cfg"
+  },
+  {
+    "name": "Kosmos-127",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-127.cfg"
+  },
+  {
+    "name": "Kosmos-128",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-128.cfg"
+  },
+  {
+    "name": "Kosmos-129",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-129.cfg"
+  },
+  {
+    "name": "Kosmos-130",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-130.cfg"
+  },
+  {
+    "name": "Kosmos-131",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-131.cfg"
+  },
+  {
+    "name": "Kosmos-132",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-132.cfg"
+  },
+  {
+    "name": "Kosmos-134",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-134.cfg"
+  },
+  {
+    "name": "Kosmos-135",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-135.cfg"
+  },
+  {
+    "name": "Kosmos-136",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-136.cfg"
+  },
+  {
+    "name": "Kosmos-137",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 121-140\\Kosmos-137.cfg"
+  },
+  {
+    "name": "Kosmos-41",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-41.cfg"
+  },
+  {
+    "name": "Kosmos-42-43",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-42-43.cfg"
+  },
+  {
+    "name": "Kosmos-44",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-44.cfg"
+  },
+  {
+    "name": "Kosmos-45",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-45.cfg"
+  },
+  {
+    "name": "Kosmos-46",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-46.cfg"
+  },
+  {
+    "name": "Kosmos-48",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-48.cfg"
+  },
+  {
+    "name": "Kosmos-49",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-49.cfg"
+  },
+  {
+    "name": "Kosmos-50",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-50.cfg"
+  },
+  {
+    "name": "Kosmos-51",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-51.cfg"
+  },
+  {
+    "name": "Kosmos-52",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-52.cfg"
+  },
+  {
+    "name": "Kosmos-53",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-53.cfg"
+  },
+  {
+    "name": "Kosmos-54-56",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-54-56.cfg"
+  },
+  {
+    "name": "Kosmos-58",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-58.cfg"
+  },
+  {
+    "name": "Kosmos-59",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-59.cfg"
+  },
+  {
+    "name": "Kosmos-61-63",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-61-63.cfg"
+  },
+  {
+    "name": "Kosmos-64",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-64.cfg"
+  },
+  {
+    "name": "Kosmos-65",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-65.cfg"
+  },
+  {
+    "name": "Kosmos-66",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-66.cfg"
+  },
+  {
+    "name": "Kosmos-67",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-67.cfg"
+  },
+  {
+    "name": "Kosmos-68",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-68.cfg"
+  },
+  {
+    "name": "Kosmos-69",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-69.cfg"
+  },
+  {
+    "name": "Kosmos-70",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-70.cfg"
+  },
+  {
+    "name": "Kosmos-71-75",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-71-75.cfg"
+  },
+  {
+    "name": "Kosmos-76",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-76.cfg"
+  },
+  {
+    "name": "Kosmos-77",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-77.cfg"
+  },
+  {
+    "name": "Kosmos-78",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-78.cfg"
+  },
+  {
+    "name": "Kosmos-79",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-79.cfg"
+  },
+  {
+    "name": "Kosmos-80-84",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 41-84\\Kosmos-80-84.cfg"
+  },
+  {
+    "name": "Kosmos-100",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-100.cfg"
+  },
+  {
+    "name": "Kosmos-101",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-101.cfg"
+  },
+  {
+    "name": "Kosmos-102",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-102.cfg"
+  },
+  {
+    "name": "Kosmos-103",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-103.cfg"
+  },
+  {
+    "name": "Kosmos-104",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-104.cfg"
+  },
+  {
+    "name": "Kosmos-105",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-105.cfg"
+  },
+  {
+    "name": "Kosmos-106",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-106.cfg"
+  },
+  {
+    "name": "Kosmos-107",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-107.cfg"
+  },
+  {
+    "name": "Kosmos-108",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-108.cfg"
+  },
+  {
+    "name": "Kosmos-109",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-109.cfg"
+  },
+  {
+    "name": "Kosmos-110",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-110.cfg"
+  },
+  {
+    "name": "Kosmos-112",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-112.cfg"
+  },
+  {
+    "name": "Kosmos-113",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-113.cfg"
+  },
+  {
+    "name": "Kosmos-114",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-114.cfg"
+  },
+  {
+    "name": "Kosmos-115",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-115.cfg"
+  },
+  {
+    "name": "Kosmos-116",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-116.cfg"
+  },
+  {
+    "name": "Kosmos-117",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-117.cfg"
+  },
+  {
+    "name": "Kosmos-118",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-118.cfg"
+  },
+  {
+    "name": "Kosmos-119",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-119.cfg"
+  },
+  {
+    "name": "Kosmos-120",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-120.cfg"
+  },
+  {
+    "name": "Kosmos-85",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-85.cfg"
+  },
+  {
+    "name": "Kosmos-86-90",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-86.cfg"
+  },
+  {
+    "name": "Kosmos-91",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-91.cfg"
+  },
+  {
+    "name": "Kosmos-92",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-92.cfg"
+  },
+  {
+    "name": "Kosmos-93",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-93.cfg"
+  },
+  {
+    "name": "Kosmos-94",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-94.cfg"
+  },
+  {
+    "name": "Kosmos-95",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-95.cfg"
+  },
+  {
+    "name": "Kosmos-97",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-97.cfg"
+  },
+  {
+    "name": "Kosmos-98",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-98.cfg"
+  },
+  {
+    "name": "Kosmos-99",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Kosmos\\Kosmos 85-120\\Kosmos-99.cfg"
+  },
+  {
+    "name": "Luna-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-1.cfg"
+  },
+  {
+    "name": "Luna-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-10.cfg"
+  },
+  {
+    "name": "Luna-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-11.cfg"
+  },
+  {
+    "name": "Luna-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-12.cfg"
+  },
+  {
+    "name": "Luna-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-13.cfg"
+  },
+  {
+    "name": "Luna-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-2.cfg"
+  },
+  {
+    "name": "Luna-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-3.cfg"
+  },
+  {
+    "name": "Luna-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-4.cfg"
+  },
+  {
+    "name": "Luna-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-5.cfg"
+  },
+  {
+    "name": "Luna-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-6.cfg"
+  },
+  {
+    "name": "Luna-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-7.cfg"
+  },
+  {
+    "name": "Luna-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-8.cfg"
+  },
+  {
+    "name": "Luna-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-9.cfg"
+  },
+  {
+    "name": "Luna-E1-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E1-1.cfg"
+  },
+  {
+    "name": "Luna-E1-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E1-2.cfg"
+  },
+  {
+    "name": "Luna-E1-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E1-3.cfg"
+  },
+  {
+    "name": "Luna-E3-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E3-1.cfg"
+  },
+  {
+    "name": "Luna-E3-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E3-2.cfg"
+  },
+  {
+    "name": "Luna-E6-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E6-2.cfg"
+  },
+  {
+    "name": "Luna-E6-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Luna\\Luna-E6-3.cfg"
+  },
+  {
+    "name": "Mars-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-1.cfg"
+  },
+  {
+    "name": "Mars-1M-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-1M-1.cfg"
+  },
+  {
+    "name": "Mars-1M-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-1M-2.cfg"
+  },
+  {
+    "name": "Mars-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-2.cfg"
+  },
+  {
+    "name": "Mars-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-3.cfg"
+  },
+  {
+    "name": "Mars-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-4.cfg"
+  },
+  {
+    "name": "Mars-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-5.cfg"
+  },
+  {
+    "name": "Mars-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-6.cfg"
+  },
+  {
+    "name": "Mars-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Mars\\Mars-7.cfg"
+  },
+  {
+    "name": "Molniya-1-01",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Molniya\\Molniya-1-01.cfg"
+  },
+  {
+    "name": "Molniya-1-02",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Molniya\\Molniya-1-02.cfg"
+  },
+  {
+    "name": "Molniya-1-03",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Molniya\\Molniya-1-03.cfg"
+  },
+  {
+    "name": "Molniya-1-04",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Molniya\\Molniya-1-04.cfg"
+  },
+  {
+    "name": "Polyot-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Polyot\\Polyot-1.cfg"
+  },
+  {
+    "name": "Polyot-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Polyot\\Polyot-2.cfg"
+  },
+  {
+    "name": "Proton-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Proton\\Proton-1.cfg"
+  },
+  {
+    "name": "Proton-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Proton\\Proton-2.cfg"
+  },
+  {
+    "name": "Proton-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Proton\\Proton-3.cfg"
+  },
+  {
+    "name": "DOS-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\DOS-1.cfg"
+  },
+  {
+    "name": "DOS-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\DOS-4.cfg"
+  },
+  {
+    "name": "DOS-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\DOS-5.cfg"
+  },
+  {
+    "name": "DOS-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\DOS-6.cfg"
+  },
+  {
+    "name": "OPS-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\OPS-1.cfg"
+  },
+  {
+    "name": "OPS-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\OPS-2.cfg"
+  },
+  {
+    "name": "OPS-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Salyut\\OPS-3.cfg"
+  },
+  {
+    "name": "Soyuz-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-1.cfg"
+  },
+  {
+    "name": "Soyuz-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-2.cfg"
+  },
+  {
+    "name": "Soyuz-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-3.cfg"
+  },
+  {
+    "name": "Soyuz-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-4.cfg"
+  },
+  {
+    "name": "Soyuz-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-5.cfg"
+  },
+  {
+    "name": "Soyuz-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-6.cfg"
+  },
+  {
+    "name": "Soyuz-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-7.cfg"
+  },
+  {
+    "name": "Soyuz-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-8.cfg"
+  },
+  {
+    "name": "Soyuz-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OK\\Soyuz-9.cfg"
+  },
+  {
+    "name": "Soyuz-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OKS\\Soyuz-10.cfg"
+  },
+  {
+    "name": "Soyuz-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-OKS\\Soyuz-11.cfg"
+  },
+  {
+    "name": "Soyuz-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-12.cfg"
+  },
+  {
+    "name": "Soyuz-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-13.cfg"
+  },
+  {
+    "name": "Soyuz-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-14.cfg"
+  },
+  {
+    "name": "Soyuz-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-15.cfg"
+  },
+  {
+    "name": "Soyuz-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-17.cfg"
+  },
+  {
+    "name": "Soyuz-18",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-18.cfg"
+  },
+  {
+    "name": "Soyuz-20",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-20.cfg"
+  },
+  {
+    "name": "Soyuz-21",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-21.cfg"
+  },
+  {
+    "name": "Soyuz-23",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-23.cfg"
+  },
+  {
+    "name": "Soyuz-24",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-24.cfg"
+  },
+  {
+    "name": "Soyuz-25",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-25.cfg"
+  },
+  {
+    "name": "Soyuz-26",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-26.cfg"
+  },
+  {
+    "name": "Soyuz-27",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-27.cfg"
+  },
+  {
+    "name": "Soyuz-28",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-28.cfg"
+  },
+  {
+    "name": "Soyuz-29",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-29.cfg"
+  },
+  {
+    "name": "Soyuz-30",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-30.cfg"
+  },
+  {
+    "name": "Soyuz-31",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-31.cfg"
+  },
+  {
+    "name": "Soyuz-32",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-32.cfg"
+  },
+  {
+    "name": "Soyuz-33",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-33.cfg"
+  },
+  {
+    "name": "Soyuz-34",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-34.cfg"
+  },
+  {
+    "name": "Soyuz-35",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-35.cfg"
+  },
+  {
+    "name": "Soyuz-36",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-36.cfg"
+  },
+  {
+    "name": "Soyuz-37",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-37.cfg"
+  },
+  {
+    "name": "Soyuz-38",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-38.cfg"
+  },
+  {
+    "name": "Soyuz-39",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-39.cfg"
+  },
+  {
+    "name": "Soyuz-40",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-T\\Soyuz-40.cfg"
+  },
+  {
+    "name": "Soyuz-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-TM\\Soyuz-16.cfg"
+  },
+  {
+    "name": "Soyuz-19",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-TM\\Soyuz-19.cfg"
+  },
+  {
+    "name": "Soyuz-22",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\7K-TM\\Soyuz-22.cfg"
+  },
+  {
+    "name": "Soyuz-T1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T1.cfg"
+  },
+  {
+    "name": "Soyuz-T10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T10.cfg"
+  },
+  {
+    "name": "Soyuz-T11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T11.cfg"
+  },
+  {
+    "name": "Soyuz-T12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T12.cfg"
+  },
+  {
+    "name": "Soyuz-T13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T13.cfg"
+  },
+  {
+    "name": "Soyuz-T14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T14.cfg"
+  },
+  {
+    "name": "Soyuz-T2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T2.cfg"
+  },
+  {
+    "name": "Soyuz-T3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T3.cfg"
+  },
+  {
+    "name": "Soyuz-T4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T4.cfg"
+  },
+  {
+    "name": "Soyuz-T5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T5.cfg"
+  },
+  {
+    "name": "Soyuz-T6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T6.cfg"
+  },
+  {
+    "name": "Soyuz-T7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T7.cfg"
+  },
+  {
+    "name": "Soyuz-T8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T8.cfg"
+  },
+  {
+    "name": "Soyuz-T9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Soyuz\\T\\Soyuz-T9.cfg"
+  },
+  {
+    "name": "Sputnik-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Sputnik\\Sputnik-1.cfg"
+  },
+  {
+    "name": "Sputnik-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Sputnik\\Sputnik-2.cfg"
+  },
+  {
+    "name": "Sputnik-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Sputnik\\Sputnik-3.cfg"
+  },
+  {
+    "name": "Venera-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-1.cfg"
+  },
+  {
+    "name": "Venera-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-10.cfg"
+  },
+  {
+    "name": "Venera-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-11.cfg"
+  },
+  {
+    "name": "Venera-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-12.cfg"
+  },
+  {
+    "name": "Venera-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-13.cfg"
+  },
+  {
+    "name": "Venera-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-14.cfg"
+  },
+  {
+    "name": "Venera-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-15.cfg"
+  },
+  {
+    "name": "Venera-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-16.cfg"
+  },
+  {
+    "name": "Venera-1VA-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-1VA-1.cfg"
+  },
+  {
+    "name": "Venera-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-2.cfg"
+  },
+  {
+    "name": "Venera-2MV-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-2MV-1.cfg"
+  },
+  {
+    "name": "Venera-2MV-2SA",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-2MV-2SA.cfg"
+  },
+  {
+    "name": "Venera-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-3.cfg"
+  },
+  {
+    "name": "Venera-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-4.cfg"
+  },
+  {
+    "name": "Venera-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-5.cfg"
+  },
+  {
+    "name": "Venera-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-6.cfg"
+  },
+  {
+    "name": "Venera-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-7.cfg"
+  },
+  {
+    "name": "Venera-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-8.cfg"
+  },
+  {
+    "name": "Venera-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Venera\\Venera-9.cfg"
+  },
+  {
+    "name": "Voskhod-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Voskhod\\Voskhod-1.cfg"
+  },
+  {
+    "name": "Voskhod-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Voskhod\\Voskhod-2.cfg"
+  },
+  {
+    "name": "Voskhod-3KV-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Voskhod\\Voskhod-3KV-1.cfg"
+  },
+  {
+    "name": "Korabl-Sputnik-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Korabl-Sputnik-1.cfg"
+  },
+  {
+    "name": "Korabl-Sputnik-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Korabl-Sputnik-2.cfg"
+  },
+  {
+    "name": "Korabl-Sputnik-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Korabl-Sputnik-3.cfg"
+  },
+  {
+    "name": "Korabl-Sputnik-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Korabl-Sputnik-4.cfg"
+  },
+  {
+    "name": "Korabl-Sputnik-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Korabl-Sputnik-5.cfg"
+  },
+  {
+    "name": "Korabl-Sputnik-A1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Korabl-Sputnik-A1.cfg"
+  },
+  {
+    "name": "Vostok-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Vostok-1.cfg"
+  },
+  {
+    "name": "Vostok-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Vostok-2.cfg"
+  },
+  {
+    "name": "Vostok-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Vostok-3.cfg"
+  },
+  {
+    "name": "Vostok-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Vostok-4.cfg"
+  },
+  {
+    "name": "Vostok-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Vostok-5.cfg"
+  },
+  {
+    "name": "Vostok-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Vostok\\Vostok-6.cfg"
+  },
+  {
+    "name": "Zond-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Zond\\Zond-2.cfg"
+  },
+  {
+    "name": "Zond-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\SovietMissions\\Zond\\Zond-3.cfg"
+  },
+  {
+    "name": "Alouette-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\CanadaMissions\\Satellites\\Alouette-1.cfg"
+  },
+  {
+    "name": "Alouette-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\CanadaMissions\\Satellites\\Alouette-2.cfg"
+  },
+  {
+    "name": "Black-Brant-I",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\CanadaMissions\\Sounding Rockets\\Black-Brant-I.cfg"
+  },
+  {
+    "name": "Black-Brant-II",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\CanadaMissions\\Sounding Rockets\\Black-Brant-II.cfg"
+  },
+  {
+    "name": "Black-Brant-III",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\CanadaMissions\\Sounding Rockets\\Black-Brant-III.cfg"
+  },
+  {
+    "name": "Courier-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Courier\\Courier-1A.cfg"
+  },
+  {
+    "name": "Courier-1B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Courier\\Courier-1B.cfg"
+  },
+  {
+    "name": "Echo-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Echo\\Echo-1.cfg"
+  },
+  {
+    "name": "Echo-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Echo\\Echo-2.cfg"
+  },
+  {
+    "name": "Echo-X",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Echo\\Echo-X.cfg"
+  },
+  {
+    "name": "IDCSP-2.1-2.8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\IDSCP\\IDCSP-2.1-2.8.cfg"
+  },
+  {
+    "name": "IDCSP-1-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\IDSCP\\IDSCP-1-7.cfg"
+  },
+  {
+    "name": "IDCSP-8-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\IDSCP\\IDSCP-8-15.cfg"
+  },
+  {
+    "name": "Intelsat-1 F-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Intelsat\\Intelsat-1 F-1.cfg"
+  },
+  {
+    "name": "Intelsat-2 F-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Intelsat\\Intelsat-2 F-1.cfg"
+  },
+  {
+    "name": "Intelsat-2 F-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Intelsat\\Intelsat-2 F-2.cfg"
+  },
+  {
+    "name": "LES-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\LES\\LES-1.cfg"
+  },
+  {
+    "name": "LES-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\LES\\LES-2.cfg"
+  },
+  {
+    "name": "LES-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\LES\\LES-3-4.cfg"
+  },
+  {
+    "name": "LES-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\LES\\LES-5.cfg"
+  },
+  {
+    "name": "Relay-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Relay\\Relay-1.cfg"
+  },
+  {
+    "name": "Relay-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Relay\\Relay-2.cfg"
+  },
+  {
+    "name": "SCORE",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\SCORE.cfg"
+  },
+  {
+    "name": "Aurora-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\SECOR\\Aurora-1 SECOR-9.cfg"
+  },
+  {
+    "name": "SECOR-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\SECOR\\SECOR-4.cfg"
+  },
+  {
+    "name": "SECOR-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\SECOR\\SECOR-5.cfg"
+  },
+  {
+    "name": "Syncom-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Syncom\\Syncom-1.cfg"
+  },
+  {
+    "name": "Syncom-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Syncom\\Syncom-2.cfg"
+  },
+  {
+    "name": "Syncom-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Syncom\\Syncom-3.cfg"
+  },
+  {
+    "name": "Telstar-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Telstar\\Telstar-1.cfg"
+  },
+  {
+    "name": "Telstar-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Telstar\\Telstar-2.cfg"
+  },
+  {
+    "name": "Transit-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-1A.cfg"
+  },
+  {
+    "name": "Transit-1B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-1B.cfg"
+  },
+  {
+    "name": "Transit-2A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-2A.cfg"
+  },
+  {
+    "name": "Transit-3A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-3A.cfg"
+  },
+  {
+    "name": "Transit-3B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-3B.cfg"
+  },
+  {
+    "name": "Transit-4A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-4A.cfg"
+  },
+  {
+    "name": "Transit-4B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-4B.cfg"
+  },
+  {
+    "name": "Transit-5A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5A.cfg"
+  },
+  {
+    "name": "Transit-5A2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5A2.cfg"
+  },
+  {
+    "name": "Transit-5A3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5A3.cfg"
+  },
+  {
+    "name": "Transit-5BN-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5BN1.cfg"
+  },
+  {
+    "name": "Transit-5BN-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5BN2.cfg"
+  },
+  {
+    "name": "Transit-5BN-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5BN3.cfg"
+  },
+  {
+    "name": "Transit-5C1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-5C1.cfg"
+  },
+  {
+    "name": "Transit-O-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O1.cfg"
+  },
+  {
+    "name": "Transit-O-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O10.cfg"
+  },
+  {
+    "name": "Transit-O-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O2.cfg"
+  },
+  {
+    "name": "Transit-O-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O3.cfg"
+  },
+  {
+    "name": "Transit-O-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O4.cfg"
+  },
+  {
+    "name": "Transit-O-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O5.cfg"
+  },
+  {
+    "name": "Transit-O-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O6.cfg"
+  },
+  {
+    "name": "Transit-O-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O7.cfg"
+  },
+  {
+    "name": "Transit-O-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O8.cfg"
+  },
+  {
+    "name": "Transit-O-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Communications\\Transit\\Transit-O9.cfg"
+  },
+  {
+    "name": "Helios-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Helios\\Helios-1.cfg"
+  },
+  {
+    "name": "Helios-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Helios\\Helios-2.cfg"
+  },
+  {
+    "name": "Lunar-Orbiter-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Lunar Orbiter\\Lunar-Orbiter-1.cfg"
+  },
+  {
+    "name": "Lunar-Orbiter-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Lunar Orbiter\\Lunar-Orbiter-2.cfg"
+  },
+  {
+    "name": "Lunar-Orbiter-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Lunar Orbiter\\Lunar-Orbiter-3.cfg"
+  },
+  {
+    "name": "Lunar-Orbiter-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Lunar Orbiter\\Lunar-Orbiter-4.cfg"
+  },
+  {
+    "name": "Lunar-Orbiter-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Lunar Orbiter\\Lunar-Orbiter-5.cfg"
+  },
+  {
+    "name": "Mariner-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-1.cfg"
+  },
+  {
+    "name": "Mariner-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-10.cfg"
+  },
+  {
+    "name": "Mariner-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-2.cfg"
+  },
+  {
+    "name": "Mariner-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-3.cfg"
+  },
+  {
+    "name": "Mariner-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-4.cfg"
+  },
+  {
+    "name": "Mariner-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-5.cfg"
+  },
+  {
+    "name": "Mariner-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-6.cfg"
+  },
+  {
+    "name": "Mariner-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-7.cfg"
+  },
+  {
+    "name": "Mariner-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Mariner\\Mariner-9.cfg"
+  },
+  {
+    "name": "Pioneer-0",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-0.cfg"
+  },
+  {
+    "name": "Pioneer-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-1.cfg"
+  },
+  {
+    "name": "Pioneer-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-10.cfg"
+  },
+  {
+    "name": "Pioneer-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-11.cfg"
+  },
+  {
+    "name": "Pioneer-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-12.cfg"
+  },
+  {
+    "name": "Pioneer-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-13.cfg"
+  },
+  {
+    "name": "Pioneer-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-2.cfg"
+  },
+  {
+    "name": "Pioneer-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-3.cfg"
+  },
+  {
+    "name": "Pioneer-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-4.cfg"
+  },
+  {
+    "name": "Pioneer-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-5.cfg"
+  },
+  {
+    "name": "Pioneer-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-6.cfg"
+  },
+  {
+    "name": "Pioneer-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-7.cfg"
+  },
+  {
+    "name": "Pioneer-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-8.cfg"
+  },
+  {
+    "name": "Pioneer-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-9.cfg"
+  },
+  {
+    "name": "Pioneer-P-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-P-3.cfg"
+  },
+  {
+    "name": "Pioneer-P-30",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-P-30.cfg"
+  },
+  {
+    "name": "Pioneer-P-31",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Pioneer\\Pioneer-P-31.cfg"
+  },
+  {
+    "name": "Ranger-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-1.cfg"
+  },
+  {
+    "name": "Ranger-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-2.cfg"
+  },
+  {
+    "name": "Ranger-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-3.cfg"
+  },
+  {
+    "name": "Ranger-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-4.cfg"
+  },
+  {
+    "name": "Ranger-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-5.cfg"
+  },
+  {
+    "name": "Ranger-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-6.cfg"
+  },
+  {
+    "name": "Ranger-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-7.cfg"
+  },
+  {
+    "name": "Ranger-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-8.cfg"
+  },
+  {
+    "name": "Ranger-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Ranger\\Ranger-9.cfg"
+  },
+  {
+    "name": "Surveyor-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-1.cfg"
+  },
+  {
+    "name": "Surveyor-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-2.cfg"
+  },
+  {
+    "name": "Surveyor-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-3.cfg"
+  },
+  {
+    "name": "Surveyor-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-4.cfg"
+  },
+  {
+    "name": "Surveyor-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-5.cfg"
+  },
+  {
+    "name": "Surveyor-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-6.cfg"
+  },
+  {
+    "name": "Surveyor-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Surveyor\\Surveyor-7.cfg"
+  },
+  {
+    "name": "Viking-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Viking\\Viking-1.cfg"
+  },
+  {
+    "name": "Viking-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Interplanetary\\Viking\\Viking-2.cfg"
+  },
+  {
+    "name": "AS-201",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Apollo-Saturn-201.cfg"
+  },
+  {
+    "name": "AS-202",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Apollo-Saturn-202.cfg"
+  },
+  {
+    "name": "AS-203",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Apollo-Saturn-203.cfg"
+  },
+  {
+    "name": "Atlas-Centaur-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Atlas-Centaur-1.cfg"
+  },
+  {
+    "name": "Atlas-Centaur-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Atlas-Centaur-2.cfg"
+  },
+  {
+    "name": "Atlas-Centaur-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Atlas-Centaur-3.cfg"
+  },
+  {
+    "name": "Atlas-Centaur-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Atlas-Centaur-8.cfg"
+  },
+  {
+    "name": "Atlas-Centaur-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Atlas-Centaur-9.cfg"
+  },
+  {
+    "name": "LGM-25C-Titan-II",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\LGM-25C-Titan-II.cfg"
+  },
+  {
+    "name": "LGM-30A-Minuteman",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\LGM-30A-Minuteman.cfg"
+  },
+  {
+    "name": "LGM-30F-Minuteman-II",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\LGM-30F-Minuteman-II.cfg"
+  },
+  {
+    "name": "Saturn-SA-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Saturn-SA-2.cfg"
+  },
+  {
+    "name": "Saturn-SA-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Saturn-SA-3.cfg"
+  },
+  {
+    "name": "Saturn-SA-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Saturn-SA-4.cfg"
+  },
+  {
+    "name": "Saturn-SA-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Saturn-SA-5.cfg"
+  },
+  {
+    "name": "Saturn-SA-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Saturn-SA-6.cfg"
+  },
+  {
+    "name": "Saturn-SA-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Saturn-SA-7.cfg"
+  },
+  {
+    "name": "SM-65B-Atlas",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\SM-65B-Atlas.cfg"
+  },
+  {
+    "name": "SM-65D-Atlas",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\SM-65D-Atlas.cfg"
+  },
+  {
+    "name": "SM-65E-Atlas",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\SM-65E-Atlas.cfg"
+  },
+  {
+    "name": "SM-68A-Titan-I",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\SM-68A-Titan-I.cfg"
+  },
+  {
+    "name": "Transtage-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\LauncherTests\\Transtage-1.cfg"
+  },
+  {
+    "name": "Apollo-I",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-I.cfg"
+  },
+  {
+    "name": "Apollo-IX",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-IX.cfg"
+  },
+  {
+    "name": "Apollo-Soyuz",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-Soyuz.cfg"
+  },
+  {
+    "name": "Apollo-VII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-VII.cfg"
+  },
+  {
+    "name": "Apollo-VIII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-VIII.cfg"
+  },
+  {
+    "name": "Apollo-X",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-X.cfg"
+  },
+  {
+    "name": "Apollo-XI",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XI.cfg"
+  },
+  {
+    "name": "Apollo-XII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XII.cfg"
+  },
+  {
+    "name": "Apollo-XIII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XIII.cfg"
+  },
+  {
+    "name": "Apollo-XIV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XIV.cfg"
+  },
+  {
+    "name": "Apollo-XV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XV.cfg"
+  },
+  {
+    "name": "Apollo-XVI",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XVI.cfg"
+  },
+  {
+    "name": "Apollo-XVII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\ApolloMissions\\Apollo-XVII.cfg"
+  },
+  {
+    "name": "Gemini-I",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-I.cfg"
+  },
+  {
+    "name": "Gemini-II",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-II.cfg"
+  },
+  {
+    "name": "Gemini-III",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-III.cfg"
+  },
+  {
+    "name": "Gemini-IV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-IV.cfg"
+  },
+  {
+    "name": "Gemini-IX-ATDA",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-IX-ATDA.cfg"
+  },
+  {
+    "name": "Gemini-IX",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-IX.cfg"
+  },
+  {
+    "name": "Gemini-V",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-V.cfg"
+  },
+  {
+    "name": "Gemini-VI-A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-VI-A.cfg"
+  },
+  {
+    "name": "Gemini-VII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-VII.cfg"
+  },
+  {
+    "name": "Gemini-VIII-ATV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-VIII-ATV.cfg"
+  },
+  {
+    "name": "Gemini-VIII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-VIII.cfg"
+  },
+  {
+    "name": "Gemini-X-ATV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-X-ATV.cfg"
+  },
+  {
+    "name": "Gemini-X",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-X.cfg"
+  },
+  {
+    "name": "Gemini-XI-ATV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-XI-ATV.cfg"
+  },
+  {
+    "name": "Gemini-XI",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-XI.cfg"
+  },
+  {
+    "name": "Gemini-XII-ATV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-XII-ATV.cfg"
+  },
+  {
+    "name": "Gemini-XII",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\GeminiMissions\\Gemini-XII.cfg"
+  },
+  {
+    "name": "Aurora-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Aurora-7.cfg"
+  },
+  {
+    "name": "Faith-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Faith-7.cfg"
+  },
+  {
+    "name": "Freedom-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Freedom-7.cfg"
+  },
+  {
+    "name": "Friendship-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Friendship-7.cfg"
+  },
+  {
+    "name": "Liberty-Bell-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Liberty-Bell-7.cfg"
+  },
+  {
+    "name": "Mercury-Atlas-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Atlas-1 .cfg"
+  },
+  {
+    "name": "Mercury-Atlas-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Atlas-2.cfg"
+  },
+  {
+    "name": "Mercury-Atlas-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Atlas-3.cfg"
+  },
+  {
+    "name": "Mercury-Atlas-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Atlas-4.cfg"
+  },
+  {
+    "name": "Mercury-Atlas-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Atlas-5.cfg"
+  },
+  {
+    "name": "Mercury-Redstone-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Redstone-1.cfg"
+  },
+  {
+    "name": "Mercury-Redstone-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Redstone-1A.cfg"
+  },
+  {
+    "name": "Mercury-Redstone-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Redstone-2.cfg"
+  },
+  {
+    "name": "Mercury-Scout-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Mercury-Scout-1.cfg"
+  },
+  {
+    "name": "Sigma-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\MercuryMissions\\Sigma-7.cfg"
+  },
+  {
+    "name": "Skylab-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\SkylabMissions\\Skylab-1.cfg"
+  },
+  {
+    "name": "Skylab-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\SkylabMissions\\Skylab-2.cfg"
+  },
+  {
+    "name": "Skylab-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\SkylabMissions\\Skylab-3.cfg"
+  },
+  {
+    "name": "Skylab-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\MannedMissions\\SkylabMissions\\Skylab-4.cfg"
+  },
+  {
+    "name": "DMSP-4A-F1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\DMSP\\DMSP-4A-F1.cfg"
+  },
+  {
+    "name": "DMSP-4A-F2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\DMSP\\DMSP-4A-F2.cfg"
+  },
+  {
+    "name": "DMSP-4A-F3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\DMSP\\DMSP-4A-F3.cfg"
+  },
+  {
+    "name": "DMSP-4A-F4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\DMSP\\DMSP-4A-F4.cfg"
+  },
+  {
+    "name": "DMSP-65-072A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\DMSP\\DMSP-65072.cfg"
+  },
+  {
+    "name": "DMSP-66-026",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\DMSP\\DMSP-66026.cfg"
+  },
+  {
+    "name": "ESSA-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\ESSA\\ESSA-1.cfg"
+  },
+  {
+    "name": "ESSA-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\ESSA\\ESSA-2.cfg"
+  },
+  {
+    "name": "ESSA-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\ESSA\\ESSA-3.cfg"
+  },
+  {
+    "name": "ESSA-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\ESSA\\ESSA-4.cfg"
+  },
+  {
+    "name": "ESSA-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\ESSA\\ESSA-5.cfg"
+  },
+  {
+    "name": "ESSA-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\ESSA\\ESSA-6.cfg"
+  },
+  {
+    "name": "Nimbus-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-1.cfg"
+  },
+  {
+    "name": "Nimbus-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-2.cfg"
+  },
+  {
+    "name": "Nimbus-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-3.cfg"
+  },
+  {
+    "name": "Nimbus-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-4.cfg"
+  },
+  {
+    "name": "Nimbus-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-5.cfg"
+  },
+  {
+    "name": "Nimbus-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-6.cfg"
+  },
+  {
+    "name": "Nimbus-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Nimbus\\Nimbus-7.cfg"
+  },
+  {
+    "name": "Tiros-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-1.cfg"
+  },
+  {
+    "name": "Tiros-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-10.cfg"
+  },
+  {
+    "name": "Tiros-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-2.cfg"
+  },
+  {
+    "name": "Tiros-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-3.cfg"
+  },
+  {
+    "name": "Tiros-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-4.cfg"
+  },
+  {
+    "name": "Tiros-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-5.cfg"
+  },
+  {
+    "name": "Tiros-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-6.cfg"
+  },
+  {
+    "name": "Tiros-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-7.cfg"
+  },
+  {
+    "name": "Tiros-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-8.cfg"
+  },
+  {
+    "name": "Tiros-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Meteorological\\Tiros\\Tiros-9.cfg"
+  },
+  {
+    "name": "Corona-40",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-40.cfg"
+  },
+  {
+    "name": "Corona-41",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-41.cfg"
+  },
+  {
+    "name": "Corona-42",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-42.cfg"
+  },
+  {
+    "name": "Corona-43",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-43.cfg"
+  },
+  {
+    "name": "Corona-44",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-44.cfg"
+  },
+  {
+    "name": "Corona-45",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-45.cfg"
+  },
+  {
+    "name": "Corona-46",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-46.cfg"
+  },
+  {
+    "name": "Corona-47",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-47.cfg"
+  },
+  {
+    "name": "Corona-48",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-48.cfg"
+  },
+  {
+    "name": "Corona-49",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-49.cfg"
+  },
+  {
+    "name": "Corona-50",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-50.cfg"
+  },
+  {
+    "name": "Corona-51",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-51.cfg"
+  },
+  {
+    "name": "Corona-52",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-52.cfg"
+  },
+  {
+    "name": "Corona-53",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-53.cfg"
+  },
+  {
+    "name": "Corona-54",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-54 STARAD.cfg"
+  },
+  {
+    "name": "Corona-55",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-55.cfg"
+  },
+  {
+    "name": "Corona-56",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-56.cfg"
+  },
+  {
+    "name": "Corona-57",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-57.cfg"
+  },
+  {
+    "name": "Corona-58",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-58.cfg"
+  },
+  {
+    "name": "Corona-59",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-59.cfg"
+  },
+  {
+    "name": "Corona-60",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona (KH4-KH5Argon)\\Corona-60.cfg"
+  },
+  {
+    "name": "Discoverer-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-1.cfg"
+  },
+  {
+    "name": "Discoverer-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-10.cfg"
+  },
+  {
+    "name": "Discoverer-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-11.cfg"
+  },
+  {
+    "name": "Discoverer-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-12.cfg"
+  },
+  {
+    "name": "Discoverer-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-13.cfg"
+  },
+  {
+    "name": "Discoverer-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-14.cfg"
+  },
+  {
+    "name": "Discoverer-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-15.cfg"
+  },
+  {
+    "name": "Discoverer-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-16.cfg"
+  },
+  {
+    "name": "Discoverer-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-17.cfg"
+  },
+  {
+    "name": "Discoverer-18         ",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-18.cfg"
+  },
+  {
+    "name": "Discoverer-19",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-19.cfg"
+  },
+  {
+    "name": "Discoverer-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-2.cfg"
+  },
+  {
+    "name": "Discoverer-20",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-20.cfg"
+  },
+  {
+    "name": "Discoverer-21",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-21.cfg"
+  },
+  {
+    "name": "Discoverer-22",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-22.cfg"
+  },
+  {
+    "name": "Discoverer-23",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-23.cfg"
+  },
+  {
+    "name": "Discoverer-24",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-24.cfg"
+  },
+  {
+    "name": "Discoverer-25",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-25.cfg"
+  },
+  {
+    "name": "Discoverer-26",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-26.cfg"
+  },
+  {
+    "name": "Discoverer-27",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-27.cfg"
+  },
+  {
+    "name": "Discoverer-28",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-28.cfg"
+  },
+  {
+    "name": "Discoverer-29",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-29.cfg"
+  },
+  {
+    "name": "Discoverer-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-3.cfg"
+  },
+  {
+    "name": "Discoverer-30",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-30.cfg"
+  },
+  {
+    "name": "Discoverer-31",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-31.cfg"
+  },
+  {
+    "name": "Discoverer-32",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-32.cfg"
+  },
+  {
+    "name": "Discoverer-33",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-33.cfg"
+  },
+  {
+    "name": "Discoverer-34",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-34.cfg"
+  },
+  {
+    "name": "Discoverer-35",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-35.cfg"
+  },
+  {
+    "name": "Discoverer-36",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-36.cfg"
+  },
+  {
+    "name": "Discoverer-37",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-37.cfg"
+  },
+  {
+    "name": "Discoverer-38",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-38.cfg"
+  },
+  {
+    "name": "Discoverer-39",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-39.cfg"
+  },
+  {
+    "name": "Discoverer-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-4.cfg"
+  },
+  {
+    "name": "Discoverer-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-5.cfg"
+  },
+  {
+    "name": "Discoverer-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-6.cfg"
+  },
+  {
+    "name": "Discoverer-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-7.cfg"
+  },
+  {
+    "name": "Discoverer-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-8.cfg"
+  },
+  {
+    "name": "Discoverer-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Corona Discoverer (KH1-5)\\Discoverer-9.cfg"
+  },
+  {
+    "name": "Ferret-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-1.cfg"
+  },
+  {
+    "name": "Ferret-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-2.cfg"
+  },
+  {
+    "name": "Ferret-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-3.cfg"
+  },
+  {
+    "name": "Ferret-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-4.cfg"
+  },
+  {
+    "name": "Ferret-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-5.cfg"
+  },
+  {
+    "name": "Ferret-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-6.cfg"
+  },
+  {
+    "name": "Ferret-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-7.cfg"
+  },
+  {
+    "name": "Ferret-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-8.cfg"
+  },
+  {
+    "name": "Ferret-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Ferret\\Ferret-9.cfg"
+  },
+  {
+    "name": "KH7-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-1.cfg"
+  },
+  {
+    "name": "KH7-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-10.cfg"
+  },
+  {
+    "name": "KH7-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-11.cfg"
+  },
+  {
+    "name": "KH7-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-12.cfg"
+  },
+  {
+    "name": "KH7-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-13.cfg"
+  },
+  {
+    "name": "KH7-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-14.cfg"
+  },
+  {
+    "name": "KH7-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-15.cfg"
+  },
+  {
+    "name": "KH7-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-16.cfg"
+  },
+  {
+    "name": "KH7-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-17.cfg"
+  },
+  {
+    "name": "KH7-18",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-18.cfg"
+  },
+  {
+    "name": "KH7-19",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-19.cfg"
+  },
+  {
+    "name": "KH7-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-2.cfg"
+  },
+  {
+    "name": "KH7-20",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-20.cfg"
+  },
+  {
+    "name": "KH7-21",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-21.cfg"
+  },
+  {
+    "name": "KH7-22",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-22.cfg"
+  },
+  {
+    "name": "KH7-23",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-23.cfg"
+  },
+  {
+    "name": "KH7-24",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-24.cfg"
+  },
+  {
+    "name": "KH7-25",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-25.cfg"
+  },
+  {
+    "name": "KH7-26",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-26.cfg"
+  },
+  {
+    "name": "KH7-27",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-27.cfg"
+  },
+  {
+    "name": "KH7-28",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-28.cfg"
+  },
+  {
+    "name": "KH7-29",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-29.cfg"
+  },
+  {
+    "name": "KH7-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-3.cfg"
+  },
+  {
+    "name": "KH7-30",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-30.cfg"
+  },
+  {
+    "name": "KH7-31",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-31.cfg"
+  },
+  {
+    "name": "KH7-32",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-32.cfg"
+  },
+  {
+    "name": "KH7-33",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-33.cfg"
+  },
+  {
+    "name": "KH7-34",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-34.cfg"
+  },
+  {
+    "name": "KH7-35",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-35.cfg"
+  },
+  {
+    "name": "KH7-36",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-36.cfg"
+  },
+  {
+    "name": "KH7-37",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-37.cfg"
+  },
+  {
+    "name": "KH7-38",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-38.cfg"
+  },
+  {
+    "name": "KH7-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-4.cfg"
+  },
+  {
+    "name": "KH7-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-5.cfg"
+  },
+  {
+    "name": "KH7-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-6.cfg"
+  },
+  {
+    "name": "KH7-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-7.cfg"
+  },
+  {
+    "name": "KH7-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-8.cfg"
+  },
+  {
+    "name": "KH7-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit(KH7)\\KH7-9.cfg"
+  },
+  {
+    "name": "KH8-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-1.cfg"
+  },
+  {
+    "name": "KH8-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-10.cfg"
+  },
+  {
+    "name": "KH8-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-2.cfg"
+  },
+  {
+    "name": "KH8-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-3.cfg"
+  },
+  {
+    "name": "KH8-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-4.cfg"
+  },
+  {
+    "name": "KH8-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-6.cfg"
+  },
+  {
+    "name": "KH8-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-7.cfg"
+  },
+  {
+    "name": "KH8-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-8.cfg"
+  },
+  {
+    "name": "KH8-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Gambit3(KH8)\\KH8-9.cfg"
+  },
+  {
+    "name": "GGSE-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\GGSE\\GGSE-1.cfg"
+  },
+  {
+    "name": "GGSE-2-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\GGSE\\GGSE-2-3.cfg"
+  },
+  {
+    "name": "Lanyard-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Lanyard(KH-6)\\Lanyard-1.cfg"
+  },
+  {
+    "name": "MIDAS-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-1.cfg"
+  },
+  {
+    "name": "MIDAS-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-10.cfg"
+  },
+  {
+    "name": "Midas-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-11.cfg"
+  },
+  {
+    "name": "MIDAS-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-12.cfg"
+  },
+  {
+    "name": "MIDAS-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-2.cfg"
+  },
+  {
+    "name": "MIDAS-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-3.cfg"
+  },
+  {
+    "name": "MIDAS-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-4.cfg"
+  },
+  {
+    "name": "MIDAS-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-5.cfg"
+  },
+  {
+    "name": "MIDAS-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-6.cfg"
+  },
+  {
+    "name": "MIDAS-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-7.cfg"
+  },
+  {
+    "name": "MIDAS-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-8.cfg"
+  },
+  {
+    "name": "MIDAS-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Midas\\MIDAS-9.cfg"
+  },
+  {
+    "name": "SAMOS-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-1.cfg"
+  },
+  {
+    "name": "SAMOS-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-10.cfg"
+  },
+  {
+    "name": "SAMOS-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-11.cfg"
+  },
+  {
+    "name": "SAMOS-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-2.cfg"
+  },
+  {
+    "name": "SAMOS-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-3.cfg"
+  },
+  {
+    "name": "SAMOS-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-4.cfg"
+  },
+  {
+    "name": "SAMOS-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-5.cfg"
+  },
+  {
+    "name": "SAMOS-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-6.cfg"
+  },
+  {
+    "name": "SAMOS-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-7.cfg"
+  },
+  {
+    "name": "SAMOS-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-8.cfg"
+  },
+  {
+    "name": "SAMOS-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\Samos\\Samos-9.cfg"
+  },
+  {
+    "name": "SURCAL-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\Reconnaissance\\SURCAL-1A.cfg"
+  },
+  {
+    "name": "ANNA-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Anna\\Anna-1A.cfg"
+  },
+  {
+    "name": "ANNA-1B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Anna\\Anna-1B.cfg"
+  },
+  {
+    "name": "ATS-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\ATS\\ATS-1.cfg"
+  },
+  {
+    "name": "ATS-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\ATS\\ATS-2.cfg"
+  },
+  {
+    "name": "ATS-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\ATS\\ATS-3.cfg"
+  },
+  {
+    "name": "Beacon-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Beacon\\Beacon-1.cfg"
+  },
+  {
+    "name": "Beacon-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Beacon\\Beacon-2.cfg"
+  },
+  {
+    "name": "Biosatellite-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Biosatellite\\Biosatellite-1.cfg"
+  },
+  {
+    "name": "Biosatellite-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Biosatellite\\Biosatellite-2.cfg"
+  },
+  {
+    "name": "ESRS",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\ESRS.cfg"
+  },
+  {
+    "name": "Beacon-Explorer-A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Beacon-Explorer-A.cfg"
+  },
+  {
+    "name": "Explorer-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-1.cfg"
+  },
+  {
+    "name": "Explorer-10",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-10.cfg"
+  },
+  {
+    "name": "Explorer-11",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-11.cfg"
+  },
+  {
+    "name": "Explorer-12",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-12.cfg"
+  },
+  {
+    "name": "Explorer-13",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-13.cfg"
+  },
+  {
+    "name": "Explorer-14",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-14.cfg"
+  },
+  {
+    "name": "Explorer-15",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-15.cfg"
+  },
+  {
+    "name": "Explorer-16",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-16.cfg"
+  },
+  {
+    "name": "Explorer-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-17.cfg"
+  },
+  {
+    "name": "Explorer-18",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-18.cfg"
+  },
+  {
+    "name": "Explorer-19",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-19.cfg"
+  },
+  {
+    "name": "Explorer-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-2.cfg"
+  },
+  {
+    "name": "Explorer-20",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-20.cfg"
+  },
+  {
+    "name": "Explorer-21",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-21.cfg"
+  },
+  {
+    "name": "Explorer-22",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-22.cfg"
+  },
+  {
+    "name": "Explorer-23",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-23.cfg"
+  },
+  {
+    "name": "Explorer-24-25",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-24-25.cfg"
+  },
+  {
+    "name": "Explorer-26",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-26.cfg"
+  },
+  {
+    "name": "Explorer-27",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-27.cfg"
+  },
+  {
+    "name": "Explorer-28",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-28.cfg"
+  },
+  {
+    "name": "Explorer-29",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-29.cfg"
+  },
+  {
+    "name": "Explorer-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-3.cfg"
+  },
+  {
+    "name": "Explorer-30",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-30.cfg"
+  },
+  {
+    "name": "Explorer-31",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-31.cfg"
+  },
+  {
+    "name": "Explorer-32",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-32.cfg"
+  },
+  {
+    "name": "Explorer-33",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-33.cfg"
+  },
+  {
+    "name": "Explorer-34",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-34.cfg"
+  },
+  {
+    "name": "Explorer-35",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-35.cfg"
+  },
+  {
+    "name": "Explorer-4",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-4.cfg"
+  },
+  {
+    "name": "Explorer-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-5.cfg"
+  },
+  {
+    "name": "Explorer-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-6.cfg"
+  },
+  {
+    "name": "Explorer-7",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-7.cfg"
+  },
+  {
+    "name": "Explorer-7X",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-7X.cfg"
+  },
+  {
+    "name": "Explorer-8",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-8.cfg"
+  },
+  {
+    "name": "Explorer-9",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-9.cfg"
+  },
+  {
+    "name": "Explorer-S45",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-S-45.cfg"
+  },
+  {
+    "name": "Explorer-S-45A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-S-45A.cfg"
+  },
+  {
+    "name": "Explorer S-46",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-S-46.cfg"
+  },
+  {
+    "name": "Explorer-S-55",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-S-55.cfg"
+  },
+  {
+    "name": "Explorer-S-56",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Explorer\\Explorer-S-56.cfg"
+  },
+  {
+    "name": "GRS",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\GRS.cfg"
+  },
+  {
+    "name": "OAO-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\OAO-1.cfg"
+  },
+  {
+    "name": "OGO-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\OGO\\OGO-1.cfg"
+  },
+  {
+    "name": "OGO-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\OGO\\OGO-2.cfg"
+  },
+  {
+    "name": "OGO-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\OGO\\OGO-3.cfg"
+  },
+  {
+    "name": "OSO-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\OSO\\OSO-1.cfg"
+  },
+  {
+    "name": "OSO-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\OSO\\OSO-2.cfg"
+  },
+  {
+    "name": "P21",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\P21.cfg"
+  },
+  {
+    "name": "P21A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\P21A.cfg"
+  },
+  {
+    "name": "PAGEOS-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\PAGEOS-1.cfg"
+  },
+  {
+    "name": "Pegasus-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Pegasus\\Pegasus-1.cfg"
+  },
+  {
+    "name": "Pegasus-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Pegasus\\Pegasus-2.cfg"
+  },
+  {
+    "name": "Pegasus-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Pegasus\\Pegasus-3.cfg"
+  },
+  {
+    "name": "SOLRAD-4A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\SOLRAD\\SOLRAD-4A.cfg"
+  },
+  {
+    "name": "SOLRAD-4B",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\SOLRAD\\SOLRAD-4B.cfg"
+  },
+  {
+    "name": "SOLRAD-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\SOLRAD\\SOLRAD-6.cfg"
+  },
+  {
+    "name": "Vanguard-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-1.cfg"
+  },
+  {
+    "name": "Vanguard-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-2.cfg"
+  },
+  {
+    "name": "Vanguard-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-3.cfg"
+  },
+  {
+    "name": "Vanguard-SLV-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-SLV-1.cfg"
+  },
+  {
+    "name": "Vanguard-SLV-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-SLV-2.cfg"
+  },
+  {
+    "name": "Vanguard-SLV-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-SLV-3.cfg"
+  },
+  {
+    "name": "Vanguard-SLV-5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-SLV-5.cfg"
+  },
+  {
+    "name": "Vanguard-SLV-6",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-SLV-6.cfg"
+  },
+  {
+    "name": "Vanguard-TV3-Backup",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-TV3-Backup.cfg"
+  },
+  {
+    "name": "Vanguard-TV3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-TV3.cfg"
+  },
+  {
+    "name": "Vanguard-TV5",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vanguard\\Vanguard-TV5.cfg"
+  },
+  {
+    "name": "Vela-1A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vela\\Vela-1A.cfg"
+  },
+  {
+    "name": "Vela-2A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vela\\Vela-2A.cfg"
+  },
+  {
+    "name": "Vela-3A",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\ResearchSatellites\\Vela\\Vela-3A.cfg"
+  },
+  {
+    "name": "TinyTim",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\1. TinyTim.cfg"
+  },
+  {
+    "name": "Hermes-A-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\10. Hermes-A-1.cfg"
+  },
+  {
+    "name": "MGM-5-Corporal",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\11. MGM-5-Corporal.cfg"
+  },
+  {
+    "name": "Hermes-A-2",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\12. Hermes-A-2.cfg"
+  },
+  {
+    "name": "Hermes-A-3",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\13. Hermes-A-3.cfg"
+  },
+  {
+    "name": "PGM-11-Redstone",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\14. PGM-11-Redstone.cfg"
+  },
+  {
+    "name": "Aerobee-Hi",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\15. Aerobee-Hi.cfg"
+  },
+  {
+    "name": "X-17",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\16. X-17.cfg"
+  },
+  {
+    "name": "ASP",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\17. ASP.cfg"
+  },
+  {
+    "name": "MGM-29-Sergeant",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\18. MGM-29-Sergeant.cfg"
+  },
+  {
+    "name": "Cajun",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\19. Cajun.cfg"
+  },
+  {
+    "name": "WAC-Corporal",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\2. WAC-Corporal.cfg"
+  },
+  {
+    "name": "Nike-Cajun",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\20. Nike-Cajun.cfg"
+  },
+  {
+    "name": "Jupiter-C",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\21. Jupiter-C.cfg"
+  },
+  {
+    "name": "Terrapin",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\22. Terrapin.cfg"
+  },
+  {
+    "name": "PGM-17-Thor",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\23. PGM-17-Thor.cfg"
+  },
+  {
+    "name": "PGM-19-Jupiter",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\24. PGM-19-Jupiter.cfg"
+  },
+  {
+    "name": "Nike-Hercules",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\25. Nike-Hercules.cfg"
+  },
+  {
+    "name": "SM-65A-Atlas",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\26. SM-65A-Atlas.cfg"
+  },
+  {
+    "name": "Nike-Apache",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\27. Nike-Apache.cfg"
+  },
+  {
+    "name": "Blossom-1",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\3. Blossom-1.cfg"
+  },
+  {
+    "name": "Deacon",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\4. Deacon.cfg"
+  },
+  {
+    "name": "Corporal-E",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\5. Corporal-E.cfg"
+  },
+  {
+    "name": "Aerobee",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\6. Aerobee.cfg"
+  },
+  {
+    "name": "RTV-A-3-NATIV",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\7. RTV-A-3-NATIV.cfg"
+  },
+  {
+    "name": "Viking",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\8. Viking.cfg"
+  },
+  {
+    "name": "Nike-Ajax",
+    "filePath": "Stock\\GameData\\ContractPacks\\HistoryofSpaceflight\\Missions\\USAMissions\\USAEarlyMissions\\9. Nike-Ajax.cfg"
   }
 ]

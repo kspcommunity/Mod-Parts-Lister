@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Archae",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Archae.cfg"
+  },
+  {
+    "name": "Crokslev",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Crokslev.cfg"
+  },
+  {
+    "name": "Edas",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Edas.cfg"
+  },
+  {
+    "name": "Ervo",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Ervo.cfg"
+  },
+  {
+    "name": "Flake",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Flake.cfg"
+  },
+  {
+    "name": "Geito",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Geito.cfg"
+  },
+  {
+    "name": "Havous",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Havous.cfg"
+  },
+  {
+    "name": "Kal",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Kal.cfg"
+  },
+  {
+    "name": "KiKi",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Ki'Ki.cfg"
+  },
+  {
+    "name": "LintMikey",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\LintMikey.cfg"
+  },
+  {
+    "name": "Lon",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Lon.cfg"
+  },
+  {
+    "name": "Mracksis",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Mracksis.cfg"
+  },
+  {
+    "name": "Soden",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Soden.cfg"
+  },
+  {
+    "name": "Vant",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Vant.cfg"
+  },
+  {
+    "name": "Zore",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\KopConfigs\\Zore.cfg"
+  },
+  {
+    "name": "Ervo",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\Patches\\MPE_Kerbalism.cfg"
+  },
+  {
+    "name": "MPE",
+    "filePath": "MPE 1.0.8\\Gamedata\\MPE\\Patches\\MPE_ResearchBodies.cfg"
+  }
+]

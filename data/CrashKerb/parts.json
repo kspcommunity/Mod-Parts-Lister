@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CJKGlass",
+    "filePath": "CrashKerb\\GlassCJ.cfg"
+  },
+  {
+    "name": "CJKHair",
+    "filePath": "CrashKerb\\HairCJ.cfg"
+  },
+  {
+    "name": "CJKHardHat",
+    "filePath": "CrashKerb\\HardHCJ.cfg"
+  },
+  {
+    "name": "CJKhead",
+    "filePath": "CrashKerb\\HeadCJ.cfg"
+  },
+  {
+    "name": "CJKhelmet",
+    "filePath": "CrashKerb\\HelmetCJ.cfg"
+  },
+  {
+    "name": "CJMFBod",
+    "filePath": "CrashKerb\\MFBodCJ.cfg"
+  },
+  {
+    "name": "CJMFCoat",
+    "filePath": "CrashKerb\\MFCoatCJ.cfg"
+  },
+  {
+    "name": "CJMFHand",
+    "filePath": "CrashKerb\\MFHandCJ.cfg"
+  },
+  {
+    "name": "CJMFLeftArm",
+    "filePath": "CrashKerb\\MFLeftArmCJ.cfg"
+  },
+  {
+    "name": "CJMFLeftLegs",
+    "filePath": "CrashKerb\\MFleftLegsCJ.cfg"
+  },
+  {
+    "name": "CJMFRightLegs",
+    "filePath": "CrashKerb\\MFlRightLegsCJ.cfg"
+  },
+  {
+    "name": "CJMFRightArm",
+    "filePath": "CrashKerb\\MFRightArmCJ.cfg"
+  },
+  {
+    "name": "CJKSpaceHelmet",
+    "filePath": "CrashKerb\\SpaceHelmetCJ.cfg"
+  },
+  {
+    "name": "CJKSportHair",
+    "filePath": "CrashKerb\\SportHairCJ.cfg"
+  },
+  {
+    "name": "CJTrooper",
+    "filePath": "CrashKerb\\TrooperCJ.cfg"
+  },
+  {
+    "name": "CJValhead",
+    "filePath": "CrashKerb\\ValHeadCJ.cfg"
+  }
+]

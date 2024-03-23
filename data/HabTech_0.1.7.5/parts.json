@@ -1,0 +1,174 @@
+[
+  {
+    "name": "habtech_airlockInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\airlockIVA.cfg"
+  },
+  {
+    "name": "habtech_columbusInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\columbusIVA.cfg"
+  },
+  {
+    "name": "habtech_cupolaInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\cupolaIVA.cfg"
+  },
+  {
+    "name": "habtech_bigHabInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\habLongIVA.cfg"
+  },
+  {
+    "name": "habtech_nodeInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\habnodeIVA.cfg"
+  },
+  {
+    "name": "habtech_labInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\habsciIVA.cfg"
+  },
+  {
+    "name": "habtech_shortInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\habshortIVA.cfg"
+  },
+  {
+    "name": "habtech_jemInternal",
+    "filePath": "HabTech_0.1.7.5\\Alternates\\Simple IVAs\\Internals\\jemIVA.cfg"
+  },
+  {
+    "name": "habtech_airlockInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\airlockIVA.cfg"
+  },
+  {
+    "name": "habtech_columbusInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\columbusIVA.cfg"
+  },
+  {
+    "name": "habtech_cupolaInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\cupolaIVA.cfg"
+  },
+  {
+    "name": "habtech_bigHabInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\habLongIVA.cfg"
+  },
+  {
+    "name": "habtech_nodeInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\habnodeIVA.cfg"
+  },
+  {
+    "name": "habtech_labInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\habsciIVA.cfg"
+  },
+  {
+    "name": "habtech_shortInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\habshortIVA.cfg"
+  },
+  {
+    "name": "habtech_jemInternal",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Internals\\jemIVA.cfg"
+  },
+  {
+    "name": "habtech_adapter",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\adapter.cfg"
+  },
+  {
+    "name": "airlock",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\airlock.cfg"
+  },
+  {
+    "name": "habTech_APAS",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\APAS.cfg"
+  },
+  {
+    "name": "habLong",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\bigHab.cfg"
+  },
+  {
+    "name": "habTech_CBM",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\CBM.cfg"
+  },
+  {
+    "name": "habtech_cupola",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\cupola.cfg"
+  },
+  {
+    "name": "habColumbus",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\habColumbus.cfg"
+  },
+  {
+    "name": "habJEM",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\habJEM.cfg"
+  },
+  {
+    "name": "habMPLM",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\habMPLM.cfg"
+  },
+  {
+    "name": "habNode",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\habNode.cfg"
+  },
+  {
+    "name": "habSci",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\habSci.cfg"
+  },
+  {
+    "name": "habShort",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\habShort.cfg"
+  },
+  {
+    "name": "habtech_hex1",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\hextruss_1.cfg"
+  },
+  {
+    "name": "habtech_hex2",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\hextruss_2.cfg"
+  },
+  {
+    "name": "habtech_hex3",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\hextruss_3.cfg"
+  },
+  {
+    "name": "habtech_hex4",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\hextruss_4.cfg"
+  },
+  {
+    "name": "habtech_miniTruss",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\miniTruss.cfg"
+  },
+  {
+    "name": "habTech_truss_connector_mid",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\miniTrussPort.cfg"
+  },
+  {
+    "name": "habtech_PMA",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\PMA.cfg"
+  },
+  {
+    "name": "habtech_SAW",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\SAW.cfg"
+  },
+  {
+    "name": "habTech_truss_connector",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\trussPort.cfg"
+  },
+  {
+    "name": "habTech_truss_connector_half",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\trussPortHalf.cfg"
+  },
+  {
+    "name": "habtech_Z1",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Parts\\ISS\\Z1Truss.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Patches\\CLS.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Patches\\KIS.cfg"
+  },
+  {
+    "name": "Supplies",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Patches\\USI.cfg"
+  },
+  {
+    "name": "Samples",
+    "filePath": "HabTech_0.1.7.5\\GameData\\HabTech\\Resources\\ResourceDefs.cfg"
+  }
+]

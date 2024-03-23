@@ -1,0 +1,26 @@
+[
+  {
+    "name": "martiansolarbat",
+    "filePath": "martian\\battery\\radialFlatSolarPanel.cfg"
+  },
+  {
+    "name": "trailer",
+    "filePath": "martian\\fronttrail\\trussGirderXL.cfg"
+  },
+  {
+    "name": "tailerhitch",
+    "filePath": "martian\\GrapplingDevice\\part.cfg"
+  },
+  {
+    "name": "martianroverpod",
+    "filePath": "martian\\pod\\probeStackLarge.cfg"
+  },
+  {
+    "name": "reartrailer",
+    "filePath": "martian\\trailer\\trussGirderXL.cfg"
+  },
+  {
+    "name": "wheelmartianrover",
+    "filePath": "martian\\wheel\\roverWheelTR-2L.cfg"
+  }
+]

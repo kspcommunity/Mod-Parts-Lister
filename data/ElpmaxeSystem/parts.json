@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dnourg",
+    "filePath": "ElpmaxeSystem\\Configs\\Dnourg.cfg"
+  },
+  {
+    "name": "Elpmaxe",
+    "filePath": "ElpmaxeSystem\\Configs\\Elpmaxe.cfg"
+  },
+  {
+    "name": "Riafolluf",
+    "filePath": "ElpmaxeSystem\\Configs\\Riafolluf.cfg"
+  },
+  {
+    "name": "Tselpmis",
+    "filePath": "ElpmaxeSystem\\Configs\\Tselpmis.cfg"
+  },
+  {
+    "name": "Yretaw",
+    "filePath": "ElpmaxeSystem\\Configs\\Yretaw.cfg"
+  }
+]

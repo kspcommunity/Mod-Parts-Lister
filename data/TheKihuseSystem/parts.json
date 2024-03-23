@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Anomaly",
+    "filePath": "TheKihuseSystem\\Configs\\Anomaly.cfg"
+  },
+  {
+    "name": "Crona",
+    "filePath": "TheKihuseSystem\\Configs\\Crona.cfg"
+  },
+  {
+    "name": "Igfar",
+    "filePath": "TheKihuseSystem\\Configs\\igfar.cfg"
+  },
+  {
+    "name": "Kihuse",
+    "filePath": "TheKihuseSystem\\Configs\\Kihuse.cfg"
+  },
+  {
+    "name": "Pofs",
+    "filePath": "TheKihuseSystem\\Configs\\Pofs.cfg"
+  },
+  {
+    "name": "Tugger",
+    "filePath": "TheKihuseSystem\\Configs\\Tugger.cfg"
+  }
+]

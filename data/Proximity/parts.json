@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Proximity",
+    "filePath": "Proximity\\Parts\\Proximity\\part.cfg"
+  },
+  {
+    "name": "Proximity",
+    "filePath": "Proximity\\ProximityConfig.cfg"
+  }
+]

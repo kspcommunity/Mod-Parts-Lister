@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ares",
+    "filePath": "Oasis System\\Ares.cfg"
+  },
+  {
+    "name": "Barney",
+    "filePath": "Oasis System\\Barney.cfg"
+  },
+  {
+    "name": "Erato",
+    "filePath": "Oasis System\\Erato.cfg"
+  },
+  {
+    "name": "Erin",
+    "filePath": "Oasis System\\Erin.cfg"
+  },
+  {
+    "name": "Gas Planet 2",
+    "filePath": "Oasis System\\Gas Planet 2.cfg"
+  },
+  {
+    "name": "Hedsa",
+    "filePath": "Oasis System\\Hedsa.cfg"
+  },
+  {
+    "name": "Joker",
+    "filePath": "Oasis System\\Joker.cfg"
+  },
+  {
+    "name": "Oasis",
+    "filePath": "Oasis System\\Oasis.cfg"
+  },
+  {
+    "name": "Pock",
+    "filePath": "Oasis System\\pock.cfg"
+  },
+  {
+    "name": "Sentar",
+    "filePath": "Oasis System\\Sentar.cfg"
+  },
+  {
+    "name": "Slade",
+    "filePath": "Oasis System\\Slade.cfg"
+  },
+  {
+    "name": "Thud",
+    "filePath": "Oasis System\\Thud.cfg"
+  },
+  {
+    "name": "Urania",
+    "filePath": "Oasis System\\Urania.cfg"
+  },
+  {
+    "name": "Vulcania",
+    "filePath": "Oasis System\\Vulcania.cfg"
+  }
+]

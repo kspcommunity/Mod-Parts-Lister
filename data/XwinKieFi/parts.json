@@ -1,0 +1,114 @@
+[
+  {
+    "name": "CJairbrakeSnowL",
+    "filePath": "XwinKieFi\\Airbrake\\AirbrakeL.cfg"
+  },
+  {
+    "name": "CJairbrakeSnowR",
+    "filePath": "XwinKieFi\\Airbrake\\AirbrakeR.cfg"
+  },
+  {
+    "name": "CJConcussion",
+    "filePath": "XwinKieFi\\Missile\\Concussion.cfg"
+  },
+  {
+    "name": "CJAwing",
+    "filePath": "XwinKieFi\\Parts\\Awing.cfg"
+  },
+  {
+    "name": "CJAwingRCS",
+    "filePath": "XwinKieFi\\Parts\\AwingRcs.cfg"
+  },
+  {
+    "name": "RNDLiftCJ",
+    "filePath": "XwinKieFi\\Parts\\RNDLift.cfg"
+  },
+  {
+    "name": "CJXfoilsR",
+    "filePath": "XwinKieFi\\Parts\\SfoilsR.cfg"
+  },
+  {
+    "name": "CJSnowSpeeder",
+    "filePath": "XwinKieFi\\Parts\\SnowSped.cfg"
+  },
+  {
+    "name": "CJXTieADVBody",
+    "filePath": "XwinKieFi\\Parts\\TieAdvanced.cfg"
+  },
+  {
+    "name": "CJTieAVNacelles",
+    "filePath": "XwinKieFi\\Parts\\TieAVNacelles.cfg"
+  },
+  {
+    "name": "CJTieBomber",
+    "filePath": "XwinKieFi\\Parts\\TieBomber.cfg"
+  },
+  {
+    "name": "CJTieBomberNacelles",
+    "filePath": "XwinKieFi\\Parts\\TieBomberNacelles.cfg"
+  },
+  {
+    "name": "CJXTieFighter",
+    "filePath": "XwinKieFi\\Parts\\TieFighter.cfg"
+  },
+  {
+    "name": "CJTieFNacelles",
+    "filePath": "XwinKieFi\\Parts\\TieFNacelles.cfg"
+  },
+  {
+    "name": "CJTieInterNacelles",
+    "filePath": "XwinKieFi\\Parts\\TieInterNacelles.cfg"
+  },
+  {
+    "name": "CJXwingDockplate",
+    "filePath": "XwinKieFi\\Parts\\Xwing dockplate.cfg"
+  },
+  {
+    "name": "CJXwingBody",
+    "filePath": "XwinKieFi\\Parts\\Xwing.cfg"
+  },
+  {
+    "name": "CJYwingNacelles",
+    "filePath": "XwinKieFi\\Parts\\Y-WingNacelles.cfg"
+  },
+  {
+    "name": "CJYwingBody",
+    "filePath": "XwinKieFi\\Parts\\Ywing.cfg"
+  },
+  {
+    "name": "DepletedUranium",
+    "filePath": "XwinKieFi\\Resources\\Resources.cfg"
+  },
+  {
+    "name": "AwingCJ-int",
+    "filePath": "XwinKieFi\\Spaces\\Awing_internal.cfg"
+  },
+  {
+    "name": "SnowSpedCJ-int",
+    "filePath": "XwinKieFi\\Spaces\\SnowSpeed_internal.cfg"
+  },
+  {
+    "name": "TieADV-int",
+    "filePath": "XwinKieFi\\Spaces\\TieADV_internal.cfg"
+  },
+  {
+    "name": "TieBomb-int",
+    "filePath": "XwinKieFi\\Spaces\\TieBomb_internal.cfg"
+  },
+  {
+    "name": "XwingCJ-int",
+    "filePath": "XwinKieFi\\Spaces\\Xwing_internal.cfg"
+  },
+  {
+    "name": "YwingCJ-int",
+    "filePath": "XwinKieFi\\Spaces\\Ywing_internal.cfg"
+  },
+  {
+    "name": "CJVtolMotivatorUni",
+    "filePath": "XwinKieFi\\VTOL\\UniHov.cfg"
+  },
+  {
+    "name": "SuBall",
+    "filePath": "XwinKieFi\\WUResources.cfg"
+  }
+]

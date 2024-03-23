@@ -1,0 +1,10 @@
+[
+  {
+    "name": "CollisionFX",
+    "filePath": "CollisionFXReUpdated\\GameData\\CollisionFXReUpdated\\ModuleManager_CollisionFX.cfg"
+  },
+  {
+    "name": "Moho",
+    "filePath": "CollisionFXReUpdated\\GameData\\CollisionFXReUpdated\\settings.cfg"
+  }
+]

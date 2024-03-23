@@ -1,0 +1,62 @@
+[
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\connector1.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\connector2.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\connector3.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\connector4.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\connector5.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\delta.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\delta_small.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\strake.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\structural1.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\structural2.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\structural3.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\structural4.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\swept1.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\swept2.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "WWMM\\Gamedata\\WetterWingsMM\\sweptWing.cfg"
+  }
+]

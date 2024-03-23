@@ -1,0 +1,10 @@
+[
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "flanker\\flanker2ASET-patch.cfg"
+  },
+  {
+    "name": "flanker2_ASET",
+    "filePath": "flanker\\model.cfg"
+  }
+]

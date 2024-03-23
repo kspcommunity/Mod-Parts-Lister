@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DiscoveryBooster",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\DiscoveryBooster\\DiscoveryBooster.cfg"
+  },
+  {
+    "name": "DiscoveryBooster_NoseCone",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\DiscoveryBooster\\DiscoveryBooster_NoseCone.cfg"
+  },
+  {
+    "name": "EUSIntersatge",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\EUSIntersatge.cfg"
+  },
+  {
+    "name": "Exploration_Upper_Stage",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\Exploration_Upper_Stage.cfg"
+  },
+  {
+    "name": "Orion_Dragchute",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\orion_rt\\orion_Dragchute.cfg"
+  },
+  {
+    "name": "Orion_MainParachute",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\orion_rt\\orion_Mainchute.cfg"
+  },
+  {
+    "name": "Spacecraft_Adaptor_Jettisoned_Panels",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\SpacecraftAdaptorJettisonedPanels.cfg"
+  },
+  {
+    "name": "Universal_Stage_Adapter_crew",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\UniversalStageAdapter.cfg"
+  },
+  {
+    "name": "Universal_Stage_Adapter_cargo",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\UniversalStageAdapter_Cargo.cfg"
+  },
+  {
+    "name": "Universal_Stage_Adapter_Fairing",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Parts\\UniversalStageAdapter_Fairing.cfg"
+  },
+  {
+    "name": "node_stack_EN1",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Patches\\reDIRECT_Patch.cfg"
+  },
+  {
+    "name": "OrionIVA",
+    "filePath": "KertemisProgram-1.1.1\\GameData\\KertemisProgram\\Spaces\\OrionIVA.cfg"
+  }
+]

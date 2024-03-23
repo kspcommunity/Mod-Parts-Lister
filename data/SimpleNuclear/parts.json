@@ -1,0 +1,42 @@
+[
+  {
+    "name": "METEngine",
+    "filePath": "SimpleNuclear\\Engines\\Electric\\METEngine\\METEngine.cfg"
+  },
+  {
+    "name": "ThermalRocketNozzle",
+    "filePath": "SimpleNuclear\\Engines\\Thermal\\ThermalRocketNozzle\\ThermalRocketNozzle.cfg"
+  },
+  {
+    "name": "ThermalTurbojet",
+    "filePath": "SimpleNuclear\\Engines\\Thermal\\ThermalTurbojet\\ThermalTurboJet.cfg"
+  },
+  {
+    "name": "MHDGenerator",
+    "filePath": "SimpleNuclear\\Reactors\\Generators\\MHDGenerator\\MHDGenerator.cfg"
+  },
+  {
+    "name": "FragmentReactor",
+    "filePath": "SimpleNuclear\\Reactors\\GWe\\FragmentReactor\\FragmentReactor.cfg"
+  },
+  {
+    "name": "TokamakReactor",
+    "filePath": "SimpleNuclear\\Reactors\\GWe\\TokamakReactor\\TokamakReactor.cfg"
+  },
+  {
+    "name": "GasCoreReactor",
+    "filePath": "SimpleNuclear\\Reactors\\GWt\\GasCoreReactor\\GascoreReactor.cfg"
+  },
+  {
+    "name": "PulsedFusionReactor",
+    "filePath": "SimpleNuclear\\Reactors\\GWt\\PulsedFusionReactor\\PulsedFusionReactor.cfg"
+  },
+  {
+    "name": "SolidFission",
+    "filePath": "SimpleNuclear\\Reactors\\GWt\\SolidFission\\SolidFission.cfg"
+  },
+  {
+    "name": "MWt",
+    "filePath": "SimpleNuclear\\Resources.cfg"
+  }
+]

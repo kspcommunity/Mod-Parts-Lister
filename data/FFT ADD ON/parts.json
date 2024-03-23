@@ -1,0 +1,18 @@
+[
+  {
+    "name": "FFT",
+    "filePath": "FFT ADD ON\\FFT\\model.cfg"
+  },
+  {
+    "name": "FFT Blue",
+    "filePath": "FFT ADD ON\\FFT Blue\\model.cfg"
+  },
+  {
+    "name": "FFT Red",
+    "filePath": "FFT ADD ON\\FFT Red\\model.cfg"
+  },
+  {
+    "name": "MH motor",
+    "filePath": "FFT ADD ON\\MH motor\\model.cfg"
+  }
+]

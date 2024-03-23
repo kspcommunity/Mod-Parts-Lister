@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Ardasten",
+    "filePath": "CAISE\\Configs\\Ardasten.cfg"
+  },
+  {
+    "name": "Cienan",
+    "filePath": "CAISE\\Configs\\Cienan.cfg"
+  },
+  {
+    "name": "Dalis",
+    "filePath": "CAISE\\Configs\\Dalis.cfg"
+  },
+  {
+    "name": "Kyx",
+    "filePath": "CAISE\\Configs\\Kyx.cfg"
+  },
+  {
+    "name": "Mernis",
+    "filePath": "CAISE\\Configs\\Mernis.cfg"
+  },
+  {
+    "name": "Ortelac",
+    "filePath": "CAISE\\Configs\\Ortelac.cfg"
+  },
+  {
+    "name": "Pheem",
+    "filePath": "CAISE\\Configs\\Pheem.cfg"
+  },
+  {
+    "name": "Dalis-MainClouds",
+    "filePath": "CAISE\\EVE\\Cloud.cfg"
+  },
+  {
+    "name": "Ardasten",
+    "filePath": "CAISE\\scatterer\\config\\Planets\\Ardasten\\atmo.cfg"
+  },
+  {
+    "name": "Dalis",
+    "filePath": "CAISE\\scatterer\\config\\Planets\\Dalis\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "CAISE\\scatterer\\config\\Planets\\Dalis\\ocean.cfg"
+  }
+]

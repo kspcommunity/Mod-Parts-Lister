@@ -1,0 +1,126 @@
+[
+  {
+    "name": "excalibur",
+    "filePath": "Muun\\KK\\excalibur-instances.cfg"
+  },
+  {
+    "name": "guardiano",
+    "filePath": "Muun\\KK\\guardiano-instances.cfg"
+  },
+  {
+    "name": "hubble",
+    "filePath": "Muun\\KK\\hubble-instances.cfg"
+  },
+  {
+    "name": "Lem_Descend_Stage",
+    "filePath": "Muun\\KK\\Lem_Descend_Stage-instances.cfg"
+  },
+  {
+    "name": "SaturnV",
+    "filePath": "Muun\\KK\\SaturnV-instances.cfg"
+  },
+  {
+    "name": "shuttle",
+    "filePath": "Muun\\KK\\shuttle-instances.cfg"
+  },
+  {
+    "name": "SoundCube_AP11",
+    "filePath": "Muun\\KK\\SoundCube_AP11-instances.cfg"
+  },
+  {
+    "name": "SQUAD_ArmstrongMemorial",
+    "filePath": "Muun\\KK\\SQUAD_ArmstrongMemorial-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Monolith02",
+    "filePath": "Muun\\KK\\SQUAD_Monolith02-instances.cfg"
+  },
+  {
+    "name": "SQUAD_RockArch02",
+    "filePath": "Muun\\KK\\SQUAD_RockArch02-instances.cfg"
+  },
+  {
+    "name": "SQUAD_UFO",
+    "filePath": "Muun\\KK\\SQUAD_UFO-instances.cfg"
+  },
+  {
+    "name": "targa11",
+    "filePath": "Muun\\KK\\targa11-instances.cfg"
+  },
+  {
+    "name": "targa12",
+    "filePath": "Muun\\KK\\targa12-instances.cfg"
+  },
+  {
+    "name": "targa14",
+    "filePath": "Muun\\KK\\targa14-instances.cfg"
+  },
+  {
+    "name": "targa15",
+    "filePath": "Muun\\KK\\targa15-instances.cfg"
+  },
+  {
+    "name": "targa16",
+    "filePath": "Muun\\KK\\targa16-instances.cfg"
+  },
+  {
+    "name": "targa17",
+    "filePath": "Muun\\KK\\targa17-instances.cfg"
+  },
+  {
+    "name": "Muun",
+    "filePath": "Muun\\Muun.cfg"
+  },
+  {
+    "name": "excalibur",
+    "filePath": "Muun\\plugindata\\easteregg\\excalibur.cfg"
+  },
+  {
+    "name": "guardiano",
+    "filePath": "Muun\\plugindata\\easteregg\\guardiano.cfg"
+  },
+  {
+    "name": "hubble",
+    "filePath": "Muun\\plugindata\\easteregg\\hubble.cfg"
+  },
+  {
+    "name": "Lem_Descend_Stage",
+    "filePath": "Muun\\plugindata\\easteregg\\lem.cfg"
+  },
+  {
+    "name": "SaturnV",
+    "filePath": "Muun\\plugindata\\easteregg\\saturn.cfg"
+  },
+  {
+    "name": "shuttle",
+    "filePath": "Muun\\plugindata\\easteregg\\shuttle.cfg"
+  },
+  {
+    "name": "SoundCube_AP11",
+    "filePath": "Muun\\plugindata\\easteregg\\SoundCube.cfg"
+  },
+  {
+    "name": "targa11",
+    "filePath": "Muun\\plugindata\\easteregg\\targa11.cfg"
+  },
+  {
+    "name": "targa12",
+    "filePath": "Muun\\plugindata\\easteregg\\targa12.cfg"
+  },
+  {
+    "name": "targa14",
+    "filePath": "Muun\\plugindata\\easteregg\\targa14.cfg"
+  },
+  {
+    "name": "targa15",
+    "filePath": "Muun\\plugindata\\easteregg\\targa15.cfg"
+  },
+  {
+    "name": "targa16",
+    "filePath": "Muun\\plugindata\\easteregg\\targa16.cfg"
+  },
+  {
+    "name": "targa17",
+    "filePath": "Muun\\plugindata\\easteregg\\targa17.cfg"
+  }
+]

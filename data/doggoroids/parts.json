@@ -1,0 +1,14 @@
+[
+  {
+    "name": "asteroid3m",
+    "filePath": "doggoroids\\asteroid1\\asteroid3m.cfg"
+  },
+  {
+    "name": "asteroid2m",
+    "filePath": "doggoroids\\asteroid2\\asteroid2m.cfg"
+  },
+  {
+    "name": "asteroid8x4x3m",
+    "filePath": "doggoroids\\asteroid3\\asteroid8x4x3m.cfg"
+  }
+]

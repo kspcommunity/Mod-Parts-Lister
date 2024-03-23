@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Pepsin",
+    "filePath": "TFS\\Compatibility\\DistantObjectEnhancement.cfg"
+  },
+  {
+    "name": "Pepsin",
+    "filePath": "TFS\\Compatibility\\PlanetShine.cfg"
+  },
+  {
+    "name": "Asool",
+    "filePath": "TFS\\Compatibility\\Scatterer\\Asool\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "TFS\\Compatibility\\Scatterer\\Desken\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "TFS\\Compatibility\\Scatterer\\Desken\\ocean.cfg"
+  },
+  {
+    "name": "Pepsol",
+    "filePath": "TFS\\Compatibility\\Scatterer\\Pepsol\\atmo.cfg"
+  },
+  {
+    "name": "Thobin",
+    "filePath": "TFS\\Compatibility\\Scatterer\\Thobin\\atmo.cfg"
+  },
+  {
+    "name": "Thobin",
+    "filePath": "TFS\\Compatibility\\Scatterer\\Thobin\\ocean.cfg"
+  },
+  {
+    "name": "asoolBelt",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\Antimatter.cfg"
+  },
+  {
+    "name": "deskenAtmo",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\ArgonGas.cfg"
+  },
+  {
+    "name": "asoolAtmo",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\LqdDeuterium.cfg"
+  },
+  {
+    "name": "asoolAtmo",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\LqdHe3.cfg"
+  },
+  {
+    "name": "parsecExo",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\LqdHydrogen.cfg"
+  },
+  {
+    "name": "deskenAtmo",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\Oxidizer.cfg"
+  },
+  {
+    "name": "deskenAtmo",
+    "filePath": "TFS\\Compatibility\\SpaceDust\\XeonGas.cfg"
+  },
+  {
+    "name": "Sun",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\0 - Parsec\\0 - Barycenter.cfg"
+  },
+  {
+    "name": "Parsec",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\0 - Parsec\\1 - Parsec Aa.cfg"
+  },
+  {
+    "name": "Arcsec",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\0 - Parsec\\2 - Parsec Ab.cfg"
+  },
+  {
+    "name": "Eska // named after Dex again",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\1 - Eska\\0 - Eska.cfg"
+  },
+  {
+    "name": "Marshan // named after Marshall/Myth",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\2 - Marshan\\0 - Marshan.cfg"
+  },
+  {
+    "name": "Wolffen // named after Wolf-Rayet",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\3 - Wolffen\\0 - Wolffen.cfg"
+  },
+  {
+    "name": "Sabule // named after Sabine",
+    "filePath": "TFS\\Configs\\0 - Parsec System\\4 - Sabule\\0 - Sabule.cfg"
+  },
+  {
+    "name": "Cherra",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\0 - Cherra\\0 - Cherra.cfg"
+  },
+  {
+    "name": "Pepsol",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\1 - Pepsol\\0 - Pepsol.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\2 - Desken\\0 - Desken.cfg"
+  },
+  {
+    "name": "Wickmin // Named after the one and only Chazwick \"Chaz Time\" Thurman from Helluva Boss",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\2 - Desken\\1 - Wickmin.cfg"
+  },
+  {
+    "name": "Aultorran // named after Aultori",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\3 - Aultorran\\0 - Aultorran.cfg"
+  },
+  {
+    "name": "Thobin // named after Tholin",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\4 - Thorbin\\0 - Thobin.cfg"
+  },
+  {
+    "name": "Asool // Named after Azule and Azuko",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\5 - Asool\\0 - Asool.cfg"
+  },
+  {
+    "name": "Mosmin",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\5 - Asool\\1 - Moxin.cfg"
+  },
+  {
+    "name": "Zatemin // named after Zate",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\6 - Zatemin\\0 - Zatemin.cfg"
+  },
+  {
+    "name": "Angaro",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\Minor Bodies\\0 - 14 Angaro\\0 - 14 Angaro.cfg"
+  },
+  {
+    "name": "Sandin",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\Minor Bodies\\1 - 1 Sandin\\0 - 1 Sandin.cfg"
+  },
+  {
+    "name": "Rhodilla",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\Minor Bodies\\2 - 31 Rhodilla\\0 - 31 Rhodilla.cfg"
+  },
+  {
+    "name": "Paladine",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\Minor Bodies\\3 - 3 Paladine\\0 - 3 Paladine.cfg"
+  },
+  {
+    "name": "UNKNOWN",
+    "filePath": "TFS\\Configs\\1 - Cherra System\\Minor Bodies\\4 - UNKNOWN\\0 - UNKNOWN.cfg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ablate",
+    "filePath": "SentarExpansion\\Ablate\\Ablate.cfg"
+  },
+  {
+    "name": "Ascension",
+    "filePath": "SentarExpansion\\Ascension\\Ascension.cfg"
+  },
+  {
+    "name": "Barney",
+    "filePath": "SentarExpansion\\Barney\\Barney.cfg"
+  },
+  {
+    "name": "Inaccessable",
+    "filePath": "SentarExpansion\\Inaccessible\\Inaccessible.cfg"
+  },
+  {
+    "name": "Joker",
+    "filePath": "SentarExpansion\\Joker\\Joker.cfg"
+  },
+  {
+    "name": "Erin",
+    "filePath": "SentarExpansion\\Sentar\\Moons\\Erin\\Erin.cfg"
+  },
+  {
+    "name": "Pock",
+    "filePath": "SentarExpansion\\Sentar\\Moons\\Erin\\Moons\\Pock\\pock.cfg"
+  },
+  {
+    "name": "Ringle",
+    "filePath": "SentarExpansion\\Sentar\\Moons\\Ringle\\RIngle.cfg"
+  },
+  {
+    "name": "Skelton",
+    "filePath": "SentarExpansion\\Sentar\\Moons\\Skelton\\Skelton.cfg"
+  },
+  {
+    "name": "Thud",
+    "filePath": "SentarExpansion\\Sentar\\Moons\\Thud\\Thud.cfg"
+  },
+  {
+    "name": "Sentar",
+    "filePath": "SentarExpansion\\Sentar\\Sentar.cfg"
+  },
+  {
+    "name": "Slade",
+    "filePath": "SentarExpansion\\Slade\\Slade.cfg"
+  }
+]

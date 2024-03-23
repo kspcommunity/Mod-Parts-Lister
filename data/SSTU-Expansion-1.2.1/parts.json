@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Double-DIRECT",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Data\\EngineLayouts\\Layout-02-Double-DIRECT.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\BDB-F1.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\BDB-H1C.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\BDB-H1D.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\BDB-J2.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\BDB-J2T.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\BDB-RL10.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_NK33.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_NK43.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_RD0120.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_RD0146.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_RD171.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_RD180.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Bobcat_RD191.cfg"
+  },
+  {
+    "name": "SSTU-SC-ENG-F1A",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\SC-ENG-F-1A.cfg"
+  },
+  {
+    "name": "SSTU-SC-ENG-HG-3",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\SC-ENG-HG-3.cfg"
+  },
+  {
+    "name": "SSTU-SC-ENG-J-2S",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\SC-ENG-J-2S.cfg"
+  },
+  {
+    "name": "SSTU-SC-ENG-M-1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\SC-ENG-M-1.cfg"
+  },
+  {
+    "name": "SSTUModularEngineCluster",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Engines\\Squad_Mainsail.cfg"
+  },
+  {
+    "name": "SSTU-LC2-POD-NDP",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\Pods.cfg"
+  },
+  {
+    "name": "IU-BDB-SIVB",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\ModelData-IU-BDB.cfg"
+  },
+  {
+    "name": "Mount-BDB-SI",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\ModelData-MFT-BDB-Adapters.cfg"
+  },
+  {
+    "name": "Tank-BDB-SI",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\ModelData-MFT-BDB-Tanks.cfg"
+  },
+  {
+    "name": "SC-BDB-SM1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\ModelData-SC-BDB-SM.cfg"
+  },
+  {
+    "name": "SSTU-SC-INTERSTAGE-MFT-BDB",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\SC-INTER-BDB.cfg"
+  },
+  {
+    "name": "SSTU-SC-IU-BDB",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\SC-IU-BDB.cfg"
+  },
+  {
+    "name": "SSTU-SC-TANK-MFT-BDB",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\SC-MFT-BDB.cfg"
+  },
+  {
+    "name": "SSTU-SC-BDB-SM2",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\SSTU-SC-B-SM4.cfg"
+  },
+  {
+    "name": "SSTU-SC-BDB-SM1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-BDB\\SSTU-SC-B-SM5.cfg"
+  },
+  {
+    "name": "SC-SDHI-SM",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-SDHI\\ModelData-SC-SDHI-SM.cfg"
+  },
+  {
+    "name": "SSTU-SC-B-SM2",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-SDHI\\SSTU-SC-B-SM2.cfg"
+  },
+  {
+    "name": "SSTU-SC-C-SM2",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-SDHI\\SSTU-SC-C-SM2.cfg"
+  },
+  {
+    "name": "SSTU-SC-B-SM2",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-SSTU\\ModelData-SC-SSTU-SM.cfg"
+  },
+  {
+    "name": "MFT-ADPT-Dome",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-SSTU\\ModelData-SC-TANK-DOME.cfg"
+  },
+  {
+    "name": "SSTU-SC-B-SM3",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\ShipCore\\SC-SSTU\\SSTU-SC-B-SM3.cfg"
+  },
+  {
+    "name": "Adapter-CX-2-1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\CxAerospace\\ModelData-ST-CX.cfg"
+  },
+  {
+    "name": "Adapter-KOSMOS-VA-LADDERLESS",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-KOSMOS\\ModelData-ST-KOSMOS.cfg"
+  },
+  {
+    "name": "SSTU-ST-KOSMOS-TKS",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-KOSMOS\\ST-KOSMOS.cfg"
+  },
+  {
+    "name": "ST-SKY-1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-SKY\\ModelData-ST-SKY.cfg"
+  },
+  {
+    "name": "SSTU-ST-SKY-1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-SKY\\ST-SKY-1.cfg"
+  },
+  {
+    "name": "SSTU-ST-SKY-2",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-SKY\\ST-SKY-2.cfg"
+  },
+  {
+    "name": "MFT-A-Saturn",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-SKY\\TextureSets-ST-SKY-2.cfg"
+  },
+  {
+    "name": "TANTARES-ADAPTER-SALYUT1",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-TANTARES\\ModelData-ST-ADPT-TANTARES.cfg"
+  },
+  {
+    "name": "ST-TANTARES-TKS",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-TANTARES\\ModelData-ST-TANTARES.cfg"
+  },
+  {
+    "name": "SSTU-ST-TANTARES-TKS",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-TANTARES\\ST-TANTARES.cfg"
+  },
+  {
+    "name": "ST-WBT-Skylab",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-WBT\\ModelData-ST-WBT.cfg"
+  },
+  {
+    "name": "ModuleScienceLab",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-WBT\\SSTU-Workshop.cfg"
+  },
+  {
+    "name": "SSTU-ST-WBT-Skylab",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\Parts\\StationCore\\ST-WBT\\ST-WBT-Skylab.cfg"
+  },
+  {
+    "name": "Adapter-Black",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\SSTU-Adapters-TextureSets.cfg"
+  },
+  {
+    "name": "Mount-Blue",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\SSTU-EngineMounts-TextureSets.cfg"
+  },
+  {
+    "name": "Nose-Black",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\SSTU-MFT-Nose-TextureSets.cfg"
+  },
+  {
+    "name": "MUS-Upper-Dome-Regular",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\SSTU-MUS-TextureSets.cfg"
+  },
+  {
+    "name": "ARES",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\SSTU-Skylab-Adapters-TextureSets.cfg"
+  },
+  {
+    "name": "MFT-A-Blue2-Stringers",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\TextureSets-MFT-AB.cfg"
+  },
+  {
+    "name": "MFT-A-Blue2-Stringers",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs\\TextureSets-MFT-C.cfg"
+  },
+  {
+    "name": "SSTUTextureSwitch",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-Orion\\SSTU-Orion-TextureSets.cfg"
+  },
+  {
+    "name": "Mount-White",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-R7\\SSTU-EngineMounts-TextureSets.cfg"
+  },
+  {
+    "name": "MFT-D-Green",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-R7\\SSTU-MFT-D-TextureSets.cfg"
+  },
+  {
+    "name": "SC-A-DM-Green",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-R7\\SSTU-Soyuz-TextureSets.cfg"
+  },
+  {
+    "name": "Mount-Tantares",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-Tantares\\SSTU-EngineMounts-TextureSets.cfg"
+  },
+  {
+    "name": "MFT-D-Tantares",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-Tantares\\SSTU-MFT-D-TextureSets.cfg"
+  },
+  {
+    "name": "SC-A-DM-Tantares",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-Tantares\\SSTU-Soyuz-TextureSets.cfg"
+  },
+  {
+    "name": "MFT-A-TANTARES",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-Tantares\\TextureSets-MFT-AB.cfg"
+  },
+  {
+    "name": "MFT-A-TANTARES",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\Configs-Tantares\\TextureSets-MFT-C.cfg"
+  },
+  {
+    "name": "Mount-Default",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\SSTU-EngineMount5-Base.cfg"
+  },
+  {
+    "name": "SSTUTextureSwitch",
+    "filePath": "SSTU-Expansion-1.2.1\\GameData\\SSTU-Expansion\\TextureSets\\SSTU-Soyuz-Base.cfg"
+  }
+]

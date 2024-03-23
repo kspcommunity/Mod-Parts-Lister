@@ -1,0 +1,54 @@
+[
+  {
+    "name": "F15DropTank",
+    "filePath": "Versus\\Config\\F15DT.cfg"
+  },
+  {
+    "name": "F15Fuselagecomplete",
+    "filePath": "Versus\\Config\\F15Fuselagecomplete.cfg"
+  },
+  {
+    "name": "F15Internal",
+    "filePath": "Versus\\Config\\F15Internal.cfg"
+  },
+  {
+    "name": "FAB-100Bomb",
+    "filePath": "Versus\\Config\\FAB-100bomb.cfg"
+  },
+  {
+    "name": "FAB-250Bomb",
+    "filePath": "Versus\\Config\\FAB-250bomb.cfg"
+  },
+  {
+    "name": "FAB-5000Bomb",
+    "filePath": "Versus\\Config\\FAB-5000bomb.cfg"
+  },
+  {
+    "name": "FAB-500Bomb",
+    "filePath": "Versus\\Config\\FAB-500bomb.cfg"
+  },
+  {
+    "name": "FrogInternal",
+    "filePath": "Versus\\Config\\FrogInternal.cfg"
+  },
+  {
+    "name": "MIG31Fuselage",
+    "filePath": "Versus\\Config\\MIG31Fuselage.cfg"
+  },
+  {
+    "name": "MIG31Internal",
+    "filePath": "Versus\\Config\\MIG31Internal.cfg"
+  },
+  {
+    "name": "PilotPitot",
+    "filePath": "Versus\\Config\\PilotPitot.cfg"
+  },
+  {
+    "name": "PilotPitotB",
+    "filePath": "Versus\\Config\\PilotPitotB.cfg"
+  },
+  {
+    "name": "Su25Frogfoot",
+    "filePath": "Versus\\Config\\Su25Frogfoot.cfg"
+  }
+]

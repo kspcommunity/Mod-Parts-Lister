@@ -1,0 +1,542 @@
+[
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "HabTech2_v1.0.0\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "HabTech2_v1.0.0\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "B10_APASv2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_APASv2.cfg"
+  },
+  {
+    "name": "B10_hybrid_female",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_hybrid_female.cfg"
+  },
+  {
+    "name": "B10_hybrid_male",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_hybrid_male.cfg"
+  },
+  {
+    "name": "B10_IDA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_IDA.cfg"
+  },
+  {
+    "name": "B10_NDS",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_NDS.cfg"
+  },
+  {
+    "name": "ht2_CBM",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\CBM\\ht2_CBM.cfg"
+  },
+  {
+    "name": "ht2_CBM_active1",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\CBM\\ht2_CBM_active1.cfg"
+  },
+  {
+    "name": "ht2_CBM_active2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\CBM\\ht2_CBM_active2.cfg"
+  },
+  {
+    "name": "benjee10_AJ10_v2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Parts\\Engines\\AJ10_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Patches\\waterfall_KJ10.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HabTech2_v1.0.0\\GameData\\Benjee10_sharedAssets\\Patches\\waterfall_KJ10_v2.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "HabTech2_v1.0.0\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ht2_beamIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_beamIVA.cfg"
+  },
+  {
+    "name": "ht2_cupolaIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_cupolaIVA.cfg"
+  },
+  {
+    "name": "ht2_destinyIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_destinyIVA.cfg"
+  },
+  {
+    "name": "ht2_genericMediumIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_genericMediumIVA.cfg"
+  },
+  {
+    "name": "ht2_genericShortIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_genericShortIVA.cfg"
+  },
+  {
+    "name": "ht2_harmonyIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_harmonyIVA.cfg"
+  },
+  {
+    "name": "ht2_kiboIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_kiboIVA.cfg"
+  },
+  {
+    "name": "ht2_orbIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_orbIVA.cfg"
+  },
+  {
+    "name": "ht2_questIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_questIVA.cfg"
+  },
+  {
+    "name": "ht2_sciNodeIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_sciNodeIVA.cfg"
+  },
+  {
+    "name": "ht2_unityIVA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Internals\\ht2_unityIVA.cfg"
+  },
+  {
+    "name": "ht2_cameraMast",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_cameraMast.cfg"
+  },
+  {
+    "name": "ht2_ELC",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_ELC.cfg"
+  },
+  {
+    "name": "ht2_ESP",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_ESP.cfg"
+  },
+  {
+    "name": "ht2_FPMU",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_FPMU.cfg"
+  },
+  {
+    "name": "ht2_JEM_ICS",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_JEM_ICS.cfg"
+  },
+  {
+    "name": "ht2_JEM_MCE",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_JEM_MCE.cfg"
+  },
+  {
+    "name": "ht2_JEM_NR",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_JEM_NR.cfg"
+  },
+  {
+    "name": "ht2_JEM_port",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_JEM_port.cfg"
+  },
+  {
+    "name": "ht2_JEM_SCI",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_JEM_SCI.cfg"
+  },
+  {
+    "name": "ht2_JEM_SEDA-AP",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_JEM_SEDA-AP.cfg"
+  },
+  {
+    "name": "ht2_S-band",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_S-band.cfg"
+  },
+  {
+    "name": "ht2_SGANT_boomFixed",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_SGANT_boomFixed.cfg"
+  },
+  {
+    "name": "ht2_SGANT_boomSwing",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_SGANT_boomSwing.cfg"
+  },
+  {
+    "name": "ht2_SGANT_dish",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_SGANT_dish.cfg"
+  },
+  {
+    "name": "ht2_SGANT_servo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_SGANT_servo.cfg"
+  },
+  {
+    "name": "ht2_UHF_antenna",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_UHF_antenna.cfg"
+  },
+  {
+    "name": "ht2_WETA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Greebles\\ht2_WETA.cfg"
+  },
+  {
+    "name": "ht2_BEAM",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_BEAM.cfg"
+  },
+  {
+    "name": "ht2_bishop",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_bishop.cfg"
+  },
+  {
+    "name": "ht2_handrail",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_handrail.cfg"
+  },
+  {
+    "name": "ht2_JEM_EF",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_JEM_EF.cfg"
+  },
+  {
+    "name": "ht2_moduleColumbus",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleColumbus.cfg"
+  },
+  {
+    "name": "ht2_moduleCupola",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleCupola.cfg"
+  },
+  {
+    "name": "ht2_moduleDestiny",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleDestiny.cfg"
+  },
+  {
+    "name": "ht2_moduleHarmony",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleHarmony.cfg"
+  },
+  {
+    "name": "ht2_moduleJEMlogistics",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleJEMlogistics.cfg"
+  },
+  {
+    "name": "ht2_moduleKibo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleKibo.cfg"
+  },
+  {
+    "name": "ht2_moduleLabNode",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleLabNode.cfg"
+  },
+  {
+    "name": "ht2_moduleQuest",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleQuest.cfg"
+  },
+  {
+    "name": "ht2_moduleUnity",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_moduleUnity.cfg"
+  },
+  {
+    "name": "ht2_MPLM",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_MPLM.cfg"
+  },
+  {
+    "name": "ht2_MPLM_half",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_MPLM_half.cfg"
+  },
+  {
+    "name": "ht2_orb",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_orb.cfg"
+  },
+  {
+    "name": "ht2_PMA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_PMA.cfg"
+  },
+  {
+    "name": "ht2_questPod",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_questPod.cfg"
+  },
+  {
+    "name": "ht2_questRack",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Modules\\ht2_questRack.cfg"
+  },
+  {
+    "name": "ht2_radialTrussPort",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_radialTrussPort.cfg"
+  },
+  {
+    "name": "ht2_radiatorTriple",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_radiatorTriple.cfg"
+  },
+  {
+    "name": "ht2_solarArray_duo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_solarArray_duo.cfg"
+  },
+  {
+    "name": "ht2_solarArray_solo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_solarArray_solo.cfg"
+  },
+  {
+    "name": "ht2_trussPort",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_trussPort.cfg"
+  },
+  {
+    "name": "ht2_truss_S0",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_truss_S0.cfg"
+  },
+  {
+    "name": "ht2_truss_S1",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_truss_S1.cfg"
+  },
+  {
+    "name": "ht2_truss_S2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_truss_S2.cfg"
+  },
+  {
+    "name": "ht2_truss_Z1",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\Deprecated\\ht2_truss_Z1.cfg"
+  },
+  {
+    "name": "ht2_AMS",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_AMS.cfg"
+  },
+  {
+    "name": "ht2_ATA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ATA.cfg"
+  },
+  {
+    "name": "ht2_battery",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_battery.cfg"
+  },
+  {
+    "name": "ht2_bipod_strut",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_bipod_strut.cfg"
+  },
+  {
+    "name": "ht2_CMG",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_CMG.cfg"
+  },
+  {
+    "name": "ht2_fuelModule",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_fuelModule.cfg"
+  },
+  {
+    "name": "ht2_iROSA",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_iROSA.cfg"
+  },
+  {
+    "name": "ht2_ITS_adapter",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_adapter.cfg"
+  },
+  {
+    "name": "ht2_ITS_half_short",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_half_short.cfg"
+  },
+  {
+    "name": "ht2_ITS_hex",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_hex.cfg"
+  },
+  {
+    "name": "ht2_ITS_hex_half",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_hex_half.cfg"
+  },
+  {
+    "name": "ht2_ITS_S0",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_S0.cfg"
+  },
+  {
+    "name": "ht2_ITS_S1",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_S1.cfg"
+  },
+  {
+    "name": "ht2_ITS_truss01",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_ITS_truss01.cfg"
+  },
+  {
+    "name": "ht2_MBS",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_MBS.cfg"
+  },
+  {
+    "name": "ht2_MT",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_MT.cfg"
+  },
+  {
+    "name": "ht2_MTS",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_MTS.cfg"
+  },
+  {
+    "name": "ht2_MTS_adapter",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_MTS_adapter.cfg"
+  },
+  {
+    "name": "ht2_P3_SAW",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_P3_SAW.cfg"
+  },
+  {
+    "name": "ht2_P6_SAW",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_P6_SAW.cfg"
+  },
+  {
+    "name": "ht2_propModule",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_propModule.cfg"
+  },
+  {
+    "name": "ht2_radialTrussPort",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_radialTrussPort.cfg"
+  },
+  {
+    "name": "ht2_radiatorTriple_v2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_radiatorTriple_v2.cfg"
+  },
+  {
+    "name": "ht2_S6_SAW",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_S6_SAW.cfg"
+  },
+  {
+    "name": "ht2_SAW_v2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_SAW_v2.cfg"
+  },
+  {
+    "name": "ht2_trussPort",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_trussPort.cfg"
+  },
+  {
+    "name": "ht2_truss_Z1_v2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_truss_Z1_v2.cfg"
+  },
+  {
+    "name": "ht2_TTS_circle",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_TTS_circle.cfg"
+  },
+  {
+    "name": "ht2_TTS_compact",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_TTS_compact.cfg"
+  },
+  {
+    "name": "ht2_TTS_hex",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_TTS_hex.cfg"
+  },
+  {
+    "name": "ht2_TTS_semiHex",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_TTS_semiHex.cfg"
+  },
+  {
+    "name": "ht2_TTS_standoff",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_TTS_standoff.cfg"
+  },
+  {
+    "name": "ht2_TTS_standoff_angle",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Parts\\Trusses\\ht2_TTS_standoff_angle.cfg"
+  },
+  {
+    "name": "HabTech2",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\CCK\\Category_CCK.cfg"
+  },
+  {
+    "name": "ModuleRestockLinkedMesh",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\Restock\\restock.cfg"
+  },
+  {
+    "name": "HabTechPanels",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\Shaddy\\shaddy.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\TAC\\ht2_TAC_LS.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\Waterfall\\HabTech2_waterfallPatches.cfg"
+  },
+  {
+    "name": "rcs",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\Waterfall\\Templates\\habtechRCS.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Patches\\Waterfall\\Templates\\waterfall-MMSEV-headlight.cfg"
+  },
+  {
+    "name": "ht2_02",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTech2\\Resources\\B9_tankTypes.cfg"
+  },
+  {
+    "name": "htProps_cabinet1x1",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_cabinetSystem.cfg"
+  },
+  {
+    "name": "htProps_CameraDSLR",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_Cameras.cfg"
+  },
+  {
+    "name": "htProps_cargoBag_small_white",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_cargoBags.cfg"
+  },
+  {
+    "name": "htProps_Handrail01",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_handrails.cfg"
+  },
+  {
+    "name": "htProps_HatchCBM",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_Hatches.cfg"
+  },
+  {
+    "name": "htProps_tubeLight",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_lights.cfg"
+  },
+  {
+    "name": "htProps_MFD_Nav",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_MFDs.cfg"
+  },
+  {
+    "name": "htProps_fireExtinguisher",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_misc.cfg"
+  },
+  {
+    "name": "htProps_seat_command",
+    "filePath": "HabTech2_v1.0.0\\GameData\\HabTechProps\\Props\\Configs\\htProps_Seats.cfg"
+  },
+  {
+    "name": "ht_C1_boom",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htC1boom.cfg"
+  },
+  {
+    "name": "ht_C1_elbow",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htC1elbow.cfg"
+  },
+  {
+    "name": "ht_C1_LEE",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htC1LEE.cfg"
+  },
+  {
+    "name": "ht_C1_pitch",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htC1pitch.cfg"
+  },
+  {
+    "name": "ht_C1_rotator",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htC1rotator.cfg"
+  },
+  {
+    "name": "ht_grappleFixture",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htGrappleFixture.cfg"
+  },
+  {
+    "name": "ht_grappleFixtureKibo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htGrappleFixtureKibo.cfg"
+  },
+  {
+    "name": "ht_PDGF",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\htPDGF.cfg"
+  },
+  {
+    "name": "ht_canadarm2_boom",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\ht_canadarm2_boom.cfg"
+  },
+  {
+    "name": "ht_canadarm2_LEE",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\ht_canadarm2_LEE.cfg"
+  },
+  {
+    "name": "ht_canadarm2_servo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\ht_canadarm2_servo.cfg"
+  },
+  {
+    "name": "ht_JEM_RMS_boom",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\ht_JEM_RMS_boom.cfg"
+  },
+  {
+    "name": "ht_JEM_RMS_servo",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Parts\\ht_JEM_RMS_servo.cfg"
+  },
+  {
+    "name": "ModuleIRServo_v3",
+    "filePath": "HabTech2_v1.0.0\\GameData\\htRobotics\\Patches\\IR_next.cfg"
+  }
+]

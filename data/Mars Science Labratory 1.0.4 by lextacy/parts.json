@@ -1,0 +1,18 @@
+[
+  {
+    "name": "backshell",
+    "filePath": "Mars Science Labratory 1.0.4 by lextacy\\GameData\\MSL\\backshell.cfg"
+  },
+  {
+    "name": "MSL_Cruise_Stage",
+    "filePath": "Mars Science Labratory 1.0.4 by lextacy\\GameData\\MSL\\cruise_stage.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "Mars Science Labratory 1.0.4 by lextacy\\GameData\\MSL\\ROpatch.cfg"
+  },
+  {
+    "name": "shield",
+    "filePath": "Mars Science Labratory 1.0.4 by lextacy\\GameData\\MSL\\shield.cfg"
+  }
+]

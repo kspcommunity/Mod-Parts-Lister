@@ -1,0 +1,66 @@
+[
+  {
+    "name": "RCS1",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS1.cfg"
+  },
+  {
+    "name": "RCS12R4",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS12R4.cfg"
+  },
+  {
+    "name": "RCS2",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS2.cfg"
+  },
+  {
+    "name": "RCS2A2",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS2A2.cfg"
+  },
+  {
+    "name": "RCS2R1",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS2R1.cfg"
+  },
+  {
+    "name": "RCS3",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS3.cfg"
+  },
+  {
+    "name": "RCS3A2",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS3A2.cfg"
+  },
+  {
+    "name": "RCS3R1-A",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS3R1-A.cfg"
+  },
+  {
+    "name": "RCS3R1-B",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS3R1-B.cfg"
+  },
+  {
+    "name": "RCS4",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS4.cfg"
+  },
+  {
+    "name": "RCS4A2",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS4A2.cfg"
+  },
+  {
+    "name": "RCS4A4",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS4A4.cfg"
+  },
+  {
+    "name": "RCS5R1",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS5R1.cfg"
+  },
+  {
+    "name": "RCS6R2",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS6R2.cfg"
+  },
+  {
+    "name": "RCS8",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS8.cfg"
+  },
+  {
+    "name": "RCS8A4",
+    "filePath": "StandardPropulsionSystems_1.0.6\\Gamedata\\SPS\\Parts\\Control\\RCS8A4.cfg"
+  }
+]

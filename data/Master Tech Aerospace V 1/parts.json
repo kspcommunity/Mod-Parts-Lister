@@ -1,0 +1,94 @@
+[
+  {
+    "name": "EagleInternal_RPM",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\mta_RPM.cfg"
+  },
+  {
+    "name": "f15CockpitSingleSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\F15 Single Seat\\F15 Single Seat.cfg"
+  },
+  {
+    "name": "f15CockpitTwoSeats",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\F15 Two Seat\\F15 Two Seat.cfg"
+  },
+  {
+    "name": "f18CockpitSingleSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\F18 Single Seat\\F18CockpitSingleSeat.cfg"
+  },
+  {
+    "name": "f18CockpitTwoSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\F18 Two Seat\\F18CockpitTwoSeat.cfg"
+  },
+  {
+    "name": "f22CockpitSingleSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\F22 Single Seat\\F-22 Single Seat.cfg"
+  },
+  {
+    "name": "f22CockpitTwoSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\F22 Two Seat\\F-22 Two Seat.cfg"
+  },
+  {
+    "name": "mtaf1CockpitSingleSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\MTA F-1 Single Seat\\F-1 Single Seat.cfg"
+  },
+  {
+    "name": "mtaf1CockpitTwoSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\MTA F-1 Two Seat\\F-1 Cockpit Two Seat.cfg"
+  },
+  {
+    "name": "mtaf5CockpitSingleSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\MTA F-5 Single Seat\\MTA F-5 Single Seat.cfg"
+  },
+  {
+    "name": "mtaf5CockpitTwoSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\MTA F-5 Two Seat\\MTA F-5 Two Seat.cfg"
+  },
+  {
+    "name": "su27CockpitSingleSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\SU-27 Single Seat\\su27Cockpit.cfg"
+  },
+  {
+    "name": "su27CockpitTwoSeat",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Command\\SU-27 Two Seat\\su27Cockpit.cfg"
+  },
+  {
+    "name": "mk1ToMk1AdapterWithIntakes",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Fuel\\Mk1 to Mk1 with intakes\\Mk1ToMk1AdapterWithIntakes.cfg"
+  },
+  {
+    "name": "mk2ToMk1AdapterWithAttachment",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Fuel\\Mk2 To Mk1 Adapter With Attachment\\Mk2ToMk1AdapterWithAttachment.cfg"
+  },
+  {
+    "name": "mk2Tomk2AdapterWithIntakes",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Fuel\\Mk2 To Mk1 Adapter With Intakes\\mtaAdapterWithIntakes.cfg"
+  },
+  {
+    "name": "su27Adapter",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\MTA Stock-a-like\\Parts\\Fuel\\SU27\\su27Adapter.cfg"
+  },
+  {
+    "name": "QTSquareButtonCockpitLight",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\QuizTechAero\\Props\\Buttons.cfg"
+  },
+  {
+    "name": "EagleInternal",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\QuizTechAero\\Spaces\\Eagle\\EagleInternal.cfg"
+  },
+  {
+    "name": "EagleInternal_RPM",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\QuizTechAero\\Spaces\\Eagle\\EagleInternalRPM.cfg"
+  },
+  {
+    "name": "ThunderboltIVA",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternal.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_B9",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternalB9.cfg"
+  },
+  {
+    "name": "ThunderboltIVA_RPM",
+    "filePath": "Master Tech Aerospace V 1\\Game Data\\QuizTechAero\\Spaces\\Thunderbolt\\thunderboltInternalRPM.cfg"
+  }
+]

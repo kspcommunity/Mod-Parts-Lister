@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alcoroa",
+    "filePath": "Atoren\\Alcoroa.cfg"
+  },
+  {
+    "name": "Arens",
+    "filePath": "Atoren\\Arens.cfg"
+  },
+  {
+    "name": "Atoren",
+    "filePath": "Atoren\\Atoren.cfg"
+  },
+  {
+    "name": "Atoren",
+    "filePath": "Atoren\\Atoren_DistantObjectEnhancements.cfg"
+  },
+  {
+    "name": "Emini",
+    "filePath": "Atoren\\Emini.cfg"
+  },
+  {
+    "name": "Emuna",
+    "filePath": "Atoren\\Emuna.cfg"
+  },
+  {
+    "name": "Eneyi",
+    "filePath": "Atoren\\Eneyi.cfg"
+  },
+  {
+    "name": "Maihy",
+    "filePath": "Atoren\\Maihy.cfg"
+  },
+  {
+    "name": "Tuyro",
+    "filePath": "Atoren\\Tuyro.cfg"
+  }
+]

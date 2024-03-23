@@ -8,11 +8,19 @@
     "filePath": "JSat\\MM_B9Patches.cfg"
   },
   {
+    "name": "JSatElectroWall",
+    "filePath": "JSat\\Parts\\ElectroSatWall.cfg"
+  },
+  {
     "name": "JSatFrame",
     "filePath": "JSat\\Parts\\SatFrame.cfg"
   },
   {
     "name": "JSatWall",
     "filePath": "JSat\\Parts\\SatWall.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "JSat\\ZZZZ_TU_JSat.cfg"
   }
 ]

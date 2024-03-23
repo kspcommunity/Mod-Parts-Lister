@@ -8,6 +8,22 @@
     "filePath": "KerbalGalaxy\\BlackHole\\Particles.cfg"
   },
   {
+    "name": "Wormhole",
+    "filePath": "KerbalGalaxy\\Compatibilities\\KG3_DistantObject.cfg"
+  },
+  {
+    "name": "Sun",
+    "filePath": "KerbalGalaxy\\Compatibilities\\KG3_PlanetShine.cfg"
+  },
+  {
+    "name": "KG3",
+    "filePath": "KerbalGalaxy\\Compatibilities\\KG3_ResearchBodies.cfg"
+  },
+  {
+    "name": "ModuleTrackBodies",
+    "filePath": "KerbalGalaxy\\Compatibilities\\KG3_TST.cfg"
+  },
+  {
     "name": "Eravate",
     "filePath": "KerbalGalaxy\\Eravate System\\System.cfg"
   },
@@ -24,6 +40,134 @@
     "filePath": "KerbalGalaxy\\Gargantua System\\System.cfg"
   },
   {
+    "name": "Abaddon",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Abaddon System\\Abaddon.cfg"
+  },
+  {
+    "name": "Aphrodite",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Abaddon System\\Aphrodite.cfg"
+  },
+  {
+    "name": "Icy",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Abaddon System\\Icy.cfg"
+  },
+  {
+    "name": "Nix",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Abaddon System\\Nix.cfg"
+  },
+  {
+    "name": "Violetta",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Abaddon System\\Violetta.cfg"
+  },
+  {
+    "name": "Eden",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Eravate System\\Eden.cfg"
+  },
+  {
+    "name": "Eravate",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Eravate System\\Eravate.cfg"
+  },
+  {
+    "name": "Sehera",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Eravate System\\Sehera.cfg"
+  },
+  {
+    "name": "Gargantua",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Gargantua System\\Gargantua.cfg"
+  },
+  {
+    "name": "Mann",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Gargantua System\\MannsPlanet.cfg"
+  },
+  {
+    "name": "Miller",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Gargantua System\\MillersPlanet.cfg"
+  },
+  {
+    "name": "WHL1025",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Gargantua System\\WormHoleV1025.cfg"
+  },
+  {
+    "name": "Kerbol",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Kerbal System\\Kerbol.cfg"
+  },
+  {
+    "name": "WHL0125",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Kerbal System\\WormHoleL0125.cfg"
+  },
+  {
+    "name": "Nix",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\KG3_Asteroids.cfg"
+  },
+  {
+    "name": "Dryking",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Nim System\\Dryking.cfg"
+  },
+  {
+    "name": "Grorth",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Nim System\\Grorth.cfg"
+  },
+  {
+    "name": "Nim",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Nim System\\Nim.cfg"
+  },
+  {
+    "name": "Aelion",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Oblok System\\Aelion.cfg"
+  },
+  {
+    "name": "Oblok",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Oblok System\\Oblok.cfg"
+  },
+  {
+    "name": "Phoenix",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Oblok System\\Phoenix.cfg"
+  },
+  {
+    "name": "Sunflower",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Oblok System\\Sunflower.cfg"
+  },
+  {
+    "name": "Ida",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Osiris System\\Ida.cfg"
+  },
+  {
+    "name": "Isus",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Osiris System\\Isus.cfg"
+  },
+  {
+    "name": "Osiris",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Osiris System\\Osiris.cfg"
+  },
+  {
+    "name": "Rocko",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Osiris System\\Rocko.cfg"
+  },
+  {
+    "name": "Volco",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Osiris System\\Volco.cfg"
+  },
+  {
+    "name": "Cite",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Polaris System\\Cite.cfg"
+  },
+  {
+    "name": "Hoth",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Polaris System\\Hoth.cfg"
+  },
+  {
+    "name": "Pandora",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Polaris System\\Pandora.cfg"
+  },
+  {
+    "name": "Polaris",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Polaris System\\Polaris.cfg"
+  },
+  {
+    "name": "Ryla",
+    "filePath": "KerbalGalaxy\\KopernicusConfigs\\Polaris System\\Ryla.cfg"
+  },
+  {
     "name": "Nim",
     "filePath": "KerbalGalaxy\\Nim System\\System.cfg"
   },
@@ -34,6 +178,10 @@
   {
     "name": "Osiris",
     "filePath": "KerbalGalaxy\\Osiris System\\System.cfg"
+  },
+  {
+    "name": "Sun",
+    "filePath": "KerbalGalaxy\\Other\\BlackHoles.cfg"
   },
   {
     "name": "Polaris",

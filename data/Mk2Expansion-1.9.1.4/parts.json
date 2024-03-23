@@ -1,0 +1,590 @@
+[
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Mk2Expansion-1.9.1.4\\Extras\\Mk2Expansion\\Patches\\M2X_ScaledScramjet.cfg"
+  },
+  {
+    "name": "ThermalPower",
+    "filePath": "Mk2Expansion-1.9.1.4\\Extras\\Mk2Expansion\\Patches\\Mk2X_NTJ_decay.cfg"
+  },
+  {
+    "name": "MultiModeEngine",
+    "filePath": "Mk2Expansion-1.9.1.4\\Extras\\Mk2Expansion\\Patches\\Mk2X_RontgenFuelSwap.cfg"
+  },
+  {
+    "name": "ModuleGimbal",
+    "filePath": "Mk2Expansion-1.9.1.4\\Extras\\Mk2Expansion\\Patches\\Mk2X_VTOLGimbals.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "Insanity Aerospace",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "M2X_InlineIntake",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\AdapterIntake\\part.cfg"
+  },
+  {
+    "name": "M2X_AeroIntake",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\AeroIntake\\part.cfg"
+  },
+  {
+    "name": "M2X_ChineStandard",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Chines.cfg"
+  },
+  {
+    "name": "M2X_ChineLong",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\ChinesLong.cfg"
+  },
+  {
+    "name": "M2X_ChineShort",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\ChinesShort.cfg"
+  },
+  {
+    "name": "M2X_ChineCap",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Legacy\\End.cfg"
+  },
+  {
+    "name": "M2X_ChineLong",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Legacy\\Long.cfg"
+  },
+  {
+    "name": "M2X_RootChineAdapter",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Legacy\\Radapter.cfg"
+  },
+  {
+    "name": "M2X_RootChineLong",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Legacy\\RLong.cfg"
+  },
+  {
+    "name": "M2X_RootChineShort",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Legacy\\RShort.cfg"
+  },
+  {
+    "name": "M2X_ChineShort",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Chines\\Legacy\\Short.cfg"
+  },
+  {
+    "name": "M2X_circularintake",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\CircularIntake\\part.cfg"
+  },
+  {
+    "name": "M2X_EngineShroud",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\EngineShroud\\part.cfg"
+  },
+  {
+    "name": "M2X_MantaIntake",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\MantaIntake\\part.cfg"
+  },
+  {
+    "name": "Mk1Chinecap",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\mk1Chines\\cap.cfg"
+  },
+  {
+    "name": "Mk1ChineLong",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\mk1Chines\\Long.cfg"
+  },
+  {
+    "name": "Mk1ChineShort",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\mk1Chines\\Short.cfg"
+  },
+  {
+    "name": "M2X_Precooler",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\Precooler\\part.cfg"
+  },
+  {
+    "name": "M2X_Shockcone",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\ShockCone\\part.cfg"
+  },
+  {
+    "name": "M2X_Tailboom",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Aero\\tailboom\\part.cfg"
+  },
+  {
+    "name": "M2X_DropshipCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Command\\Angler\\part.cfg"
+  },
+  {
+    "name": "M2X_BladeCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Command\\Blade\\part.cfg"
+  },
+  {
+    "name": "M2X_TunaCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Command\\Fishhead\\part.cfg"
+  },
+  {
+    "name": "M2X_RavenCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Command\\Raven\\part.cfg"
+  },
+  {
+    "name": "M2X_ViperCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Command\\Viper\\part.cfg"
+  },
+  {
+    "name": "M2X_RATO",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\AASRB\\Radial.cfg"
+  },
+  {
+    "name": "M2X_RadialAASRB",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\AASRB\\RadialL.cfg"
+  },
+  {
+    "name": "M2X_LinearAerospike",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Aerospike\\part.cfg"
+  },
+  {
+    "name": "M2X_RocketEngineAtmo",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\AtmoEngine\\part.cfg"
+  },
+  {
+    "name": "M2X_AugmentedRocket",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\AugmentedRocket\\part.cfg"
+  },
+  {
+    "name": "M2X_ESTOCv2",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\ESTOC\\part.cfg"
+  },
+  {
+    "name": "M2X_IonEngine",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\IonEngine\\part.cfg"
+  },
+  {
+    "name": "M2X_Jumpjet",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\JumpJet\\part.cfg"
+  },
+  {
+    "name": "M2X_FuselageRVTOLE",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\LanderEngine\\part.cfg"
+  },
+  {
+    "name": "M2X_ESTOC",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Legacy\\ESTOC\\part.cfg"
+  },
+  {
+    "name": "M2X_MATTOCK",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Legacy\\MATTOCK\\Legacy.cfg"
+  },
+  {
+    "name": "M2X_FuselageLiftFan",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\LiftFan\\fuselage.cfg"
+  },
+  {
+    "name": "M2X_LiftFan",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\LiftFan\\stack.cfg"
+  },
+  {
+    "name": "M2X_MATTOCKv2",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\MATTOCK\\mattock.cfg"
+  },
+  {
+    "name": "M2X_Pegasus",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Pegasus\\part.cfg"
+  },
+  {
+    "name": "M2X_Pluto",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Pluto\\part.cfg"
+  },
+  {
+    "name": "M2X_Ramjet",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Ramjet\\part.cfg"
+  },
+  {
+    "name": "M2X_AtomicJet",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Rontgen\\part.cfg"
+  },
+  {
+    "name": "M2X_SCRamjet",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\SCRamjet\\part.cfg"
+  },
+  {
+    "name": "M2X_Siddeley",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Siddeley\\part.cfg"
+  },
+  {
+    "name": "M2X_Turbofan",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Turbofan\\legacy.cfg"
+  },
+  {
+    "name": "M2X_TurbofanMk2",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Turbofan\\part.cfg"
+  },
+  {
+    "name": "M2X_Turbojet",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Turbojet\\part.cfg"
+  },
+  {
+    "name": "M2X_Turboprop",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\Turboprop\\part.cfg"
+  },
+  {
+    "name": "M2X_RocketEngine",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\VacEngine\\part.cfg"
+  },
+  {
+    "name": "M2X_HeavyVTOL",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Engines\\VTOL\\Part.cfg"
+  },
+  {
+    "name": "M2X_Shortbicoupler",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\Bicoupler\\part.cfg"
+  },
+  {
+    "name": "M2X_HypersonicNose",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\HypersonicNose\\part.cfg"
+  },
+  {
+    "name": "M2X_InverterFuselage",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\Inverter\\part.cfg"
+  },
+  {
+    "name": "M2X_linearTricoupler",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\LinearTricoupler\\part.cfg"
+  },
+  {
+    "name": "M2X_Mk2bicoupler",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\Mk2Bicoupler\\part.cfg"
+  },
+  {
+    "name": "M2X_SupersonicNose",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\Nosecap\\part.cfg"
+  },
+  {
+    "name": "M2X_UST",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\ServiceTank\\part.cfg"
+  },
+  {
+    "name": "M2X_Short25adapter",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\size2adapter\\part.cfg"
+  },
+  {
+    "name": "M2X_SlantAdapterS",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\SlantAdapter\\adapters.cfg"
+  },
+  {
+    "name": "M2X_SpadeTail",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\SpadeTail\\part.cfg"
+  },
+  {
+    "name": "M2X_625tricoupler",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\FuelTank\\Tricoupler\\part.cfg"
+  },
+  {
+    "name": "M2X_Decoupler",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\Decoupler\\part.cfg"
+  },
+  {
+    "name": "M2X_Endcap",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\Endcap\\part.cfg"
+  },
+  {
+    "name": "M2X_LHub",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\Hubs\\LHub.cfg"
+  },
+  {
+    "name": "M2X_THub",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\Hubs\\THub.cfg"
+  },
+  {
+    "name": "M2X_XHub",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\Hubs\\XHub.cfg"
+  },
+  {
+    "name": "M2X_RadialMountA",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\RadialMount\\RadialA.cfg"
+  },
+  {
+    "name": "M2X_RadialMountB",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\RadialMount\\RadialB.cfg"
+  },
+  {
+    "name": "M2X_StructuralAdapterLong",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\StructuralTube\\adapterl.cfg"
+  },
+  {
+    "name": "M2X_StructuralAdapterS",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\StructuralTube\\adapters.cfg"
+  },
+  {
+    "name": "M2X_StructuralTube",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Structural\\StructuralTube\\part.cfg"
+  },
+  {
+    "name": "M2X_AligningDockingPort",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\AlignedDockingPort\\part.cfg"
+  },
+  {
+    "name": "M2X_Mk2BatteryBank",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\Battery\\part.cfg"
+  },
+  {
+    "name": "M2X_cargoContainer",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\CargoTank\\part.cfg"
+  },
+  {
+    "name": "M2X_ShieldedDockingPort",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\DockingPort\\part.cfg"
+  },
+  {
+    "name": "M2X_SmallLab",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\Lab\\part.cfg"
+  },
+  {
+    "name": "M2X_RadialLeg",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\LandingLeg\\RadialLeg.cfg"
+  },
+  {
+    "name": "M2X_LongCabin",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\LongCabin\\part.cfg"
+  },
+  {
+    "name": "M2X_Nosebay",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\Nosebay\\part.cfg"
+  },
+  {
+    "name": "M2X_OMSpod",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\OMS\\omsEngine.cfg"
+  },
+  {
+    "name": "M2X_PoddedRadiator",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\Radiator\\part.cfg"
+  },
+  {
+    "name": "M2X_ACSBlister",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\ACSBlister.cfg"
+  },
+  {
+    "name": "M2X_FF5WayRCS",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\FF5Way.cfg"
+  },
+  {
+    "name": "M2X_RCRCS",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\Legacy\\CBlock.cfg"
+  },
+  {
+    "name": "M2X_PGRCS",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\Legacy\\EBlock.cfg"
+  },
+  {
+    "name": "M2X_OMSBlister",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\OMSBlister.cfg"
+  },
+  {
+    "name": "M2X_RCSBlister",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\RCSBlister.cfg"
+  },
+  {
+    "name": "M2X_RCSChine",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\RCSChine.cfg"
+  },
+  {
+    "name": "M2X_SCRCS",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\RCS\\StabilityControl.cfg"
+  },
+  {
+    "name": "M2X_Reactor",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\Reactor\\part.cfg"
+  },
+  {
+    "name": "M2X_Servicebay",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\ServiceBay\\part.cfg"
+  },
+  {
+    "name": "M2X_SolarpanelPod",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Parts\\Utility\\SolarPanel\\part.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_CLS.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_KA.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_RealPlumeStock.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_RPM.cfg"
+  },
+  {
+    "name": "DropshipCockpitASET",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_RPM_ASET.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-fan-1.cfg"
+  },
+  {
+    "name": "spikeFlameInner",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-hydrolox-aerospike.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-kerozine-afterburner-2.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-kerozine-afterburner.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-kerozine-turbofan-1.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-kerozine-turbofan-2.cfg"
+  },
+  {
+    "name": "Plume",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X-methane-jet-2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\M2X_Waterfall\\Mk2X_Waterfall.cfg"
+  },
+  {
+    "name": "USI_SwapController",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\MK2-USILS.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_AtmIntake.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_BansheeFuelSwap.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_DRE.cfg"
+  },
+  {
+    "name": "ExWorkshop",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_EPL.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_FuelTankSwitch.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_MFT.cfg"
+  },
+  {
+    "name": "ModuleResourceDistributor",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_MKS.cfg"
+  },
+  {
+    "name": "ModuleUpdateOverride",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_NFE_Functionality.cfg"
+  },
+  {
+    "name": "ModuleSystemHeat",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_SystemHeat.cfg"
+  },
+  {
+    "name": "TRReflection",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Patches\\Mk2X_WindowShine.cfg"
+  },
+  {
+    "name": "FanIntakeAir",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Resources\\Resources.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Resources\\TankTypes.cfg"
+  },
+  {
+    "name": "DropshipCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\AnglerPit\\internal.cfg"
+  },
+  {
+    "name": "DropshipCockpit_RPM",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\AnglerPit\\internalRPM.cfg"
+  },
+  {
+    "name": "DropshipCockpitASET",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\AnglerPit\\internal_ASET.cfg"
+  },
+  {
+    "name": "BladeCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\BladePit\\internal.cfg"
+  },
+  {
+    "name": "BladeCockpitASET",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\BladePit\\internal_ASET.cfg"
+  },
+  {
+    "name": "BladeCockpitRPM",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\BladePit\\internal_RPM.cfg"
+  },
+  {
+    "name": "M2XLabInternal",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\CrewedLab\\4Seatinternal.cfg"
+  },
+  {
+    "name": "M2XLabInternal",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\CrewedLab\\internal.cfg"
+  },
+  {
+    "name": "M2XLongCabin",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\LongCabin\\internal.cfg"
+  },
+  {
+    "name": "RavenCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\RavenPit\\internal.cfg"
+  },
+  {
+    "name": "ASET_RavenCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\RavenPit\\internal_ASET.cfg"
+  },
+  {
+    "name": "RPM_RavenCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\RavenPit\\internal_RPM.cfg"
+  },
+  {
+    "name": "TunaCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\TunaPit\\internal.cfg"
+  },
+  {
+    "name": "TunaCockpitASET",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\TunaPit\\internal_ASET.cfg"
+  },
+  {
+    "name": "ViperCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\ViperPit\\internal.cfg"
+  },
+  {
+    "name": "ASET_ViperCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\ViperPit\\internal_ASET.cfg"
+  },
+  {
+    "name": "RPM_ViperCockpit",
+    "filePath": "Mk2Expansion-1.9.1.4\\GameData\\Mk2Expansion\\Spaces\\ViperPit\\internal_RPM.cfg"
+  }
+]

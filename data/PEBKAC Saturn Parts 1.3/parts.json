@@ -1,0 +1,42 @@
+[
+  {
+    "name": "PEBKAC Heavy Industries",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "pebkac_mini_Fin",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Aero\\SaturnFins\\pebkac_mini_Fin.cfg"
+  },
+  {
+    "name": "pebkac_S1C_Fin",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Aero\\SaturnFins\\pebkac_S1C_Fin.cfg"
+  },
+  {
+    "name": "pebkac_F1_Center",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Engine\\RocketdyneF1\\pebkac_F1 - Center.cfg"
+  },
+  {
+    "name": "pebkac_F1",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Engine\\RocketdyneF1\\pebkac_F1.cfg"
+  },
+  {
+    "name": "pebkac_F1_mini_C",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Engine\\RocketdyneF1\\pebkac_F1_mini - Center.cfg"
+  },
+  {
+    "name": "pebkac_F1_mini",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Engine\\RocketdyneF1\\pebkac_F1_mini.cfg"
+  },
+  {
+    "name": "pebkac_S1C",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Saturn\\S1C\\pebkac_S1C.cfg"
+  },
+  {
+    "name": "pkE5_Thrust",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Structural\\SaturnThrustStructure\\pebkac_E5_Thrust.cfg"
+  },
+  {
+    "name": "pkSaturn1C_Thrust",
+    "filePath": "PEBKAC Saturn Parts 1.3\\GameData\\Pebkac\\Parts\\Structural\\SaturnThrustStructure\\pebkac_S1C_Thrust.cfg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CapellaAdaptor",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\Capella Adaptor.cfg"
+  },
+  {
+    "name": "CapellaEngine1",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\CapellaEngine.cfg"
+  },
+  {
+    "name": "CapellaExperiment1",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\CapellaExperiment1.cfg"
+  },
+  {
+    "name": "CapellaExperiment2",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\CapellaExperiment2.cfg"
+  },
+  {
+    "name": "CapellaExperiment3",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\CapellaExperiment3.cfg"
+  },
+  {
+    "name": "CapellaFin1",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\CapellaFin1.cfg"
+  },
+  {
+    "name": "TitovEngine1",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\TitovEngine1.cfg"
+  },
+  {
+    "name": "TitovFin1",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\TitovFin1.cfg"
+  },
+  {
+    "name": "TitovNoseCone",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\TitovNoseCone.cfg"
+  },
+  {
+    "name": "TitovProbeCore",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\TitovProbeCore.cfg"
+  },
+  {
+    "name": "TitovTank1",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\TitovTank1.cfg"
+  },
+  {
+    "name": "TitovTank2",
+    "filePath": "CompletelyNonAggressiveRocketry\\CNAR\\Parts\\V2\\TitovTank2.cfg"
+  }
+]

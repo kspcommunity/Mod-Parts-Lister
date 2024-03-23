@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BlueDrill",
+    "filePath": "The_Blue_Drill_Redrilled\\Parts\\gasdrill\\RadialDrill.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "The_Blue_Drill_Redrilled\\Patches\\Scanning.cfg"
+  }
+]

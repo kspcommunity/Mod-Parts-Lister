@@ -1,0 +1,42 @@
+[
+  {
+    "name": "airlock",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\Airlock\\airlock.cfg"
+  },
+  {
+    "name": "DomeFloor",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\DomeFloor\\DomeFloor.cfg"
+  },
+  {
+    "name": "DomeFloorLarge",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\DomeFloorLarge\\DomeFloorLarge.cfg"
+  },
+  {
+    "name": "DomeHex",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\DomeHex\\DomeHex.cfg"
+  },
+  {
+    "name": "DomeHexl",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\DomeHexl\\DomeHexl.cfg"
+  },
+  {
+    "name": "dome_large",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\DomeLarge\\dome_large.cfg"
+  },
+  {
+    "name": "dome_small",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\DomeSmall\\dome_small.cfg"
+  },
+  {
+    "name": "tunnel",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\Tunnel\\tunnel.cfg"
+  },
+  {
+    "name": "Machinery",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Parts\\USI_LS_patch.cfg"
+  },
+  {
+    "name": "Thrimm Aerospace",
+    "filePath": "PlanetaryDomes_v.091\\PlanetaryDomes\\Resources\\Agents_TAS.cfg"
+  }
+]

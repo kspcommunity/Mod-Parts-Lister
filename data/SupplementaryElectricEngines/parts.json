@@ -1,0 +1,58 @@
+[
+  {
+    "name": "FEEPPlume1",
+    "filePath": "SupplementaryElectricEngines\\Compatibility\\FEEP waterfall.cfg"
+  },
+  {
+    "name": "griddedPlume1",
+    "filePath": "SupplementaryElectricEngines\\Compatibility\\pulsed plasma waterfall.cfg"
+  },
+  {
+    "name": "plumeEffect1",
+    "filePath": "SupplementaryElectricEngines\\Compatibility\\resistojet rcs waterfall.cfg"
+  },
+  {
+    "name": "plumeEffect1",
+    "filePath": "SupplementaryElectricEngines\\Compatibility\\resistojet waterfall.cfg"
+  },
+  {
+    "name": "PPT_22",
+    "filePath": "SupplementaryElectricEngines\\Parts\\Engine\\PPT_22.cfg"
+  },
+  {
+    "name": "PPT_33",
+    "filePath": "SupplementaryElectricEngines\\Parts\\Engine\\PPT_33.cfg"
+  },
+  {
+    "name": "rj_engine_big",
+    "filePath": "SupplementaryElectricEngines\\Parts\\Engine\\rj_engine_big.cfg"
+  },
+  {
+    "name": "rj_engine_small",
+    "filePath": "SupplementaryElectricEngines\\Parts\\Engine\\rj_engine_small.cfg"
+  },
+  {
+    "name": "SEE_FEEP_engine",
+    "filePath": "SupplementaryElectricEngines\\Parts\\Engine\\SEE_FEEP_engine.cfg"
+  },
+  {
+    "name": "see_indiumTank_0625",
+    "filePath": "SupplementaryElectricEngines\\Parts\\FuelTanks\\see_indiumTank_0625.cfg"
+  },
+  {
+    "name": "see_indiumTank_125",
+    "filePath": "SupplementaryElectricEngines\\Parts\\FuelTanks\\see_indiumTank_125.cfg"
+  },
+  {
+    "name": "see_indiumTank_radial",
+    "filePath": "SupplementaryElectricEngines\\Parts\\FuelTanks\\see_indiumTank_radial.cfg"
+  },
+  {
+    "name": "SEE_rj_rcs",
+    "filePath": "SupplementaryElectricEngines\\Parts\\RCS\\SEE_rj_rcs.cfg"
+  },
+  {
+    "name": "LiquidIndium",
+    "filePath": "SupplementaryElectricEngines\\Resources\\SEE_indium.cfg"
+  }
+]

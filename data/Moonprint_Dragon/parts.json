@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MP_DRAGON",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON\\DRAGON\\DRAGON.cfg"
+  },
+  {
+    "name": "MP_DRAGON375",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON\\DRAGON375\\DRAGON375.cfg"
+  },
+  {
+    "name": "DRAGON_HEATSHIELD",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON\\SHIELD\\DRAGON_SHIELD.cfg"
+  },
+  {
+    "name": "DRAGON_HEATSHIELD375",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON\\SHIELD375\\DRAGON_SHIELD375.cfg"
+  },
+  {
+    "name": "MP_DRAGONTRUNK",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON\\TRUNK\\DRAGON_TRUNK.cfg"
+  },
+  {
+    "name": "MP_DRAGONTRUNK375",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON\\TRUNK375\\DRAGON_TRUNK375.cfg"
+  },
+  {
+    "name": "CARGO_ADAPTERDECOUP",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON_CARGO\\ADAPTER\\CARGO_ADAPTER.cfg"
+  },
+  {
+    "name": "MP_DRAGON_CARGO",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON_CARGO\\CAPSULE\\CARGO_CAP.cfg"
+  },
+  {
+    "name": "DRAGON_NOSECONE",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON_CARGO\\NOSE\\CARGO_NOSE.cfg"
+  },
+  {
+    "name": "CARGO_SOLCOVER",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON_CARGO\\SOLAR_COVER\\SOLAR_COVER.cfg"
+  },
+  {
+    "name": "CARGO_TRUNK",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\DRAGON_CARGO\\TRUNK\\CARGO_TRUNK.cfg"
+  },
+  {
+    "name": "MP_MCT",
+    "filePath": "Moonprint_Dragon\\GameData\\Moonprint\\MCT\\MP_MCT.cfg"
+  }
+]

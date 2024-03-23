@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Future Astronaut",
+    "filePath": "EPC\\GameData\\ContractPacks\\EPC\\Agencies.cfg"
+  },
+  {
+    "name": "CompleteContract",
+    "filePath": "EPC\\GameData\\ContractPacks\\EPC\\Contracts\\1hr.cfg"
+  },
+  {
+    "name": "CompleteContract",
+    "filePath": "EPC\\GameData\\ContractPacks\\EPC\\Contracts\\2hr.cfg"
+  },
+  {
+    "name": "30min",
+    "filePath": "EPC\\GameData\\ContractPacks\\EPC\\Contracts\\30min.cfg"
+  },
+  {
+    "name": "mountains",
+    "filePath": "EPC\\GameData\\ContractPacks\\EPC\\Contracts\\mountains.cfg"
+  },
+  {
+    "name": "EPC",
+    "filePath": "EPC\\GameData\\ContractPacks\\EPC\\Groups.cfg"
+  }
+]

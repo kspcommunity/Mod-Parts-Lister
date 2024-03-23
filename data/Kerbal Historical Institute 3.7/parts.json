@@ -1,0 +1,330 @@
+[
+  {
+    "name": "AdvancedCanardOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\advancedCanard\\part.cfg"
+  },
+  {
+    "name": "airScoopOld",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\airIntakeRadialXM-G50\\airIntakeRadialXM-G50.cfg"
+  },
+  {
+    "name": "CircularIntake1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\CircularIntake\\part.cfg"
+  },
+  {
+    "name": "deltaWing1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\deltaWing\\part.cfg"
+  },
+  {
+    "name": "radialEngineBody1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\engineBodyRadial\\part.cfg"
+  },
+  {
+    "name": "nacelleBodyOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\engineNacelle\\part.cfg"
+  },
+  {
+    "name": "noseConeAdapter1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\noseConeAdapter\\part.cfg"
+  },
+  {
+    "name": "ramAirIntake1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\ramAirIntake\\part.cfg"
+  },
+  {
+    "name": "smallCtrlSrf1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\smallCtrlSrf\\part.cfg"
+  },
+  {
+    "name": "CanardController1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\standardCanard\\part.cfg"
+  },
+  {
+    "name": "StandardCtrlSrf1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\StandardCtrlSrf\\part.cfg"
+  },
+  {
+    "name": "standardNoseCone1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\standardNoseCone\\part.cfg"
+  },
+  {
+    "name": "structuralWing1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\structuralWing\\part.cfg"
+  },
+  {
+    "name": "sweptWingOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\sweptWing\\part.cfg"
+  },
+  {
+    "name": "airplaneTailOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\tailConnector\\part.cfg"
+  },
+  {
+    "name": "tailfin1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\tailfin\\part.cfg"
+  },
+  {
+    "name": "wingConnector1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Aero\\wingConnector\\part.cfg"
+  },
+  {
+    "name": "Mark1Cockpit1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Command\\Mark1Cockpit\\part.cfg"
+  },
+  {
+    "name": "Mark1Cockpit2",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Command\\Mark1Cockpit2\\mk1Cockpit.cfg"
+  },
+  {
+    "name": "Mark2Cockpit1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Command\\mk1InlineCockpit\\part.cfg"
+  },
+  {
+    "name": "Mark2Cockpit2",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Command\\mk1InlineCockpit2\\mk1InlineCockpit.cfg"
+  },
+  {
+    "name": "mark3Cockpit",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Command\\mk3Cockpit\\mk3Cockpit.cfg"
+  },
+  {
+    "name": "solarPanels41",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Electrical\\1x6SolarPanels1\\1x6SolarPanels.cfg"
+  },
+  {
+    "name": "solarPanels31",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Electrical\\2x3SolarPanels1\\2x3SolarPanels.cfg"
+  },
+  {
+    "name": "JetEngineOld",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Engine\\jetEngineBasic\\jetEngineBasic.cfg"
+  },
+  {
+    "name": "turboFanEngineOld",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Engine\\jetEngineTurbo\\jetEngineTurbo.cfg"
+  },
+  {
+    "name": "MK1Fuselage1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\FuelTank\\MK1Fuselage\\part.cfg"
+  },
+  {
+    "name": "Mk1FuselageStructural1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\FuelTank\\MK1FuselageStructural\\part.cfg"
+  },
+  {
+    "name": "mk2Fuselage1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\FuelTank\\mk2Fuselage\\part.cfg"
+  },
+  {
+    "name": "mk2SpacePlaneAdapter1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\FuelTank\\mk2SpacePlaneAdapter\\part.cfg"
+  },
+  {
+    "name": "mk3Fuselage",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\FuelTank\\mk3Fuselage\\part.cfg"
+  },
+  {
+    "name": "mk3spacePlaneAdapter",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\FuelTank\\mk3SpacePlaneAdapter\\part.cfg"
+  },
+  {
+    "name": "avionicsNoseCone1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Science\\avionicsNoseCone\\Experiment.cfg"
+  },
+  {
+    "name": "avionicsNoseConeSAS",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Science\\avionicsNoseCone\\SAS.cfg"
+  },
+  {
+    "name": "MK1Fuselage2",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Structural\\mk1Parts\\mk1Fuselage.cfg"
+  },
+  {
+    "name": "MK1IntakeFuselageOld",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Structural\\mk1Parts\\mk1FuselageIntake.cfg"
+  },
+  {
+    "name": "Mk1FuselageStructural2",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Structural\\mk1Parts\\mk1Structural.cfg"
+  },
+  {
+    "name": "smallHardpoint1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Structural\\smallHardpoint\\smallHardpoint.cfg"
+  },
+  {
+    "name": "structuralPylon1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Parts\\Structural\\structuralPylon\\structuralPylon.cfg"
+  },
+  {
+    "name": "mk1CockpitInternalOld",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\IWNO\\Spaces\\mk1CockpitInternal\\internal.cfg"
+  },
+  {
+    "name": "wingletOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Aero\\wingletALT-F4\\part.cfg"
+  },
+  {
+    "name": "advSasModuleOriginal ",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\advSasModule\\part.cfg"
+  },
+  {
+    "name": "Mark1-2 HI Pod",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\Mk1-2Pod HI\\mk1-2CommandPod.cfg"
+  },
+  {
+    "name": "pMark1-2Pod",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\mk1pod\\Crew_1.cfg"
+  },
+  {
+    "name": "mk1podCrew3",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\mk1pod\\Crew_3.cfg"
+  },
+  {
+    "name": "mk1podOriginalUnmanned ",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\mk1pod\\Probe.cfg"
+  },
+  {
+    "name": "sasModuleOriginal ",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\sasModule\\part.cfg"
+  },
+  {
+    "name": "sasModule1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Command\\sasModule1\\part.cfg"
+  },
+  {
+    "name": "toroidalAerospikeOld",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\liquidEngineAerospike\\liquidEngineAerospike.cfg"
+  },
+  {
+    "name": "liquidEngine2Original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\liquidEngineLT-200\\part.cfg"
+  },
+  {
+    "name": "liquidEngine1Original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\liquidEngineLT-215\\part.cfg"
+  },
+  {
+    "name": "liquidEngine3Original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\liquidEngineLT-909\\part.cfg"
+  },
+  {
+    "name": "radialLiquidEngine1-2-3",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\liquidEngineMk55\\liquidEngineMk55.cfg"
+  },
+  {
+    "name": "solidBoosterOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\solidBoosterSB\\1.cfg"
+  },
+  {
+    "name": "solidBoosterOriginal1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Engine\\solidBoosterSB\\B&W.cfg"
+  },
+  {
+    "name": "fuelTankSmallOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankA110\\part.cfg"
+  },
+  {
+    "name": "fuelTankoriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankA130\\part.cfg"
+  },
+  {
+    "name": "fuelTankoriginal1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankA132\\part.cfg"
+  },
+  {
+    "name": "fuelTank2-2Original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankA216\\part.cfg"
+  },
+  {
+    "name": "fuelTank1-2Original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankA232\\part.cfg"
+  },
+  {
+    "name": "fuelTank3-2 HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankJumbo-64 HI\\fuelTankJumbo-64.cfg"
+  },
+  {
+    "name": "toroidalFuelTank HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankToroidal HI\\fuelTankToroidal.cfg"
+  },
+  {
+    "name": "fuelTank2-2 HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankX200-16 HI\\fuelTankX200-16.cfg"
+  },
+  {
+    "name": "fuelTank1-2 HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankX200-32 HI\\fuelTankX200-32.cfg"
+  },
+  {
+    "name": "fuelTank4-2 HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\fuelTankX200-8 HI\\fuelTankX200-8HI.cfg"
+  },
+  {
+    "name": "RCSFuelTankOriginal ",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\FuelTank\\RCSFuelTankR250\\part.cfg"
+  },
+  {
+    "name": "LandingLeg Original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Ground\\LandingLegLT-1\\part.cfg"
+  },
+  {
+    "name": "SmallGearBay-original",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Ground\\SmallGearBay\\smallGearBay.cfg"
+  },
+  {
+    "name": "stackTriCouplerOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Structural\\stackTriCoupler\\part.cfg"
+  },
+  {
+    "name": "stackTriCouplerOriginal1",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Structural\\stackTriCoupler1\\part.cfg"
+  },
+  {
+    "name": "commDishOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\commDish88-88\\part.cfg"
+  },
+  {
+    "name": "radialDecouplerOriginal ",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerRadial800\\part.cfg"
+  },
+  {
+    "name": "stackSeparator HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerSeparatorTR-18D\\decouplerSeparatorTR-18D.cfg"
+  },
+  {
+    "name": "stackSeparatorMini HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerSeparatorTR-2C\\decouplerSeparatorTR-2C.cfg"
+  },
+  {
+    "name": "stackSeparatorBig HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerSeparatorTR-XL\\decouplerSeparatorTR-XL.cfg"
+  },
+  {
+    "name": "stackDecouplerOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerStack16B\\part.cfg"
+  },
+  {
+    "name": "decoupler1-2 HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerStack2m\\decouplerStack2m.cfg"
+  },
+  {
+    "name": "stackDecoupler HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerStackTR-18A\\decouplerStackTR-18A.cfg"
+  },
+  {
+    "name": "stackDecouplerMini HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\decouplerStackTR-2V\\decouplerStackTR-2V.cfg"
+  },
+  {
+    "name": "RCSBlockOriginal",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\rcsBlockRV-25\\part.cfg"
+  },
+  {
+    "name": "size3Decoupler HI",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\Kerbal Historical Institute\\Parts\\Utility\\Size3Decoupler\\part.cfg"
+  },
+  {
+    "name": "AntiqueRadios",
+    "filePath": "Kerbal Historical Institute 3.7\\GameData\\KerbalHistoricalInstitute\\PartCategories.cfg"
+  }
+]

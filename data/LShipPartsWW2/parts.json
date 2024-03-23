@@ -1,0 +1,194 @@
+[
+  {
+    "name": "battlebow",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipBow\\BattleshipBow.cfg"
+  },
+  {
+    "name": "battlehull",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipHull\\BattleshipHull.cfg"
+  },
+  {
+    "name": "battlehulls",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipHullShort\\BattleshipHullShort.cfg"
+  },
+  {
+    "name": "battleplatend",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipPlatformEnd\\battleplat.cfg"
+  },
+  {
+    "name": "battleplatmid",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipPlatformMid\\battleplatmid.cfg"
+  },
+  {
+    "name": "battlestern",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipStern\\BattleshipStern.cfg"
+  },
+  {
+    "name": "aftdeck",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\aftdeck.cfg"
+  },
+  {
+    "name": "aftlower",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\aftlower.cfg"
+  },
+  {
+    "name": "aftlower001",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\aftlower001.cfg"
+  },
+  {
+    "name": "BBSuperLower",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\BBSuperLower.cfg"
+  },
+  {
+    "name": "fwddeck",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\fwddeck.cfg"
+  },
+  {
+    "name": "interdeck",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\interdeck.cfg"
+  },
+  {
+    "name": "mainmidlower",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\mainmidlower.cfg"
+  },
+  {
+    "name": "mainmidlower001",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\mainmidlower001.cfg"
+  },
+  {
+    "name": "middeck",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\middeck.cfg"
+  },
+  {
+    "name": "midsub1lower",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\midsub1lower.cfg"
+  },
+  {
+    "name": "midsub1lower001",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\midsub1lower001.cfg"
+  },
+  {
+    "name": "SuperAftBB",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\SuperAftBB.cfg"
+  },
+  {
+    "name": "SuperFrontBB",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\SuperFrontBB.cfg"
+  },
+  {
+    "name": "superfrontlower",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\superfrontlower.cfg"
+  },
+  {
+    "name": "superfrontlower001",
+    "filePath": "LShipPartsWW2\\Parts\\BattleshipSuperSections\\superfrontlower001.cfg"
+  },
+  {
+    "name": "cruiserbow",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserBow\\CruiserBow.cfg"
+  },
+  {
+    "name": "CruiserHeliHangar",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserHeliHangar\\CruiserHeliHangar.cfg"
+  },
+  {
+    "name": "cruiserhull",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserHull\\CruiserHull.cfg"
+  },
+  {
+    "name": "cruiserhullshort",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserHullShort\\CruiserHullShort.cfg"
+  },
+  {
+    "name": "Cruiser5mtrHull",
+    "filePath": "LShipPartsWW2\\Parts\\cruiserMFWvls\\Cruiser5mtrHull.cfg"
+  },
+  {
+    "name": "cruiserMFWvls",
+    "filePath": "LShipPartsWW2\\Parts\\cruiserMFWvls\\cruiserMFWvls.cfg"
+  },
+  {
+    "name": "cruiserplatend",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserPlatformEnd\\cruiserplatend.cfg"
+  },
+  {
+    "name": "cruiserplatmid",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserPlatformMid\\cruiserplatmid.cfg"
+  },
+  {
+    "name": "cruiserstern",
+    "filePath": "LShipPartsWW2\\Parts\\CruiserStern\\CruiserStern.cfg"
+  },
+  {
+    "name": "destbow",
+    "filePath": "LShipPartsWW2\\Parts\\DestroyerBow\\DestroyerBow.cfg"
+  },
+  {
+    "name": "desthull",
+    "filePath": "LShipPartsWW2\\Parts\\DestroyerHull\\DestroyerHull.cfg"
+  },
+  {
+    "name": "desthulls",
+    "filePath": "LShipPartsWW2\\Parts\\DestroyerHullShort\\DestroyerHullShort.cfg"
+  },
+  {
+    "name": "deststern",
+    "filePath": "LShipPartsWW2\\Parts\\DestroyerStern\\DestroyerStern.cfg"
+  },
+  {
+    "name": "destsupend",
+    "filePath": "LShipPartsWW2\\Parts\\DestroyerSuperEnd\\destroyersuperend.cfg"
+  },
+  {
+    "name": "destsupmid",
+    "filePath": "LShipPartsWW2\\Parts\\DestroyerSuperMid\\destroyersupermid.cfg"
+  },
+  {
+    "name": "AAmount1",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\AAmount1.cfg"
+  },
+  {
+    "name": "LizzyBow1",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyBow1.cfg"
+  },
+  {
+    "name": "LizzyBow1A",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyBow1A.cfg"
+  },
+  {
+    "name": "lizzyBow2",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\lizzyBow2.cfg"
+  },
+  {
+    "name": "LizzyHull1",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyHull1.cfg"
+  },
+  {
+    "name": "LizzyHull1T",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyHull1T.cfg"
+  },
+  {
+    "name": "LizzyHull2",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyHull2.cfg"
+  },
+  {
+    "name": "LizzyHull4",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyHull4.cfg"
+  },
+  {
+    "name": "LizzyMainDeckAft",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyMainDeckAft.cfg"
+  },
+  {
+    "name": "Lizzystern1",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\Lizzystern1.cfg"
+  },
+  {
+    "name": "LizzyStern2",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\LizzyStern2.cfg"
+  },
+  {
+    "name": "WW2FunnelStraight",
+    "filePath": "LShipPartsWW2\\Parts\\LizzyBB\\WW2FunnelStraight.cfg"
+  }
+]

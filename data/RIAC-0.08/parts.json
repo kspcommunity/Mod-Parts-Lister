@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RIAC Battery",
+    "filePath": "RIAC-0.08\\Battery\\Battery.cfg"
+  },
+  {
+    "name": "RIAC Core",
+    "filePath": "RIAC-0.08\\Core\\RIAC Core.cfg"
+  },
+  {
+    "name": "RIAC Drill",
+    "filePath": "RIAC-0.08\\Drill4\\Drill.cfg"
+  },
+  {
+    "name": "RIAC Fueltank",
+    "filePath": "RIAC-0.08\\Fueltank\\RIAC Fueltank.cfg"
+  },
+  {
+    "name": "RIAC HalfCore",
+    "filePath": "RIAC-0.08\\Halfcore\\RIAC HalfCore.cfg"
+  },
+  {
+    "name": "RIAC Landing Leg",
+    "filePath": "RIAC-0.08\\LandingLeg\\landingLegLT-1.cfg"
+  },
+  {
+    "name": "RIACStackable Ore Tank",
+    "filePath": "RIAC-0.08\\Oretank\\RIAC Oretank.cfg"
+  },
+  {
+    "name": "RIAC Probecore",
+    "filePath": "RIAC-0.08\\Probecore\\Probecore.cfg"
+  },
+  {
+    "name": "RIAC Radiator",
+    "filePath": "RIAC-0.08\\RadiatorC\\Radiator.cfg"
+  },
+  {
+    "name": "RIAC Radiator UC",
+    "filePath": "RIAC-0.08\\RadiatorUC\\Radiator.cfg"
+  },
+  {
+    "name": "RIAC Refinery",
+    "filePath": "RIAC-0.08\\Refinery\\Refinery.cfg"
+  },
+  {
+    "name": "RIAC Solar Panel 2",
+    "filePath": "RIAC-0.08\\RIACSolar2.cfg"
+  },
+  {
+    "name": "RIAC Solar Panel 3",
+    "filePath": "RIAC-0.08\\SolarC\\RIACSolar3.cfg"
+  },
+  {
+    "name": "RIAC Solar Panel UC",
+    "filePath": "RIAC-0.08\\SolarUC\\RIACSolar.cfg"
+  },
+  {
+    "name": "StackEngine",
+    "filePath": "RIAC-0.08\\StackEngine\\StackEngine.cfg"
+  }
+]

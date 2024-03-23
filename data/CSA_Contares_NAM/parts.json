@@ -1,0 +1,330 @@
+[
+  {
+    "name": "CONTARES-NAM",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "C-ORION_CAPSULE",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\C-ORION\\C-ORION_CAPSULE.cfg"
+  },
+  {
+    "name": "C-ORION_ESC",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\C-ORION\\C-ORION_ESC.cfg"
+  },
+  {
+    "name": "C-ORION_FAIRING",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\C-ORION\\C-ORION_FAIRING.cfg"
+  },
+  {
+    "name": "C-ORION_HS",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\C-ORION\\C-ORION_HS.cfg"
+  },
+  {
+    "name": "C-ORION_PP",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\C-ORION\\C-ORION_PP.cfg"
+  },
+  {
+    "name": "C-CASTOR-120",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CASTOR-US\\CASTOR-120.cfg"
+  },
+  {
+    "name": "CASTOR-NC",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CASTOR-US\\CASTOR-NC.cfg"
+  },
+  {
+    "name": "C-CASTOR_IVA",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CASTOR-US\\CASTOR_IVA.cfg"
+  },
+  {
+    "name": "C-CASTOR_IVB",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CASTOR-US\\CASTOR_IVB.cfg"
+  },
+  {
+    "name": "C-CASTOR_IV_AD",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CASTOR-US\\CASTOR_IV_AD.cfg"
+  },
+  {
+    "name": "C-CASTOR_IV_NC",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CASTOR-US\\CASTOR_IV_NC.cfg"
+  },
+  {
+    "name": "CPII_Payload",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CPII\\CPII_Payload.cfg"
+  },
+  {
+    "name": "CPII_Radar",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CPII\\CPII_Radar.cfg"
+  },
+  {
+    "name": "CPII_S1",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CPII\\CPII_S1.cfg"
+  },
+  {
+    "name": "CPII_S1D",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CPII\\CPII_S1D.cfg"
+  },
+  {
+    "name": "CPII_S2",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CPII\\CPII_S2.cfg"
+  },
+  {
+    "name": "CPII_SAS",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CPII\\CPII_SAS.cfg"
+  },
+  {
+    "name": "CST101_CAP",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CST101\\CST101_CAP.cfg"
+  },
+  {
+    "name": "CST101_CM",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CST101\\CST101_CM.cfg"
+  },
+  {
+    "name": "CST101_HS",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CST101\\CST101_HS.cfg"
+  },
+  {
+    "name": "CST101_PP",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CST101\\CST101_PP.cfg"
+  },
+  {
+    "name": "CST101_SM",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CST101\\CST101_SM.cfg"
+  },
+  {
+    "name": "CX-15-SKID",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-15\\CX-15-SKID.cfg"
+  },
+  {
+    "name": "CX-15",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-15\\CX-15.cfg"
+  },
+  {
+    "name": "CX-20",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-20\\CX-20.cfg"
+  },
+  {
+    "name": "CX-20zivil",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-20\\CX-20z.cfg"
+  },
+  {
+    "name": "CX-20_Adapter",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-20\\CX-20_Adapter.cfg"
+  },
+  {
+    "name": "CX-24a",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-24a\\CX-24a.cfg"
+  },
+  {
+    "name": "CX-37b",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-37b\\CX-37b.cfg"
+  },
+  {
+    "name": "CX-37bSP",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\CX-37b\\CX-37bSP.cfg"
+  },
+  {
+    "name": "C-DreamCrusher",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\DreamCrusher\\C-DreamCrusher.cfg"
+  },
+  {
+    "name": "C-DreamCrusherCargo",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\DreamCrusher\\C-DreamCrusherCargo.cfg"
+  },
+  {
+    "name": "CAJ-60a",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\CAJ-60a.cfg"
+  },
+  {
+    "name": "CEMP187",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\CEMP187.cfg"
+  },
+  {
+    "name": "Globus5-DC-Adapter",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\Globus5-DC-Adapter.cfg"
+  },
+  {
+    "name": "Globus5-S1",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\Globus5-S1.cfg"
+  },
+  {
+    "name": "Globus5-S2-150",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\Globus5-S2-150.cfg"
+  },
+  {
+    "name": "Globus5-S2-187",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\Globus5-S2-187.cfg"
+  },
+  {
+    "name": "Globus5-S2F-150",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\Globus5-S2F-150.cfg"
+  },
+  {
+    "name": "RK-U-180",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Globus5\\RK-U-180.cfg"
+  },
+  {
+    "name": "K4-S1",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Kappa5\\K4-S1.cfg"
+  },
+  {
+    "name": "K4-S2",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Kappa5\\K4-S2.cfg"
+  },
+  {
+    "name": "RK-0-68S",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Kappa5\\RK-0-68S.cfg"
+  },
+  {
+    "name": "RK-0-AJ10",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\Kappa5\\RK-0-AJ10.cfg"
+  },
+  {
+    "name": "NAM_CM_DECU",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\NAM_CM\\NAME_CM_DECU.cfg"
+  },
+  {
+    "name": "NAM_AJ10",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\NAM_CM\\NAM_AJ10.cfg"
+  },
+  {
+    "name": "NAM_CM_1875",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\NAM_CM\\NAM_CM_1875.cfg"
+  },
+  {
+    "name": "NAM_CM_CAP",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\NAM_CM\\NAM_CM_CAP.cfg"
+  },
+  {
+    "name": "NAM_SM_TANK",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\NAM_CM\\NAM_SM_TANK.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_CM",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\C-DRACHEN2_CM.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_DN",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\C-DRACHEN2_DN.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_HS",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\C-DRACHEN2_HS.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_SML",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\C-DRACHEN2_SML.cfg"
+  },
+  {
+    "name": "C-FALKE-X-LEG",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\C-FALKE-X-LEG.cfg"
+  },
+  {
+    "name": "F-LFO-S1",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\F-LFO-S1.cfg"
+  },
+  {
+    "name": "F-LFO-S2",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\F-LFO-S2.cfg"
+  },
+  {
+    "name": "FalkeX-Nosecone",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\FalkeX-Nosecone.cfg"
+  },
+  {
+    "name": "RK-1-M1DSx9",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\RK-1-M1DSx9.cfg"
+  },
+  {
+    "name": "RK-1-M1DV",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\RK-1-M1DV.cfg"
+  },
+  {
+    "name": "SpaceC_GridFin",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Parts\\SpaceC\\SpaceC_GridFin.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\C-Drachen_plume.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\CONTARES_NAM_KIS.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\CONTARES_NAM_TACLS.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\CST101_SM_plume.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\E_CPII_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\E_CX-20_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\E_RK-1-M1D_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\Globus_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Patches\\Kappa_plume.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\C-DRACHEN2_Crew_A\\C-DRACHEN2_Crew_A.cfg"
+  },
+  {
+    "name": "C-ORION_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\C-ORION_Crew_A\\C-ORION_Crew_A.cfg"
+  },
+  {
+    "name": "CST101_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\CST101_Crew_A\\CST101_Crew_A.cfg"
+  },
+  {
+    "name": "CX-15_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\CX-15_Crew_A\\CX-15_Crew_A.cfg"
+  },
+  {
+    "name": "CX-20_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\CX-20_Crew_A\\CX-20_Crew_A.cfg"
+  },
+  {
+    "name": "CX-24a_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\CX-24a_Crew_A\\CX-24a_Crew_A.cfg"
+  },
+  {
+    "name": "DreamCrusherM_Crew_A",
+    "filePath": "CSA_Contares_NAM\\GameData\\Contares_NAM\\Spaces\\DreamCrusherM_Crew_A\\DreamCrusherM_Crew_A.cfg"
+  }
+]

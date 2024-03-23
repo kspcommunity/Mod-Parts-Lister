@@ -1,0 +1,138 @@
+[
+  {
+    "name": "CS10",
+    "filePath": "Fintech Industries\\Parts\\CS10\\CS10CarbonStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\CS10\\TUConfig.cfg"
+  },
+  {
+    "name": "CS20",
+    "filePath": "Fintech Industries\\Parts\\CS20\\CS20CarbonStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\CS20\\TUConfig.cfg"
+  },
+  {
+    "name": "CS30",
+    "filePath": "Fintech Industries\\Parts\\CS30\\CS30CarbonStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\CS30\\TUConfig.cfg"
+  },
+  {
+    "name": "CS40",
+    "filePath": "Fintech Industries\\Parts\\CS40\\CS40CarbonStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\CS40\\TUConfig.cfg"
+  },
+  {
+    "name": "LS1000",
+    "filePath": "Fintech Industries\\Parts\\LS1000\\LS1000LightStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\LS1000\\TUConfig.cfg"
+  },
+  {
+    "name": "LS2000",
+    "filePath": "Fintech Industries\\Parts\\LS2000\\LS2000LightStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\LS2000\\TUConfig.cfg"
+  },
+  {
+    "name": "RS10",
+    "filePath": "Fintech Industries\\Parts\\RS10\\RS10RetroStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\RS10\\TUConfig.cfg"
+  },
+  {
+    "name": "RS20",
+    "filePath": "Fintech Industries\\Parts\\RS20\\RS20RetroStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\RS20\\TUConfig.cfg"
+  },
+  {
+    "name": "RS30",
+    "filePath": "Fintech Industries\\Parts\\RS30\\RS30RetroStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\RS30\\TUConfig.cfg"
+  },
+  {
+    "name": "S1000",
+    "filePath": "Fintech Industries\\Parts\\S1000\\S1000SpeedStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\S1000\\TUConfig.cfg"
+  },
+  {
+    "name": "S2000",
+    "filePath": "Fintech Industries\\Parts\\S2000\\S2000SpeedStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\S2000\\TUConfig.cfg"
+  },
+  {
+    "name": "SK100",
+    "filePath": "Fintech Industries\\Parts\\SK100\\SK100SkyStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\SK100\\TUConfig.cfg"
+  },
+  {
+    "name": "SK200",
+    "filePath": "Fintech Industries\\Parts\\SK200\\SK200SkyStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\SK200\\TUConfig.cfg"
+  },
+  {
+    "name": "SK400",
+    "filePath": "Fintech Industries\\Parts\\SK400\\SK400SkyStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\SK400\\TUConfig.cfg"
+  },
+  {
+    "name": "T220",
+    "filePath": "Fintech Industries\\Parts\\T220\\T220ThunderStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\T220\\TUConfig.cfg"
+  },
+  {
+    "name": "T420",
+    "filePath": "Fintech Industries\\Parts\\T420\\T420ThunderStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\T420\\TUConfig.cfg"
+  },
+  {
+    "name": "T620",
+    "filePath": "Fintech Industries\\Parts\\T620\\T620ThunderStreak.cfg"
+  },
+  {
+    "name": "KSPTextureSwitch",
+    "filePath": "Fintech Industries\\Parts\\T620\\TUConfig.cfg"
+  }
+]

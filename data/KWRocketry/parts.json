@@ -1,0 +1,546 @@
+[
+  {
+    "name": "KW1mengineMaverick1D",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\1mMaverick1D\\KW1mengineMaverick1D.cfg"
+  },
+  {
+    "name": "KW1mengineWildCatV",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\1mWildcat5\\KW1mengineWildCatV.cfg"
+  },
+  {
+    "name": "KW2mengineGriffonG8D",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\2mGriffonG8D\\KW2mengineGriffonG8D.cfg"
+  },
+  {
+    "name": "KW2mengineMaverickV",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\2mMaverickV\\KW2mengineMaverickV.cfg"
+  },
+  {
+    "name": "KW3mengineGriffonXX",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\3mGriffonXX\\KW3mengineGriffonXX.cfg"
+  },
+  {
+    "name": "KW3mengineTitanT1",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\3mTitanI\\KW3mengineTitanT1.cfg"
+  },
+  {
+    "name": "KW5mengineGriffonC",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\5mEngines\\KW5mengineGriffonC.cfg"
+  },
+  {
+    "name": "KW5mengineTitanV",
+    "filePath": "KWRocketry\\Extras\\GraduatedPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\5mEngines\\KW5mengineTitanV.cfg"
+  },
+  {
+    "name": "KW1mengineMaverick1D",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\1mMaverick1D\\KW1mengineMaverick1D.cfg"
+  },
+  {
+    "name": "KW1mengineWildCatV",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\1mWildcat5\\KW1mengineWildCatV.cfg"
+  },
+  {
+    "name": "KW2mengineGriffonG8D",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\2mGriffonG8D\\KW2mengineGriffonG8D.cfg"
+  },
+  {
+    "name": "KW2mengineMaverickV",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\2mMaverickV\\KW2mengineMaverickV.cfg"
+  },
+  {
+    "name": "KW3mengineGriffonXX",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\3mGriffonXX\\KW3mengineGriffonXX.cfg"
+  },
+  {
+    "name": "KW3mengineTitanT1",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\3mTitanI\\KW3mengineTitanT1.cfg"
+  },
+  {
+    "name": "KW5mengineGriffonC",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\5mEngines\\KW5mengineGriffonC.cfg"
+  },
+  {
+    "name": "KW5mengineTitanV",
+    "filePath": "KWRocketry\\Extras\\InstantPowerResponseConfigs\\GameData\\KWRocketry\\Parts\\Engines\\5mEngines\\KW5mengineTitanV.cfg"
+  },
+  {
+    "name": "KW1mExpandedFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWExpandedFairingBase\\part1m.cfg"
+  },
+  {
+    "name": "KW2mExpandedFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWExpandedFairingBase\\part2m.cfg"
+  },
+  {
+    "name": "KW3mExpandedFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWExpandedFairingBase\\part3m.cfg"
+  },
+  {
+    "name": "KW1mFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\part1m.cfg"
+  },
+  {
+    "name": "KW1mFairingPF",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\Part1mPF.cfg"
+  },
+  {
+    "name": "KW2mFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\part2m.cfg"
+  },
+  {
+    "name": "KW2mFairingPF",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\Part2mPF.cfg"
+  },
+  {
+    "name": "KW3mFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\part3m.cfg"
+  },
+  {
+    "name": "KW3mFairingPF",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\Part3mPF.cfg"
+  },
+  {
+    "name": "KW12mExpandedFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW12mExpandedFairingCone\\part1m.cfg"
+  },
+  {
+    "name": "KW2mExpandedFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW12mExpandedFairingCone\\part2m.cfg"
+  },
+  {
+    "name": "KW1mFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW12mFairingCone\\part1m.cfg"
+  },
+  {
+    "name": "KW2mFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW12mFairingCone\\part2m.cfg"
+  },
+  {
+    "name": "KW3mExpandedFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW3mExpandedFairingCone\\part.cfg"
+  },
+  {
+    "name": "KW3mFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW3mFairingCone\\part.cfg"
+  },
+  {
+    "name": "KW5mExpFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW5mExpandedFairingCone\\part.cfg"
+  },
+  {
+    "name": "KW5mFairingCone",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\KW5mFairingCone\\part.cfg"
+  },
+  {
+    "name": "KW1mExpandedFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\part1mExpandingWall.cfg"
+  },
+  {
+    "name": "KW1mFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\part1mWall.cfg"
+  },
+  {
+    "name": "KW2mExpandedFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\part2mExpandingWall.cfg"
+  },
+  {
+    "name": "KW2mFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\part2mWall.cfg"
+  },
+  {
+    "name": "KW3mExpandedFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\part3mExpandingWall.cfg"
+  },
+  {
+    "name": "KW3mFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\part3mWall.cfg"
+  },
+  {
+    "name": "KW5mFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings5m\\Base.cfg"
+  },
+  {
+    "name": "KW5mExpandedFairingBase",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings5m\\BaseExp.cfg"
+  },
+  {
+    "name": "KW5mFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings5m\\Wall.cfg"
+  },
+  {
+    "name": "KW5mExpFairingWall",
+    "filePath": "KWRocketry\\Extras\\OldFARFairings\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings5m\\WallExp.cfg"
+  },
+  {
+    "name": "ModuleDecouple",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\KWCommunityFixes\\interstageFix.cfg"
+  },
+  {
+    "name": "KW2mengineSPSB",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\KWCommunityFixes\\KWPatch-Community-Parts.cfg"
+  },
+  {
+    "name": "FARControllableSurface",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\KWCommunityFixes\\PatchesForMods\\KW_FAR.cfg"
+  },
+  {
+    "name": "KW2mSRBNoseCone",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\150mSRBTop\\KW2mSRBNoseCone.cfg"
+  },
+  {
+    "name": "KW5mNoseCone",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\KW5mNoseCone\\KW5mNoseCone.cfg"
+  },
+  {
+    "name": "KWFin",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\KWFin\\KWFin.cfg"
+  },
+  {
+    "name": "KWFinGC",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\KWFinGC\\KWFinGC.cfg"
+  },
+  {
+    "name": "KW1mNoseCone",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\KWNoseCone\\KW1mNoseCone.cfg"
+  },
+  {
+    "name": "KW2mNoseCone",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\KWNoseCone\\KW2mNoseCone.cfg"
+  },
+  {
+    "name": "KW3mNoseCone",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Aero\\KWNoseCone\\KW3mNoseCone.cfg"
+  },
+  {
+    "name": "KWSASmodule2mHalf",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Control\\KWRadialSAS\\KWSASmodule2mHalf.cfg"
+  },
+  {
+    "name": "KWSASmodule3mHalf",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Control\\KWRadialSAS\\KWSASmodule3mHalf.cfg"
+  },
+  {
+    "name": "KWSASmodule5mHalf",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Control\\KWRadialSAS\\KWSASmodule5mHalf.cfg"
+  },
+  {
+    "name": "KWRadBattLargeL",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Electrical\\LargeRadialBatteries\\KWRadBattLargeL.cfg"
+  },
+  {
+    "name": "KWRadBattLargeS",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Electrical\\LargeRadialBatteries\\KWRadBattLargeS.cfg"
+  },
+  {
+    "name": "KWRadBattSmallL",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Electrical\\SmallRadialBatteries\\KWRadBattSmallL.cfg"
+  },
+  {
+    "name": "KWRadBattSmallS",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Electrical\\SmallRadialBatteries\\KWRadBattSmallS.cfg"
+  },
+  {
+    "name": "KW1mengineVestaVR1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Engines\\1mVestaVR1\\KW1mengineVestaVR1.cfg"
+  },
+  {
+    "name": "KW2mengineSPS",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Engines\\2mSPS\\KW2mengineSPS.cfg"
+  },
+  {
+    "name": "KW2mengineVestaVR9D",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Engines\\2mVestaVR9D\\KW2mengineVestaVR9D.cfg"
+  },
+  {
+    "name": "KW3mengineWildcatXR",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Engines\\3mWildcatXR\\KW3mengineWildcatXR.cfg"
+  },
+  {
+    "name": "KW1mFairingPFE",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\FairingBases\\KWExpandedFairingBase\\KW1mFairingPFE.cfg"
+  },
+  {
+    "name": "KW2mFairingPFE",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\FairingBases\\KWExpandedFairingBase\\KW2mFairingPFE.cfg"
+  },
+  {
+    "name": "KW3mFairingPFE",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\FairingBases\\KWExpandedFairingBase\\KW3mFairingPFE.cfg"
+  },
+  {
+    "name": "KW1mFairingPF",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\KW1mFairingPF.cfg"
+  },
+  {
+    "name": "KW2mFairingPF",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\KW2mFairingPF.cfg"
+  },
+  {
+    "name": "KW3mFairingPF",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\FairingBases\\KWFairingBase\\KW3mFairingPF.cfg"
+  },
+  {
+    "name": "KW1mDecouplerShroud",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\KW1mDecouplerShroud.cfg"
+  },
+  {
+    "name": "KW2mDecouplerShroud",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\KW2mDecouplerShroud.cfg"
+  },
+  {
+    "name": "KW3mDecouplerShroud",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\KW3mDecouplerShroud.cfg"
+  },
+  {
+    "name": "KW5mDecouplerShroud",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\KW5mDecouplerShroud.cfg"
+  },
+  {
+    "name": "KW5x3AdapterShroud",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings\\KW5x3AdapterShroud.cfg"
+  },
+  {
+    "name": "KW5mFairingPF",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings5m\\KW5mFairingPF.cfg"
+  },
+  {
+    "name": "KW5mFairingPFE",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fairings\\UnifiedFairings5m\\KW5mFairingPFE.cfg"
+  },
+  {
+    "name": "KW2Sidetank",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KWSidetank\\KW2Sidetank.cfg"
+  },
+  {
+    "name": "KW3Sidetank",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KWSidetank\\KW3Sidetank.cfg"
+  },
+  {
+    "name": "KW1mRCSfuel",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW1mRCSfuel.cfg"
+  },
+  {
+    "name": "KW1mtankL0_5",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW1mtankL0_5.cfg"
+  },
+  {
+    "name": "KW1mtankL1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW1mtankL1.cfg"
+  },
+  {
+    "name": "KW1mtankL2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW1mtankL2.cfg"
+  },
+  {
+    "name": "KW1mtankL4",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW1mtankL4.cfg"
+  },
+  {
+    "name": "KW1mtankPancake",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW1mtankPancake.cfg"
+  },
+  {
+    "name": "KW2mRCSfuel",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mRCSfuel.cfg"
+  },
+  {
+    "name": "KW2mtankL0_5",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mtankL0_5.cfg"
+  },
+  {
+    "name": "KW2mtankL1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mtankL1.cfg"
+  },
+  {
+    "name": "KW2mtankL2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mtankL2.cfg"
+  },
+  {
+    "name": "KW2mtankL4",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mtankL4.cfg"
+  },
+  {
+    "name": "KW2mtankL4A",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mtankL4A.cfg"
+  },
+  {
+    "name": "KW2mtankPancake",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW2mtankPancake.cfg"
+  },
+  {
+    "name": "KW3mRCSfuel",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mRCSfuel.cfg"
+  },
+  {
+    "name": "KW3mtankL0_5",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mtankL0_5.cfg"
+  },
+  {
+    "name": "KW3mtankL1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mtankL1.cfg"
+  },
+  {
+    "name": "KW3mtankL2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mtankL2.cfg"
+  },
+  {
+    "name": "KW3mtankL4",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mtankL4.cfg"
+  },
+  {
+    "name": "KW3mtankL4A",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mtankL4A.cfg"
+  },
+  {
+    "name": "KW3mtankPancake",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW3mtankPancake.cfg"
+  },
+  {
+    "name": "KW5mtankL05",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW5mtankL05.cfg"
+  },
+  {
+    "name": "KW5mtankL1_5",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW5mtankL1_5.cfg"
+  },
+  {
+    "name": "KW5mtankL3_5",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Fuel\\KW_Universal_Tanks\\KW5mtankL3_5.cfg"
+  },
+  {
+    "name": "KWrcsPod",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\RCS\\KWrcsPod\\KWrcsPod.cfg"
+  },
+  {
+    "name": "KWrcsQuad",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\RCS\\KWrcsQuad\\KWrcsQuad.cfg"
+  },
+  {
+    "name": "KWrcsQuad45",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\RCS\\KWrcsQuad45\\KWrcsQuad45.cfg"
+  },
+  {
+    "name": "KWsrbGlobeI",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\025mGlobeI\\KWsrbGlobeI.cfg"
+  },
+  {
+    "name": "KWsrbGlobeV",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\075mAeroSRBs\\KWsrbGlobeV.cfg"
+  },
+  {
+    "name": "KWsrbGlobeVI",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\075mAeroSRBs\\KWsrbGlobeVI.cfg"
+  },
+  {
+    "name": "KWsrbGlobeX",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\150mSRBs\\KWsrbGlobeX.cfg"
+  },
+  {
+    "name": "KWsrbGlobeX2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\150mSRBs\\KWsrbGlobeX2.cfg"
+  },
+  {
+    "name": "KWsrbGlobeX10L",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\250mInlineThor\\KWsrbGlobeX10L.cfg"
+  },
+  {
+    "name": "KWsrbGlobeX10S",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\250mInlineThor\\KWsrbGlobeX10S.cfg"
+  },
+  {
+    "name": "KWsrbGlobeX5",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\250mSRBThor\\KWsrbGlobeX5.cfg"
+  },
+  {
+    "name": "KWsrbUllage",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\SRBUllage\\KWsrbUllage.cfg"
+  },
+  {
+    "name": "KWsrbUllageLarge",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Solids\\SRBUllage\\KWsrbUllageLarge.cfg"
+  },
+  {
+    "name": "KW3mDockingRing",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KW3mDockingRing\\KW3mDockingRing.cfg"
+  },
+  {
+    "name": "KWadapter2x1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWadapter2x1\\KWadapter2x1.cfg"
+  },
+  {
+    "name": "KWadapter3x2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWadapter3x2\\KWadapter3x2.cfg"
+  },
+  {
+    "name": "KW1mDecoupler",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWDecoupler\\KW1mDecoupler.cfg"
+  },
+  {
+    "name": "KW2mDecoupler",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWDecoupler\\KW2mDecoupler.cfg"
+  },
+  {
+    "name": "KW3mDecoupler",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWDecoupler\\KW3mDecoupler.cfg"
+  },
+  {
+    "name": "KW5mStageDecoupler",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWDecoupler\\KW5mStageDecoupler.cfg"
+  },
+  {
+    "name": "KWFlatadapter2x1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFlatadapter2x1\\KWFlatadapter2x1.cfg"
+  },
+  {
+    "name": "KWFlatadapter3x1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFlatadapter3x1\\KWFlatadapter3x1.cfg"
+  },
+  {
+    "name": "KWFlatadapter3x2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFlatadapter3x2\\KWFlatadapter3x2.cfg"
+  },
+  {
+    "name": "KWFuelAdapter2x1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter2x1.cfg"
+  },
+  {
+    "name": "KWFuelAdapter2x1S",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter2x1S.cfg"
+  },
+  {
+    "name": "KWFuelAdapter3x1",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter3x1.cfg"
+  },
+  {
+    "name": "KWFuelAdapter3x1S",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter3x1S.cfg"
+  },
+  {
+    "name": "KWFuelAdapter3x2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter3x2.cfg"
+  },
+  {
+    "name": "KWFuelAdapter3x2S",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter3x2S.cfg"
+  },
+  {
+    "name": "KWFuelAdapter5x2",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter5x2.cfg"
+  },
+  {
+    "name": "KWFuelAdapter5x3",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWFuelAdapter\\KWFuelAdapter5x3.cfg"
+  },
+  {
+    "name": "KW3mPetalAdapter",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\KWPetalAdapter3m\\KW3mPetalAdapter.cfg"
+  },
+  {
+    "name": "strutConnectorHeavy",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\kwstrutConnectorHeavy\\strutConnectorHeavy.cfg"
+  },
+  {
+    "name": "strutConnectorMedium",
+    "filePath": "KWRocketry\\GameData\\KWRocketry\\Parts\\Structural\\kwstrutConnectorMedium\\strutConnectorMedium.cfg"
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "name": "NeistAir ",
+    "filePath": "NeistAir\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "NeistAir",
+    "filePath": "NeistAir\\MM_Patches\\Mod_NeistAir.cfg"
+  },
+  {
+    "name": "58MTS",
+    "filePath": "NeistAir\\MM_Patches\\NeistAir_OldPartCompability.cfg"
+  },
+  {
+    "name": "free",
+    "filePath": "NeistAir\\MM_Patches\\TweakScale_NeistAir.cfg"
+  },
+  {
+    "name": "06NCS",
+    "filePath": "NeistAir\\Parts\\Aero\\06NCS\\06NCS.cfg"
+  },
+  {
+    "name": "06NCS2",
+    "filePath": "NeistAir\\Parts\\Aero\\06NCS\\06NCS2.cfg"
+  },
+  {
+    "name": "12NCS",
+    "filePath": "NeistAir\\Parts\\Aero\\12NCS\\12NCS.cfg"
+  },
+  {
+    "name": "KruegerFlaps1",
+    "filePath": "NeistAir\\Parts\\Aero\\KruegerFlaps1\\KruegerFlaps1.cfg"
+  },
+  {
+    "name": "14MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\14MST.cfg"
+  },
+  {
+    "name": "20MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\20MST.cfg"
+  },
+  {
+    "name": "25MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\25MST.cfg"
+  },
+  {
+    "name": "36MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\36MST.cfg"
+  },
+  {
+    "name": "47MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\47MST.cfg"
+  },
+  {
+    "name": "58MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\58MST.cfg"
+  },
+  {
+    "name": "74MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\74MST.cfg"
+  },
+  {
+    "name": "90MST",
+    "filePath": "NeistAir\\Parts\\Aero\\M-wing\\90MST.cfg"
+  },
+  {
+    "name": "NeistWing_1",
+    "filePath": "NeistAir\\Parts\\Aero\\NeistWing_1\\NeistWing_1.cfg"
+  },
+  {
+    "name": "NWS1T",
+    "filePath": "NeistAir\\Parts\\Aero\\NWS1T\\NWS1T.cfg"
+  },
+  {
+    "name": "18AN-24-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\18AN-24\\18AN-24-IVA.cfg"
+  },
+  {
+    "name": "18AN-24",
+    "filePath": "NeistAir\\Parts\\Command\\18AN-24\\18AN-24.cfg"
+  },
+  {
+    "name": "18CRJ-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\18CRJ\\18CRJ-IVA.cfg"
+  },
+  {
+    "name": "CRJCockpit",
+    "filePath": "NeistAir\\Parts\\Command\\18CRJ\\18CRJCockpit.cfg"
+  },
+  {
+    "name": "18DC3-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\18DC\\18DC3-IVA.cfg"
+  },
+  {
+    "name": "18DC3",
+    "filePath": "NeistAir\\Parts\\Command\\18DC\\18DC3Cockpit.cfg"
+  },
+  {
+    "name": "25DC9-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\18DC\\25DC9-IVA.cfg"
+  },
+  {
+    "name": "25DC9",
+    "filePath": "NeistAir\\Parts\\Command\\18DC\\25DC9.cfg"
+  },
+  {
+    "name": "25B73",
+    "filePath": "NeistAir\\Parts\\Command\\25B73\\25B73.cfg"
+  },
+  {
+    "name": "25B76-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\25B76\\25B76-IVA.cfg"
+  },
+  {
+    "name": "25B76",
+    "filePath": "NeistAir\\Parts\\Command\\25B76\\25B76.cfg"
+  },
+  {
+    "name": "25CS22",
+    "filePath": "NeistAir\\Parts\\Command\\25CS22\\25CS22.cfg"
+  },
+  {
+    "name": "31A35-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\31A35\\31A35-IVA.cfg"
+  },
+  {
+    "name": "31A35",
+    "filePath": "NeistAir\\Parts\\Command\\31A35\\31A35.cfg"
+  },
+  {
+    "name": "31DC10-IVA",
+    "filePath": "NeistAir\\Parts\\Command\\31DC10\\31DC10-IVA.cfg"
+  },
+  {
+    "name": "31DC10",
+    "filePath": "NeistAir\\Parts\\Command\\31DC10\\31DC10.cfg"
+  },
+  {
+    "name": "37A38",
+    "filePath": "NeistAir\\Parts\\Command\\37A38\\37A38.cfg"
+  },
+  {
+    "name": "18CF6-TopMountPylon",
+    "filePath": "NeistAir\\Parts\\Engine\\18CF6\\18CF6-TopMountPylon.cfg"
+  },
+  {
+    "name": "18CF6",
+    "filePath": "NeistAir\\Parts\\Engine\\18CF6\\18CF6.cfg"
+  },
+  {
+    "name": "CF34-8-SideMountPylon",
+    "filePath": "NeistAir\\Parts\\Engine\\CF34-8\\CF34-8-SideMountPylon.cfg"
+  },
+  {
+    "name": "CF34-8-TopMountPylon",
+    "filePath": "NeistAir\\Parts\\Engine\\CF34-8\\CF34-8-TopMountPylon.cfg"
+  },
+  {
+    "name": "CF34-8C",
+    "filePath": "NeistAir\\Parts\\Engine\\CF34-8\\CF34-8.cfg"
+  },
+  {
+    "name": "EngineBREV",
+    "filePath": "NeistAir\\Parts\\Engine\\TestEngineBucketReverse\\EngineBREV.cfg"
+  },
+  {
+    "name": "18ConformalTank1",
+    "filePath": "NeistAir\\Parts\\FuelTank\\18Conformal\\18Conformal1.cfg"
+  },
+  {
+    "name": "18ConformalTank2",
+    "filePath": "NeistAir\\Parts\\FuelTank\\18Conformal\\18Conformal2.cfg"
+  },
+  {
+    "name": "25ConformalTank1",
+    "filePath": "NeistAir\\Parts\\FuelTank\\25Conformal\\25Conformal1.cfg"
+  },
+  {
+    "name": "25ConformalTank2",
+    "filePath": "NeistAir\\Parts\\FuelTank\\25Conformal\\25Conformal2.cfg"
+  },
+  {
+    "name": "31ConformalTank1",
+    "filePath": "NeistAir\\Parts\\FuelTank\\31Conformal\\31Conformal1.cfg"
+  },
+  {
+    "name": "31ConformalTank2",
+    "filePath": "NeistAir\\Parts\\FuelTank\\31Conformal\\31Conformal2.cfg"
+  },
+  {
+    "name": "37ConformalTank1",
+    "filePath": "NeistAir\\Parts\\FuelTank\\37Conformal\\37Conformal1.cfg"
+  },
+  {
+    "name": "37ConformalTank2",
+    "filePath": "NeistAir\\Parts\\FuelTank\\37Conformal\\37Conformal2.cfg"
+  },
+  {
+    "name": "25-31AD-2",
+    "filePath": "NeistAir\\Parts\\Structural\\25AD\\25-31AD-2.cfg"
+  },
+  {
+    "name": "25-31AD",
+    "filePath": "NeistAir\\Parts\\Structural\\25AD\\25-31AD.cfg"
+  },
+  {
+    "name": "25-37AD",
+    "filePath": "NeistAir\\Parts\\Structural\\25AD\\25-37AD.cfg"
+  },
+  {
+    "name": "37-50AD",
+    "filePath": "NeistAir\\Parts\\Structural\\25AD\\31-37AD.cfg"
+  },
+  {
+    "name": "37-50AD",
+    "filePath": "NeistAir\\Parts\\Structural\\25AD\\37-50AD.cfg"
+  },
+  {
+    "name": "18-06CurvyTail",
+    "filePath": "NeistAir\\Parts\\Structural\\CurvyTail\\18-06CurvyTail.cfg"
+  },
+  {
+    "name": "TCS-18-12",
+    "filePath": "NeistAir\\Parts\\Structural\\TCS\\TCS-18-12.cfg"
+  },
+  {
+    "name": "TCS-25-12",
+    "filePath": "NeistAir\\Parts\\Structural\\TCS\\TCS-25-12.cfg"
+  },
+  {
+    "name": "TCS-31-25",
+    "filePath": "NeistAir\\Parts\\Structural\\TCS\\TCS-31-25.cfg"
+  },
+  {
+    "name": "TCS-37-25",
+    "filePath": "NeistAir\\Parts\\Structural\\TCS\\TCS-37-25.cfg"
+  },
+  {
+    "name": "TCS-50-37",
+    "filePath": "NeistAir\\Parts\\Structural\\TCS\\TCS-50-37.cfg"
+  },
+  {
+    "name": "18PD",
+    "filePath": "NeistAir\\Parts\\Utility\\18PD\\18PD.cfg"
+  },
+  {
+    "name": "31PD",
+    "filePath": "NeistAir\\Parts\\Utility\\31PD\\31PD.cfg"
+  },
+  {
+    "name": "37PD",
+    "filePath": "NeistAir\\Parts\\Utility\\37PD\\37PD.cfg"
+  },
+  {
+    "name": "Gear_K737",
+    "filePath": "NeistAir\\Parts\\Utility\\LandingGear\\Gear_K737.cfg"
+  },
+  {
+    "name": "18CB",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\18CB.cfg"
+  },
+  {
+    "name": "18CBjr",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\18CBjr.cfg"
+  },
+  {
+    "name": "18CD",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\18CD.cfg"
+  },
+  {
+    "name": "18PC-IVA",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\18PC\\18PC-IVA.cfg"
+  },
+  {
+    "name": "18PC",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\18PC\\18PC.cfg"
+  },
+  {
+    "name": "25CB",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\25CB.cfg"
+  },
+  {
+    "name": "25CBjr",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\25CBjr.cfg"
+  },
+  {
+    "name": "25CD",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\25CD.cfg"
+  },
+  {
+    "name": "25PC-Internal",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\25PC-IVA.cfg"
+  },
+  {
+    "name": "25PC",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\25PC.cfg"
+  },
+  {
+    "name": "25PD",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\25PD.cfg"
+  },
+  {
+    "name": "31CB",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\31CB.cfg"
+  },
+  {
+    "name": "31CBjr",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\31CBjr.cfg"
+  },
+  {
+    "name": "31CD",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\31CD.cfg"
+  },
+  {
+    "name": "31PC-Internal",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\31PC-IVA.cfg"
+  },
+  {
+    "name": "31PC",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\31PC.cfg"
+  },
+  {
+    "name": "37CB",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\37CB.cfg"
+  },
+  {
+    "name": "37CBjr",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\37CBjr.cfg"
+  },
+  {
+    "name": "37CD",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\37CD.cfg"
+  },
+  {
+    "name": "37PC-Internal",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\37PC-IVA.cfg"
+  },
+  {
+    "name": "37PC",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\37PC.cfg"
+  },
+  {
+    "name": "50PC",
+    "filePath": "NeistAir\\Parts\\Utility\\PassengerCabins\\50PC.cfg"
+  }
+]

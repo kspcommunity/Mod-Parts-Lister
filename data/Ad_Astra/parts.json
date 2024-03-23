@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Eve_Lightning",
+    "filePath": "Ad_Astra\\EVE\\Clouds.cfg"
+  },
+  {
+    "name": "Duna",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Duna\\atmo.cfg"
+  },
+  {
+    "name": "Eeloo",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Eeloo\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Eve\\atmo.cfg"
+  },
+  {
+    "name": "Huygen",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Huygen\\atmo.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Jool\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Kerbin\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Laythe\\atmo.cfg"
+  },
+  {
+    "name": "Lindor",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Lindor\\atmo.cfg"
+  },
+  {
+    "name": "Nara",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Nara\\atmo.cfg"
+  },
+  {
+    "name": "Riga",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Riga\\atmo.cfg"
+  },
+  {
+    "name": "Tylo",
+    "filePath": "Ad_Astra\\scatterer\\Planets\\Tylo\\atmo.cfg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Rocket Factory Augsburg",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "RFA_AtmoEngine",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\AtmoEngine\\part.cfg"
+  },
+  {
+    "name": "RFA_Decoupler",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\Decoupler\\part.cfg"
+  },
+  {
+    "name": "RFA_Fairing",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\Fairing\\part.cfg"
+  },
+  {
+    "name": "RFA_LongTank",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\LongTank\\tankLong.cfg"
+  },
+  {
+    "name": "RFA_OrbitMotor",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\OrbitEngine\\part.cfg"
+  },
+  {
+    "name": "RFA_ShortTank",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\ShortTank\\TankShort.cfg"
+  },
+  {
+    "name": "RFA_VacEngine",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Parts\\VacEngine\\part.cfg"
+  },
+  {
+    "name": "RFA_AtmoEngineRSS",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Patches\\RSSConfig.cfg"
+  },
+  {
+    "name": "CompressedNitrogen",
+    "filePath": "Kerbal Space Program\\GameData\\RFA\\Resources\\Resource.cfg"
+  }
+]

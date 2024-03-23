@@ -1,0 +1,18 @@
+[
+  {
+    "name": "KRE_FullMetal",
+    "filePath": "TexturesUnlimited\\GameData\\TexturesUnlimited_KRE\\TexturesUnlimited_KREConfig.cfg"
+  },
+  {
+    "name": "NFS_FullMetal",
+    "filePath": "TexturesUnlimited\\GameData\\TexturesUnlimited_NearFutureSolar\\TexturesUnlimited_NFSConfig.cfg"
+  },
+  {
+    "name": "KRE_FullMetal",
+    "filePath": "TexturesUnlimited\\GameData\\TexturesUnlimited_ProceduralFairings\\TexturesUnlimited_ProceduralFairingsConfig.cfg"
+  },
+  {
+    "name": "TE_FullMetal",
+    "filePath": "TexturesUnlimited\\GameData\\TexturesUnlimited_TundraExploration\\TexturesUnlimited_TundraExplorationConfig.cfg"
+  }
+]

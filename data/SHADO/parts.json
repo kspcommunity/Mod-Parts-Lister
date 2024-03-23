@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SHADO_INTERCEPTOR_ENGINES",
+    "filePath": "SHADO\\Interceptor\\Engines\\part.cfg"
+  },
+  {
+    "name": "SHADO_INTERCEPTOR_FUSELAGE",
+    "filePath": "SHADO\\Interceptor\\Fuselage\\part.cfg"
+  },
+  {
+    "name": "ShadowInterceptorSeat",
+    "filePath": "SHADO\\Interceptor\\Seat\\part.cfg"
+  },
+  {
+    "name": "InterceptorNuke",
+    "filePath": "SHADO\\Interceptor\\Weapons\\Missile\\part.cfg"
+  },
+  {
+    "name": "SHADO_MobileLeftSide",
+    "filePath": "SHADO\\MobileUnit\\LEFTSIDE\\part.cfg"
+  },
+  {
+    "name": "SHADO_Mobile",
+    "filePath": "SHADO\\MobileUnit\\part.cfg"
+  },
+  {
+    "name": "SHADO_MobileRightSide",
+    "filePath": "SHADO\\MobileUnit\\Rightside\\part.cfg"
+  },
+  {
+    "name": "ShadowMobileSeatsLeft",
+    "filePath": "SHADO\\MobileUnit\\Seats\\Left\\part.cfg"
+  },
+  {
+    "name": "ShadowMobileSeatsRight",
+    "filePath": "SHADO\\MobileUnit\\Seats\\Right\\part.cfg"
+  },
+  {
+    "name": "SHADO_UFO",
+    "filePath": "SHADO\\UFO\\part.cfg"
+  }
+]

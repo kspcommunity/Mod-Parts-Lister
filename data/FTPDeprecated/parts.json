@@ -1,0 +1,210 @@
+[
+  {
+    "name": "TPtankCube00500",
+    "filePath": "FTPDeprecated\\Probe-deprecated\\TPtankCube00500.cfg"
+  },
+  {
+    "name": "TPtankCube00750",
+    "filePath": "FTPDeprecated\\Probe-deprecated\\TPtankCube00750.cfg"
+  },
+  {
+    "name": "TPtankCube01250",
+    "filePath": "FTPDeprecated\\Probe-deprecated\\TPtankCube01250.cfg"
+  },
+  {
+    "name": "TPtankTri01",
+    "filePath": "FTPDeprecated\\Probe-deprecated\\TPtankTri01-LFO.cfg"
+  },
+  {
+    "name": "TPtankTri02",
+    "filePath": "FTPDeprecated\\Probe-deprecated\\TPtankTri02-Xenon.cfg"
+  },
+  {
+    "name": "TPtankR01-LOX",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR01-Blue.cfg"
+  },
+  {
+    "name": "TPtankR01-LF",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR01-Red.cfg"
+  },
+  {
+    "name": "TPtankR02-LOX",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR02-Blue.cfg"
+  },
+  {
+    "name": "TPtankR02-MP",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR02-Gold.cfg"
+  },
+  {
+    "name": "TPtankR02-LF",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR02-Red.cfg"
+  },
+  {
+    "name": "TPtankR03-LOX",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR03-Blue.cfg"
+  },
+  {
+    "name": "TPtankR03-MP",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR03-Gold.cfg"
+  },
+  {
+    "name": "TPtankR03-LF",
+    "filePath": "FTPDeprecated\\Radial-deprecated\\TPtankR03-Red.cfg"
+  },
+  {
+    "name": "TPtank0mL00175-Grey",
+    "filePath": "FTPDeprecated\\Size0-deprecated\\TPtank0mL00175-Grey.cfg"
+  },
+  {
+    "name": "TPtank0mL00700-Grey",
+    "filePath": "FTPDeprecated\\Size0-deprecated\\TPtank0mL00700-Grey.cfg"
+  },
+  {
+    "name": "TPtank0mL01350-Grey",
+    "filePath": "FTPDeprecated\\Size0-deprecated\\TPtank0mL01350-Grey.cfg"
+  },
+  {
+    "name": "TPtank0mL01875-Black",
+    "filePath": "FTPDeprecated\\Size0-deprecated\\TPtank0mL01875-Black.cfg"
+  },
+  {
+    "name": "TPtank0mL01875-Grey",
+    "filePath": "FTPDeprecated\\Size0-deprecated\\TPtank0mL01875-Grey.cfg"
+  },
+  {
+    "name": "TPtank0mL01875-White",
+    "filePath": "FTPDeprecated\\Size0-deprecated\\TPtank0mL01875-White.cfg"
+  },
+  {
+    "name": "TPtank1mCone1",
+    "filePath": "FTPDeprecated\\Size1-deprecated\\TPtank1mCone1.cfg"
+  },
+  {
+    "name": "TPtank1mCone2",
+    "filePath": "FTPDeprecated\\Size1-deprecated\\TPtank1mCone2.cfg"
+  },
+  {
+    "name": "TPtank1mL00313-White",
+    "filePath": "FTPDeprecated\\Size1-deprecated\\TPtank1mL00313-White.cfg"
+  },
+  {
+    "name": "TPtank1mL05625-Checkered",
+    "filePath": "FTPDeprecated\\Size1-deprecated\\TPtank1mL05625-Checkered.cfg"
+  },
+  {
+    "name": "TPtank1mL05625-Green",
+    "filePath": "FTPDeprecated\\Size1-deprecated\\TPtank1mL05625-Green.cfg"
+  },
+  {
+    "name": "TPtank1mL05625-White",
+    "filePath": "FTPDeprecated\\Size1-deprecated\\TPtank1mL05625-White.cfg"
+  },
+  {
+    "name": "TPcone2m-Orange",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPcone2m-Orange.cfg"
+  },
+  {
+    "name": "TPcone2m-Red",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPcone2m-Red.cfg"
+  },
+  {
+    "name": "TPcone2m-White",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPcone2m-White.cfg"
+  },
+  {
+    "name": "TPdome2m-Orange",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPdome2m-Orange.cfg"
+  },
+  {
+    "name": "TPdome2m-Red",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPdome2m-Red.cfg"
+  },
+  {
+    "name": "TPdome2m-White",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPdome2m-White.cfg"
+  },
+  {
+    "name": "TPtank2mL00469-White",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL00469-White.cfg"
+  },
+  {
+    "name": "TPtank2mL05625-Orange",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL05625-Orange.cfg"
+  },
+  {
+    "name": "TPtank2mL05625-White",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL05625-White.cfg"
+  },
+  {
+    "name": "TPtank2mL11250-Blue",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL11250-Blue.cfg"
+  },
+  {
+    "name": "TPtank2mL11250-Orange",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL11250-Orange.cfg"
+  },
+  {
+    "name": "TPtank2mL11250-Red",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL11250-Red.cfg"
+  },
+  {
+    "name": "TPtank2mL11250-White",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL11250-White.cfg"
+  },
+  {
+    "name": "TPtank2mL15000-Orange",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL15000-Orange.cfg"
+  },
+  {
+    "name": "TPtank2mL15000-White",
+    "filePath": "FTPDeprecated\\Size2-deprecated\\TPtank2mL15000-White.cfg"
+  },
+  {
+    "name": "TPcone3m-Silver",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPcone3m-Silver.cfg"
+  },
+  {
+    "name": "TPcone3m-Tan",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPcone3m-Tan.cfg"
+  },
+  {
+    "name": "TPcone3m-White",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPcone3m-White.cfg"
+  },
+  {
+    "name": "TPdome3m-Silver",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPdome3m-Silver.cfg"
+  },
+  {
+    "name": "TPdome3m-Tan",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPdome3m-Tan.cfg"
+  },
+  {
+    "name": "TPdome3m-White",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPdome3m-White.cfg"
+  },
+  {
+    "name": "TPtank3mL00938-White",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPtank3mL00938-White.cfg"
+  },
+  {
+    "name": "TPtank3mL05625-White",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPtank3mL05625-White.cfg"
+  },
+  {
+    "name": "TPtank3mL11250-Silver",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPtank3mL11250-Silver.cfg"
+  },
+  {
+    "name": "TPtank3mL11250-Tan",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPtank3mL11250-Tan.cfg"
+  },
+  {
+    "name": "TPtank3mL11250-White",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPtank3mL11250-White.cfg"
+  },
+  {
+    "name": "TPtank3mL15000-White",
+    "filePath": "FTPDeprecated\\Size3-deprecated\\TPtank3mL15000-White.cfg"
+  }
+]

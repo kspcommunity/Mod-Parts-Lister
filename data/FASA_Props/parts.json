@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FP Chopper4x",
+    "filePath": "FASA_Props\\Choppers\\Choppe4x.cfg"
+  },
+  {
+    "name": "FP Chopper2x",
+    "filePath": "FASA_Props\\Choppers\\Chopper2x.cfg"
+  },
+  {
+    "name": "FP Chopper2xTailRotor",
+    "filePath": "FASA_Props\\Choppers\\Chopper2xTailRotor.cfg"
+  },
+  {
+    "name": "ChopperIntakeSm",
+    "filePath": "FASA_Props\\Choppers\\ChopperIntakeSm.cfg"
+  },
+  {
+    "name": "FP Chopper_Skids",
+    "filePath": "FASA_Props\\Choppers\\Chopper_Skids.cfg"
+  }
+]

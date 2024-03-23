@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bridge",
+    "filePath": "NOSTROMO MK2\\Bridge\\Bridge.cfg"
+  },
+  {
+    "name": "Cargo",
+    "filePath": "NOSTROMO MK2\\Cargo\\Cargo.cfg"
+  },
+  {
+    "name": "cooling",
+    "filePath": "NOSTROMO MK2\\cooling\\cooling.cfg"
+  },
+  {
+    "name": "Left",
+    "filePath": "NOSTROMO MK2\\Left\\Left.cfg"
+  },
+  {
+    "name": "Lifesupp",
+    "filePath": "NOSTROMO MK2\\Lifesupp\\Lifesupp.cfg"
+  },
+  {
+    "name": "Right",
+    "filePath": "NOSTROMO MK2\\Right\\Right.cfg"
+  },
+  {
+    "name": "Thruster",
+    "filePath": "NOSTROMO MK2\\Thruster\\Thruster.cfg"
+  },
+  {
+    "name": "Thruster2",
+    "filePath": "NOSTROMO MK2\\Thruster2\\Thruster2.cfg"
+  },
+  {
+    "name": "Thrustersmall",
+    "filePath": "NOSTROMO MK2\\Thrustersmall\\Thrustersmall.cfg"
+  },
+  {
+    "name": "Trustmain",
+    "filePath": "NOSTROMO MK2\\Thrustmain\\Trustmain.cfg"
+  },
+  {
+    "name": "Trustleft",
+    "filePath": "NOSTROMO MK2\\Trustleft\\Trustleft.cfg"
+  },
+  {
+    "name": "Trustright",
+    "filePath": "NOSTROMO MK2\\Trustright\\Trustright.cfg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SETIcontracts",
+    "filePath": "SETIcontracts\\CC-contracts\\SETI-Contracts-General.cfg"
+  },
+  {
+    "name": "MannedAltitude18km",
+    "filePath": "SETIcontracts\\CC-contracts\\SETI-Contracts-Manned.cfg"
+  },
+  {
+    "name": "mKOR",
+    "filePath": "SETIcontracts\\CC-contracts\\SETI-Contracts-Station.cfg"
+  },
+  {
+    "name": "OrbitRecovery",
+    "filePath": "SETIcontracts\\CC-contracts\\SETI-Contracts-Unmanned.cfg"
+  },
+  {
+    "name": "PartValidationRC",
+    "filePath": "SETIcontracts\\MM-contracts\\SETI-Contracts-ReachChute.cfg"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "AdvancedTextures",
+    "filePath": "OSP\\GameData\\KKGlobalPH\\KKGPHMM.cfg"
+  },
+  {
+    "name": "Rocket_OSPad",
+    "filePath": "OSP\\GameData\\KKGlobalPH\\Statics\\OffShorePlatform\\OSP.cfg"
+  }
+]

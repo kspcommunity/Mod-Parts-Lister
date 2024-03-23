@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ModuleTagEngineLiquidTurbo }",
+    "filePath": "HLS_project\\Extras\\RO beta\\HLSEngine.cfg"
+  },
+  {
+    "name": "HardDrive",
+    "filePath": "HLS_project\\Extras\\RO beta\\HLSKerbalism.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "HLS_project\\Extras\\RO beta\\HLSRO.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HLS_project\\Extras\\RO beta\\WaterfallRO.cfg"
+  },
+  {
+    "name": "cockpit",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\parts\\cockpit\\cockpit.cfg"
+  },
+  {
+    "name": "draco_hls",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\parts\\engine_hls\\engine.cfg"
+  },
+  {
+    "name": "HLS_MAIN_TANK",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\parts\\Main_tank\\Main_Fuel_Tank_HLS.cfg"
+  },
+  {
+    "name": "HLS_NOSE_CONE",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\parts\\nose_cone\\HLS_NOSE_CONE.cfg"
+  },
+  {
+    "name": "ModuleTankManager",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\Resources\\CCTanks.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\Resources\\LifeSupport.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\Resources\\MethaloxThrusters.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\Resources\\ModularFuelTanks.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\Resources\\TanksResources.cfg"
+  },
+  {
+    "name": "HLSProjectTUEngine",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\TexturesUnlimited\\HLS by isaquest.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\HLSVapor.cfg"
+  },
+  {
+    "name": "vaporCone",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\HLSVaporFX.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\HLSVentTemplate.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\Plume.cfg"
+  },
+  {
+    "name": "Body",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\Plume_Template.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\RCS.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "HLS_project\\Game Data\\HLS_project\\patches\\waterfall\\Vent.cfg"
+  }
+]

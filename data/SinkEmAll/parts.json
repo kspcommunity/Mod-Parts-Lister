@@ -1,5 +1,33 @@
 [
   {
+    "name": "CompressedLiquids",
+    "filePath": "SinkEmAll\\CommonResources.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "SinkEmAll\\Patches\\KerbalModuleBallast.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "SinkEmAll\\Patches\\Liquids-ConfigContainers.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "SinkEmAll\\Patches\\Liquids-LFO.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "SinkEmAll\\Patches\\Liquids-Xeon.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "SinkEmAll\\Patches\\MonoP.cfg"
+  },
+  {
+    "name": "ModuleGenerator",
+    "filePath": "SinkEmAll\\Patches\\SinkEMAllCommand.cfg"
+  },
+  {
     "name": "Liquids",
     "filePath": "SinkEmAll\\Resources.cfg"
   },

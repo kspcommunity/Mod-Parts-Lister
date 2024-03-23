@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Beacon",
+    "filePath": "WGMP\\Files\\Beacon.cfg"
+  },
+  {
+    "name": "Blaze",
+    "filePath": "WGMP\\Files\\Blaze.cfg"
+  },
+  {
+    "name": "Bop",
+    "filePath": "WGMP\\Files\\Bop.cfg"
+  },
+  {
+    "name": "Dres",
+    "filePath": "WGMP\\Files\\Dres.cfg"
+  },
+  {
+    "name": "Duna",
+    "filePath": "WGMP\\Files\\Duna.cfg"
+  },
+  {
+    "name": "Eeloo",
+    "filePath": "WGMP\\Files\\Eeloo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "WGMP\\Files\\Eve.cfg"
+  },
+  {
+    "name": "Gilly",
+    "filePath": "WGMP\\Files\\Gilly.cfg"
+  },
+  {
+    "name": "Ike",
+    "filePath": "WGMP\\Files\\Ike.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "WGMP\\Files\\Jool.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "WGMP\\Files\\Kerbin.cfg"
+  },
+  {
+    "name": "The Sun",
+    "filePath": "WGMP\\Files\\Kerbol.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "WGMP\\Files\\Laythe.cfg"
+  },
+  {
+    "name": "Minmus",
+    "filePath": "WGMP\\Files\\Minmus.cfg"
+  },
+  {
+    "name": "Moho",
+    "filePath": "WGMP\\Files\\Moho.cfg"
+  },
+  {
+    "name": "Mun",
+    "filePath": "WGMP\\Files\\Mun.cfg"
+  },
+  {
+    "name": "Pol",
+    "filePath": "WGMP\\Files\\Pol.cfg"
+  },
+  {
+    "name": "Vall",
+    "filePath": "WGMP\\Files\\Vall.cfg"
+  },
+  {
+    "name": "Dres",
+    "filePath": "WGMP\\Mod Support\\Corelian\\DONT_YOINK_DRES.cfg"
+  },
+  {
+    "name": "Vall",
+    "filePath": "WGMP\\Mod Support\\OPM\\VallAlt.cfg"
+  }
+]

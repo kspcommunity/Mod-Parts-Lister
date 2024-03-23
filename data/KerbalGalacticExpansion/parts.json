@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Kel",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kel System\\Kel.cfg"
+  },
+  {
+    "name": "Iobus",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kel System\\Kiopra\\Iubos.cfg"
+  },
+  {
+    "name": "Kiopra",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kel System\\Kiopra\\Kiopra.cfg"
+  },
+  {
+    "name": "Naliis",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kel System\\Kiopra\\Naliis.cfg"
+  },
+  {
+    "name": "Aslo",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kerbol System\\Aslo\\Aslo.cfg"
+  },
+  {
+    "name": "Asteroid Belts",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kerbol System\\Asteroid.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kerbol System\\Kerbin\\Kerbin.cfg"
+  },
+  {
+    "name": "Kerbol",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kerbol System\\Kerbol\\Kerbol.cfg"
+  },
+  {
+    "name": "Kre",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kerbol System\\Kres\\Kres.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kerbol System\\Reparenting Vanilla Planets\\Kerbin.cfg"
+  },
+  {
+    "name": "Inop",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kernol System\\Inop\\Inop.cfg"
+  },
+  {
+    "name": "Obror",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kernol System\\Inop\\Obror.cfg"
+  },
+  {
+    "name": "Kernol",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kernol System\\Kernol.cfg"
+  },
+  {
+    "name": "Uthol",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kernol System\\Uthol.cfg"
+  },
+  {
+    "name": "Vola",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kernol System\\Vola.cfg"
+  },
+  {
+    "name": "Kiris A",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kiris System\\Kiris A & B\\Kiris A.cfg"
+  },
+  {
+    "name": "Kiris B",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Kiris System\\Kiris A & B\\Kiris B.cfg"
+  },
+  {
+    "name": "Trappist-1a",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1a.cfg"
+  },
+  {
+    "name": "Trappist-1c",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1b.cfg"
+  },
+  {
+    "name": "Trappist-1b",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1c.cfg"
+  },
+  {
+    "name": "Trappist-1d",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1d.cfg"
+  },
+  {
+    "name": "Trappist-1e",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1e.cfg"
+  },
+  {
+    "name": "Trappist-1f",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1f.cfg"
+  },
+  {
+    "name": "Trappist-1g",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1g.cfg"
+  },
+  {
+    "name": "Trappist-1h",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Trappist-1\\Trappist-1h.cfg"
+  },
+  {
+    "name": "Xurbol",
+    "filePath": "KerbalGalacticExpansion\\KopernicusFiles\\Xurbol\\Sun.cfg"
+  }
+]

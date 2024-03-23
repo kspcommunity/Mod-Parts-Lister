@@ -1,0 +1,54 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\ModSupport\\USI_LS.cfg"
+  },
+  {
+    "name": "CVXCatapult",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\CVXAccessories\\Catapult.cfg"
+  },
+  {
+    "name": "TDD1Catapult",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\CVXAccessories\\TDD_1_Catapult.cfg"
+  },
+  {
+    "name": "ehiNimitzBridge",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\Nimitz\\nBridge.cfg"
+  },
+  {
+    "name": "EHInimitz",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\Nimitz\\nimitz.cfg"
+  },
+  {
+    "name": "EHInimitzRadar",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\Nimitz\\nimitzRadarTower.cfg"
+  },
+  {
+    "name": "CVX5bladeScrew",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\Rudder\\5bladeScrew.cfg"
+  },
+  {
+    "name": "EHIshiprudder",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Parts\\Rudder\\rudder.cfg"
+  },
+  {
+    "name": "KSteam",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Eskandare_Heavy_Industries\\Carrier_Vessel_Expansion\\Resources\\CVX_resources.cfg"
+  },
+  {
+    "name": "FSCoolant",
+    "filePath": "Carrier_Vessel_eXpansion_CVX-0.13.1\\GameData\\Firespitter\\Resources\\Firespitter.cfg"
+  }
+]

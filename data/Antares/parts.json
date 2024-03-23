@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Antares",
+    "filePath": "Antares\\AntaresSystem\\Antares\\Antares.cfg"
+  },
+  {
+    "name": "Coaster",
+    "filePath": "Antares\\AntaresSystem\\Coaster\\Coaster.cfg"
+  },
+  {
+    "name": "Corbid",
+    "filePath": "Antares\\AntaresSystem\\Corbid\\Corbid.cfg"
+  },
+  {
+    "name": "Eros",
+    "filePath": "Antares\\AntaresSystem\\Eros\\Eros.cfg"
+  },
+  {
+    "name": "Jarren",
+    "filePath": "Antares\\AntaresSystem\\Jarren\\Jarren.cfg"
+  },
+  {
+    "name": "Paloma",
+    "filePath": "Antares\\AntaresSystem\\Paloma\\Paloma.cfg"
+  },
+  {
+    "name": "Retchid",
+    "filePath": "Antares\\AntaresSystem\\Retchid\\Retchid.cfg"
+  },
+  {
+    "name": "Terran",
+    "filePath": "Antares\\AntaresSystem\\Terran\\Terran.cfg"
+  }
+]

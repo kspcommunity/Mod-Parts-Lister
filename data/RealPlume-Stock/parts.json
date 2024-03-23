@@ -1,0 +1,2290 @@
+[
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\AB_Launchers\\ABL_5_cyclone4.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\AB_Launchers\\ABL_Engine_A.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\AB_Launchers\\ABL_Nose_A.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\Atomic Age\\nuclearEngineKANDL.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\Atomic Age\\nuclearEngineLANTR.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\Atomic Age\\nuclearEngineLightbulb.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\Atomic Age\\NuclearJetEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\BahamutoD\\bahars68b.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\BahamutoD\\constellationBNTR.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\BahaSP\\bahaRetractEngine.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\BahaSP\\bahaSRadialEngine.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\BahaSP\\bahaTrrEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Vernier",
+    "filePath": "RealPlume-Stock\\BahaSP\\critterCrawler.cfg"
+  },
+  {
+    "name": "Alcolox_Lower",
+    "filePath": "RealPlume-Stock\\CNAR\\CapellaEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\CNAR\\TitovEngine1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlackAnvil.cfg"
+  },
+  {
+    "name": "HTP_RP1_Lower",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlackArrow.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlackForest.cfg"
+  },
+  {
+    "name": "HTP_RP1_Lower",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlackKnight.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlueLagoon.cfg"
+  },
+  {
+    "name": "HTP_RP1_Lower",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlueSteel.cfg"
+  },
+  {
+    "name": "Kerolox_LowerAlt",
+    "filePath": "RealPlume-Stock\\CommonwealthRocketryEstablishment\\BlueStreak.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-125",
+    "filePath": "RealPlume-Stock\\CryoEngines\\cryoengine-125-1.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-125",
+    "filePath": "RealPlume-Stock\\CryoEngines\\cryoengine-125-2.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\CryoEngines\\cryoengine-25-1.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\CryoEngines\\cryoengine-25-2.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-375",
+    "filePath": "RealPlume-Stock\\CryoEngines\\cryoengine-375-1.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-375",
+    "filePath": "RealPlume-Stock\\CryoEngines\\cryoengine-375-2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\CTN\\ctnEAPbooster.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\CTN\\sem24Booser.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "RealPlume-Stock\\CTN\\sm25Booster.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\DIRECT_LV\\directCone.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\DIRECT_LV\\DirectSRBX.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-125",
+    "filePath": "RealPlume-Stock\\DIRECT_LV\\DIRECT_RS25.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\DodoLabs\\emuengine1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\DodoLabs\\emuengine2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\DodoLabs\\emukicker.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\EveEngines\\eveEngineAble.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\EveEngines\\eveEngineAdam.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\EveEngines\\eveEngineAsp.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\EveEngines\\eveEngineBoa.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\EveEngines\\eveEngineCobra.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\EveEngines\\eveEngineViper.cfg"
+  },
+  {
+    "name": "TurbofanOxPlume",
+    "filePath": "RealPlume-Stock\\ExplodiumBreathingEngines\\JetEngineOx.cfg"
+  },
+  {
+    "name": "TurbojetOxPlume",
+    "filePath": "RealPlume-Stock\\ExplodiumBreathingEngines\\LUCIFEROX.cfg"
+  },
+  {
+    "name": "TurbofanOxPlume",
+    "filePath": "RealPlume-Stock\\ExplodiumBreathingEngines\\miniJetEngineOx.cfg"
+  },
+  {
+    "name": "TurbojetOxPlume",
+    "filePath": "RealPlume-Stock\\ExplodiumBreathingEngines\\turboFanEngineOx.cfg"
+  },
+  {
+    "name": "TurbofanOxPlume",
+    "filePath": "RealPlume-Stock\\ExplodiumBreathingEngines\\turboFanSize2Ox.cfg"
+  },
+  {
+    "name": "TurbofanOxPlume //Normal mode",
+    "filePath": "RealPlume-Stock\\ExplodiumBreathingEngines\\turboJetOx.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\FASA\\FASA-Sepmotors.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASAAgena_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASAAgena_Engine_FP.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApolloAPS.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApolloLFEF1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApolloLFEH1.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApolloLFEJ2.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApolloLFEM1.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApolloLFERL10.cfg"
+  },
+  {
+    "name": "Hypergolic-Apollo-SM",
+    "filePath": "RealPlume-Stock\\FASA\\FASAApollo_SM_Engine.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASADeltaCastorSRB.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASADeltaMB3LFE.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\FASA\\FASAExplorerSgt.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGemini4X800Mini.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGeminiEngineFuel.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGeminiLFECentarTwin.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGeminiLR87Twin.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGeminiLR91.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGeminiLR91Mini.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASAGerminiSRB175.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASALM_AscentEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASALM_DescentEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASAMercuryAtlasEng.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\FASA\\FASAMercuryAtlasEngBooster.cfg"
+  },
+  {
+    "name": "Kerolox-Vernier",
+    "filePath": "RealPlume-Stock\\FASA\\FASAMercuryAtlasVernierEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASAPioneerLFE.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASA_Gemini_Lander_Eng.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\FASA\\FASA_LaunchEscapeMotors.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\FASA\\FASA_Mercury_Eng.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\FASA\\FASA_Mercury_LFEng.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\FASA\\FASA_Mercury_Redstone_Eng.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\FTmN_Atomic_Rockets\\FTmN_Atomic_Rockets.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\FuelTanksPlus\\Decouplers.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Fuji\\Polaris_Engine_A.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Fuji\\_Polaris_LES.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Global Patches.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            ",
+    "filePath": "RealPlume-Stock\\HGR\\FG120.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\HGR\\HeavyLES.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\HGR\\HGRG47b.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\HGR\\HGR_FG90_Engine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\HGR\\SmallEscapeTowerHGR.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\HGR\\SoySvcMod.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\JoolDIRECT\\SuperMassiveSRB.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\Kerbal Atomics\\Kerbal Atomics.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\KE180.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\KE4.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\KE68.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\LVT1C.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\LVT1D.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\LVTA.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\RTA.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\KerbalStockLauncherOverhaul\\sepratronx.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Booster_EAP.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Booster_P03.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Booster_P80.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Booster_Pushotron.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Engine_EPS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Engine_Vulcain.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Engine_Zebulon.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Hermes_Engine_Mk91.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\Knes_Service_Module_Viking_09375.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Booster_P03.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Catherine_Stage_1875.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Cora_Engine_1.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Cora_Engine_SL.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diamant2_Booster_P10_9375.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diamant2_Booster_P16_9375.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diamant2_Booster_Rita2_9375.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_DiamantBP4_Booster_Rita_09375.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diamant_Aileron_B.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diamant_Booster_P064_0625.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diamant_Engine_09375.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Diane_Engine_125.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_H2_Engine_09375.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_H3_Engine_0625.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_H8_Sparatron.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_HM4_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_L140.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_L220.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_L220N.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_L33_Engine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_L33_Sparatron.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_L3S_HM60_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_PAL.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_PAP.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_L3S_Sparatron.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Mireille_Engine_09375.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Topaze_Booster_0625.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Veronique_Engine_03125.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\Knes\\_Knes_Vesta_Engine_0625.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\KOSMOS\\KOSMOS.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KSO\\boosterkso.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\KSO\\omskso.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KSO\\super25boosterkso.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\KSO\\super25enginekso.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\KSO\\thrustmaxkso.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\KSPX\\cl_large_nuclearEngine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\KSPX\\cl_small_escapeTower.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "RealPlume-Stock\\KSPX\\cl_small_ionEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW1mengineMaverick1D.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW1mengineVestaVR1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW1mengineWildCatV.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW2mengineGriffonG8D.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW2mengineMaverickV.cfg"
+  },
+  {
+    "name": "Hypergolic-Apollo-SM",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW2mengineSPS.cfg"
+  },
+  {
+    "name": "Hypergolic-Apollo-SM",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW2mengineSPSB.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW2mengineVestaVR9D.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW3mengineGriffonXX.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW3mengineTitanT1.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW3mengineWildcatXR.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW5mengineGriffonC.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KW5mengineTitanV.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWSepMotors.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeI.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeV.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeVI.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeX.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeX10L.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeX10S.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeX2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\KWRocketryRedux\\KWsrbGlobeX5.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\Luciole\\EnginesLiquid.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\MissingHistory\\liquidEngineLV-303.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\MissingHistory\\liquidEngineLV-T15.cfg"
+  },
+  {
+    "name": "Nuclear_GasCore_LH2",
+    "filePath": "RealPlume-Stock\\MissingHistory\\nuclearEngineBKN.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\MissingHistory\\nuclearEngineKandl.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\MoarMk1\\engine100v.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\MoarMk1\\engine200v.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\MoarMk1\\engine400.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\MoarMk1\\engine400v.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\MoarMk1\\engine800.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\MoarMk1\\engine800v.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NB0mLFOengine1.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NB0mMonoEngine1.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NB2mNuclearEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NB3mHoundEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NB3mQuadEngine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NBdecouplerLowProfile2m.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NBflingatron.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NBjetBasic0m.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NBjetTurbo0m.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\ModRocketSys\\NBLAStower.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-lfo-125-2.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-lfo-25-1.cfg"
+  },
+  {
+    "name": "Methalox_LowerShock",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-lfo-advanced-125-1_R1D_Kite.cfg"
+  },
+  {
+    "name": "Methalox_Upper",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-lfo-advanced-125-2_MS18Eagle.cfg"
+  },
+  {
+    "name": "Methalox_LowerShock",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-lfo-advanced-25-1_M4_Buzzard.cfg"
+  },
+  {
+    "name": "Methalox_Upper",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-lfo-advanced-25-2_S6V_Osprey.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-rocket-pack-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\engine-rocket-pack-2.cfg"
+  },
+  {
+    "name": "Ion_Argon_Hall_NFP",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\ionArgon-0625-2.cfg"
+  },
+  {
+    "name": "Ion_Argon_Hall_NFP",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\ionArgon-0625-3.cfg"
+  },
+  {
+    "name": "Ion_Argon_Hall_NFP",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\ionArgon-0625.cfg"
+  },
+  {
+    "name": "Ion_Xenon_Gridded_NFP",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\ionXenon-0625-2.cfg"
+  },
+  {
+    "name": "Ion_Xenon_Gridded_NFP",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\ionXenon-0625-3.cfg"
+  },
+  {
+    "name": "Ion_Xenon_Gridded_NFP",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\ionXenon-0625.cfg"
+  },
+  {
+    "name": "MagnetoPlasmaDynamicThruster",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\mpdt-0625.cfg"
+  },
+  {
+    "name": "MagnetoPlasmaDynamicThruster",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\mpdt-125.cfg"
+  },
+  {
+    "name": "MagnetoPlasmaDynamicThruster",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\mpdt-25.cfg"
+  },
+  {
+    "name": "TurbojetOxPlume",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\advancedmultimode125.cfg"
+  },
+  {
+    "name": "TurbojetOxPlume",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\advancedmultimode25.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\basicmultimode25.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\fuellessnukejet.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\sstonukejet.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\turbofan25-1.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\turbofan25-2.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\turboram25.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\vtolbig.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NearFutureAeronautics\\vtolsmall.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-ar1-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-ar1c-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-m1d-1.cfg"
+  },
+  {
+    "name": "Kerolox_Upper2",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-m1d-vac-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-rd701-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-rd704-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-rs84-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-rutherford-1.cfg"
+  },
+  {
+    "name": "Kerolox_Upper2",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-rutherford-vac-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-stbe-kero-1.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\NFLV\\nflv-engine-tr107-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\orbital-engine-125.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\orbitalEngine-0625.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\orbitalEngine-25.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\orbitalEngine-375.cfg"
+  },
+  {
+    "name": "PulsedInductiveThruster_Argon",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\pit-0625.cfg"
+  },
+  {
+    "name": "PulsedInductiveThruster_Argon",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\pit-125.cfg"
+  },
+  {
+    "name": "PulsedInductiveThruster_Argon",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\pit-25.cfg"
+  },
+  {
+    "name": "VASIMIR_Argon",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\vasimr-0625.cfg"
+  },
+  {
+    "name": "VASIMIR_Argon",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\vasimr-125.cfg"
+  },
+  {
+    "name": "VASIMIR_Argon",
+    "filePath": "RealPlume-Stock\\NearFutureTechnologies\\vasimr-25.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\PartOverhauls\\liquidEngine303.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\PartOverhauls\\liquidEngine909.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\PartOverhauls\\liquidEngineT15.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\PartOverhauls\\liquidEngineT30.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\PartOverhauls\\liquidEngineT45.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\PlanetaryBaseSystems\\KKAOSS_engine_g.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ProceduralParts\\proceduralTankSRB.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\QuizTech\\Mk2_NERVA.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBdecouplerSaturn.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBdelta2srm.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBdelta3srm.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBdelta3srmG.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBdeltaIVsrm.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineAJ10-118K.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineAresSRB.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineArianeVSRB.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineAtlasSRB.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineCastor120.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineCastor30.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineF1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineF1A.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineF1B.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineH1.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-125",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineHM7B.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineJ2.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-375",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineJ2X.cfg"
+  },
+  {
+    "name": "Kerolox-Vernier",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineLR101.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBenginePSLVps1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBenginePSLVps3.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBenginePSLVsrb10m.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBenginePSLVsrb13m.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRD180.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-125",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRL10A3.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-125",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRL10A42.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRL10B2.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRS25.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRS27A.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineRS68.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineSTSSRB.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineVikas.cfg"
+  },
+  {
+    "name": "Cryogenic-UpperLower-25",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineVulcain2.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBengineXLR81.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBretroPSLV.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBullagePSLV.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBullageSaturnSII.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "RealPlume-Stock\\RealScaleBoosters\\RSBullageSaturnSIVB.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_K2X.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_KJ10.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_KL10_B.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_SRB_2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_SRB_4.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_SRB_5.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_SRB_cone.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\reDirect\\DIRECT_SSME_B.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStock\\Clydesdale.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\engineLargeSkipper.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\engineLargeSkipper_v2.cfg"
+  },
+  {
+    "name": "Ion_Xenon_Gridded_NFP",
+    "filePath": "RealPlume-Stock\\ReStock\\ionEngine_Dawn.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngine1-2_Mainsail.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngine2-2_v2_Poodle.cfg"
+  },
+  {
+    "name": "Kerolox_LowerAspirated",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngine2_Swivel.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngine3_v2_Terrier.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngineMainsail_v2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngineMini_v2_Spark.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngineSSME_Vector.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\ReStock\\liquidEngine_reliant.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStock\\massiveBooster_Kickback.cfg"
+  },
+  {
+    "name": "Kerolox_LowerAspirated",
+    "filePath": "RealPlume-Stock\\ReStock\\MH_LiquidEngineKE-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\MH_LiquidEngineRE-I2_Skiff.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\MH_LiquidEngineRE-J10_Wolfhound.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\MH_LiquidEngineRK-7_Kodiak.cfg"
+  },
+  {
+    "name": "Kerolox_LowerAlt",
+    "filePath": "RealPlume-Stock\\ReStock\\MH_LiquidEngineRV-1_Cub.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\MH_Pollux.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\ReStock\\microEngine_v2_Ant.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\ReStock\\Mite.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\ReStock\\nuclearEngine_NERV.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\ReStock\\omsEngine_Puff.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\ReStock\\radialEngineMini_v2_spider.cfg"
+  },
+  {
+    "name": "Methalox_AirBreathingMode",
+    "filePath": "RealPlume-Stock\\ReStock\\RAPIER.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\ReStock\\sepMotor1_SepratronI.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\ReStock\\Shrimp.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\Size2LFB_TwinBoar.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\Size3AdvancedEngine_Rhino.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\Size3EngineCluster_Mammoth.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStock\\smallRadialEngine_v2_Twitch.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStock\\solidBooster1-1_Thumper.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStock\\solidBooster_sm_v2_Flea.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStock\\solidBooster_v2_Hammer.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStock\\Thoroughbred.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Anvil_SRB.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Boar.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Caravel.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Cherenkov_NTR.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Corgi.cfg"
+  },
+  {
+    "name": "Kerolox_LowerAlt",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Panda.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Pug.cfg"
+  },
+  {
+    "name": "Kerolox_LowerAspirated",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\restock-engine-galleon-1.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\ReStock_SRB_Mallet.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\ReStock_SRB_Striker.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Schnauzer.cfg"
+  },
+  {
+    "name": "ModuleEngines",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Torch.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Ursa.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\ReStockPlus\\Valiant.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_lfo_medium_linearspike.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_large_spike.cfg"
+  },
+  {
+    "name": "Hypergolic-Apollo-SM",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_large_vac.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_medium_vac.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_small_radial.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_small_stack.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_tiny_radial.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_mp_tiny_stack.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_small_arcjet.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_small_highthrust.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_small_ion.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_small_ntr.cfg"
+  },
+  {
+    "name": "Ion-Krypton-Gridded",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_small_resistojet.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_small_spike.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_solid_medium_upper.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_solid_small.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\RLA_Stockalike\\RLA_tiny_vac.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RN_Cygnus\\Cygnus.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\RN_Cygnus\\Cygnus_e.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SDHI\\SDHI_2.5_Mk1-2AeroShroud.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SDHI\\SDHI_LES.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Space Launch System\\AJ10-190.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\Space Launch System\\AJ1E6.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Space Launch System\\DarkKnight.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            ",
+    "filePath": "RealPlume-Stock\\Space Launch System\\F1B.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Space Launch System\\R4D11.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\Space Launch System\\RL-10B2.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\Space Launch System\\RL-10C2.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\Space Launch System\\RS-25.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Space Launch System\\Separatron1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Space Launch System\\Separatron3.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Space Launch System\\SEPengine.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Space Launch System\\SLSSolidRocket.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\SpaceTuxIndustries_RecycledParts\\AtomicAge\\KANDLE.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\SpaceTuxIndustries_RecycledParts\\AtomicAge\\Lantern_bimodal.cfg"
+  },
+  {
+    "name": "Nuclear_GasCore_LH2",
+    "filePath": "RealPlume-Stock\\SpaceTuxIndustries_RecycledParts\\AtomicAge\\NuclearLightbulb.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYdecoupler10m.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYdecoupler7m.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYengine3,5,7mP.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYengine3mE1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYengine7mE2.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYengine7mE4.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "RealPlume-Stock\\SpaceY-Expanded\\SYengine7mR9.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYdecoupler5m.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYdecouplerRadial1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYdecouplerRadial2.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYejectatron.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine1mK1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine2mM1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine2mR1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine5mM5.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine5mM9.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine5mR5.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYengine5mR7.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYSRBcones_ALL.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYSRBradial01.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYSRB_0625.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYSRB_1875.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYSRB_25.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\SpaceY-Lifters\\SYSRB_375.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\Clydesdale.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\engineLargeSkipper.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Squad\\engineLargeSkipper_v2.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "RealPlume-Stock\\Squad\\ionEngine_Dawn.cfg"
+  },
+  {
+    "name": "Turbofan //Normal mode",
+    "filePath": "RealPlume-Stock\\Squad\\jetEngineAfterburning.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\Squad\\jetEngineBasic.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\Squad\\jetEngineBig.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\Squad\\jetEngineTurbo.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Squad\\LaunchEscapeSystem.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine1-2_Mainsail.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine2-2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine2-2_v2_Poodle.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine2_Swivel.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine3.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine3_v2_Terrier.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngineAerospike.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngineMainsail_v2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngineMini.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngineMini_v2_Spark.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngineSSME.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\liquidEngine_Reliant.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\MassiveBooster_Kickback.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\Squad\\microEngine_ant.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\Squad\\microEngine_v2_Ant.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\Squad\\miniJet.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\Squad\\Mite.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "RealPlume-Stock\\Squad\\nuclearEngine_NERV.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\omsEngine_Puff.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\radialEngineMini_Spider.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Squad\\radialEngineMini_v2_Spider.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "RealPlume-Stock\\Squad\\radialLiquidEngine1-2.cfg"
+  },
+  {
+    "name": "Methalox_AirBreathingMode",
+    "filePath": "RealPlume-Stock\\Squad\\RAPIER.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Squad\\sepMotor1.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\Squad\\Shrimp.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\Size2LFB_TwinBoar.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\Squad\\Size3AdvancedEngine_Rhino.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\Size3EngineCluster_Mammoth.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\Squad\\smallRadialEngineTwitch.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\Squad\\smallRadialEngineTwitch_v2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\solidBooster1-1_Thumper.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\solidBooster_Hammer.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\solidBooster_sm_Flea.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\solidBooster_sm_v2_Flea.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\solidBooster_v2_Hammer.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Squad\\Thoroughbred.cfg"
+  },
+  {
+    "name": "Kerolox_LowerFlame",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineKE-1.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineLV-T91.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerRed",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineLV-TX87.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineRE-I2_Skiff.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineRE-J10_Wolfhound.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineRK-7_Kodiak.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\LiquidEngineRV-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\SquadExpansion\\Pollux.cfg"
+  },
+  {
+    "name": "Ion_Xenon_Gridded_NFP",
+    "filePath": "RealPlume-Stock\\SSR_MicroSat_and_AirLauncher\\microIon.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\SSR_MicroSat_and_AirLauncher\\microsatEngine.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\SSR_MicroSat_and_AirLauncher\\solidBoosterMini.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\SSR_MicroSat_and_AirLauncher\\upperStageEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\SXT Continued\\MEMDescentMod.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\SXT Continued\\MEMLanderSXT.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTAJ10.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTAJ10Mid.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTBlackAdder.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTBlackAdder2.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTCastor30.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTCommodore.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTK1Base5m.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTK1BaseLarge.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTKD170.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTKOPO4E.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTLANCER.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTLT80.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTMiniJet.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTMk2LinearAerospike.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTNERVA.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTNERVAB.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTNK21BlockV.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTnuclearramjet.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTSize2SRB.cfg"
+  },
+  {
+    "name": "Turbofan //Normal mode",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTVTOLturboFan.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTWaxWing.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\SXT Continued\\SXTX405.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\Taerobee\\Aerobee_Jr.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\Taerobee\\Bumper_Engine.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\Taerobee\\Bumper_Engine_Unclad.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\Taerobee\\Little_Leo.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\Taerobee\\X1_Engine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\Alnair_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\Andromeda_Engine_1.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Tantares\\Ara_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\Auriga_Engine_1.cfg"
+  },
+  {
+    "name": "Ion_Xenon_Gridded_NFP",
+    "filePath": "RealPlume-Stock\\Tantares\\castor_ion_engine_s0_1.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Tantares\\Eridani_Engine_1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Tantares\\lepus_rocket_motor_srf_1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Tantares\\lepus_rocket_motor_srf_2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Tantares\\Libra_Engine_1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Tantares\\Libra_Nesting_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\Tantares_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\Tantares_Engine_2.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\Tantares\\Tantares_LES_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\vega_engine_srf_1_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\vega_engine_srf_1_2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\Tantares\\Virgo_Engine_1.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\Tantares\\zDeprecated__Alniyat_Engine_2.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\TantaresLV\\ALV_1_Engine_1.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\TantaresLV\\ALV_1_Engine_2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\ALV_2_Engine_1.cfg"
+  },
+  {
+    "name": "Hypergolic_UpperOrange",
+    "filePath": "RealPlume-Stock\\TantaresLV\\ALV_3_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\AndromedaUS_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\AndromedaUS_VernierEngine_1.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\TantaresLV\\chara_lv_engine_s0p5_1.cfg"
+  },
+  {
+    "name": "Hypergolic_UpperOrange",
+    "filePath": "RealPlume-Stock\\TantaresLV\\chara_lv_engine_s0p5_2.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\TantaresLV\\corvus_lv_bare_engine_s1_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\corvus_lv_bare_engine_s1_2.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "RealPlume-Stock\\TantaresLV\\corvus_lv_engine_s1_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\corvus_lv_engine_s1_2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\delphini_us_engine_s1_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\HLV_1_Engine_1.cfg"
+  },
+  {
+    "name": "Kerolox_Upper2",
+    "filePath": "RealPlume-Stock\\TantaresLV\\HLV_2_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\LLV_A_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\LLV_B_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\LLV_G_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\LLV_V_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\RLV_1Engine_2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\RLV_1_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\SUS_Engine_1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\tantares_lv_engine_s1p5_2_SOYUZ_RD107.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\tantares_lv_engine_s1p5_3_SOYUZ_RD0110_1875.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\tantares_lv_engine_s1_1_SOYUZ_RD108.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\tantares_lv_engine_s1_3_SOYUZ_RD0110_15.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RealPlume-Stock\\TantaresLV\\TUS_Engine_1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\TundraExploration\\Engine1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "RealPlume-Stock\\TundraExploration\\Engine2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\TundraExploration\\Ladee_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\TundraExploration\\Rodan.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\TundraExploration\\Rosetta_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\DERP_Engine_01.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\DERP_Engine_02.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\FTT_Engine_375_03.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\FTT_Engine_375_04.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\KER_SABRE.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\KER_VTOL.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\MKS_SkyCrane.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RealPlume-Stock\\UmbraSpaceIndustries\\Sounding_Rockets.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD125Hornet.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD125Omicron.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD125Orbital.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD250Atmospheric.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD250HeavyAtmo.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD250Orbital.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD250Sigma.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD375Atmospheric.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VAD375Orbital.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VADLanderspike125.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\VanguardAstrodynamics\\VADULE.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\LargeOMS.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\liquidEngineMiniTurbo.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\LVT15.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\MicroEngineB.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\PoodleM.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\RT1.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\RT2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\RT20.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\S2ServiceEngine.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\size0PulseJet.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\Size2MedEngine.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\size2nuclearEngine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\SnubOtron.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\solidBoosterMAX.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\TinyOMS.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "RealPlume-Stock\\VenStockRevamp\\VenLV909b.cfg"
+  }
+]

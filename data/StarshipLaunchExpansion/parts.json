@@ -1,0 +1,58 @@
+[
+  {
+    "name": "SLE_KK_GSE",
+    "filePath": "StarshipLaunchExpansion\\Parts\\KKStatics\\SLE_KK_GSE.cfg"
+  },
+  {
+    "name": "SLE_KK_SB_Text",
+    "filePath": "StarshipLaunchExpansion\\Parts\\KKStatics\\SLE_KK_SB_Text.cfg"
+  },
+  {
+    "name": "SLE_SS_DS",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_DS.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Base",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_OLIT_Base.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Core",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_OLIT_Core.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_MZ",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_OLIT_MZ.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Top",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_OLIT_Top.cfg"
+  },
+  {
+    "name": "SLE_SS_OLP",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_OLP.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Base_Static",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_Statics.cfg"
+  },
+  {
+    "name": "SLE_SS_TS",
+    "filePath": "StarshipLaunchExpansion\\Parts\\SSPads\\SLE_SS_TS.cfg"
+  },
+  {
+    "name": "ModuleTankManager",
+    "filePath": "StarshipLaunchExpansion\\Patches\\CCTanks-Patch.cfg"
+  },
+  {
+    "name": "LaunchClamp",
+    "filePath": "StarshipLaunchExpansion\\Patches\\Extras.cfg"
+  },
+  {
+    "name": "LqdMethane",
+    "filePath": "StarshipLaunchExpansion\\Patches\\MethaloxFueling.cfg"
+  },
+  {
+    "name": "CLF",
+    "filePath": "StarshipLaunchExpansion\\Patches\\Resources.cfg"
+  }
+]

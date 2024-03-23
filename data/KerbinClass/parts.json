@@ -1,0 +1,10 @@
+[
+  {
+    "name": "FederationPhaserBankMK2",
+    "filePath": "KerbinClass\\MK2FPH\\FPHMK2.cfg"
+  },
+  {
+    "name": "Kerbin_Class_Cruiser",
+    "filePath": "KerbinClass\\part.cfg"
+  }
+]

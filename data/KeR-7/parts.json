@@ -1,0 +1,66 @@
+[
+  {
+    "name": "nesdKeR7-wing",
+    "filePath": "KeR-7\\Parts\\Aero1\\R7-Wing.cfg"
+  },
+  {
+    "name": "nesdKeR7-A1",
+    "filePath": "KeR-7\\Parts\\Antennas\\VostAnt1.cfg"
+  },
+  {
+    "name": "nesdKeR7-A2",
+    "filePath": "KeR-7\\Parts\\Antennas\\VostAnt2.cfg"
+  },
+  {
+    "name": "nesdKeR7-A3",
+    "filePath": "KeR-7\\Parts\\Antennas\\VostAnt3.cfg"
+  },
+  {
+    "name": "nesdKeR7-A4",
+    "filePath": "KeR-7\\Parts\\Antennas\\VostAnt4.cfg"
+  },
+  {
+    "name": "nesdKeR7-rk111",
+    "filePath": "KeR-7\\Parts\\Eng111\\RK-111.cfg"
+  },
+  {
+    "name": "nesdKeR7-rk109",
+    "filePath": "KeR-7\\Parts\\Engines\\RK-0109.cfg"
+  },
+  {
+    "name": "nesdKeR7-rk124",
+    "filePath": "KeR-7\\Parts\\Engines\\RK-0124.cfg"
+  },
+  {
+    "name": "nesdKeR7-Fuel1",
+    "filePath": "KeR-7\\Parts\\Fuel1\\Fuel1.cfg"
+  },
+  {
+    "name": "nesdKeR7-lp111",
+    "filePath": "KeR-7\\Parts\\LP111\\Launchpad111.cfg"
+  },
+  {
+    "name": "nesdKeR7-lp111leg",
+    "filePath": "KeR-7\\Parts\\LP111\\LaunchpadLeg.cfg"
+  },
+  {
+    "name": "nesdKeR7-VosCont",
+    "filePath": "KeR-7\\Parts\\VST-C\\Control.cfg"
+  },
+  {
+    "name": "nesdKeR7-VosContR",
+    "filePath": "KeR-7\\Parts\\VST-C\\ControlR.cfg"
+  },
+  {
+    "name": "nesdKeR7-fairing",
+    "filePath": "KeR-7\\Parts\\VST-C\\FairingBase.cfg"
+  },
+  {
+    "name": "nesdKeR7-VosFuel",
+    "filePath": "KeR-7\\Parts\\VST-F\\Fuel2.cfg"
+  },
+  {
+    "name": "turbo",
+    "filePath": "KeR-7\\Patches\\FX_Patch.cfg"
+  }
+]

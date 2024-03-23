@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Aarash",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Patches\\CustomWaypoints.KSRGAPEX.cfg"
+  },
+  {
+    "name": "Aarash RAS 09",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Patches\\KerbinSideRemasteredFlightPlansAirStrips.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Aarash\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Aarash\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Aarash\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Aarash\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Auyuittuq\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Auyuittuq\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Auyuittuq\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Auyuittuq\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\BaraldsDiscovery\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\BaraldsDiscovery\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\BaraldsDiscovery\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\BaraldsDiscovery\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DinkelsteinsSpirit\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DinkelsteinsSpirit\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DinkelsteinsSpirit\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DinkelsteinsSpirit\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DonfrodsFortune\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DonfrodsFortune\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DonfrodsFortune\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\DonfrodsFortune\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\EngineersLuck\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\EngineersLuck\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\EngineersLuck\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\EngineersLuck\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\HandensTrial\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\HandensTrial\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\HandensTrial\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\HandensTrial\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KazersPrize\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KazersPrize\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KazersPrize\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KazersPrize\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KelreysFate\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KelreysFate\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KelreysFate\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KelreysFate\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KrakensBane\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KrakensBane\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KrakensBane\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\KrakensBane\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\LudreysIsolation\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\LudreysIsolation\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\LudreysIsolation\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\LudreysIsolation\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MakoSica\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MakoSica\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MakoSica\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MakoSica\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MaufurtsPride\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MaufurtsPride\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MaufurtsPride\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\MaufurtsPride\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\PilotsFolly\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\PilotsFolly\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\PilotsFolly\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\PilotsFolly\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RayzonsWhim\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RayzonsWhim\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RayzonsWhim\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RayzonsWhim\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RibstersDream\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RibstersDream\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RibstersDream\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\RibstersDream\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ScientistsResignation\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ScientistsResignation\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ScientistsResignation\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ScientistsResignation\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\SulinsOdyssey\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\SulinsOdyssey\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\SulinsOdyssey\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\SulinsOdyssey\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ValdrinsTriumph\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ValdrinsTriumph\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ValdrinsTriumph\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\ValdrinsTriumph\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Woomerang\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Woomerang\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h03",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Woomerang\\SQUAD_Desert_Airfield_model_prop_truck_h03-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemasteredGapExtras-1.0.5\\Gamedata\\KerbinSideRemasteredGapExtras\\Statics\\AirStrips\\Woomerang\\wind_sock_ts-instances.cfg"
+  }
+]

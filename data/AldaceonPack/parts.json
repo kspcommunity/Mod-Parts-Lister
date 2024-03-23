@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Aldaceon",
+    "filePath": "AldaceonPack\\Configs\\Aldaceon.cfg"
+  },
+  {
+    "name": "Anthes",
+    "filePath": "AldaceonPack\\Configs\\Anthes.cfg"
+  },
+  {
+    "name": "Marah",
+    "filePath": "AldaceonPack\\Configs\\Marah.cfg"
+  }
+]

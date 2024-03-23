@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Stock",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\AsteroidBeltAroundNevo&Jupa\\JupaAsteroids.cfg"
+  },
+  {
+    "name": "Stock",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\AsteroidBeltAroundNevo&Jupa\\NevoAsteroids.cfg"
+  },
+  {
+    "name": "Hard Rock",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Gilly\\NewGilly.cfg"
+  },
+  {
+    "name": "Hetten",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Hetten\\Hetten.cfg"
+  },
+  {
+    "name": "Jupa",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Jupa\\Jupa.cfg"
+  },
+  {
+    "name": "Nevo       ",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Nevo\\Nevo.cfg"
+  },
+  {
+    "name": "Nevorus //This will be the name of your planet.",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Nevo\\Nevorus.cfg"
+  },
+  {
+    "name": "Taythe",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Taythe\\Taythe.cfg"
+  },
+  {
+    "name": "Terra Nova //This will be the name of your planet.",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\TerraNova\\TerraNova.cfg"
+  },
+  {
+    "name": "Tetra //This will be the name of your planet.",
+    "filePath": "MoreHabitalableAreasMod\\GameData\\MoreHabitalableAreasMod\\KopernicusFiles\\Tetra\\Tetra.cfg"
+  }
+]

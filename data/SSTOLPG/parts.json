@@ -1,0 +1,10 @@
+[
+  {
+    "name": "#$name$_LPGA",
+    "filePath": "SSTOLPG\\ConverterLPG.cfg"
+  },
+  {
+    "name": "#$name$_TDRCS",
+    "filePath": "SSTOLPG\\ConverterTDRCS.cfg"
+  }
+]

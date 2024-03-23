@@ -1,0 +1,14 @@
+[
+  {
+    "name": "STR",
+    "filePath": "B9_Procedural_Structural\\FuelConfigs.cfg"
+  },
+  {
+    "name": "B9_Armor_Procedural_TypeA",
+    "filePath": "B9_Procedural_Structural\\Parts\\Structural_Procedural\\armor1_procedural_typeA.cfg"
+  },
+  {
+    "name": "B9_Structural_Procedural_TypeA",
+    "filePath": "B9_Procedural_Structural\\Parts\\Structural_Procedural\\structure_procedural_typeA.cfg"
+  }
+]

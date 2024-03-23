@@ -288,6 +288,14 @@
     "filePath": "BDArmory\\Parts\\targetingCam\\targetingCam.cfg"
   },
   {
+    "name": "bahaFlirBall",
+    "filePath": "BDArmory\\Parts\\targettingCam\\flirBall.cfg"
+  },
+  {
+    "name": "bahaCamPod",
+    "filePath": "BDArmory\\Parts\\targettingCam\\targetingCam.cfg"
+  },
+  {
     "name": "towLauncherTurret",
     "filePath": "BDArmory\\Parts\\towLauncher\\towLauncher.cfg"
   },

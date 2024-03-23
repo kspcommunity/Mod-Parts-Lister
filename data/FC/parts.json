@@ -1,0 +1,22 @@
+[
+  {
+    "name": "KC20x102mmHEBullet //Vulcan HE",
+    "filePath": "FC\\BulletDefs\\FC_Bullets.cfg"
+  },
+  {
+    "name": "AerialShotgun",
+    "filePath": "FC\\Parts\\Aerial_Shotgun\\Aerial_Shotgun.cfg"
+  },
+  {
+    "name": "KCAIM7sparrow",
+    "filePath": "FC\\Parts\\AIM7Sparrow\\sparrow.cfg"
+  },
+  {
+    "name": "cockpitbackupradar1",
+    "filePath": "FC\\Parts\\CockpitBackupRadars\\CockpitBackupRadar.cfg"
+  },
+  {
+    "name": "AerialShells",
+    "filePath": "FC\\Resources\\FCAmmo.cfg"
+  }
+]

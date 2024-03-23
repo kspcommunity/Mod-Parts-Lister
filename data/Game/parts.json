@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rocinante",
+    "filePath": "Game\\Dropship\\Parts\\Rocinante.cfg"
+  },
+  {
+    "name": "RocinanteEngine",
+    "filePath": "Game\\Dropship\\Parts\\RocinanteEngine.cfg"
+  },
+  {
+    "name": "RocinanteEngine1",
+    "filePath": "Game\\Dropship\\Parts\\RocinanteEngine1.cfg"
+  }
+]

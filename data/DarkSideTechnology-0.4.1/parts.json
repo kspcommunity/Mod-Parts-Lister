@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DarkSideTechnology Industries",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "SoilRecycler",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\MM_Snacks.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\MM_USILifeSupport.cfg"
+  },
+  {
+    "name": "DST_25CrewHub",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\25CrewHub.cfg"
+  },
+  {
+    "name": "DST_25Hub",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\25Hub.cfg"
+  },
+  {
+    "name": "DST_25ISP",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\25ISP.cfg"
+  },
+  {
+    "name": "DST_375CrewHub",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\375CrewHub.cfg"
+  },
+  {
+    "name": "DST_375Hub",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\375Hub.cfg"
+  },
+  {
+    "name": "DST_375ISP",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\375ISP.cfg"
+  },
+  {
+    "name": "DST_375X2CrewHub",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\375X2CrewHub.cfg"
+  },
+  {
+    "name": "DST_375X2Hub",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\375X2Hub.cfg"
+  },
+  {
+    "name": "DST_Centrifuge25",
+    "filePath": "DarkSideTechnology-0.4.1\\GameData\\DarkSideTechnology\\Parts\\C25.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "carmend",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\end\\end.cfg"
+  },
+  {
+    "name": "carmendwrist",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\endwrist\\endwrist.cfg"
+  },
+  {
+    "name": "carmgrapple",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\grapple\\grapple.cfg"
+  },
+  {
+    "name": "carmlowerarm",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\lowerarm\\lowerarm.cfg"
+  },
+  {
+    "name": "carmshoulder",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\shoulder\\shoulder.cfg"
+  },
+  {
+    "name": "carmupperarm",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\upperarm\\upperarm.cfg"
+  },
+  {
+    "name": "carmwrist",
+    "filePath": "Canadarm\\Gamedata\\Canadarm\\wrist\\wrist.cfg"
+  }
+]

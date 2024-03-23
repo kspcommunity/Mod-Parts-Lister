@@ -1,0 +1,14 @@
+[
+  {
+    "name": "dmBusardCollector",
+    "filePath": "BuzzardCollector\\Bussard _Collector.cfg"
+  },
+  {
+    "name": "dmBusardCollectorLarge",
+    "filePath": "BuzzardCollector\\Bussard _Collector_large.cfg"
+  },
+  {
+    "name": "dmBusardCollectorsmall",
+    "filePath": "BuzzardCollector\\Bussard _Collector_small.cfg"
+  }
+]

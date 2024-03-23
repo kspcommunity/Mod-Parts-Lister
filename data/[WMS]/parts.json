@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Boats",
+    "filePath": "[WMS]\\Category stuff\\WMS Category.cfg"
+  },
+  {
+    "name": "Gneisenau",
+    "filePath": "[WMS]\\Parts\\boats\\Gneisenau\\Gneisenau.cfg"
+  },
+  {
+    "name": "SMS Prinz Eugen",
+    "filePath": "[WMS]\\Parts\\boats\\USS Prinz\\SMS Prinz Eugen.cfg"
+  },
+  {
+    "name": "SMS Prinz Eugen",
+    "filePath": "[WMS]\\Parts\\boats\\USS Prinz\\U_557 Sub.cfg"
+  },
+  {
+    "name": "U-557 Submarine",
+    "filePath": "[WMS]\\Parts\\boats\\U_557 Sub\\U_557 Submarine.cfg"
+  }
+]

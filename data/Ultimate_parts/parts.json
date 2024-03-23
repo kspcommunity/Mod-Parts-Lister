@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fillerite_battery",
+    "filePath": "Ultimate_parts\\Parts\\Electrical\\battery\\battery.cfg"
+  },
+  {
+    "name": "FXturbojet",
+    "filePath": "Ultimate_parts\\Parts\\Engines\\specialjetEngines\\jetEngineAfterburning.cfg"
+  },
+  {
+    "name": "decaygen",
+    "filePath": "Ultimate_parts\\Parts\\Generators\\DecayGen\\DecayGen.cfg"
+  },
+  {
+    "name": "fuelgen",
+    "filePath": "Ultimate_parts\\Parts\\Generators\\FuelGen\\FuelGen.cfg"
+  },
+  {
+    "name": "genpanels",
+    "filePath": "Ultimate_parts\\Parts\\Generators\\genpanels\\genpanels.cfg"
+  },
+  {
+    "name": "oxgenpanels",
+    "filePath": "Ultimate_parts\\Parts\\Generators\\oxgenpanels\\oxgenpanels.cfg"
+  },
+  {
+    "name": "rcsgen",
+    "filePath": "Ultimate_parts\\Parts\\Generators\\RCSGen\\RCSGen.cfg"
+  },
+  {
+    "name": "filleriteradiator",
+    "filePath": "Ultimate_parts\\Parts\\Thermal\\filleriteradiator\\filleriterad.cfg"
+  }
+]

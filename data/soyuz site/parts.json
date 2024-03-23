@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AtlasVIF",
+    "filePath": "soyuz site\\AtlasVIF.cfg"
+  },
+  {
+    "name": "KSC_LaunchPad_level_2",
+    "filePath": "soyuz site\\KSC_LaunchPad_level_2.cfg"
+  },
+  {
+    "name": "KSC_VAB_AC_level_1",
+    "filePath": "soyuz site\\KSC_VAB_AC_level_1.cfg"
+  },
+  {
+    "name": "Road208m",
+    "filePath": "soyuz site\\Road208m.cfg"
+  },
+  {
+    "name": "SMAB",
+    "filePath": "soyuz site\\SMAB.cfg"
+  }
+]

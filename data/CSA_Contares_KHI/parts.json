@@ -1,0 +1,270 @@
+[
+  {
+    "name": "CONTARES-KHI",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "KHI-CRS-DE",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KHI-CRS\\KHI-CRS-DE.cfg"
+  },
+  {
+    "name": "KHI-CRS-HS",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KHI-CRS\\KHI-CRS-HS.cfg"
+  },
+  {
+    "name": "KHI-CRS-SM",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KHI-CRS\\KHI-CRS-SM.cfg"
+  },
+  {
+    "name": "KHI-CRS-CM",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KHI-CRS\\KHI-CRS_CM.cfg"
+  },
+  {
+    "name": "RK-K-YF24E",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KHI-YF-24E\\RK-K-YF24E.cfg"
+  },
+  {
+    "name": "C12_LES",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\C12_LES.cfg"
+  },
+  {
+    "name": "C_KhiCapsule",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\C_KhiCapsule.cfg"
+  },
+  {
+    "name": "C_KhiGong2",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\C_KhiGong2.cfg"
+  },
+  {
+    "name": "C_KhiGong3",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\C_KhiGong3.cfg"
+  },
+  {
+    "name": "C_KhiOrbEngine",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\C_KhiOrbEngine.cfg"
+  },
+  {
+    "name": "C_KhiOrbital",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\C_KhiOrbital.cfg"
+  },
+  {
+    "name": "DR-KHI-01",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\DR-KHI-01.cfg"
+  },
+  {
+    "name": "Khi-LH2LOX_4m",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-LH2LOX_4m.cfg"
+  },
+  {
+    "name": "Khi-UDMH_10m",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-UDMH_10m.cfg"
+  },
+  {
+    "name": "Khi-UDMH_1m",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-UDMH_1m.cfg"
+  },
+  {
+    "name": "Khi-UDMH_2m",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-UDMH_2m.cfg"
+  },
+  {
+    "name": "Khi-UDMH_4m",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-UDMH_4m.cfg"
+  },
+  {
+    "name": "Khi-UDMH_4mB",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-UDMH_4mB.cfg"
+  },
+  {
+    "name": "Khi-UDMH_8m",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi-UDMH_8m.cfg"
+  },
+  {
+    "name": "Khi5_LFO_Booster",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi5_LFO_Booster.cfg"
+  },
+  {
+    "name": "Khi5_LFO_S1",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi5_LFO_S1.cfg"
+  },
+  {
+    "name": "Khi5_LFO_S2",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi5_LFO_S2.cfg"
+  },
+  {
+    "name": "Khi5_LFO_S2L",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi5_LFO_S2L.cfg"
+  },
+  {
+    "name": "Khi5_Nosecone",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi5_Nosecone.cfg"
+  },
+  {
+    "name": "Khi6_LFO",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi6_LFO.cfg"
+  },
+  {
+    "name": "Khi6_LFO_S2",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi6_LFO_S2.cfg"
+  },
+  {
+    "name": "Khi7_LFO_Booster",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi7_LFO_Booster.cfg"
+  },
+  {
+    "name": "Khi7_LFO_S2",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi7_LFO_S2.cfg"
+  },
+  {
+    "name": "Khi7_whide_LFO",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Khi7_whide_LFO.cfg"
+  },
+  {
+    "name": "LES_ESC_0625",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\LES_ESC_0625.cfg"
+  },
+  {
+    "name": "Parabol_KhiNa",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\Parabol_KhiNa.cfg"
+  },
+  {
+    "name": "RK-K-100",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-100.cfg"
+  },
+  {
+    "name": "RK-K-100x2",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-100x2.cfg"
+  },
+  {
+    "name": "RK-K-100_1x1250",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-100_1x1250.cfg"
+  },
+  {
+    "name": "RK-K-100_1x1500",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-100_1x1500.cfg"
+  },
+  {
+    "name": "RK-K-100_angle",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-100_angle.cfg"
+  },
+  {
+    "name": "RK-K-115",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-115.cfg"
+  },
+  {
+    "name": "RK-K-115x1",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-115x1.cfg"
+  },
+  {
+    "name": "RK-K-40b",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-40b.cfg"
+  },
+  {
+    "name": "RK-K-75",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-75.cfg"
+  },
+  {
+    "name": "RK-K-75D",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-75D.cfg"
+  },
+  {
+    "name": "RK-K-75E",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-75E.cfg"
+  },
+  {
+    "name": "RK-K-77",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-77.cfg"
+  },
+  {
+    "name": "RK-K-PBV",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-K-PBV.cfg"
+  },
+  {
+    "name": "RK-Khi-20",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-Khi-20.cfg"
+  },
+  {
+    "name": "RK-Khi-20a",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-Khi-20a.cfg"
+  },
+  {
+    "name": "RK-Khi-21",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-Khi-21.cfg"
+  },
+  {
+    "name": "RK-Khi-24-2",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-Khi-24-2.cfg"
+  },
+  {
+    "name": "RK-Khi-24",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Parts\\KhiNa\\RK-Khi-24.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Patches\\CONTARES_KHI_KIS.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Patches\\CONTARES_KHI_TACLS.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Patches\\E_KhiE_plume.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Patches\\E_KhiKa_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Patches\\E_KhiLm_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Patches\\E_KhiSm_plume.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "CRS_Crew_A",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Spaces\\CRS_Crew_A\\CRS_Crew_A.cfg"
+  },
+  {
+    "name": "KhiG_6_Crew_A",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Spaces\\KhiG_6_Crew_A\\KhiG_6_Crew_A.cfg"
+  },
+  {
+    "name": "KhiKa_Crew_A",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Spaces\\KhiKa_Crew_A\\KhiKa_Crew_A.cfg"
+  },
+  {
+    "name": "KhiOm_Crew_A",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Spaces\\KhiOm_Crew_A\\KhiOm_Crew_A.cfg"
+  },
+  {
+    "name": "UHCL_Crew_A",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Spaces\\UHCL_Crew_A\\UHCL_Crew_A.cfg"
+  },
+  {
+    "name": "UIHC_Crew_A",
+    "filePath": "CSA_Contares_KHI\\GameData\\Contares_KHI\\Spaces\\UIHC_Crew_A\\UIHC_Crew_A.cfg"
+  }
+]

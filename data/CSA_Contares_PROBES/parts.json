@@ -1,0 +1,166 @@
+[
+  {
+    "name": "CONTARES-PROBES",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "FLACHBUS_2",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\BUS\\FLACHBUS_2.cfg"
+  },
+  {
+    "name": "FLACHBUS_3",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\BUS\\FLACHBUS_3.cfg"
+  },
+  {
+    "name": "SECHSBUS_1",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\BUS\\SECHSBUS_1.cfg"
+  },
+  {
+    "name": "C_BUS_KOFFER",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\BUS_Koffer\\BUS_Koffer.cfg"
+  },
+  {
+    "name": "DOSENBUS-TorusTank",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\DOSENBUS\\DOSENBUS-TorusTank.cfg"
+  },
+  {
+    "name": "DOSENBUS",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\DOSENBUS\\DOSENBUS.cfg"
+  },
+  {
+    "name": "IUE",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\IUE\\IUE.cfg"
+  },
+  {
+    "name": "IUE_SP",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\IUE\\IUE_SP.cfg"
+  },
+  {
+    "name": "KERBLER",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\KEPLER\\KEPLER.cfg"
+  },
+  {
+    "name": "CL-CAM-TELE",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\MUNIK\\CL-CAM.cfg"
+  },
+  {
+    "name": "CL-GERADE",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\MUNIK\\CL-GERADE.cfg"
+  },
+  {
+    "name": "CL-HALBKUGEL",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\MUNIK\\CL-HALBKUGEL.cfg"
+  },
+  {
+    "name": "CL-SPP",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\MUNIK\\CL-SP.cfg"
+  },
+  {
+    "name": "POLYOT-BUS",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\POLYOT\\POLYOT.cfg"
+  },
+  {
+    "name": "BBBP-001",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\BBBP-001.cfg"
+  },
+  {
+    "name": "BBBP-002",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\BBBP-002.cfg"
+  },
+  {
+    "name": "C-CUBE_625",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\C-CUBE_625.cfg"
+  },
+  {
+    "name": "CRK-GYRO",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\CRK-GYRO.cfg"
+  },
+  {
+    "name": "CUBE-Optical",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\CUBE-Optical.cfg"
+  },
+  {
+    "name": "DT-001",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\DT-001.cfg"
+  },
+  {
+    "name": "DT-001_Teleskop",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\DT-001_Teleskop.cfg"
+  },
+  {
+    "name": "DT-004",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\DT-004.cfg"
+  },
+  {
+    "name": "FLAT_HG_ANT",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\FLAT_HG_ANT.cfg"
+  },
+  {
+    "name": "FLAT_HG_ANT2",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\FLAT_HG_ANT2.cfg"
+  },
+  {
+    "name": "KERBUS1000",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\KERBUS1000.cfg"
+  },
+  {
+    "name": "PROBE_OSCAR",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\PROBES\\PROBE_OSCAR.cfg"
+  },
+  {
+    "name": "C-RORSAT_SAR_L",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\C-RORSAT_SAR_L.cfg"
+  },
+  {
+    "name": "C-RORSAT_SAR_R",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\C-RORSAT_SAR_R.cfg"
+  },
+  {
+    "name": "RORSAT_DECU",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\RORSAT_DECU.cfg"
+  },
+  {
+    "name": "RORSAT_DO",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\RORSAT_DO.cfg"
+  },
+  {
+    "name": "RORSAT_MATERIAL",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\RORSAT_MATERIAL.cfg"
+  },
+  {
+    "name": "RORSAT_OM",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\RORSAT_OM.cfg"
+  },
+  {
+    "name": "RORSAT_REAKTOR",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\RORSAT\\RORSAT_REAKTOR.cfg"
+  },
+  {
+    "name": "SARBUS",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\SARBUS\\SARBUS.cfg"
+  },
+  {
+    "name": "RK_SPUTNIK",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\SPUTNIK\\RK_Sputnik.cfg"
+  },
+  {
+    "name": "SP3_ANTENNE",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\SPUTNIK3\\SP3_ANTENNE.cfg"
+  },
+  {
+    "name": "SP3_INSTRUMENT",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\SPUTNIK3\\SP3_INSTRUMENT.cfg"
+  },
+  {
+    "name": "SPUTNIK3",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\SPUTNIK3\\SPUTNIK3.cfg"
+  },
+  {
+    "name": "tricube",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Parts\\TRIBUS\\tricube.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_PROBES\\GameData\\Contares_PROBES\\Patches\\Contares_PROBES_Plume.cfg"
+  }
+]

@@ -1,6 +1,178 @@
 [
   {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\Antennas_in_Custom03.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\Collect_Science_in_Custom08.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\LES_in_Abort.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\Radiators_in_Custom02.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\RetractableLadders_in_LandingGear.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\SolarPanels_in_Custom01.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\SwitchEngineMode_in_Custom10.cfg"
+  },
+  {
+    "name": "ModuleDefaultActionGroup",
+    "filePath": "Optional\\GameData\\DefaultActionGroups\\ThrustReverser_in_Brakes.cfg"
+  },
+  {
     "name": "MechJebCore",
     "filePath": "Optional\\GameData\\StockPlugins\\MechJeb.cfg"
+  },
+  {
+    "name": "ModuleAlternator",
+    "filePath": "Optional\\Monoprop alternators\\GameData\\The_Sea_Four\\Alternators_For_All_Monoprop.cfg"
+  },
+  {
+    "name": "kPMDisplay",
+    "filePath": "Optional\\No Colors\\GameData\\kPM\\Library\\Patches\\Patch.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP HRP\\WingsForHRP.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\aerodynamicNoseCone\\noseCone.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\airplaneFins\\sweptWing.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\cones\\airplaneTail.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\cones\\airplaneTailB.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\cones\\noseConeAdapter.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\cones\\pointyNoseConeA.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\cones\\pointyNoseConeB.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\cones\\standardNoseCone.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\protectiveRocketNoseMk7\\rocketNoseCone.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\deltaWing.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\structuralWing.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\structuralWing2.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\sweptWing1.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\sweptWing2.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\wingConnector.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\wingConnector2.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\wingConnector3.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\wingConnector4.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Aero\\wings\\wingConnector5.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\adapterLargeSmallBi\\adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\adapterLargeSmallQuad\\adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\adapterLargeSmallTri\\adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\adapterSmallMiniTall\\adapterSmallMiniTall.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\mk1Parts\\engineBodyRadial.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\mk1Parts\\engineNacelle.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\mk1Parts\\Mk1FuselageStructural.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\Size3To2Adapter\\Size3to2Adapter.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\stationHub\\stationHub.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\structuralMicronode\\structuralMiniNode.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\structuralPylons\\smallHardpoint.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Optional\\noIStFs - PaTwe without InterstellarFuelSwitch\\KSP stock\\Structural\\structuralPylons\\structuralPylon.cfg"
+  },
+  {
+    "name": "ModuleAlternator",
+    "filePath": "Optional\\SRB alternators\\GameData\\The_Sea_Four\\Alternators_For_All_Solid_Fuel.cfg"
   }
 ]

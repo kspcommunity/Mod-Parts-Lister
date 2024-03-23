@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Horch_MG42",
+    "filePath": "SkunkWorksHorch\\Horsche\\Horsche\\Gun\\part.cfg"
+  },
+  {
+    "name": "HorscheHull",
+    "filePath": "SkunkWorksHorch\\Horsche\\Horsche\\Hull\\part.cfg"
+  },
+  {
+    "name": "HorchCanvasTop",
+    "filePath": "SkunkWorksHorch\\Horsche\\Horsche\\Top\\part.cfg"
+  },
+  {
+    "name": "HorscheWheel",
+    "filePath": "SkunkWorksHorch\\Horsche\\Horsche\\Wheel\\part.cfg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "OPPSPlanetaryStationCoresEarth",
+    "filePath": "OPPS\\NormalRotating\\Earth.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresJupiter",
+    "filePath": "OPPS\\NormalRotating\\Jupiter.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresMars",
+    "filePath": "OPPS\\NormalRotating\\Mars.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresMercury",
+    "filePath": "OPPS\\NormalRotating\\Mercury.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresMoon",
+    "filePath": "OPPS\\NormalRotating\\Moon.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresNeptune",
+    "filePath": "OPPS\\NormalRotating\\Neptune.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresPluto",
+    "filePath": "OPPS\\NormalRotating\\Pluto.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresSaturn",
+    "filePath": "OPPS\\NormalRotating\\Saturn.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresUranusR",
+    "filePath": "OPPS\\ReverseRotation\\Uranus.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresVenusR",
+    "filePath": "OPPS\\ReverseRotation\\Venus.cfg"
+  },
+  {
+    "name": "OPPSPlanetaryStationCoresSaturnRingR",
+    "filePath": "OPPS\\Rings\\SaturnRing.cfg"
+  }
+]

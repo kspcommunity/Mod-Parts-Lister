@@ -1,0 +1,218 @@
+[
+  {
+    "name": "#LOC_AA_manufacturer_RA_title",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "50calBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\12.7mm Ammo Box\\50calBox.cfg"
+  },
+  {
+    "name": "13mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\13mm Ammo Box\\13mmBox.cfg"
+  },
+  {
+    "name": "15mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\15mm Ammo Box\\15mmBox.cfg"
+  },
+  {
+    "name": "20mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\20mm Ammo Box\\20mmBox.cfg"
+  },
+  {
+    "name": "23mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\23mm Ammo Box\\23mmBox.cfg"
+  },
+  {
+    "name": "30mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\30mm Ammo Box\\30mmBox.cfg"
+  },
+  {
+    "name": "40mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\40mm Ammo Box\\40mmBox.cfg"
+  },
+  {
+    "name": "75mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\75mm Ammo Box\\75mmBox.cfg"
+  },
+  {
+    "name": "7mmBox",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Ammo Boxes\\7mm Ammo Box\\7mmBox.cfg"
+  },
+  {
+    "name": "AIantenna\t",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Antennas\\AI Antenna\\AIAntenna.cfg"
+  },
+  {
+    "name": "AeroAntenna\t",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Antennas\\Ball Antenna\\ballAntenna.cfg"
+  },
+  {
+    "name": "ringantenna",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Antennas\\Ring Antenna\\ringAntenna.cfg"
+  },
+  {
+    "name": "ANM30",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Bombs\\AN-M30 100lb Bomb\\100lb.cfg"
+  },
+  {
+    "name": "ANM57",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Bombs\\AN-M57 250lb Bomb\\250lb.cfg"
+  },
+  {
+    "name": "ANM64",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Bombs\\AN-M64 500lb Bomb\\500lb.cfg"
+  },
+  {
+    "name": "ANM65",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Bombs\\AN-M65 1000lb Bomb\\1000lb.cfg"
+  },
+  {
+    "name": "7.7x56RmmBulletHEI//Breda-SAFAT HE-I",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\BulletDefs\\AABulletDefs.cfg"
+  },
+  {
+    "name": "2.75inch",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\BulletDefs\\AARocketDefs.cfg"
+  },
+  {
+    "name": "hispanoEnclosed",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\Hispano mk2 Enclosed Barrel\\hispanoMK2enclosed.cfg"
+  },
+  {
+    "name": "hispanoExposed",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\Hispano mk2 Exposed Barrel\\hispanoMK2exposed.cfg"
+  },
+  {
+    "name": "WW2Ho5WingMount",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\Ho-5 Long Barrel\\Ho5.cfg"
+  },
+  {
+    "name": "Mg151Long",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\MG 151 Long Barrel\\mg151long.cfg"
+  },
+  {
+    "name": "Mg151Short",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\MG 151 Short Barrel\\mg151short.cfg"
+  },
+  {
+    "name": "MG151WingPod",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\MG 151 Surface Mounted\\mg151pod.cfg"
+  },
+  {
+    "name": "ShVAKWing",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\shVAK 20mm Long Barrel\\shVAKwingmount.cfg"
+  },
+  {
+    "name": "ShVAKBody",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Cannons\\shVAK 20mm Surface Mounted\\shVAKport.cfg"
+  },
+  {
+    "name": "Bk75",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\HE Cannons\\BK 7.5 Cannon\\BK7.5.cfg"
+  },
+  {
+    "name": "WW2Ho155",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\HE Cannons\\Ho-155 30mm Cannon\\Ho155.cfg"
+  },
+  {
+    "name": "Mk108",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\HE Cannons\\MK 108 30mm Cannon\\MK108.cfg"
+  },
+  {
+    "name": "VickersShortPod",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\HE Cannons\\Vickers S 40mm Pod\\vickerspod.cfg"
+  },
+  {
+    "name": "VYa23",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\HE Cannons\\VYa-23 Long Barrel\\VYa23.cfg"
+  },
+  {
+    "name": "BerezinUBK",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\Berezin UBZ Long Barrel\\berezin.cfg"
+  },
+  {
+    "name": "BredaSAFATLong",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\Breda-SAFAT 7.7mm Long Barrel\\bredaSAFATlong.cfg"
+  },
+  {
+    "name": "BredaSAFATPort",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\Breda-SAFAT 7.7mm Port\\bredaSAFATport.cfg"
+  },
+  {
+    "name": "WW2Ho3ExposedBarrel",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\Ho-3 .50 Long Barrel\\Ho3.cfg"
+  },
+  {
+    "name": "M2Blister",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\M2 .50 Blister Pod\\m2blisterpod.cfg"
+  },
+  {
+    "name": "M2ExposedBarrel",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\M2 .50 Long Barrel\\m2long.cfg"
+  },
+  {
+    "name": "M2GunPort",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\M2 .50 Port\\m2port.cfg"
+  },
+  {
+    "name": "M2Pod",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\M2 .50 Surface Mounted\\m2surface.cfg"
+  },
+  {
+    "name": "MG131",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\MG 131 13mm Surface Mounted\\mg131.cfg"
+  },
+  {
+    "name": "shKAS",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Machine Guns\\shKAS 7.62mm Surface Mounted\\shKAS.cfg"
+  },
+  {
+    "name": "7mm",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Resources\\Ammo.cfg"
+  },
+  {
+    "name": "WW2HVARRocket",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Rockets\\HVAR Rocket\\HVAR.cfg"
+  },
+  {
+    "name": "WW2R4MRocket",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Rockets\\R4M Rack\\rocketRack.cfg"
+  },
+  {
+    "name": "WW2RocketPod",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Rockets\\Rocket Pod\\rocketPod.cfg"
+  },
+  {
+    "name": "WW2RP3Rocket",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Rockets\\RP-3 Rocket\\RP3.cfg"
+  },
+  {
+    "name": "BallTurret",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Turrets\\Ball Turret\\ballturret.cfg"
+  },
+  {
+    "name": "MG131zTurret",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Turrets\\MG131z Turret\\mg131.cfg"
+  },
+  {
+    "name": "smallDropTank",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Utilities\\Drop Tank\\smalldroptank.cfg"
+  },
+  {
+    "name": "HeavyMount",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Utilities\\Heavy Ordnance Mount\\heavyMount.cfg"
+  },
+  {
+    "name": "JerichoTrumpet",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Utilities\\JerryTrumpet\\Jerry.cfg"
+  },
+  {
+    "name": "RocketRail",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Utilities\\Rocket Rail\\Rail.cfg"
+  },
+  {
+    "name": "StructBomb",
+    "filePath": "AviatorArsenal 1.5.5\\GameData\\AviatorArsenal\\Utilities\\Structural Bomb Mount\\bombmount.cfg"
+  }
+]

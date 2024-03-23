@@ -1,0 +1,46 @@
+[
+  {
+    "name": "opblackholebattery",
+    "filePath": "OPpartsMod\\Parts\\blackholebattery\\blackholebattery.cfg"
+  },
+  {
+    "name": "longAntenna32",
+    "filePath": "OPpartsMod\\Parts\\commsDish32\\commsAntenna32.cfg"
+  },
+  {
+    "name": "longAntenna64",
+    "filePath": "OPpartsMod\\Parts\\commsDish64\\commsAntenna64.cfg"
+  },
+  {
+    "name": "deathDrive",
+    "filePath": "OPpartsMod\\Parts\\deathDrive\\deathDrive.cfg"
+  },
+  {
+    "name": "fusiondrive",
+    "filePath": "OPpartsMod\\Parts\\fusionDrive\\fusionDrive.cfg"
+  },
+  {
+    "name": "fusionrtg",
+    "filePath": "OPpartsMod\\Parts\\fusionRTG\\RTG.cfg"
+  },
+  {
+    "name": "xenontankinf",
+    "filePath": "OPpartsMod\\Parts\\opradialxenon\\xenontankinf.cfg"
+  },
+  {
+    "name": "opScience",
+    "filePath": "OPpartsMod\\Parts\\opScience\\opScience.cfg"
+  },
+  {
+    "name": "opprobe",
+    "filePath": "OPpartsMod\\Parts\\powerfulprobe\\probeCoreOcto2_v2\\probeCoreOcto2_v2.cfg"
+  },
+  {
+    "name": "opprobe",
+    "filePath": "OPpartsMod\\Parts\\powerfulprobe\\probeCoreOcto2_v2.cfg"
+  },
+  {
+    "name": "PowerfulRamAirIntake",
+    "filePath": "OPpartsMod\\Parts\\pwflRamInt\\ramAirIntake.cfg"
+  }
+]

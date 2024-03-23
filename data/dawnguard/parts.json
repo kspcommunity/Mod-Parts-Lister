@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DawnGuardSolarSail",
+    "filePath": "dawnguard\\DawnGuardSail.cfg"
+  },
+  {
+    "name": "SolarCharge",
+    "filePath": "dawnguard\\ResourceSolarSail.cfg"
+  }
+]

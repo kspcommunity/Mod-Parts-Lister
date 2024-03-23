@@ -1,0 +1,34 @@
+[
+  {
+    "name": "KSC_Administration_level_3",
+    "filePath": "vandenburg\\KSC_Administration_level_3.cfg"
+  },
+  {
+    "name": "KSC_Runway_level_3",
+    "filePath": "vandenburg\\KSC_Runway_level_3.cfg"
+  },
+  {
+    "name": "KSC_VAB_AC_level_1",
+    "filePath": "vandenburg\\KSC_VAB_AC_level_1.cfg"
+  },
+  {
+    "name": "KSC_VehicleAssemblyBuilding_level_2",
+    "filePath": "vandenburg\\KSC_VehicleAssemblyBuilding_level_2.cfg"
+  },
+  {
+    "name": "observatory_complex",
+    "filePath": "vandenburg\\observatory_complex.cfg"
+  },
+  {
+    "name": "payload_intergration_complex",
+    "filePath": "vandenburg\\payload_intergration_complex.cfg"
+  },
+  {
+    "name": "Road208m",
+    "filePath": "vandenburg\\Road208m.cfg"
+  },
+  {
+    "name": "TLC_41",
+    "filePath": "vandenburg\\TLC_41.cfg"
+  }
+]

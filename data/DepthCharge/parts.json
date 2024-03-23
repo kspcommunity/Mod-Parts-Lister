@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MDC_DC_Type3_IJN",
+    "filePath": "DepthCharge\\Parts\\MDC_DC_Type3_JPN\\MDC_DC_Type3_IJN.cfg"
+  },
+  {
+    "name": "NAS_DC_Type3_IJN",
+    "filePath": "DepthCharge\\Parts\\NAS_DC_Mark9_USN\\MDC_DC_Mark9_USN.cfg"
+  }
+]

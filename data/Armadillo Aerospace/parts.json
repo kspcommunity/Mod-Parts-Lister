@@ -1,0 +1,10 @@
+[
+  {
+    "name": "superreactor",
+    "filePath": "Armadillo Aerospace\\Parts\\Electrical\\SuperReactor\\superreactor.cfg"
+  },
+  {
+    "name": "superrocket",
+    "filePath": "Armadillo Aerospace\\Parts\\Engine\\superrocket\\superrocket.cfg"
+  }
+]

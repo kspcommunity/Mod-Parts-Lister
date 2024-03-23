@@ -1,0 +1,78 @@
+[
+  {
+    "name": "InterKalactic2AsteroidsCfg",
+    "filePath": "InterKalactic2\\Asteroids.cfg"
+  },
+  {
+    "name": "Aartee",
+    "filePath": "InterKalactic2\\NewBodies\\Aartee\\Aartee.cfg"
+  },
+  {
+    "name": "Cryo",
+    "filePath": "InterKalactic2\\NewBodies\\Cryo\\Cryo.cfg"
+  },
+  {
+    "name": "HawkingsSingularity",
+    "filePath": "InterKalactic2\\NewBodies\\HawkingStar\\Hawking.cfg"
+  },
+  {
+    "name": "Ie",
+    "filePath": "InterKalactic2\\NewBodies\\Ie\\Ie.cfg"
+  },
+  {
+    "name": "Kallisto",
+    "filePath": "InterKalactic2\\NewBodies\\Kallisto\\Kallisto.cfg"
+  },
+  {
+    "name": "Klaspen",
+    "filePath": "InterKalactic2\\NewBodies\\Klaspen\\Klaspen.cfg"
+  },
+  {
+    "name": "Korbur",
+    "filePath": "InterKalactic2\\NewBodies\\Korbur\\Korbur.cfg"
+  },
+  {
+    "name": "Korvin",
+    "filePath": "InterKalactic2\\NewBodies\\Korvin\\Korvin.cfg"
+  },
+  {
+    "name": "Kyel",
+    "filePath": "InterKalactic2\\NewBodies\\Kyel\\Kyel.cfg"
+  },
+  {
+    "name": "Myecl",
+    "filePath": "InterKalactic2\\NewBodies\\Myecl\\Myecl.cfg"
+  },
+  {
+    "name": "Oceania",
+    "filePath": "InterKalactic2\\NewBodies\\Oceania\\Oceania.cfg"
+  },
+  {
+    "name": "Alternis",
+    "filePath": "InterKalactic2\\NewBodies\\PlanetWithMaps\\Alternis.cfg"
+  },
+  {
+    "name": "Oogaloo",
+    "filePath": "InterKalactic2\\NewBodies\\ProceduralBody\\Oogaloo.cfg"
+  },
+  {
+    "name": "Sol",
+    "filePath": "InterKalactic2\\NewBodies\\Sol\\Sol.cfg"
+  },
+  {
+    "name": "VoronoiCraters1",
+    "filePath": "InterKalactic2\\PQSMod\\VoronoiCraters\\VoronoiCraters1.cfg"
+  },
+  {
+    "name": "VoronoiCraters2",
+    "filePath": "InterKalactic2\\PQSMod\\VoronoiCraters\\VoronoiCraters2.cfg"
+  },
+  {
+    "name": "VoronoiCraters3",
+    "filePath": "InterKalactic2\\PQSMod\\VoronoiCraters\\VoronoiCraters3.cfg"
+  },
+  {
+    "name": "VoronoiCraters4",
+    "filePath": "InterKalactic2\\PQSMod\\VoronoiCraters\\VoronoiCraters4.cfg"
+  }
+]

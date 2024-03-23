@@ -1,0 +1,50 @@
+[
+  {
+    "name": "FusionCan",
+    "filePath": "FusionDrive\\Parts\\Electrical\\Fusion Can\\Fusion Can.cfg"
+  },
+  {
+    "name": "FusionCanlarge",
+    "filePath": "FusionDrive\\Parts\\Electrical\\Fusion CanLarge\\FusionCanLarge.cfg"
+  },
+  {
+    "name": "EMDrive2",
+    "filePath": "FusionDrive\\Parts\\Engine\\FusionDrive Medium\\FusionDrive2.cfg"
+  },
+  {
+    "name": "EMDrive3",
+    "filePath": "FusionDrive\\Parts\\Engine\\FusionDrive Strong\\FusionDrive3.cfg"
+  },
+  {
+    "name": "EMDrive4",
+    "filePath": "FusionDrive\\Parts\\Engine\\FusionDrive Super Strong\\FusionDrive4.cfg"
+  },
+  {
+    "name": "EMDrive",
+    "filePath": "FusionDrive\\Parts\\Engine\\FusionDrive Weak\\FusionDrive.cfg"
+  },
+  {
+    "name": "miniFusioncontainer",
+    "filePath": "FusionDrive\\Parts\\FuelTank\\SmallFusionCantainer\\SmlfCont.cfg"
+  },
+  {
+    "name": "UltraSensor",
+    "filePath": "FusionDrive\\Parts\\Science\\UltraSensor\\UltraSensor.cfg"
+  },
+  {
+    "name": "Super Dish",
+    "filePath": "FusionDrive\\Parts\\Utility\\commDish88-88\\CommDish1000-1000.cfg"
+  },
+  {
+    "name": "Super Dish 2",
+    "filePath": "FusionDrive\\Parts\\Utility\\commDish88-88 - Relay\\CommDish1000-1000.cfg"
+  },
+  {
+    "name": "FusionRCS",
+    "filePath": "FusionDrive\\Parts\\Utility\\Fusion RCS\\FusionRCS.cfg"
+  },
+  {
+    "name": "Fusion",
+    "filePath": "FusionDrive\\Resources\\ResourcesGeneric.cfg"
+  }
+]

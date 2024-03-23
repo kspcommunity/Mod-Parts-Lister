@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Large Iridium Tank",
+    "filePath": "QuodiosMiningSystem\\Parts\\Large_Iridium_Tank\\LargeTank.cfg"
+  },
+  {
+    "name": "NFpP : Nuclear Fusion post-Processor",
+    "filePath": "QuodiosMiningSystem\\Parts\\NFpP\\NFpP.cfg"
+  },
+  {
+    "name": "Radial Iridium Tank",
+    "filePath": "QuodiosMiningSystem\\Parts\\Radial_Iridium_Tank\\RadialTank.cfg"
+  },
+  {
+    "name": "Small Iridium Tank",
+    "filePath": "QuodiosMiningSystem\\Parts\\Small_Iridium_Tank\\SmallTank.cfg"
+  },
+  {
+    "name": "Iridium",
+    "filePath": "QuodiosMiningSystem\\Resources\\Iridium.cfg"
+  }
+]

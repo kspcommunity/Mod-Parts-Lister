@@ -1,0 +1,310 @@
+[
+  {
+    "name": "apron",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\apron\\apron.cfg"
+  },
+  {
+    "name": "apron",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\apron\\apronKK.cfg"
+  },
+  {
+    "name": "apronCorner",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\apronCorner\\apronCorner.cfg"
+  },
+  {
+    "name": "apronCorner",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\apronCorner\\apronCornerKK.cfg"
+  },
+  {
+    "name": "baseplateKK",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\baseplateArctic\\arcticKK.cfg"
+  },
+  {
+    "name": "baseplateArctic",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\baseplateArctic\\baseplate.cfg"
+  },
+  {
+    "name": "baseplateDesert",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\baseplateDesert\\baseplate.cfg"
+  },
+  {
+    "name": "baseplateDesert",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\baseplateDesert\\desertkk.cfg"
+  },
+  {
+    "name": "baseplateGrass",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\baseplateGrass\\baseplate.cfg"
+  },
+  {
+    "name": "baseplateGrass",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\baseplateGrass\\grasskk.cfg"
+  },
+  {
+    "name": "blastWall",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Blastwall\\blastWall.cfg"
+  },
+  {
+    "name": "blastWall",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Blastwall\\blastwallkk.cfg"
+  },
+  {
+    "name": "checkpoint",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\checkpoint\\checkpoint.cfg"
+  },
+  {
+    "name": "checkpoint",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\checkpoint\\checkpointkk.cfg"
+  },
+  {
+    "name": "checkPointOpen",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\checkPointOpen\\checkPointOpen.cfg"
+  },
+  {
+    "name": "checkPointOpen",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\checkPointOpen\\checkPointOpenKK.cfg"
+  },
+  {
+    "name": "dragonstooth",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Dragonsteeth\\dragonstooth.cfg"
+  },
+  {
+    "name": "dragonstooth",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Dragonsteeth\\dragonstoothkk.cfg"
+  },
+  {
+    "name": "guardTower",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\guardTower\\guardTower.cfg"
+  },
+  {
+    "name": "guardTower",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\guardTower\\guardTowerkk.cfg"
+  },
+  {
+    "name": "guardTowerLadder",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\guardTowerLadder\\guardTowerLadder.cfg"
+  },
+  {
+    "name": "guardTowerLadder",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\guardTowerLadder\\guardTowerLadderKK.cfg"
+  },
+  {
+    "name": "hStreet",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\h-street\\hStreetkk.cfg"
+  },
+  {
+    "name": "h-street",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\h-street\\street.cfg"
+  },
+  {
+    "name": "hanger",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Hanger\\hanger.cfg"
+  },
+  {
+    "name": "itltHanger",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Hanger\\hangerKK.cfg"
+  },
+  {
+    "name": "hedgehog",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Hedgehog\\hedgehog.cfg"
+  },
+  {
+    "name": "hedgehog",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Hedgehog\\hedgehogkk.cfg"
+  },
+  {
+    "name": "helipad",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Helipad\\helipad.cfg"
+  },
+  {
+    "name": "helipad",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\Helipad\\helipadkk.cfg"
+  },
+  {
+    "name": "hesco",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\hesco\\hesco.cfg"
+  },
+  {
+    "name": "hesco",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\hesco\\hescokk.cfg"
+  },
+  {
+    "name": "lightPole",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\lightPole\\lightPole.cfg"
+  },
+  {
+    "name": "lightPole",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\lightPole\\lightPolekk.cfg"
+  },
+  {
+    "name": "medicalTent",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\medicalTent\\medicalTent.cfg"
+  },
+  {
+    "name": "medicalTent",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\medicalTent\\medTentkk.cfg"
+  },
+  {
+    "name": "medicContainer",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\medicContainer\\medConexkk.cfg"
+  },
+  {
+    "name": "medicContainer",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\medicContainer\\medicContainer.cfg"
+  },
+  {
+    "name": "pillbox",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\pillbox\\pillbox.cfg"
+  },
+  {
+    "name": "pillbox",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\pillbox\\pillboxkk.cfg"
+  },
+  {
+    "name": "podium",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\podium\\podium.cfg"
+  },
+  {
+    "name": "podium",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\podium\\podiumkk.cfg"
+  },
+  {
+    "name": "portOPotty",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\portOPotty\\portOPotty.cfg"
+  },
+  {
+    "name": "portOPotty",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\portOPotty\\portOPottykk.cfg"
+  },
+  {
+    "name": "portOPottyOD",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\portOPottyOD\\portOPottyOD.cfg"
+  },
+  {
+    "name": "portOPottyOD",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\portOPottyOD\\portOPottyODkk.cfg"
+  },
+  {
+    "name": "runwayEnd",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\runwayEnd\\runwayEnd.cfg"
+  },
+  {
+    "name": "runwayEnd",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\runwayEnd\\runwayEndkk.cfg"
+  },
+  {
+    "name": "runwayMiddle",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\runwayMiddle\\runwayMiddle.cfg"
+  },
+  {
+    "name": "runwayMiddle",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\runwayMiddle\\runwayMiddlekk.cfg"
+  },
+  {
+    "name": "runwayMiddleLong",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\runwayMiddleLong\\runwayMiddleLong.cfg"
+  },
+  {
+    "name": "runwayMiddleLong",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\runwayMiddleLong\\runwayMiddleLongkk.cfg"
+  },
+  {
+    "name": "sandbags",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\sandbags\\sandbags.cfg"
+  },
+  {
+    "name": "sandbags",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\sandbags\\sandbagskk.cfg"
+  },
+  {
+    "name": "sandbagsCovered",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\sandbagsCovered\\sandbagsCovered.cfg"
+  },
+  {
+    "name": "sandbagsCovered",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\sandbagsCovered\\sandbagsCoveredkk.cfg"
+  },
+  {
+    "name": "shippingContainer",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\shippingContainer\\conexkk.cfg"
+  },
+  {
+    "name": "shippingContainer",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\shippingContainer\\shippingContainer.cfg"
+  },
+  {
+    "name": "storageSiloOD",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageSiloOD\\storageSiloOD.cfg"
+  },
+  {
+    "name": "storageSiloOD",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageSiloOD\\storageSiloODKK.cfg"
+  },
+  {
+    "name": "storageSiloWhite",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageSiloWhite\\storageSiloWhite.cfg"
+  },
+  {
+    "name": "storageSiloWhite",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageSiloWhite\\storageSiloWhiteKK.cfg"
+  },
+  {
+    "name": "storageTanksOD",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageTanksOD\\storageTanksOD.cfg"
+  },
+  {
+    "name": "storageTanksOD",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageTanksOD\\storageTanksODkk.cfg"
+  },
+  {
+    "name": "storageTanksWhite",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageTanksWhite\\storageTanksWhite.cfg"
+  },
+  {
+    "name": "storageTanksWhite",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\storageTanksWhite\\storageTanksWhitekk.cfg"
+  },
+  {
+    "name": "t-street",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\t-street\\street.cfg"
+  },
+  {
+    "name": "tStreet",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\t-street\\tStreetkk.cfg"
+  },
+  {
+    "name": "tent",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\tent\\tent.cfg"
+  },
+  {
+    "name": "tent",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\tent\\tentkk.cfg"
+  },
+  {
+    "name": "theMagicBox",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\theMagicBox\\theMagicBox.cfg"
+  },
+  {
+    "name": "tireStack",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\tireStack\\tireStack.cfg"
+  },
+  {
+    "name": "tireStack",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\tireStack\\tireStackkk.cfg"
+  },
+  {
+    "name": "woodCrateRectangle",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\woodCrateRectangle\\woodCrateRectangle.cfg"
+  },
+  {
+    "name": "woodCrateRectangle\t",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\woodCrateRectangle\\woodCrateRectanglekk.cfg"
+  },
+  {
+    "name": "woodCrateSquare",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\woodCrateSquare\\woodCrateSquare.cfg"
+  },
+  {
+    "name": "woodCrateSquare\t",
+    "filePath": "its the little things V 1\\game data\\itstheLittleThings\\parts\\woodCrateSquare\\woodCrateSquarekk.cfg"
+  }
+]

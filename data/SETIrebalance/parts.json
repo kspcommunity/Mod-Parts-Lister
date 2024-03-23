@@ -1,0 +1,118 @@
+[
+  {
+    "name": "TankContentSwitcher",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-Battery.cfg"
+  },
+  {
+    "name": "TankContentSwitcher",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-NoseCone.cfg"
+  },
+  {
+    "name": "TankContentSwitcher",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-SRB.cfg"
+  },
+  {
+    "name": "ModuleDecouple",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-StackDecoupler.cfg"
+  },
+  {
+    "name": "TankContentSwitcher",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-Structural.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-TankLifeSupport.cfg"
+  },
+  {
+    "name": "TankContentSwitcher",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PartMod-PP-TankLiquid.cfg"
+  },
+  {
+    "name": "proceduralTankHRB",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PP-HRB.cfg"
+  },
+  {
+    "name": "proceduralProbeCore",
+    "filePath": "SETIrebalance\\0ProceduralParts\\SETI-PP-ProbeCore.cfg"
+  },
+  {
+    "name": "hybridBooster",
+    "filePath": "SETIrebalance\\MM-NewParts\\hybridBoosterRT-11\\hybridBooster-RT11.cfg"
+  },
+  {
+    "name": "RTLongDish2early",
+    "filePath": "SETIrebalance\\MM-NewParts\\SETI-NewParts-RemoteTech.cfg"
+  },
+  {
+    "name": "science_module_radial",
+    "filePath": "SETIrebalance\\MM-NewParts\\SETI-NewParts-SQUAD.cfg"
+  },
+  {
+    "name": "surfaceSampler",
+    "filePath": "SETIrebalance\\MM-NewParts\\SurfaceSampleDrill\\SurfaceSampler.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-DMagicOrbitalScience.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-FASA.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-K2.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-Kerbonov.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-NearFutureSpacecraft.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-OpenCockpit.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-PartOverhauls.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-SQUAD-Command.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-SQUAD-Control.cfg"
+  },
+  {
+    "name": "ModuleSAS",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-SQUAD-Probes.cfg"
+  },
+  {
+    "name": "ModuleScienceLab",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-StationScience.cfg"
+  },
+  {
+    "name": "TacGenericConverter",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-ThunderAerospace.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-UniversalStorage.cfg"
+  },
+  {
+    "name": "ModuleSAS",
+    "filePath": "SETIrebalance\\MM-PartModding\\SETI-PartMod-VenStockRevamp.cfg"
+  },
+  {
+    "name": "Hydrogen",
+    "filePath": "SETIrebalance\\SETI-GeneralSettings.cfg"
+  },
+  {
+    "name": "ModuleScienceExperiment\t",
+    "filePath": "SETIrebalance\\SETI-ScienceSettings.cfg"
+  }
+]

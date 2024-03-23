@@ -1,0 +1,58 @@
+[
+  {
+    "name": "LA_19_NL1_Fairing",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_Fairing.cfg"
+  },
+  {
+    "name": "LA_19_NL1_Leg",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_Leg.cfg"
+  },
+  {
+    "name": "LA_19_NL1_S1_Engine",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_S1_Engine.cfg"
+  },
+  {
+    "name": "LA_19_NL1_S1_Interstage",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_S1_Interstage.cfg"
+  },
+  {
+    "name": "LA_19_NL1_S1_Tank",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_S1_Tank.cfg"
+  },
+  {
+    "name": "LA_19_NL1_S2_Engine",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_S2_Engine.cfg"
+  },
+  {
+    "name": "LA_19_NL1_S2_Fairing_base",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_S2_Fairing_base.cfg"
+  },
+  {
+    "name": "LA_19_NL1_S2_Tank",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Parts\\NL1\\LA_19_NL1_S2_Tank.cfg"
+  },
+  {
+    "name": "Shangsheng Orbital",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Patches\\CCK\\Extra_CCK.cfg"
+  },
+  {
+    "name": "LqdMethane",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Patches\\MethaloxEngine.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Patches\\Plumes\\SLPlume.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Patches\\Plumes\\VacPlume.cfg"
+  },
+  {
+    "name": "SLPlume",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Patches\\SmokeScreen_Engines.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Shangsheng-Orbital_v0.5\\GameData\\ShangshengOrbital\\Patches\\Tanks.cfg"
+  }
+]

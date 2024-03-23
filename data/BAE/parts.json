@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Behemoth Aerospace Engineering",
+    "filePath": "BAE\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "BAE\\BAE_ConnectedLivingSpace.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "BAE\\BAE_TweakScale.cfg"
+  },
+  {
+    "name": "BAEsolidboosternose2m",
+    "filePath": "BAE\\Parts\\Aero\\BSN2\\BAEsolidboosternose5m.cfg"
+  },
+  {
+    "name": "BAEsolidboosternose3m",
+    "filePath": "BAE\\Parts\\Aero\\BSN3\\BAEsolidboosternose3m.cfg"
+  },
+  {
+    "name": "BAEsolidboosternose5m",
+    "filePath": "BAE\\Parts\\Aero\\BSN5\\BAEsolidboosternose5m.cfg"
+  },
+  {
+    "name": "BAEproceduralfairing10m",
+    "filePath": "BAE\\Parts\\Aero\\FP10\\BAEproceduralfairing10m.cfg"
+  },
+  {
+    "name": "BAEproceduralfairing5m",
+    "filePath": "BAE\\Parts\\Aero\\FP5\\BAEproceduralfairing5m.cfg"
+  },
+  {
+    "name": "BAEproceduralfairing7m",
+    "filePath": "BAE\\Parts\\Aero\\FP7\\BAEproceduralfairing7m.cfg"
+  },
+  {
+    "name": "BAEablativeheatshield10m",
+    "filePath": "BAE\\Parts\\Aero\\HA10\\BAEablativeheatshield10m.cfg"
+  },
+  {
+    "name": "BAEablativeheatshield5m",
+    "filePath": "BAE\\Parts\\Aero\\HA5\\BAEablativeheatshield5m.cfg"
+  },
+  {
+    "name": "BAEablativeheatshield7m",
+    "filePath": "BAE\\Parts\\Aero\\HA7\\BAEablativeheatshield7m.cfg"
+  },
+  {
+    "name": "BAEprobe10m",
+    "filePath": "BAE\\Parts\\Command\\P10\\BAEprobe10m.cfg"
+  },
+  {
+    "name": "BAEprobe5m",
+    "filePath": "BAE\\Parts\\Command\\P5\\BAEprobe5m.cfg"
+  },
+  {
+    "name": "BAEprobe7m",
+    "filePath": "BAE\\Parts\\Command\\P7\\BAEprobe7m.cfg"
+  },
+  {
+    "name": "BAEsas10m",
+    "filePath": "BAE\\Parts\\Control\\S10\\BAEsas10m.cfg"
+  },
+  {
+    "name": "BAEsas5m",
+    "filePath": "BAE\\Parts\\Control\\S5\\BAEsas5m.cfg"
+  },
+  {
+    "name": "BAEsas7m",
+    "filePath": "BAE\\Parts\\Control\\S7\\BAEsas7m.cfg"
+  },
+  {
+    "name": "BAEvernor1",
+    "filePath": "BAE\\Parts\\Control\\V1\\BAEvernor1.cfg"
+  },
+  {
+    "name": "BAEdecoupler10m",
+    "filePath": "BAE\\Parts\\Decouplers\\D10\\BAEdecoupler10m.cfg"
+  },
+  {
+    "name": "BAEdecoupler5m",
+    "filePath": "BAE\\Parts\\Decouplers\\D5\\BAEdecoupler5m.cfg"
+  },
+  {
+    "name": "BAEdecoupler7m",
+    "filePath": "BAE\\Parts\\Decouplers\\D7\\BAEdecoupler7m.cfg"
+  },
+  {
+    "name": "BAEradialdecoupler1",
+    "filePath": "BAE\\Parts\\Decouplers\\DR1\\BAEradialdecoupler1.cfg"
+  },
+  {
+    "name": "BAEdockingport10m",
+    "filePath": "BAE\\Parts\\Docking\\PD10\\BAEdockingport10m.cfg"
+  },
+  {
+    "name": "BAEdockingport3m",
+    "filePath": "BAE\\Parts\\Docking\\PD3\\BAEdockingport3m.cfg"
+  },
+  {
+    "name": "BAEdockingport5m",
+    "filePath": "BAE\\Parts\\Docking\\PD5\\BAEdockingport5m.cfg"
+  },
+  {
+    "name": "BAEdockingport7m",
+    "filePath": "BAE\\Parts\\Docking\\PD7\\BAEdockingport7m.cfg"
+  },
+  {
+    "name": "BAEsolarpanels10m",
+    "filePath": "BAE\\Parts\\Electrical\\PS10\\BAEsolarpanels10m.cfg"
+  },
+  {
+    "name": "BAEsolarpanels5m",
+    "filePath": "BAE\\Parts\\Electrical\\PS5\\BAEsolarpanels5m.cfg"
+  },
+  {
+    "name": "BAEsolarpanels7m",
+    "filePath": "BAE\\Parts\\Electrical\\PS7\\BAEsolarpanels7m.cfg"
+  },
+  {
+    "name": "BAEengine5mA1",
+    "filePath": "BAE\\Parts\\Engines\\A1\\BAEengine5mA1.cfg"
+  },
+  {
+    "name": "BAEengine7mA2",
+    "filePath": "BAE\\Parts\\Engines\\A2\\BAEengine7mA2.cfg"
+  },
+  {
+    "name": "BAEengine5mB1",
+    "filePath": "BAE\\Parts\\Engines\\B1\\BAEengine5mB1.cfg"
+  },
+  {
+    "name": "BAEengine7mB2",
+    "filePath": "BAE\\Parts\\Engines\\B2\\BAEengine7mB2.cfg"
+  },
+  {
+    "name": "BAEengine10mB5",
+    "filePath": "BAE\\Parts\\Engines\\B5\\BAEengine10mB5.cfg"
+  },
+  {
+    "name": "BAEsolidboosterexhaust2m",
+    "filePath": "BAE\\Parts\\Engines\\BSE2\\BAEsolidboosterexhaust2m.cfg"
+  },
+  {
+    "name": "BAEsolidboosterexhaust3m",
+    "filePath": "BAE\\Parts\\Engines\\BSE3\\BAEsolidboosterexhaust3m.cfg"
+  },
+  {
+    "name": "BAEsolidboosterexhaust5m",
+    "filePath": "BAE\\Parts\\Engines\\BSE5\\BAEsolidboosterexhaust5m.cfg"
+  },
+  {
+    "name": "BAEsolidboostersection2m",
+    "filePath": "BAE\\Parts\\Engines\\BSS2\\BAEsolidboostersection2m.cfg"
+  },
+  {
+    "name": "BAEsolidboostersection3m",
+    "filePath": "BAE\\Parts\\Engines\\BSS3\\BAEsolidboostersection3m.cfg"
+  },
+  {
+    "name": "BAEsolidboostersection5m",
+    "filePath": "BAE\\Parts\\Engines\\BSS5\\BAEsolidboostersection5m.cfg"
+  },
+  {
+    "name": "BAEtank10m5LFO0",
+    "filePath": "BAE\\Parts\\FuelTanks\\T105LFO0\\BAEtank10m5LFO0.cfg"
+  },
+  {
+    "name": "BAEtank10m5LFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T105LFO05\\BAEtank10m5LFO05.cfg"
+  },
+  {
+    "name": "BAEtank10m5LFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T105LFO1\\BAEtank10m5LFO1.cfg"
+  },
+  {
+    "name": "BAEtank10m7LFO0",
+    "filePath": "BAE\\Parts\\FuelTanks\\T107LFO0\\BAEtank10m7LFO0.cfg"
+  },
+  {
+    "name": "BAEtank10m7LFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T107LFO05\\BAEtank10m7LFO05.cfg"
+  },
+  {
+    "name": "BAEtank10m7LFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T107LFO1\\BAEtank10m7LFO1.cfg"
+  },
+  {
+    "name": "BAEtank10mLFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T10LFO05\\BAEtank10mLFO05.cfg"
+  },
+  {
+    "name": "BAEtank10mLFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T10LFO1\\BAEtank10mLFO1.cfg"
+  },
+  {
+    "name": "BAEtank10mLFO2",
+    "filePath": "BAE\\Parts\\FuelTanks\\T10LFO2\\BAEtank10mLFO2.cfg"
+  },
+  {
+    "name": "BAEtank10mLFO4",
+    "filePath": "BAE\\Parts\\FuelTanks\\T10LFO4\\BAEtank10mLFO4.cfg"
+  },
+  {
+    "name": "BAEtank10mMF2",
+    "filePath": "BAE\\Parts\\FuelTanks\\T10MF2\\BAEtank10mMF2.cfg"
+  },
+  {
+    "name": "BAEtank5m2LFO0",
+    "filePath": "BAE\\Parts\\FuelTanks\\T52LFO0\\BAEtank5m2LFO0.cfg"
+  },
+  {
+    "name": "BAEtank5m2LFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T52LFO05\\BAEtank5m2LFO05.cfg"
+  },
+  {
+    "name": "BAEtank5m2LFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T52LFO1\\BAEtank5m2LFO1.cfg"
+  },
+  {
+    "name": "BAEtank5m3LFO0",
+    "filePath": "BAE\\Parts\\FuelTanks\\T53LFO0\\BAEtank5m3LFO0.cfg"
+  },
+  {
+    "name": "BAEtank5m3LFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T53LFO05\\BAEtank5m3LFO05.cfg"
+  },
+  {
+    "name": "BAEtank5m3LFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T53LFO1\\BAEtank5m3LFO1.cfg"
+  },
+  {
+    "name": "BAEtank5mLFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T5LFO05\\BAEtank5mLFO05.cfg"
+  },
+  {
+    "name": "BAEtank5mLFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T5LFO1\\BAEtank5mLFO1.cfg"
+  },
+  {
+    "name": "BAEtank5mLFO2",
+    "filePath": "BAE\\Parts\\FuelTanks\\T5LFO2\\BAEtank5mLFO2.cfg"
+  },
+  {
+    "name": "BAEtank5mLFO4",
+    "filePath": "BAE\\Parts\\FuelTanks\\T5LFO4\\BAEtank5mLFO4.cfg"
+  },
+  {
+    "name": "BAEtank5mMF2",
+    "filePath": "BAE\\Parts\\FuelTanks\\T5MF2\\BAEtank5mMF2.cfg"
+  },
+  {
+    "name": "BAEtank7m3LFO0",
+    "filePath": "BAE\\Parts\\FuelTanks\\T73LFO0\\BAEtank7m3LFO0.cfg"
+  },
+  {
+    "name": "BAEtank7m3LFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T73LFO05\\BAEtank7m3LFO05.cfg"
+  },
+  {
+    "name": "BAEtank7m3LFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T73LFO1\\BAEtank7m3LFO1.cfg"
+  },
+  {
+    "name": "BAEtank7m5LFO0",
+    "filePath": "BAE\\Parts\\FuelTanks\\T75LFO0\\BAEtank7m5LFO0.cfg"
+  },
+  {
+    "name": "BAEtank7m5LFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T75LFO05\\BAEtank7m5LFO05.cfg"
+  },
+  {
+    "name": "BAEtank7m5LFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T75LFO1\\BAEtank7m5LFO1.cfg"
+  },
+  {
+    "name": "BAEtank7mLFO05",
+    "filePath": "BAE\\Parts\\FuelTanks\\T7LFO05\\BAEtank7mLFO05.cfg"
+  },
+  {
+    "name": "BAEtank7mLFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\T7LFO1\\BAEtank7mLFO1.cfg"
+  },
+  {
+    "name": "BAEtank7mLFO2",
+    "filePath": "BAE\\Parts\\FuelTanks\\T7LFO2\\BAEtank7mLFO2.cfg"
+  },
+  {
+    "name": "BAEtank7mLFO4",
+    "filePath": "BAE\\Parts\\FuelTanks\\T7LFO4\\BAEtank7mLFO4.cfg"
+  },
+  {
+    "name": "BAEtank7mMF2",
+    "filePath": "BAE\\Parts\\FuelTanks\\T7MF2\\BAEtank7mMF2.cfg"
+  },
+  {
+    "name": "BAEnosetank10mLFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\TN10LFO1\\BAEnosetank10mLFO1.cfg"
+  },
+  {
+    "name": "BAEnosetank5mLFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\TN5LFO1\\BAEnosetank5mLFO1.cfg"
+  },
+  {
+    "name": "BAEnosetank7mLFO1",
+    "filePath": "BAE\\Parts\\FuelTanks\\TN7LFO1\\BAEnosetank7mLFO1.cfg"
+  },
+  {
+    "name": "BAEradialtank10mMF4",
+    "filePath": "BAE\\Parts\\FuelTanks\\TR10MF4\\BAEradialtank10mMF4.cfg"
+  },
+  {
+    "name": "BAEradialtank5mMF4",
+    "filePath": "BAE\\Parts\\FuelTanks\\TR5MF4\\BAEradialtank5mMF4.cfg"
+  },
+  {
+    "name": "BAEradialtank7mMF4",
+    "filePath": "BAE\\Parts\\FuelTanks\\TR7MF4\\BAEradialtank7mMF4.cfg"
+  },
+  {
+    "name": "BAEdecoupledradialtank10mLFO4",
+    "filePath": "BAE\\Parts\\FuelTanks\\TRD10LFO4\\BAEdecoupledradialtank10mLFO4.cfg"
+  },
+  {
+    "name": "BAEdecoupledradialtank5mLFO4",
+    "filePath": "BAE\\Parts\\FuelTanks\\TRD5LFO4\\BAEdecoupledradialtank5mLFO4.cfg"
+  },
+  {
+    "name": "BAEdecoupledradialtank7mLFO4",
+    "filePath": "BAE\\Parts\\FuelTanks\\TRD7LFO4\\BAEdecoupledradialtank7mLFO4.cfg"
+  },
+  {
+    "name": "BAEbicoupler10m",
+    "filePath": "BAE\\Parts\\Structural\\CB10\\BAEbicoupler10m.cfg"
+  },
+  {
+    "name": "BAEbicoupler2m",
+    "filePath": "BAE\\Parts\\Structural\\CB2\\BAEbicoupler2m.cfg"
+  },
+  {
+    "name": "BAEbicoupler3m",
+    "filePath": "BAE\\Parts\\Structural\\CB3\\BAEbicoupler3m.cfg"
+  },
+  {
+    "name": "BAEbicoupler5m",
+    "filePath": "BAE\\Parts\\Structural\\CB5\\BAEbicoupler5m.cfg"
+  },
+  {
+    "name": "BAEbicoupler7m",
+    "filePath": "BAE\\Parts\\Structural\\CB7\\BAEbicoupler7m.cfg"
+  },
+  {
+    "name": "BAEquadcoupler10m",
+    "filePath": "BAE\\Parts\\Structural\\CQ10\\BAEquadcoupler10m.cfg"
+  },
+  {
+    "name": "BAEquadcoupler2m",
+    "filePath": "BAE\\Parts\\Structural\\CQ2\\BAEquadcoupler2m.cfg"
+  },
+  {
+    "name": "BAEquadcoupler3m",
+    "filePath": "BAE\\Parts\\Structural\\CQ3\\BAEquadcoupler3m.cfg"
+  },
+  {
+    "name": "BAEquadcoupler5m",
+    "filePath": "BAE\\Parts\\Structural\\CQ5\\BAEquadcoupler5m.cfg"
+  },
+  {
+    "name": "BAEquadcoupler7m",
+    "filePath": "BAE\\Parts\\Structural\\CQ7\\BAEquadcoupler7m.cfg"
+  },
+  {
+    "name": "BAEtricoupler10m",
+    "filePath": "BAE\\Parts\\Structural\\CT10\\BAEtricoupler10m.cfg"
+  },
+  {
+    "name": "BAEtricoupler2m",
+    "filePath": "BAE\\Parts\\Structural\\CT2\\BAEtricoupler2m.cfg"
+  },
+  {
+    "name": "BAEtricoupler3m",
+    "filePath": "BAE\\Parts\\Structural\\CT3\\BAEtricoupler3m.cfg"
+  },
+  {
+    "name": "BAEtricoupler5m",
+    "filePath": "BAE\\Parts\\Structural\\CT5\\BAEtricoupler5m.cfg"
+  },
+  {
+    "name": "BAEtricoupler7m",
+    "filePath": "BAE\\Parts\\Structural\\CT7\\BAEtricoupler7m.cfg"
+  },
+  {
+    "name": "BAElandingleg8m",
+    "filePath": "BAE\\Parts\\Utility\\LL8\\BAElandingleg8m.cfg"
+  },
+  {
+    "name": "BAEparachute25m",
+    "filePath": "BAE\\Parts\\Utility\\PR2\\BAEparachute25m.cfg"
+  },
+  {
+    "name": "BAEparachute37m",
+    "filePath": "BAE\\Parts\\Utility\\PR3\\BAEparachute37m.cfg"
+  },
+  {
+    "name": "BAEparachute50m",
+    "filePath": "BAE\\Parts\\Utility\\PR5\\BAEparachute50m.cfg"
+  },
+  {
+    "name": "ModularSolidFuel",
+    "filePath": "BAE\\Resources\\Resources.cfg"
+  }
+]

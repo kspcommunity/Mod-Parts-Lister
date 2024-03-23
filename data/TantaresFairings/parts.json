@@ -1,0 +1,18 @@
+[
+  {
+    "name": "1-875mfairing",
+    "filePath": "TantaresFairings\\1.875m\\1,875mfairing.cfg"
+  },
+  {
+    "name": "2-50mfairing",
+    "filePath": "TantaresFairings\\2.50m\\2,50mfairing.cfg"
+  },
+  {
+    "name": "3-75mfairing",
+    "filePath": "TantaresFairings\\3.75m\\3,75mfairing.cfg"
+  },
+  {
+    "name": "5-00mfairing",
+    "filePath": "TantaresFairings\\5.00m\\5,00mfairing.cfg"
+  }
+]

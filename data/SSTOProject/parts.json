@@ -1,0 +1,194 @@
+[
+  {
+    "name": "COVID_test",
+    "filePath": "SSTOProject\\Coronavirus\\Coronavirus.cfg"
+  },
+  {
+    "name": "inlineFreezer",
+    "filePath": "SSTOProject\\cryocooler.cfg"
+  },
+  {
+    "name": "BR3",
+    "filePath": "SSTOProject\\Engines\\2.5.cfg"
+  },
+  {
+    "name": "advAerospike",
+    "filePath": "SSTOProject\\Engines\\advAerospike.cfg"
+  },
+  {
+    "name": "MR13",
+    "filePath": "SSTOProject\\Engines\\HGR.cfg"
+  },
+  {
+    "name": "MassiveLFOBooster",
+    "filePath": "SSTOProject\\Engines\\Kickback LFO.cfg"
+  },
+  {
+    "name": "ssto10",
+    "filePath": "SSTOProject\\Engines\\SSTO Rockets.cfg"
+  },
+  {
+    "name": "LPG",
+    "filePath": "SSTOProject\\LPG\\LPG defs.cfg"
+  },
+  {
+    "name": "LPG Tank",
+    "filePath": "SSTOProject\\LPG\\LPG-FilterExtensions.cfg"
+  },
+  {
+    "name": "proceduralTankLPG",
+    "filePath": "SSTOProject\\LPG\\LPG-ProcTanks.cfg"
+  },
+  {
+    "name": "1nuke1",
+    "filePath": "SSTOProject\\Mario X\\AAN1-1.cfg"
+  },
+  {
+    "name": "lnuke2",
+    "filePath": "SSTOProject\\Mario X\\AAN1-2.cfg"
+  },
+  {
+    "name": "1nuke3",
+    "filePath": "SSTOProject\\Mario X\\AAN1-3.cfg"
+  },
+  {
+    "name": "1nuke5",
+    "filePath": "SSTOProject\\Mario X\\AAN1-5.cfg"
+  },
+  {
+    "name": "2nuke1",
+    "filePath": "SSTOProject\\Mario X\\AAN2-1.cfg"
+  },
+  {
+    "name": "2nuke2",
+    "filePath": "SSTOProject\\Mario X\\AAN2-2.cfg"
+  },
+  {
+    "name": "2nuke3",
+    "filePath": "SSTOProject\\Mario X\\AAN2-3.cfg"
+  },
+  {
+    "name": "2nuke5",
+    "filePath": "SSTOProject\\Mario X\\AAN2-5.cfg"
+  },
+  {
+    "name": "2nuke5",
+    "filePath": "SSTOProject\\Mario X\\AAN2-6.cfg"
+  },
+  {
+    "name": "AA1",
+    "filePath": "SSTOProject\\Mario X\\All Altitudes.cfg"
+  },
+  {
+    "name": "cyclotron",
+    "filePath": "SSTOProject\\NuclearPower.cfg"
+  },
+  {
+    "name": "toroidalAerospikeNuke",
+    "filePath": "SSTOProject\\Nukes\\NukeAerospike.cfg"
+  },
+  {
+    "name": "SSTOnukeBAE1",
+    "filePath": "SSTOProject\\Nukes\\NukeBAE5m.cfg"
+  },
+  {
+    "name": "SSTOnukeBAE2",
+    "filePath": "SSTOProject\\Nukes\\NukeBAE7m.cfg"
+  },
+  {
+    "name": "SSTOnuke3",
+    "filePath": "SSTOProject\\Nukes\\NukeExpMid.cfg"
+  },
+  {
+    "name": "SuperJet",
+    "filePath": "SSTOProject\\Nukes\\NukeHyperJ.cfg"
+  },
+  {
+    "name": "NSABRE",
+    "filePath": "SSTOProject\\Nukes\\NukeSabre.cfg"
+  },
+  {
+    "name": "SSTOnuke0",
+    "filePath": "SSTOProject\\Nukes\\NukeStk03.cfg"
+  },
+  {
+    "name": "SSTOnuke1",
+    "filePath": "SSTOProject\\Nukes\\NukeStk06.cfg"
+  },
+  {
+    "name": "SSTOnuke2",
+    "filePath": "SSTOProject\\Nukes\\NukeStk1.cfg"
+  },
+  {
+    "name": "SSTOnuke4",
+    "filePath": "SSTOProject\\Nukes\\NukeStk2.cfg"
+  },
+  {
+    "name": "SSTOnuke5",
+    "filePath": "SSTOProject\\Nukes\\NukeStk3.cfg"
+  },
+  {
+    "name": "SSTOnukeHP",
+    "filePath": "SSTOProject\\Nukes\\NukeStkAB.cfg"
+  },
+  {
+    "name": "nuclearEngineChernobyl",
+    "filePath": "SSTOProject\\Nukes\\NukeStkN.cfg"
+  },
+  {
+    "name": "SSTOnukeSY1",
+    "filePath": "SSTOProject\\Nukes\\NukeSY3m.cfg"
+  },
+  {
+    "name": "SSTOnukeSY2",
+    "filePath": "SSTOProject\\Nukes\\NukeSY5m.cfg"
+  },
+  {
+    "name": "SSTOnukeSY3",
+    "filePath": "SSTOProject\\Nukes\\NukeSY7m.cfg"
+  },
+  {
+    "name": "OPDrive1",
+    "filePath": "SSTOProject\\OP Motors\\OPDrive1.cfg"
+  },
+  {
+    "name": "rotor_02s",
+    "filePath": "SSTOProject\\OP Motors\\OPDrive2.cfg"
+  },
+  {
+    "name": "Atmosphere",
+    "filePath": "SSTOProject\\Oxygenless.cfg"
+  },
+  {
+    "name": "ssas1",
+    "filePath": "SSTOProject\\SAS.cfg"
+  },
+  {
+    "name": "robocone",
+    "filePath": "SSTOProject\\SASCone.cfg"
+  },
+  {
+    "name": "Liquefy1",
+    "filePath": "SSTOProject\\SSTO Project; Miners\\AirLiquefiersDefinitions.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SSTOProject\\SSTO Project; Miners\\DefineLiquefiers.cfg"
+  },
+  {
+    "name": "Fuel Scoop",
+    "filePath": "SSTOProject\\SSTO Project; Miners\\Fuel Scoop.cfg"
+  },
+  {
+    "name": "USP",
+    "filePath": "SSTOProject\\UltimateSciencePackage.cfg"
+  },
+  {
+    "name": "vacu1",
+    "filePath": "SSTOProject\\Vacuum.cfg"
+  },
+  {
+    "name": "eelevon1",
+    "filePath": "SSTOProject\\WingsElevonsPlus.cfg"
+  }
+]

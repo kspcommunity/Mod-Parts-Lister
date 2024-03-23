@@ -1,0 +1,242 @@
+[
+  {
+    "name": "airlinerMainWing-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\airlinerWings\\MainWing-e.cfg"
+  },
+  {
+    "name": "CircularIntake-all",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\circularIntake\\circularIntake-all.cfg"
+  },
+  {
+    "name": "shockConeIntake-all",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\circularIntake\\intakeShockCone-all.cfg"
+  },
+  {
+    "name": "avionicsNoseCone",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\avionicsNoseCone.cfg"
+  },
+  {
+    "name": "pointyNoseConeA",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\ConeA.cfg"
+  },
+  {
+    "name": "pointyNoseConeB",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\ConeB.cfg"
+  },
+  {
+    "name": "noseConeAdapter",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\noseConeAdapter.cfg"
+  },
+  {
+    "name": "standardNoseCone",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\smallNoseCone.cfg"
+  },
+  {
+    "name": "airplaneTail",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\tailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailB",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\cones\\tailConnectorB.cfg"
+  },
+  {
+    "name": "IntakeRadialLong-all",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\intakeRadialLong\\intakeRadialLong-all.cfg"
+  },
+  {
+    "name": "ramAirIntake-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\ramAirIntake\\ramAirIntake-e.cfg"
+  },
+  {
+    "name": "wingShuttleDelta-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\shuttleWings\\delta-e.cfg"
+  },
+  {
+    "name": "wingShuttleStrake-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Aero\\shuttleWings\\strake-e.cfg"
+  },
+  {
+    "name": "ionEngine_e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Engine\\ionEngine\\ionEngine_e.cfg"
+  },
+  {
+    "name": "JetEngine-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Engine\\jetEngines\\jetEngineBasic_e.cfg"
+  },
+  {
+    "name": "turboFanSize2-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Engine\\jetEngines\\jetEngineBig_e.cfg"
+  },
+  {
+    "name": "miniJetEngine-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Engine\\miniJet\\SmallJetEngine.cfg"
+  },
+  {
+    "name": "miniFuselage-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\miniFuselage\\miniFuselage_e.cfg"
+  },
+  {
+    "name": "mk2_1m_Bicoupler_e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk2Adapters\\bicoupler_e.cfg"
+  },
+  {
+    "name": "mk2_1m_AdapterLong-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk2Adapters\\long_e.cfg"
+  },
+  {
+    "name": "mk2SpacePlaneAdapter-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk2Adapters\\standard_e.cfg"
+  },
+  {
+    "name": "mk2FuselageLongLFO_e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk2FuselageLong\\LFO_long_e.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLiquid",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk2FuselageShort\\L_short.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_100-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk3Fuselage\\LF_100-e.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_25-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk3Fuselage\\LF_25-e.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_50-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\FuelTank\\mk3Fuselage\\LF_50-e.cfg"
+  },
+  {
+    "name": "nacelleBody-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Structural\\mk1Parts\\engineNacelle-e.cfg"
+  },
+  {
+    "name": "MK1Fuselage-e",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Parts\\Structural\\mk1Parts\\mk1Fuselage-e.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "Kerbin_Electric list mod\\english\\GameData\\Kerbin_Electric_en\\Resources\\ResourcesGeneric.cfg"
+  },
+  {
+    "name": "airlinerMainWing-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\airlinerWings\\MainWing-e.cfg"
+  },
+  {
+    "name": "CircularIntake-all",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\circularIntake\\circularIntake-all.cfg"
+  },
+  {
+    "name": "shockConeIntake-all",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\circularIntake\\intakeShockCone-all.cfg"
+  },
+  {
+    "name": "avionicsNoseCone",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\avionicsNoseCone.cfg"
+  },
+  {
+    "name": "pointyNoseConeA",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\ConeA.cfg"
+  },
+  {
+    "name": "pointyNoseConeB",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\ConeB.cfg"
+  },
+  {
+    "name": "noseConeAdapter",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\noseConeAdapter.cfg"
+  },
+  {
+    "name": "standardNoseCone",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\smallNoseCone.cfg"
+  },
+  {
+    "name": "airplaneTail",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\tailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailB",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\cones\\tailConnectorB.cfg"
+  },
+  {
+    "name": "IntakeRadialLong-all",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\intakeRadialLong\\intakeRadialLong-all.cfg"
+  },
+  {
+    "name": "ramAirIntake-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\ramAirIntake\\ramAirIntake-e.cfg"
+  },
+  {
+    "name": "wingShuttleDelta-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\shuttleWings\\delta-e.cfg"
+  },
+  {
+    "name": "wingShuttleStrake-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Aero\\shuttleWings\\strake-e.cfg"
+  },
+  {
+    "name": "ionEngine_e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Engine\\ionEngine\\ionEngine_e.cfg"
+  },
+  {
+    "name": "JetEngine-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Engine\\jetEngines\\jetEngineBasic_e.cfg"
+  },
+  {
+    "name": "turboFanSize2-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Engine\\jetEngines\\jetEngineBig_e.cfg"
+  },
+  {
+    "name": "miniJetEngine-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Engine\\miniJet\\SmallJetEngine.cfg"
+  },
+  {
+    "name": "miniFuselage-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\miniFuselage\\miniFuselage_e.cfg"
+  },
+  {
+    "name": "mk2_1m_Bicoupler_e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk2Adapters\\bicoupler_e.cfg"
+  },
+  {
+    "name": "mk2_1m_AdapterLong-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk2Adapters\\long_e.cfg"
+  },
+  {
+    "name": "mk2SpacePlaneAdapter-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk2Adapters\\standard_e.cfg"
+  },
+  {
+    "name": "mk2FuselageLongLFO_e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk2FuselageLong\\LFO_long_e.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLiquid",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk2FuselageShort\\L_short.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_100-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk3Fuselage\\LF_100-e.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_25-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk3Fuselage\\LF_25-e.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_50-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\FuelTank\\mk3Fuselage\\LF_50-e.cfg"
+  },
+  {
+    "name": "nacelleBody-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Structural\\mk1Parts\\engineNacelle-e.cfg"
+  },
+  {
+    "name": "MK1Fuselage-e",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Parts\\Structural\\mk1Parts\\mk1Fuselage-e.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "Kerbin_Electric list mod\\french\\GameData\\Kerbin_Electric_fr\\Resources\\ResourcesGeneric.cfg"
+  }
+]

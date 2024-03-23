@@ -1,0 +1,46 @@
+[
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "ConformalDecals\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "ConformalDecals\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "ConformalDecals\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "conformaldecals-flag",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Parts\\decal-flag.cfg"
+  },
+  {
+    "name": "conformaldecals-text",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Parts\\decal-text.cfg"
+  },
+  {
+    "name": "conformaldecals-generic",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Parts\\Generic\\decal-generic.cfg"
+  },
+  {
+    "name": "conformaldecals-munar",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Parts\\Munar\\decal-munar.cfg"
+  },
+  {
+    "name": "conformaldecals-semiotic",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Parts\\Semiotic\\decal-semiotic.cfg"
+  },
+  {
+    "name": "Peel-N-Stik",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Resources\\Agents.cfg"
+  },
+  {
+    "name": "conformaldecals",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Resources\\Categories.cfg"
+  },
+  {
+    "name": "LiberationSans SDF",
+    "filePath": "ConformalDecals\\GameData\\ConformalDecals\\Resources\\ConformalDecals.cfg"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BlueScoop",
+    "filePath": "The_Blue_Scoop_Rescooped\\Parts\\gasintake\\engineNacelle.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "The_Blue_Scoop_Rescooped\\Patches\\Scanning.cfg"
+  }
+]

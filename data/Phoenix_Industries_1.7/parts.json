@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Phoenix Industries",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "phoenixeapbooster",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Boosters\\EAP\\EAP_booster.cfg"
+  },
+  {
+    "name": "phoenixgem46booster",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Boosters\\GEM46\\gem46_booster.cfg"
+  },
+  {
+    "name": "phoenixMassiveBoosterSLS",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Boosters\\MassiveSRBrecolor\\part.cfg"
+  },
+  {
+    "name": "phoenixcargotubebig",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Cygnus_Extended\\cygnusext.cfg"
+  },
+  {
+    "name": "phoenixcargotube",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Cygnus_Standard\\cygnus.cfg"
+  },
+  {
+    "name": "phoenixdragoncapsule",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Capsule\\dragonCapsule.cfg"
+  },
+  {
+    "name": "phoenixdragoncoupler",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Coupler\\dragonCoupler.cfg"
+  },
+  {
+    "name": "phoenixdragonheatshield",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Heatshield\\dragonHeatshield.cfg"
+  },
+  {
+    "name": "phoenixdragonnosecone",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Nosecone\\dragonNosecone.cfg"
+  },
+  {
+    "name": "phoenixdragonShroud",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Shroud\\dragonShroud.cfg"
+  },
+  {
+    "name": "phoenixdragonSolar",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Solar\\dragonSolar.cfg"
+  },
+  {
+    "name": "phoenixdragontrunk",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\CRS\\Dragon_Trunk\\dragonTrunk.cfg"
+  },
+  {
+    "name": "phoenixreactor",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Deep Space\\arcReactor\\reactor.cfg"
+  },
+  {
+    "name": "phoenixionEngine",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Deep Space\\ionEngine\\ionEngine.cfg"
+  },
+  {
+    "name": "phoenixxenonTank3",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Deep Space\\xenonTanks\\lg\\xenonTank3.cfg"
+  },
+  {
+    "name": "phoenixxenonTank2",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Deep Space\\xenonTanks\\med\\xenonTank2.cfg"
+  },
+  {
+    "name": "phoenixxenonTank1",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Deep Space\\xenonTanks\\sm\\xenonTank1.cfg"
+  },
+  {
+    "name": "phoenixgreenhouse",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Greenhouse\\greenhouse.cfg"
+  },
+  {
+    "name": "phoenixhandrail",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Parts\\Handrail\\handrail.cfg"
+  },
+  {
+    "name": "PhoenixPlainM",
+    "filePath": "Phoenix_Industries_1.7\\GameData\\PhoenixIndustries\\Suits\\Config\\SUITCOMBOS.cfg"
+  }
+]

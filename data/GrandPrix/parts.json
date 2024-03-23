@@ -1,0 +1,58 @@
+[
+  {
+    "name": "F1 Black",
+    "filePath": "GrandPrix\\Cars\\F1\\Black\\config.cfg"
+  },
+  {
+    "name": "F1 Blue",
+    "filePath": "GrandPrix\\Cars\\F1\\Blue\\config.cfg"
+  },
+  {
+    "name": "F1 Green",
+    "filePath": "GrandPrix\\Cars\\F1\\Green\\config.cfg"
+  },
+  {
+    "name": "F1 Orange",
+    "filePath": "GrandPrix\\Cars\\F1\\Orange\\config.cfg"
+  },
+  {
+    "name": "F1 Pink",
+    "filePath": "GrandPrix\\Cars\\F1\\Pink\\config.cfg"
+  },
+  {
+    "name": "F1 Purple",
+    "filePath": "GrandPrix\\Cars\\F1\\Purple\\config.cfg"
+  },
+  {
+    "name": "F1 Red",
+    "filePath": "GrandPrix\\Cars\\F1\\Red\\config.cfg"
+  },
+  {
+    "name": "F1 White",
+    "filePath": "GrandPrix\\Cars\\F1\\White\\config.cfg"
+  },
+  {
+    "name": "F1 Yellow",
+    "filePath": "GrandPrix\\Cars\\F1\\Yellow\\config.cfg"
+  },
+  {
+    "name": "Luigi's Race Circuit",
+    "filePath": "GrandPrix\\Tracks\\Luigis\\luigi.cfg"
+  },
+  {
+    "name": "Luigi's Race Circuit",
+    "filePath": "GrandPrix\\Tracks\\Luigis\\luigikk.cfg"
+  },
+  {
+    "name": "Nurburgring",
+    "filePath": "GrandPrix\\Tracks\\Nurburgring\\nbr.cfg"
+  },
+  {
+    "name": "Nurburgring",
+    "filePath": "GrandPrix\\Tracks\\Nurburgring\\nbrkk.cfg"
+  },
+  {
+    "name": "Formula 1 Racing Wheel",
+    "filePath": "GrandPrix\\Wheel\\Formula 1 Wheel\\F1wheel.cfg"
+  }
+]

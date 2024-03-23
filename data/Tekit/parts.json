@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tekcate",
+    "filePath": "Tekit\\Tekcate.cfg"
+  },
+  {
+    "name": "Tekili",
+    "filePath": "Tekit\\Tekili.cfg"
+  },
+  {
+    "name": "Tekova",
+    "filePath": "Tekit\\Tekova.cfg"
+  }
+]

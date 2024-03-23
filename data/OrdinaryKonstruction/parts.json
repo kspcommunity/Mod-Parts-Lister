@@ -1,0 +1,90 @@
+[
+  {
+    "name": "OKC_lightBeacon1TIMR",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtras\\OKC_lightBeacon1TIMR-instances.cfg"
+  },
+  {
+    "name": "OKC_Prefab8x8",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtras\\OKC_Prefab8x8-instances.cfg"
+  },
+  {
+    "name": "SQUAD_ksp_pad_cylTank",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtras\\SQUAD_ksp_pad_cylTank-instances.cfg"
+  },
+  {
+    "name": "OKC_lightBeacon1TIMR",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtrasBeyondHome\\OKC_lightBeacon1TIMR-instances.cfg"
+  },
+  {
+    "name": "OKC_Prefab8x8",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtrasBeyondHome\\OKC_Prefab8x8-instances.cfg"
+  },
+  {
+    "name": "SQUAD_ksp_pad_cylTank",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtrasBeyondHome\\SQUAD_ksp_pad_cylTank-instances.cfg"
+  },
+  {
+    "name": "OKC_lightBeacon1TIMR",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtrasJNSQ\\OKC_lightBeacon1TIMR-instances.cfg"
+  },
+  {
+    "name": "OKC_Prefab8x8",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtrasJNSQ\\OKC_Prefab8x8-instances.cfg"
+  },
+  {
+    "name": "SQUAD_ksp_pad_cylTank",
+    "filePath": "OrdinaryKonstruction\\ExampleBases\\IslandAirfieldExtrasJNSQ\\SQUAD_ksp_pad_cylTank-instances.cfg"
+  },
+  {
+    "name": "AdvancedTextures",
+    "filePath": "OrdinaryKonstruction\\OKCMAT.cfg"
+  },
+  {
+    "name": "OKC_4StoreyGeneric",
+    "filePath": "OrdinaryKonstruction\\Statics\\4StoreyGeneric.cfg"
+  },
+  {
+    "name": "OKC_HousesDoubleRow",
+    "filePath": "OrdinaryKonstruction\\Statics\\housesDoubleRow.cfg"
+  },
+  {
+    "name": "OKC_KSS484P",
+    "filePath": "OrdinaryKonstruction\\Statics\\Kerstraßensys\\KSS484P.cfg"
+  },
+  {
+    "name": "OKC_launchControlSmall",
+    "filePath": "OrdinaryKonstruction\\Statics\\launchControlSmall.cfg"
+  },
+  {
+    "name": "OKC_lightBeacon1TIMR",
+    "filePath": "OrdinaryKonstruction\\Statics\\lightBeacon1.cfg"
+  },
+  {
+    "name": "OKC_ContainerBuilding1",
+    "filePath": "OrdinaryKonstruction\\Statics\\Outposts\\Container\\containerBuildings.cfg"
+  },
+  {
+    "name": "OKC_NissenHangar",
+    "filePath": "OrdinaryKonstruction\\Statics\\Outposts\\Hut\\nissenHangarHut.cfg"
+  },
+  {
+    "name": "OKC_NissenStd4U",
+    "filePath": "OrdinaryKonstruction\\Statics\\Outposts\\Hut\\nissenStandard.cfg"
+  },
+  {
+    "name": "OKC_Prefab8x8",
+    "filePath": "OrdinaryKonstruction\\Statics\\Outposts\\Prefab\\prefab8x8.cfg"
+  },
+  {
+    "name": "OKC_PrefabATC",
+    "filePath": "OrdinaryKonstruction\\Statics\\Outposts\\Prefab\\prefabATC.cfg"
+  },
+  {
+    "name": "OKC_ParkingSmallHexBuilding",
+    "filePath": "OrdinaryKonstruction\\Statics\\parkingSmallhexBuilding.cfg"
+  },
+  {
+    "name": "OKC_TreesConifer1",
+    "filePath": "OrdinaryKonstruction\\Statics\\Plants\\treesConifer1.cfg"
+  }
+]

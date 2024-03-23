@@ -1,0 +1,34 @@
+[
+  {
+    "name": "mk1InlineInternalRPM",
+    "filePath": "Mk1RPMInternal\\internalI.cfg"
+  },
+  {
+    "name": "mk1InlineInternalASET",
+    "filePath": "Mk1RPMInternal\\internalIASET.cfg"
+  },
+  {
+    "name": "mk2InlineInternalASET",
+    "filePath": "Mk1RPMInternal\\internalmk2IASET.cfg"
+  },
+  {
+    "name": "mk1CockpitInternalRPM",
+    "filePath": "Mk1RPMInternal\\internalS.cfg"
+  },
+  {
+    "name": "mk1CockpitInternalASET",
+    "filePath": "Mk1RPMInternal\\internalSASET.cfg"
+  },
+  {
+    "name": "mk1CockpitInternalASETSidewaysSwitches",
+    "filePath": "Mk1RPMInternal\\internalSASETSidewaysSwitches.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk1RPMInternal\\mmASET.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk1RPMInternal\\mmpatch.cfg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CEC_MUN_BUS_Mark2",
+    "filePath": "MunBus\\GameData\\SkunkWorks\\MunBusMK2\\Hull\\part.cfg"
+  },
+  {
+    "name": "MunBus2LiftEngines",
+    "filePath": "MunBus\\GameData\\SkunkWorks\\MunBusMK2\\LE\\part.cfg"
+  },
+  {
+    "name": "MunBus2MainEngines",
+    "filePath": "MunBus\\GameData\\SkunkWorks\\MunBusMK2\\ME\\part.cfg"
+  }
+]

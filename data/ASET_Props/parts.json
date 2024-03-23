@@ -1,0 +1,1954 @@
+[
+  {
+    "name": "ABORTbutton",
+    "filePath": "ASET_Props\\Control\\ABORTbutton\\ABORTbutton.cfg"
+  },
+  {
+    "name": "ABORTbuttonV2",
+    "filePath": "ASET_Props\\Control\\ABORTButtonV2\\ABORTbuttonV2.cfg"
+  },
+  {
+    "name": "APswitchKILLROT",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchKILLROT.cfg"
+  },
+  {
+    "name": "APswitchNEXTNODE",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchNEXTNODE.cfg"
+  },
+  {
+    "name": "APswitchNMLminus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchNMLminus.cfg"
+  },
+  {
+    "name": "APswitchNMLplus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchNMLplus.cfg"
+  },
+  {
+    "name": "APswitchNODE",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchNODE.cfg"
+  },
+  {
+    "name": "APswitchOFF",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchOFF.cfg"
+  },
+  {
+    "name": "APswitchPARminus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchPARminus.cfg"
+  },
+  {
+    "name": "APswitchPARplus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchPARplus.cfg"
+  },
+  {
+    "name": "APswitchPROGRAD",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchPROGRAD.cfg"
+  },
+  {
+    "name": "APswitchRADminus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchRADminus.cfg"
+  },
+  {
+    "name": "APswitchRADplus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchRADplus.cfg"
+  },
+  {
+    "name": "APswitchRETROGRAD",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchRETROGRAD.cfg"
+  },
+  {
+    "name": "APswitchRVELminus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchRVELminus.cfg"
+  },
+  {
+    "name": "APswitchRVELplus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchRVELplus.cfg"
+  },
+  {
+    "name": "APswitchTGTminus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchTGTminus.cfg"
+  },
+  {
+    "name": "APswitchTGTplus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch\\APswitchTGTplus.cfg"
+  },
+  {
+    "name": "APswitchButtonClearNodes",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchClearNodes.cfg"
+  },
+  {
+    "name": "APswitchButtonClearTarget",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchClearTarget.cfg"
+  },
+  {
+    "name": "APswitchHVELminus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchHVELminus.cfg"
+  },
+  {
+    "name": "APswitchHVELplus",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchHVELplus.cfg"
+  },
+  {
+    "name": "APswitchRoll0",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchRoll0.cfg"
+  },
+  {
+    "name": "APswitchRoll180",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchRoll180.cfg"
+  },
+  {
+    "name": "APswitchRoll270",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchRoll270.cfg"
+  },
+  {
+    "name": "APswitchRoll90",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchRoll90.cfg"
+  },
+  {
+    "name": "APswitchRollOFF",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchRollOFF.cfg"
+  },
+  {
+    "name": "APswitchSURFPROGRADE",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchSURFPROGRADE.cfg"
+  },
+  {
+    "name": "APswitchSURFRETROGRADE",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchSURFRETROGRADE.cfg"
+  },
+  {
+    "name": "APswitchUP",
+    "filePath": "ASET_Props\\Control\\AutoPilotSwitch2\\APswitchUP.cfg"
+  },
+  {
+    "name": "ButtonBlocker",
+    "filePath": "ASET_Props\\Control\\ButtonBlocker\\ButtonBlocker.cfg"
+  },
+  {
+    "name": "CircuitBreakerB0",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerB0.cfg"
+  },
+  {
+    "name": "CircuitBreakerB10",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerB10.cfg"
+  },
+  {
+    "name": "CircuitBreakerB3",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerB3.cfg"
+  },
+  {
+    "name": "CircuitBreakerB5",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerB5.cfg"
+  },
+  {
+    "name": "CircuitBreakerB7",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerB7.cfg"
+  },
+  {
+    "name": "CircuitBreakerR0",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerR0.cfg"
+  },
+  {
+    "name": "CircuitBreakerR10",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerR10.cfg"
+  },
+  {
+    "name": "CircuitBreakerR3",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerR3.cfg"
+  },
+  {
+    "name": "CircuitBreakerR5",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerR5.cfg"
+  },
+  {
+    "name": "CircuitBreakerR7",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerR7.cfg"
+  },
+  {
+    "name": "CircuitBreakerY0",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerY0.cfg"
+  },
+  {
+    "name": "CircuitBreakerY10",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerY10.cfg"
+  },
+  {
+    "name": "CircuitBreakerY3",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerY3.cfg"
+  },
+  {
+    "name": "CircuitBreakerY5",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerY5.cfg"
+  },
+  {
+    "name": "CircuitBreakerY7",
+    "filePath": "ASET_Props\\Control\\CircuitBreaker\\CircuitBreakerY7.cfg"
+  },
+  {
+    "name": "ALCORClimatScreen",
+    "filePath": "ASET_Props\\Control\\ClimatScreen\\ALCORClimatScreen.cfg"
+  },
+  {
+    "name": "AirLockLightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\AirLockLightSwitch.cfg"
+  },
+  {
+    "name": "CockpitBackLightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\CockpitBackLightSwitch.cfg"
+  },
+  {
+    "name": "CockpitLightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\CockpitLightSwitch.cfg"
+  },
+  {
+    "name": "DockportSpotlightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\DockportSpotlightSwitch.cfg"
+  },
+  {
+    "name": "EngineerDeckLightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\EngineerDeckLightSwitch.cfg"
+  },
+  {
+    "name": "FloodLightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\FloodLightSwitch.cfg"
+  },
+  {
+    "name": "NothingSwitch01",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch01.cfg"
+  },
+  {
+    "name": "NothingSwitch02",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch02.cfg"
+  },
+  {
+    "name": "NothingSwitch03",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch03.cfg"
+  },
+  {
+    "name": "NothingSwitch04",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch04.cfg"
+  },
+  {
+    "name": "NothingSwitch05",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch05.cfg"
+  },
+  {
+    "name": "NothingSwitch06",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch06.cfg"
+  },
+  {
+    "name": "NothingSwitch07",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch07.cfg"
+  },
+  {
+    "name": "NothingSwitch08",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch08.cfg"
+  },
+  {
+    "name": "NothingSwitch09",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch09.cfg"
+  },
+  {
+    "name": "NothingSwitch10",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch10.cfg"
+  },
+  {
+    "name": "NothingSwitch11",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch11.cfg"
+  },
+  {
+    "name": "NothingSwitch12",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch12.cfg"
+  },
+  {
+    "name": "NothingSwitch13",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\NothingSwitch13.cfg"
+  },
+  {
+    "name": "StrobekLightSwitch",
+    "filePath": "ASET_Props\\Control\\LightSwitch\\StrobeLightSwitch.cfg"
+  },
+  {
+    "name": "MultiSw_4_ALCORALTWARN",
+    "filePath": "ASET_Props\\Control\\MultiSwitcher_4pos\\MultiSw_4_ALCORALTWARN.cfg"
+  },
+  {
+    "name": "RCS_Stick_ADV",
+    "filePath": "ASET_Props\\Control\\RCS_Stick_ADV\\RCS_Stick_ADV.cfg"
+  },
+  {
+    "name": "RCS_translation_Stick",
+    "filePath": "ASET_Props\\Control\\RCS_translation-Stick\\RCS_translation-Stick.cfg"
+  },
+  {
+    "name": "ALCORRotationCtrl",
+    "filePath": "ASET_Props\\Control\\RotationCtrl\\RotationCtrl.cfg"
+  },
+  {
+    "name": "swPush_CHUT_ARM",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_CHUT_ARM.cfg"
+  },
+  {
+    "name": "swPush_CHUT_CUT",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_CHUT_CUT.cfg"
+  },
+  {
+    "name": "swPush_CHUT_DEPLOY",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_CHUT_DEPLOY.cfg"
+  },
+  {
+    "name": "swPush_SAS_AntiNormal",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_AntiNormal.cfg"
+  },
+  {
+    "name": "swPush_SAS_AntiTarget",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_AntiTarget.cfg"
+  },
+  {
+    "name": "swPush_SAS_Maneuver",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_Maneuver.cfg"
+  },
+  {
+    "name": "swPush_SAS_Normal",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_Normal.cfg"
+  },
+  {
+    "name": "swPush_SAS_Prograde",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_Prograde.cfg"
+  },
+  {
+    "name": "swPush_SAS_RadialIn",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_RadialIn.cfg"
+  },
+  {
+    "name": "swPush_SAS_RadialOut",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_RadialOut.cfg"
+  },
+  {
+    "name": "swPush_SAS_Retrograde",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_Retrograde.cfg"
+  },
+  {
+    "name": "swPush_SAS_Stab",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_Stab.cfg"
+  },
+  {
+    "name": "swPush_SAS_Target",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_SAS_Target.cfg"
+  },
+  {
+    "name": "swPush_THRTL_CUT",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_THRTL_CUT.cfg"
+  },
+  {
+    "name": "swPush_THRTL_FULL",
+    "filePath": "ASET_Props\\Control\\SAS_Switch\\swPush_THRTL_FULL.cfg"
+  },
+  {
+    "name": "StageSwitch",
+    "filePath": "ASET_Props\\Control\\StageSwitch\\StageSwitch.cfg"
+  },
+  {
+    "name": "swPUSH_Brakes",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_Brakes.cfg"
+  },
+  {
+    "name": "switchPUSH_C01",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C01.cfg"
+  },
+  {
+    "name": "switchPUSH_C02",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C02.cfg"
+  },
+  {
+    "name": "switchPUSH_C03",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C03.cfg"
+  },
+  {
+    "name": "switchPUSH_C04",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C04.cfg"
+  },
+  {
+    "name": "switchPUSH_C05",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C05.cfg"
+  },
+  {
+    "name": "switchPUSH_C06",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C06.cfg"
+  },
+  {
+    "name": "switchPUSH_C07",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C07.cfg"
+  },
+  {
+    "name": "switchPUSH_C08",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C08.cfg"
+  },
+  {
+    "name": "switchPUSH_C09",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C09.cfg"
+  },
+  {
+    "name": "switchPUSH_C10",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_C10.cfg"
+  },
+  {
+    "name": "swPUSH_Gear",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_Gear.cfg"
+  },
+  {
+    "name": "swPUSH_Lights",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_Lights.cfg"
+  },
+  {
+    "name": "swPUSH_RCS",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_RCS.cfg"
+  },
+  {
+    "name": "swPUSH_SAS",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH\\swPUSH_SAS.cfg"
+  },
+  {
+    "name": "switch_B_PUSH_C01",
+    "filePath": "ASET_Props\\Control\\SwitchPUSH2\\switch_B_PUSH_C01.cfg"
+  },
+  {
+    "name": "switchRotaryDummy_Control",
+    "filePath": "ASET_Props\\Control\\SwitchRotary\\SwitchRotary.cfg"
+  },
+  {
+    "name": "switchRotaryClear",
+    "filePath": "ASET_Props\\Control\\SwitchRotary\\SwitchRotaryClear.cfg"
+  },
+  {
+    "name": "switchRotary_DriveMonitorScreen01",
+    "filePath": "ASET_Props\\Control\\SwitchRotary\\SwitchRotary_MFDtoDrive.cfg"
+  },
+  {
+    "name": "switchRotary_ResLock",
+    "filePath": "ASET_Props\\Control\\SwitchRotary\\SwitchRotary_ResLock.cfg"
+  },
+  {
+    "name": "switchRotary_StageLock",
+    "filePath": "ASET_Props\\Control\\SwitchRotary\\SwitchRotary_StageLock.cfg"
+  },
+  {
+    "name": "switchTumbleAG01",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG01.cfg"
+  },
+  {
+    "name": "switchTumbleAG02",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG02.cfg"
+  },
+  {
+    "name": "switchTumbleAG03",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG03.cfg"
+  },
+  {
+    "name": "switchTumbleAG04",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG04.cfg"
+  },
+  {
+    "name": "switchTumbleAG05",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG05.cfg"
+  },
+  {
+    "name": "switchTumbleAG06",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG06.cfg"
+  },
+  {
+    "name": "switchTumbleAG07",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG07.cfg"
+  },
+  {
+    "name": "switchTumbleAG08",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG08.cfg"
+  },
+  {
+    "name": "switchTumbleAG09",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG09.cfg"
+  },
+  {
+    "name": "switchTumbleAG10",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAG10.cfg"
+  },
+  {
+    "name": "swTumbleAP_Ascent",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAP_Ascent.cfg"
+  },
+  {
+    "name": "swTumbleAP_Landing",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAP_Landing.cfg"
+  },
+  {
+    "name": "swTumbleAP_Rendezvous",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAP_Rendezvous.cfg"
+  },
+  {
+    "name": "swTumbleAVAS_ON",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleAVAS_ON.cfg"
+  },
+  {
+    "name": "switchTumbleBacklight",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleBacklight.cfg"
+  },
+  {
+    "name": "swTumbleCam_A_Tilt",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleCam_A_Tilt.cfg"
+  },
+  {
+    "name": "swTumbleCam_B_Tilt",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleCam_B_Tilt.cfg"
+  },
+  {
+    "name": "swTumbleCam_C_Tilt",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleCam_C_Tilt.cfg"
+  },
+  {
+    "name": "swTumbleCam_D_Tilt",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleCam_D_Tilt.cfg"
+  },
+  {
+    "name": "switchTumbleClear",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleClear.cfg"
+  },
+  {
+    "name": "swTumbleEPG",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleEPG.cfg"
+  },
+  {
+    "name": "swTumbleEPG_FAKE",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleEPG_FAKE.cfg"
+  },
+  {
+    "name": "swTumbleERSHUD01",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleERSHUD01.cfg"
+  },
+  {
+    "name": "swTumbleERSHUD02",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleERSHUD02.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE01",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE01.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE02",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE02.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE03",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE03.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE04",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE04.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE05",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE05.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE06",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE06.cfg"
+  },
+  {
+    "name": "switchTumbleFAKE07",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleFAKE07.cfg"
+  },
+  {
+    "name": "swTumbleGPWS_ON",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleGPWS_ON.cfg"
+  },
+  {
+    "name": "switchTumbleSQUADIntLight",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleSQUADintLights.cfg"
+  },
+  {
+    "name": "swTumbleWinShieldDocking",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleWinShieldDocking.cfg"
+  },
+  {
+    "name": "swTumbleWinShieldLanding",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleWinShieldLanding.cfg"
+  },
+  {
+    "name": "swTumbleWinShieldMain",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumbleWinShieldMain.cfg"
+  },
+  {
+    "name": "switchTumble_Brakes",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumble_Brakes.cfg"
+  },
+  {
+    "name": "switchTumble_Gear",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumble_GEAR.cfg"
+  },
+  {
+    "name": "switchTumble_Lights",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumble_Lights.cfg"
+  },
+  {
+    "name": "switchTumble_RCS",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumble_RCS.cfg"
+  },
+  {
+    "name": "switchTumble_SAS",
+    "filePath": "ASET_Props\\Control\\SwitchTumble\\swTumble_SAS.cfg"
+  },
+  {
+    "name": "switchWGuard_BRAKE",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\swBRAKE.cfg"
+  },
+  {
+    "name": "switchWGuard_GEAR",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\swGEAR.cfg"
+  },
+  {
+    "name": "switchWGuard_LIGHT",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\swLight.cfg"
+  },
+  {
+    "name": "switchWGuard_RSC",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\swRSC.cfg"
+  },
+  {
+    "name": "switchWGuard_SAS",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\swSAS.cfg"
+  },
+  {
+    "name": "swToggleEngines",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\swTgglEngine.cfg"
+  },
+  {
+    "name": "switchWGuard_C01",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C01.cfg"
+  },
+  {
+    "name": "switchWGuard_C02",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C02.cfg"
+  },
+  {
+    "name": "switchWGuard_C03",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C03.cfg"
+  },
+  {
+    "name": "switchWGuard_C04",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C04.cfg"
+  },
+  {
+    "name": "switchWGuard_C05",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C05.cfg"
+  },
+  {
+    "name": "switchWGuard_C06",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C06.cfg"
+  },
+  {
+    "name": "switchWGuard_C07",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C07.cfg"
+  },
+  {
+    "name": "switchWGuard_C08",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C08.cfg"
+  },
+  {
+    "name": "switchWGuard_C09",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C09.cfg"
+  },
+  {
+    "name": "switchWGuard_C10",
+    "filePath": "ASET_Props\\Control\\SwitchWCover\\sw_C10.cfg"
+  },
+  {
+    "name": "switch_B_Button01_Brakes",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_Brakes.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C01",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C01.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C02",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C02.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C03",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C03.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C04",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C04.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C05",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C05.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C06",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C06.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C07",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C07.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C08",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C08.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C09",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C09.cfg"
+  },
+  {
+    "name": "switch_B_Button01_C10",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_C10.cfg"
+  },
+  {
+    "name": "switch_B_Button01_Gear",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_Gears.cfg"
+  },
+  {
+    "name": "switch_B_Button01_Lights",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_Lights.cfg"
+  },
+  {
+    "name": "switch_B_Button01_RCS",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_RCS.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_AntiNormal",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_AntiNormal.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_AntiTarget",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_AntiTarget.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_Maneuver",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_Maneuver.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_Normal",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_Normal.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_Prograde",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_Prograde.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_RadialIn",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_RadialIn.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_RadialOut",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_RadialOut.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_Retrograde",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_Retrograde.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_Stab",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_Stab.cfg"
+  },
+  {
+    "name": "switch_B_Button01_SAS_Target",
+    "filePath": "ASET_Props\\Control\\switch_B_Button01\\switch_B_Button01_SAS_Target.cfg"
+  },
+  {
+    "name": "ALCORThrottleCtrl",
+    "filePath": "ASET_Props\\Control\\ThrottleCtrl\\ThrottleCtrl.cfg"
+  },
+  {
+    "name": "ThrottleCtrlMouse",
+    "filePath": "ASET_Props\\Control\\ThrottleCtrlMouse\\prop.cfg"
+  },
+  {
+    "name": "ALCOR_AVAS2",
+    "filePath": "ASET_Props\\CUSTOMs\\AVAS_Altitudes_Customs.cfg"
+  },
+  {
+    "name": "ALCOR_AG0_ON",
+    "filePath": "ASET_Props\\CUSTOMs\\CustomVariable_ALCOR_Buttons.cfg"
+  },
+  {
+    "name": "ALCOR_MASTER_ALARM",
+    "filePath": "ASET_Props\\CUSTOMs\\CustomVariable_ALCOR_MASTER_ALARM.cfg"
+  },
+  {
+    "name": "ALCOR_MJKILLROT_ON",
+    "filePath": "ASET_Props\\CUSTOMs\\CustomVariable_ALCOR_MJ_Buttons.cfg"
+  },
+  {
+    "name": "ALCOR_BATTDISCHARGED",
+    "filePath": "ASET_Props\\CUSTOMs\\CustomVariable_ALCOR_Systems.cfg"
+  },
+  {
+    "name": "ALCOR_GPWS_ON",
+    "filePath": "ASET_Props\\CUSTOMs\\CustomVariable_ALCOR_TabloIndicators.cfg"
+  },
+  {
+    "name": "DigitalIndicator_AtmDen",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_AtmDen.cfg"
+  },
+  {
+    "name": "DigitalIndicator_ATMPRESS",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_ATMPRESS.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DELTAV ",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_DELTAV.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DELTAVTOTAL",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_DELTAVTOTAL.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DockingMulti01",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_DockingMulti01.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DYNAMICPRESSURE",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_DynPress.cfg"
+  },
+  {
+    "name": "DigitalIndicator_EASPEED",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_EASPEED.cfg"
+  },
+  {
+    "name": "DigitalIndicator_EFFECTIVEACCEL",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_EffectiveACCL.cfg"
+  },
+  {
+    "name": "DigitalIndicator_EXTTemp",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_EXTTEMP.cfg"
+  },
+  {
+    "name": "DigitalIndicator_GFORCE",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_GFORCE.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Heading",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Heading.cfg"
+  },
+  {
+    "name": "DigitalIndicator_ImpactSPEED",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_ImpactSpeed.cfg"
+  },
+  {
+    "name": "DigitalIndicator_IntTemp",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_IntTEMP.cfg"
+  },
+  {
+    "name": "DigitalIndicator_ISP",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_ISP.cfg"
+  },
+  {
+    "name": "DigitalIndicator_MachNumber",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_MachNumber.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Multi01",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Multi01.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Multi02",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Multi02.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Pitch",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Pitch.cfg"
+  },
+  {
+    "name": "DigitalIndicator_RANDOM01",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_RANDOM01.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Roll",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Roll.cfg"
+  },
+  {
+    "name": "DigitalIndicator_SASMode",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_SASMode.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Slope",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Slope.cfg"
+  },
+  {
+    "name": "DigitalIndicator_SurfSpeed",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_SurfSpeed.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Temp",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_TEMP.cfg"
+  },
+  {
+    "name": "DigitalIndicator_TerminalVel",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_TerminalVel.cfg"
+  },
+  {
+    "name": "DigitalIndicator_Throttle",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_Throttle.cfg"
+  },
+  {
+    "name": "DigitalIndicator_THRUST ",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_THRUST.cfg"
+  },
+  {
+    "name": "DigitalIndicator_THRUSTMAX ",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_THRUSTMAX.cfg"
+  },
+  {
+    "name": "DigitalIndicator_TWR",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_TWR.cfg"
+  },
+  {
+    "name": "DigitalIndicator_TWRMAX",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_TWRMAX.cfg"
+  },
+  {
+    "name": "DigitalIndicator_VertSPEED",
+    "filePath": "ASET_Props\\Instruments\\DigitalIndicator\\DigitalIndicator_VertSpeed.cfg"
+  },
+  {
+    "name": "FuelMonitor",
+    "filePath": "ASET_Props\\Instruments\\FuelMonitor\\FuelMonitor.cfg"
+  },
+  {
+    "name": "IndicatorCircular_CHARGE",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_CHARGE.cfg"
+  },
+  {
+    "name": "IndicatorCircular_EFFECTIVETHROTTLE",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_EFFECTIVETHROTTLE.cfg"
+  },
+  {
+    "name": "IndicatorCircular_FUEL",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_Fuel.cfg"
+  },
+  {
+    "name": "IndicatorCircular_GFORCE",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_GFORCE.cfg"
+  },
+  {
+    "name": "IndicatorCircular_INTAKEAIR",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_IntakeAir.cfg"
+  },
+  {
+    "name": "IndicatorCircular_MONOPROP",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_MONOPROP.cfg"
+  },
+  {
+    "name": "IndicatorCircular_Oxidizer",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_Oxidizer.cfg"
+  },
+  {
+    "name": "IndicatorCircular_SOLIDFUEL",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_SolidFuel.cfg"
+  },
+  {
+    "name": "IndicatorCircular_THROTTLE",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_THROTTLE.cfg"
+  },
+  {
+    "name": "IndicatorCircular_THRUST",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_THRUST.cfg"
+  },
+  {
+    "name": "IndicatorCircular_TWR",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_TWR.cfg"
+  },
+  {
+    "name": "IndicatorCircular_XENONGAS",
+    "filePath": "ASET_Props\\Instruments\\IndicatoCircular\\IndicatorCircular_XenonGas.cfg"
+  },
+  {
+    "name": "IndicatorADV_Ablator",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Ablator.cfg"
+  },
+  {
+    "name": "IndicatorADV_ATMDEPTH",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_ATMDEPTH.cfg"
+  },
+  {
+    "name": "IndicatorADV_CHARGE",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Charge.cfg"
+  },
+  {
+    "name": "IndicatorADV_CHARGE_consumption",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_ChargeCons.cfg"
+  },
+  {
+    "name": "IndicatorADV_DYNPRESS",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_DPRESS.cfg"
+  },
+  {
+    "name": "IndicatorADV_FUEL",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Fuel.cfg"
+  },
+  {
+    "name": "IndicatorADV_FUELSTAGE",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_FUELSTAGE.cfg"
+  },
+  {
+    "name": "IndicatorADV_FUEL_consumption",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Fuel_cons.cfg"
+  },
+  {
+    "name": "IndicatorADV_FUEL_TOTAL",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Fuel_TOTAL.cfg"
+  },
+  {
+    "name": "IndicatorADV_HEAT",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_HEAT.cfg"
+  },
+  {
+    "name": "IndicatorADV_INTAKEAIR",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_INTAKEAIR.cfg"
+  },
+  {
+    "name": "IndicatorADV_OXIDIZER",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_OXIDIZER.cfg"
+  },
+  {
+    "name": "IndicatorADV_OXIDIZERSTAGE",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_OXIDIZERSTAGE.cfg"
+  },
+  {
+    "name": "IndicatorADV_OXIDIZER_consumption",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Oxidizer_cons.cfg"
+  },
+  {
+    "name": "IndicatorADV_OXIDIZER_TOTAL",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_OXIDIZER_TOTAL.cfg"
+  },
+  {
+    "name": "IndicatorADV_PodTemp",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_PodTemp.cfg"
+  },
+  {
+    "name": "IndicatorADV_MONOPROP",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Propellant.cfg"
+  },
+  {
+    "name": "IndicatorADV_MONOPROP_consumption",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_Propellant_cons.cfg"
+  },
+  {
+    "name": "IndicatorADV_ShieldTemp",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_ShieldTemp.cfg"
+  },
+  {
+    "name": "IndicatorADV_SolidFuel",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_SolidFuel.cfg"
+  },
+  {
+    "name": "IndicatorADV_SolidFuel_TOTAL",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_SolidFuel_Total.cfg"
+  },
+  {
+    "name": "IndicatorADV_STAGE",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_STAGE.cfg"
+  },
+  {
+    "name": "IndicatorADV_THROTTLE",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_THROTTLE.cfg"
+  },
+  {
+    "name": "IndicatorADV_THRUST",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_THRUST.cfg"
+  },
+  {
+    "name": "IndicatorADV_XENONGAS",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_XENONGAS.cfg"
+  },
+  {
+    "name": "IndicatorADV_XENONGAS_consumption",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_XENONGAS_cons.cfg"
+  },
+  {
+    "name": "IndicatorADV_XENONGAS_STAGE",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_XENONGAS_STAGE.cfg"
+  },
+  {
+    "name": "IndicatorADV_XENONGAS_TOTAL",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV\\IndicatorADV_XENONGAS_Total.cfg"
+  },
+  {
+    "name": "IndADV_2Scales_ChargeCons",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV_2Scales\\IndADV_2Scales_ChargeCons.cfg"
+  },
+  {
+    "name": "IndADV_2Scales_EXTTEMP",
+    "filePath": "ASET_Props\\Instruments\\IndicatorADV_2Scales\\IndADV_2Scales_EXTTEMP.cfg"
+  },
+  {
+    "name": "IndicatorPanel5x3-plugins01",
+    "filePath": "ASET_Props\\Instruments\\IndicatorPanel5x3\\IndicatorPanel5x3-plugins01.cfg"
+  },
+  {
+    "name": "IndicatorPanel5x3-plugins02",
+    "filePath": "ASET_Props\\Instruments\\IndicatorPanel5x3\\IndicatorPanel5x3-plugins02.cfg"
+  },
+  {
+    "name": "IndicatorPanel5x3",
+    "filePath": "ASET_Props\\Instruments\\IndicatorPanel5x3\\IndicatorPanel5x3.cfg"
+  },
+  {
+    "name": "PortableTimer",
+    "filePath": "ASET_Props\\Instruments\\PortableTimer\\PortableTimer.cfg"
+  },
+  {
+    "name": "AlarmEngineOverheatIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmEngineOverheat.cfg"
+  },
+  {
+    "name": "AlarmGroundProximityIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmGrndProxIndicator.cfg"
+  },
+  {
+    "name": "AlarmHEATIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmHEATIndicator.cfg"
+  },
+  {
+    "name": "AlarmHighSlopeIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmHighSlope.cfg"
+  },
+  {
+    "name": "AlarmLLegsIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmLLegsIndicator.cfg"
+  },
+  {
+    "name": "AlarmTurnOverIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmTurnOver.cfg"
+  },
+  {
+    "name": "AlarmWrongAngleIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmWrongAngle.cfg"
+  },
+  {
+    "name": "AlarmWrongSpeedIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\AlarmWrongSpeed.cfg"
+  },
+  {
+    "name": "MasterAlarm",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\ALCORMasterAlarm.cfg"
+  },
+  {
+    "name": "EPGindicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\EPGindicator.cfg"
+  },
+  {
+    "name": "EPGindicatorFAKE",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\EPGindicatorFAKE.cfg"
+  },
+  {
+    "name": "ERS_MasterAlarm",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\ERSRMasterAlarm.cfg"
+  },
+  {
+    "name": "gpws10",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\gpws10.cfg"
+  },
+  {
+    "name": "LowALTIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowALTIndicator.cfg"
+  },
+  {
+    "name": "LowChargeIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowChargeIndicator.cfg"
+  },
+  {
+    "name": "LowFuelIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowFuelIndicator.cfg"
+  },
+  {
+    "name": "LowMonopropIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowMonopropIndicator.cfg"
+  },
+  {
+    "name": "LowOxidizerIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowOxidizerIndicator.cfg"
+  },
+  {
+    "name": "LowTWRIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowTWRIndicator.cfg"
+  },
+  {
+    "name": "LowXenonGasIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\LowXenonGasIndicator.cfg"
+  },
+  {
+    "name": "onAirBrakingIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnAirBrakingIndicator.cfg"
+  },
+  {
+    "name": "onAPPROACHIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\onAPPROACHIndicator.cfg"
+  },
+  {
+    "name": "onASCIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnASCENTIndicator.cfg"
+  },
+  {
+    "name": "OnBrakesIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnBrakesIndicator.cfg"
+  },
+  {
+    "name": "onCONTACTIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnCONTACTIndicator.cfg"
+  },
+  {
+    "name": "onDEAPRTIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\onDEAPRTIndicator.cfg"
+  },
+  {
+    "name": "onDESIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnDESCENTIndicator.cfg"
+  },
+  {
+    "name": "onHighGIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnHighGIndicator.cfg"
+  },
+  {
+    "name": "onLIGHTIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnLIGHTIndicator.cfg"
+  },
+  {
+    "name": "onLLEGSIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnLLEGSIndicator.cfg"
+  },
+  {
+    "name": "onMECOIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnMECOIndicator.cfg"
+  },
+  {
+    "name": "onRCSACTIVEIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnRCSACTIVEIndicator.cfg"
+  },
+  {
+    "name": "onRCSIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnRCSIndicator.cfg"
+  },
+  {
+    "name": "onSASIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnSASIndicator.cfg"
+  },
+  {
+    "name": "onStageReadyIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator\\OnStageReadyIndicator.cfg"
+  },
+  {
+    "name": "AlarmAVAS_OFFIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\AlarmAVAS_OFFIndicator.cfg"
+  },
+  {
+    "name": "AlarmBrakesIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\AlarmBrakesIndicator.cfg"
+  },
+  {
+    "name": "onENGFAILUREIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\AlarmENGFAILUREIndicator.cfg"
+  },
+  {
+    "name": "AlarmGPWS_OFFIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\AlarmGPWS_OFFIndicator.cfg"
+  },
+  {
+    "name": "AlarmShieldOverHeat",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\AlarmShieldOverHeat.cfg"
+  },
+  {
+    "name": "Alarm_Ablation",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Alarm_Ablation.cfg"
+  },
+  {
+    "name": "Alarm_HighQ",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Alarm_HighQ.cfg"
+  },
+  {
+    "name": "Fake_AlarmExCabinWater",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_AlarmExCabinWater.cfg"
+  },
+  {
+    "name": "Fake_AlarmExSuitWater",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_AlarmExSuitWater.cfg"
+  },
+  {
+    "name": "Fake_AlarmMaster",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_AlarmMaster.cfg"
+  },
+  {
+    "name": "Fake_AlarmOxFlow",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_AlarmOxFlow.cfg"
+  },
+  {
+    "name": "Fake_AlarmRadiator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_AlarmRadiator.cfg"
+  },
+  {
+    "name": "Fake_AlarmValve",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_AlarmValve.cfg"
+  },
+  {
+    "name": "Fake_GoodCabFans",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodCabFans.cfg"
+  },
+  {
+    "name": "Fake_GoodCabinTempAuto",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodCabinTempAuto.cfg"
+  },
+  {
+    "name": "Fake_GoodCabPressAuto",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodCabPressAuto.cfg"
+  },
+  {
+    "name": "Fake_GoodHeaters",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodHeaters.cfg"
+  },
+  {
+    "name": "Fake_GoodManual",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodManual.cfg"
+  },
+  {
+    "name": "Fake_GoodSuitFans",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodSuitFans.cfg"
+  },
+  {
+    "name": "Fake_GoodTestOK",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\Fake_GoodTestOK.cfg"
+  },
+  {
+    "name": "onAVAS_ONIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\onAVAS_ONIndicator.cfg"
+  },
+  {
+    "name": "onBattChargingIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\OnBattChargingIndicator.cfg"
+  },
+  {
+    "name": "onGPWS_ONIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\onGPWS_ONIndicator.cfg"
+  },
+  {
+    "name": "onStageLockedIndicator",
+    "filePath": "ASET_Props\\Instruments\\TabloIndicator2\\OnStageLockedIndicator.cfg"
+  },
+  {
+    "name": "ALCORMFD40x20",
+    "filePath": "ASET_Props\\MFDs\\ALCORMFD40x20\\ALCORMFD40x20.cfg"
+  },
+  {
+    "name": "ALCOR_FINALAPPROACH",
+    "filePath": "ASET_Props\\MFDs\\ALCORMFD40x20\\CUSTOMs\\CustomVariables_ALCOR_MFDs.cfg"
+  },
+  {
+    "name": "ALCORMFD60x30",
+    "filePath": "ASET_Props\\MFDs\\ALCORMFD60x30\\ALCORMFD60x30.cfg"
+  },
+  {
+    "name": "kOSTerminal",
+    "filePath": "ASET_Props\\MFDs\\kOSTerminal\\kOSTerminal.cfg"
+  },
+  {
+    "name": "AltAtmDynPresApPe",
+    "filePath": "ASET_Props\\MFDs\\kOSTerminal\\kOSTerminalGraphSets.cfg"
+  },
+  {
+    "name": "ALCORinternalHatch",
+    "filePath": "ASET_Props\\Misc\\ALCORinternalHatch\\eva-hatch-with-model.cfg"
+  },
+  {
+    "name": "ALCORVentilator01",
+    "filePath": "ASET_Props\\Misc\\ALCORVentilator\\ALCORVentilator01.cfg"
+  },
+  {
+    "name": "ALCORWarnimgSticker",
+    "filePath": "ASET_Props\\Misc\\ALCORWarningSticker\\ALCORWarnimgSticker.cfg"
+  },
+  {
+    "name": "BigBag",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag.cfg"
+  },
+  {
+    "name": "BigBagBeverages",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Beverages.cfg"
+  },
+  {
+    "name": "BigBag_EVAsupply01",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_EVAsupply01.cfg"
+  },
+  {
+    "name": "BigBag_EVAsupply02",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_EVAsupply02.cfg"
+  },
+  {
+    "name": "BigBag_EVAsupply03",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_EVAsupply03.cfg"
+  },
+  {
+    "name": "BigBag_EVAsupply04",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_EVAsupply04.cfg"
+  },
+  {
+    "name": "BigBag_EVAsupply05",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_EVAsupply05.cfg"
+  },
+  {
+    "name": "BigBag_ExperimentSamples",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_ExperimentSamples.cfg"
+  },
+  {
+    "name": "BigBagExtraWater",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_ExtraWater.cfg"
+  },
+  {
+    "name": "BigBagFood01",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Food01.cfg"
+  },
+  {
+    "name": "BigBagFood02",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Food02.cfg"
+  },
+  {
+    "name": "BigBagFood03",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Food03.cfg"
+  },
+  {
+    "name": "BigBagFood04",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Food04.cfg"
+  },
+  {
+    "name": "BigBagFood13",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Food13.cfg"
+  },
+  {
+    "name": "BigBagMedKit",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_MedKit.cfg"
+  },
+  {
+    "name": "BigBag_Science01",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Science01.cfg"
+  },
+  {
+    "name": "BigBagSnacks",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Snacks.cfg"
+  },
+  {
+    "name": "BigBagSpareParts",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_SpareParts.cfg"
+  },
+  {
+    "name": "BigBagSUPPLIES",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_SUPPLIES.cfg"
+  },
+  {
+    "name": "BigBagUtensils",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Utensils.cfg"
+  },
+  {
+    "name": "BigBagVitamins",
+    "filePath": "ASET_Props\\Misc\\BigBag\\BigBag_Vitamins.cfg"
+  },
+  {
+    "name": "CrewManual01",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManual01.cfg"
+  },
+  {
+    "name": "CrewManual_AscentChklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualAscentChklist.cfg"
+  },
+  {
+    "name": "CrewManual_DeorbitPreparationBook",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualDeorbitPreparationBook.cfg"
+  },
+  {
+    "name": "CrewManual_EVAChklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualEVAChklist.cfg"
+  },
+  {
+    "name": "CrewManual_FlightPlan",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualFlightPlane.cfg"
+  },
+  {
+    "name": "CrewManual_MaintenanceBook",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualMaintenanceBook.cfg"
+  },
+  {
+    "name": "CrewManual_MalfunctionProceduresBook",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualMalfunctionProceduresBook.cfg"
+  },
+  {
+    "name": "CrewManual_OrbChklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualOrbChklist.cfg"
+  },
+  {
+    "name": "CrewManual_Photo-TVChklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualPhoto-TVChklist.cfg"
+  },
+  {
+    "name": "CrewManual_PostInsertionBook",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualPostInsertionBook.cfg"
+  },
+  {
+    "name": "CrewManual_ReferenceDataBook",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualReferenceDataBook.cfg"
+  },
+  {
+    "name": "CrewManual_RendezvousChecklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualRendezvousChecklist.cfg"
+  },
+  {
+    "name": "CrewManual_SystemsDataBook",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualSystemsDataBook.cfg"
+  },
+  {
+    "name": "CrewManual_TakeOffChecklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManualTakeOffChecklist.cfg"
+  },
+  {
+    "name": "CrewManual_MalfunctionChklist",
+    "filePath": "ASET_Props\\Misc\\CrewManual01\\CrewManuaMalfunctionChklist.cfg"
+  },
+  {
+    "name": "FireEqupStorage",
+    "filePath": "ASET_Props\\Misc\\FireEquipStorage\\FireEqupStorage.cfg"
+  },
+  {
+    "name": "HandRailLong",
+    "filePath": "ASET_Props\\Misc\\HandRailLong\\HandRailLong.cfg"
+  },
+  {
+    "name": "HandRailMedium",
+    "filePath": "ASET_Props\\Misc\\HandRailMedium\\HandRailMedium.cfg"
+  },
+  {
+    "name": "HandRailShort",
+    "filePath": "ASET_Props\\Misc\\HandRailShort\\HandRailShort.cfg"
+  },
+  {
+    "name": "InternalLightBox01",
+    "filePath": "ASET_Props\\Misc\\InternalLightBox01\\InternalLightBox01.cfg"
+  },
+  {
+    "name": "InternalLightBox02",
+    "filePath": "ASET_Props\\Misc\\InternalLightBox01\\InternalLightBox02.cfg"
+  },
+  {
+    "name": "InternalLightBox03",
+    "filePath": "ASET_Props\\Misc\\InternalLightBox01\\InternalLightBox03.cfg"
+  },
+  {
+    "name": "JSIMainCompUnit",
+    "filePath": "ASET_Props\\Misc\\JSIMainCompUnit\\JSIMainCompUnit.cfg"
+  },
+  {
+    "name": "KanonDSLR600",
+    "filePath": "ASET_Props\\Misc\\KanonDSLR600\\KanonDSLR600.cfg"
+  },
+  {
+    "name": "LifeSupportMonitor",
+    "filePath": "ASET_Props\\Misc\\LifeSupportMonitor\\LifeSupportMonitor.cfg"
+  },
+  {
+    "name": "MediumBag_FirstAid",
+    "filePath": "ASET_Props\\Misc\\MediumBag\\MediumBag_FirstAid.cfg"
+  },
+  {
+    "name": "MediumBag_PersonalStuff",
+    "filePath": "ASET_Props\\Misc\\MediumBag\\MediumBag_PersonalStuff.cfg"
+  },
+  {
+    "name": "MediumBag_SurvivalGear",
+    "filePath": "ASET_Props\\Misc\\MediumBag\\MediumBag_SurvivalGear.cfg"
+  },
+  {
+    "name": "PanelDivider",
+    "filePath": "ASET_Props\\Misc\\PanelDivider\\PanelDivider.cfg"
+  },
+  {
+    "name": "PanelDividerBLUE",
+    "filePath": "ASET_Props\\Misc\\PanelDivider\\PanelDividerBLUE.cfg"
+  },
+  {
+    "name": "PanelDividerGREEN",
+    "filePath": "ASET_Props\\Misc\\PanelDivider\\PanelDividerGREEN.cfg"
+  },
+  {
+    "name": "PanelDividerORANGE",
+    "filePath": "ASET_Props\\Misc\\PanelDivider\\PanelDividerORANGE.cfg"
+  },
+  {
+    "name": "PanelDividerRED",
+    "filePath": "ASET_Props\\Misc\\PanelDivider\\PanelDividerRED.cfg"
+  },
+  {
+    "name": "PSU",
+    "filePath": "ASET_Props\\Misc\\PSU\\PSU.cfg"
+  },
+  {
+    "name": "SeatV2",
+    "filePath": "ASET_Props\\Misc\\SeatV2\\SeatV2.cfg"
+  },
+  {
+    "name": "SmallExtinguisher",
+    "filePath": "ASET_Props\\Misc\\SmallExtinguisher\\SmallExtinguisher.cfg"
+  },
+  {
+    "name": "ActionGroupPlate00",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate00.cfg"
+  },
+  {
+    "name": "ActionGroupPlate01",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate01.cfg"
+  },
+  {
+    "name": "ActionGroupPlate03",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate02.cfg"
+  },
+  {
+    "name": "ActionGroupPlate02",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate03.cfg"
+  },
+  {
+    "name": "ActionGroupPlate04",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate04.cfg"
+  },
+  {
+    "name": "ActionGroupPlate05",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate05.cfg"
+  },
+  {
+    "name": "ActionGroupPlate06",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate06.cfg"
+  },
+  {
+    "name": "ActionGroupPlate07",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate07.cfg"
+  },
+  {
+    "name": "ActionGroupPlate08",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate08.cfg"
+  },
+  {
+    "name": "ActionGroupPlate09",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\ActionGroupPlate09.cfg"
+  },
+  {
+    "name": "Lable_ACTIONS",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_ACTIONS.cfg"
+  },
+  {
+    "name": "Lable_AP_ASCENT",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_ASCENT.cfg"
+  },
+  {
+    "name": "Lable_AP_DOCKING",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_DOCKING.cfg"
+  },
+  {
+    "name": "Lable_AP_LANDING",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_LANDING.cfg"
+  },
+  {
+    "name": "Lable_AP_ManNode",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_ManNode.cfg"
+  },
+  {
+    "name": "Lable_AP_OFF",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_OFF.cfg"
+  },
+  {
+    "name": "Lable_AP_Orbit",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_Orbit.cfg"
+  },
+  {
+    "name": "Lable_AP_ROLL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_ROLL CTRL.cfg"
+  },
+  {
+    "name": "Lable_AP_STAB",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_STAB.cfg"
+  },
+  {
+    "name": "Lable_AP_Target",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AP_TARGET.cfg"
+  },
+  {
+    "name": "Lable_Atmosphere",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Atmosphere.cfg"
+  },
+  {
+    "name": "Lable_AUTOPILOT",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AutoPilot.cfg"
+  },
+  {
+    "name": "Lable_AuxLight",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AuxLights.cfg"
+  },
+  {
+    "name": "Lable_AVAS_CTRL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_AVAS_CTRL.cfg"
+  },
+  {
+    "name": "Lable_Brakes",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Brakes.cfg"
+  },
+  {
+    "name": "Lable_EngineStatus",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Engine.cfg"
+  },
+  {
+    "name": "Lable_EngineControl",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_EngineControl.cfg"
+  },
+  {
+    "name": "Lable_ENVIRONMENTAL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_ENVIRONMENTAL.cfg"
+  },
+  {
+    "name": "Lable_EPG",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_EPG.cfg"
+  },
+  {
+    "name": "Lable_ExtLight",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_ExteriorLight.cfg"
+  },
+  {
+    "name": "Lable_GPWS_CTRL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_GPWS_CTRL.cfg"
+  },
+  {
+    "name": "Lable_HORIZONTAL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Horizontal.cfg"
+  },
+  {
+    "name": "Lable_IntLight",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_IntLight.cfg"
+  },
+  {
+    "name": "Lable_LGear",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_LGear.cfg"
+  },
+  {
+    "name": "Lable_LIQUIDFUEL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_LiquidFuel.cfg"
+  },
+  {
+    "name": "Lable_LSS_STATUS",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_LSS_STATUS.cfg"
+  },
+  {
+    "name": "Lable_OMSSTATUS",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_OMSSTATUS.cfg"
+  },
+  {
+    "name": "Lable_OXIDIZER",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Oxidizer.cfg"
+  },
+  {
+    "name": "Lable_PARACHUTE",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_PARACHUTE.cfg"
+  },
+  {
+    "name": "Lable_PowerSupply",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Power.cfg"
+  },
+  {
+    "name": "Lable_Propellants",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Propellants.cfg"
+  },
+  {
+    "name": "Lable_PROPULSION",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_PROPULSION.cfg"
+  },
+  {
+    "name": "Lable_RCSFUEL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_RCSFuel.cfg"
+  },
+  {
+    "name": "Lable_SolidFUEL",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_SolidFuel.cfg"
+  },
+  {
+    "name": "Lable_StabMode",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Stab.cfg"
+  },
+  {
+    "name": "Lable_StabTrans",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_StabTrans.cfg"
+  },
+  {
+    "name": "Lable_Staging",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Staging.cfg"
+  },
+  {
+    "name": "Lable_Surface",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Surface.cfg"
+  },
+  {
+    "name": "Lable_Temperature",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Temperature.cfg"
+  },
+  {
+    "name": "Lable_ThrustController",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_ThrustController.cfg"
+  },
+  {
+    "name": "Lable_XENON",
+    "filePath": "ASET_Props\\Misc\\SmallLabelPlate\\SmallPlate_Xenon.cfg"
+  },
+  {
+    "name": "SwitchFlatPanelLongClear",
+    "filePath": "ASET_Props\\Misc\\SwitchFlatPanelLong\\SwitchFlatPanelLongClear.cfg"
+  },
+  {
+    "name": "SwitchFlatPanelShortClear",
+    "filePath": "ASET_Props\\Misc\\SwitchFlatPanelShort\\SwitchFlatPanelShortClear.cfg"
+  },
+  {
+    "name": "SwitchFlatPanelShortComm01",
+    "filePath": "ASET_Props\\Misc\\SwitchFlatPanelShort\\SwitchFlatPanelShortComm01.cfg"
+  },
+  {
+    "name": "SwitchFlatPanelShortComm02",
+    "filePath": "ASET_Props\\Misc\\SwitchFlatPanelShort\\SwitchFlatPanelShortComm02.cfg"
+  },
+  {
+    "name": "SwitchPanelLong",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLong.cfg"
+  },
+  {
+    "name": "SwitchPanelLong02",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLong02.cfg"
+  },
+  {
+    "name": "SwitchPanelLong03",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLong03.cfg"
+  },
+  {
+    "name": "SwitchPanelLong04",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLong04.cfg"
+  },
+  {
+    "name": "SwitchPanelLong05",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLong05.cfg"
+  },
+  {
+    "name": "SwitchPanelLong06",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLong06.cfg"
+  },
+  {
+    "name": "SwitchPanelLongAG",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLongAG.cfg"
+  },
+  {
+    "name": "SwitchPanelLongCB01",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLongCB01.cfg"
+  },
+  {
+    "name": "SwitchPanelLongCB02",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLongCB02.cfg"
+  },
+  {
+    "name": "SwitchPanelLongClear",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsLong\\SwitchPanelLongClear.cfg"
+  },
+  {
+    "name": "SwitchPanelShortCamTilt",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsShort\\SwitchPanelShortCamTilt.cfg"
+  },
+  {
+    "name": "SwitchPanelShortCCTV",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsShort\\SwitchPanelShortCCTV.cfg"
+  },
+  {
+    "name": "SwitchPanelShortClear",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsShort\\SwitchPanelShortClear.cfg"
+  },
+  {
+    "name": "SwitchPanelShortComm01",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsShort\\SwitchPanelShortComm01.cfg"
+  },
+  {
+    "name": "SwitchPanelShortComm02",
+    "filePath": "ASET_Props\\Misc\\SwitchPanelsShort\\SwitchPanelShortComm02.cfg"
+  },
+  {
+    "name": "VelcroPad",
+    "filePath": "ASET_Props\\Misc\\VelcroPad\\VelcroPad.cfg"
+  },
+  {
+    "name": "ALCORFoodStation",
+    "filePath": "ASET_Props\\SpaceFoodPack\\ALCORFoodStation\\ALCORFoodStation.cfg"
+  },
+  {
+    "name": "BeveragePackage_AppleCider",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_AppleCider.cfg"
+  },
+  {
+    "name": "BeveragePackage_AppleJuice",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_AppleJuice.cfg"
+  },
+  {
+    "name": "BeveragePackage_CherryDrink",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_CherryDrink.cfg"
+  },
+  {
+    "name": "BeveragePackage_Chocolate",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_Chocolate.cfg"
+  },
+  {
+    "name": "BeveragePackage_Cocoa",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_Cocoa.cfg"
+  },
+  {
+    "name": "BeveragePackage_CranRaspJuice",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_CranRaspJuice.cfg"
+  },
+  {
+    "name": "BeveragePackage_GrapeDrink",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_GrapeDrink.cfg"
+  },
+  {
+    "name": "BeveragePackage_GrapefruitJuice",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_GrapefruitJuice.cfg"
+  },
+  {
+    "name": "BeveragePackage_Lemonade",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_Lemonade.cfg"
+  },
+  {
+    "name": "BeveragePackage_OrangeDrink",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_OrangeDrink.cfg"
+  },
+  {
+    "name": "BeveragePackage_OrangeJuice",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_OrangeJuice.cfg"
+  },
+  {
+    "name": "BeveragePackage_OrangeMangoDrink",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_OrangeMangoDrink.cfg"
+  },
+  {
+    "name": "BeveragePackage_OrangePineappleDrink",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_OrangePineappleDrink.cfg"
+  },
+  {
+    "name": "BeveragePackage_PineGrapeJuice",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_PineGrapeJuice.cfg"
+  },
+  {
+    "name": "BeveragePackage_TomatoJuice",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_TomatoJuice.cfg"
+  },
+  {
+    "name": "BeveragePackage_OrangePineappleDrink",
+    "filePath": "ASET_Props\\SpaceFoodPack\\beveragePackage\\Food_BeveragePackage_TropicalPunch.cfg"
+  }
+]

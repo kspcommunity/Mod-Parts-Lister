@@ -1,0 +1,158 @@
+[
+  {
+    "name": "3-2Adapter",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Adapters\\3-2Adapter.cfg"
+  },
+  {
+    "name": "omniJoint",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Adapters\\omniJoint.cfg"
+  },
+  {
+    "name": "omniJoint2",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Adapters\\omniJoint2.cfg"
+  },
+  {
+    "name": "omniJoint3",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Adapters\\omniJoint3.cfg"
+  },
+  {
+    "name": "size6Fairing",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Aero\\size6Fairing.cfg"
+  },
+  {
+    "name": "behemothNoseConeCap",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Command\\behemothNoseConeCap.cfg"
+  },
+  {
+    "name": "crew_module",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Command\\crew_module.cfg"
+  },
+  {
+    "name": "large_rcs_quad",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Control\\large_rcs_quad.cfg"
+  },
+  {
+    "name": "large_booster",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Engine\\behemothCluster.cfg"
+  },
+  {
+    "name": "elf",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Engine\\elf.cfg"
+  },
+  {
+    "name": "behemothNoseCone",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\behemothNoseCone.cfg"
+  },
+  {
+    "name": "behemothTank",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\behemothTank.cfg"
+  },
+  {
+    "name": "peta_coupler",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\penta_coupler.cfg"
+  },
+  {
+    "name": "penta_coupler_v2",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\penta_coupler_v2.cfg"
+  },
+  {
+    "name": "penta_tank_S6",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\penta_tank_s6.cfg"
+  },
+  {
+    "name": "penta_coupler_v3",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\petna_coupler_v3.cfg"
+  },
+  {
+    "name": "quad_tank_s6",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\quad_tank_s6.cfg"
+  },
+  {
+    "name": "t202_xenon",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Fuel\\t202_xenon.cfg"
+  },
+  {
+    "name": "behemothDecoupler",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\behemothDecoupler.cfg"
+  },
+  {
+    "name": "large_radial_strut",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\large_radial_stut.cfg"
+  },
+  {
+    "name": "size6RadialDecoupler",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\size6RadialDecoupler.cfg"
+  },
+  {
+    "name": "t202_b_2",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t202_b_2.cfg"
+  },
+  {
+    "name": "t404_375_adapter",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_375_adapter.cfg"
+  },
+  {
+    "name": "t404_a_1",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_a_1.cfg"
+  },
+  {
+    "name": "t404_a_2",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_a_2.cfg"
+  },
+  {
+    "name": "t404_a_3",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_a_3.cfg"
+  },
+  {
+    "name": "t404_b_1",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_b_1.cfg"
+  },
+  {
+    "name": "t404_b_2",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_b_2.cfg"
+  },
+  {
+    "name": "t404_b_3",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_b_3.cfg"
+  },
+  {
+    "name": "t404_hub",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_hub.cfg"
+  },
+  {
+    "name": "t404_h_3",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Structural\\t404_h_3.cfg"
+  },
+  {
+    "name": "ba64",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\ba64.cfg"
+  },
+  {
+    "name": "extremeDockingPort",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\extremeDockingPort.cfg"
+  },
+  {
+    "name": "extremeDockingPort_2m",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\extremeDockingPort_2m.cfg"
+  },
+  {
+    "name": "extremeDockingPort_3m",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\extremeDockingPort_3m.cfg"
+  },
+  {
+    "name": "fissionReactor",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\fissionReactor.cfg"
+  },
+  {
+    "name": "solarWing",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\solarWing.cfg"
+  },
+  {
+    "name": "xl_landing_leg",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Parts\\Utility\\xl_landing_leg.cfg"
+  },
+  {
+    "name": "crew_module_int",
+    "filePath": "kerbodynePlus\\GameData\\kerbodynePlus\\Spaces\\crew_module_int\\internal.cfg"
+  }
+]

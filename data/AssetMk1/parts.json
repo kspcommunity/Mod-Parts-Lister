@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AssetMk1main",
+    "filePath": "AssetMk1\\Parts\\1\\Asset.cfg"
+  },
+  {
+    "name": "AssetMk1rss",
+    "filePath": "AssetMk1\\Parts\\2\\AssetRSS.cfg"
+  },
+  {
+    "name": "AssetMk1chute1",
+    "filePath": "AssetMk1\\Parts\\3\\AssetP.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "AssetMk1\\Patches\\CLS.cfg"
+  },
+  {
+    "name": "fx1",
+    "filePath": "AssetMk1\\Patches\\FX_Patch.cfg"
+  }
+]

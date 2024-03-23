@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Airbus",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "A300cabin",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300cabin.cfg"
+  },
+  {
+    "name": "A300 Engine",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_Engine.cfg"
+  },
+  {
+    "name": "A300 Fuselage",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_Fuselage.cfg"
+  },
+  {
+    "name": "A300 Left Stabilizer",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_LeftStabilizer.cfg"
+  },
+  {
+    "name": "A300 Left Wing",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_LeftWing.cfg"
+  },
+  {
+    "name": "A300 Left Winglet",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_LeftWinglet.cfg"
+  },
+  {
+    "name": "A300 Right Stabilizer",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_RightStabilizer.cfg"
+  },
+  {
+    "name": "A300 Right Wing",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_RightWing.cfg"
+  },
+  {
+    "name": "A300 Right Winglet",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_RightWinglet.cfg"
+  },
+  {
+    "name": "A300 Tail",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\A300_Tail.cfg"
+  },
+  {
+    "name": "S3 Decoupler",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\Parts\\A300\\S3_Decoupler.cfg"
+  },
+  {
+    "name": "FStextureSwitch2",
+    "filePath": "NSS_0.72\\GameData\\Airbus\\TextureSwitch\\Airbus_MM_FSTextureSwitch2.cfg"
+  },
+  {
+    "name": "NSS",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleLimitedDataTransmitter",
+    "filePath": "NSS_0.72\\GameData\\NSS\\NSS_MM_AntennaRange.cfg"
+  },
+  {
+    "name": "PartValidation",
+    "filePath": "NSS_0.72\\GameData\\NSS\\NSS_MM_AntennaRangeRelays.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "NSS_0.72\\GameData\\NSS\\NSS_MM_RealPlumes.cfg"
+  },
+  {
+    "name": "ModuleSCANresourceScanner",
+    "filePath": "NSS_0.72\\GameData\\NSS\\NSS_MM_ScanSat.cfg"
+  },
+  {
+    "name": "OctoSat_Com_Core",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Com_Core.cfg"
+  },
+  {
+    "name": "OctoSat_Com_HalfTop",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Com_HalfTop.cfg"
+  },
+  {
+    "name": "OctoSat_Com_Side",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Com_Side.cfg"
+  },
+  {
+    "name": "OctoSat_Con_CoreRW",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_CoreRW.cfg"
+  },
+  {
+    "name": "OctoSat_Con_HalfBottomRW",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_HalfBottomRW.cfg"
+  },
+  {
+    "name": "OctoSat_Con_HalfTopRW",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_HalfTopRW.cfg"
+  },
+  {
+    "name": "OctoSat_Con_RCS",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_RCS.cfg"
+  },
+  {
+    "name": "OctoSat_Con_RCS2",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_RCS2.cfg"
+  },
+  {
+    "name": "OctoSat_Con_RCS3",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_RCS3.cfg"
+  },
+  {
+    "name": "OctoSat_Con_RW",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Con_RW.cfg"
+  },
+  {
+    "name": "OctoSat_Pr_Ion",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Pr_Ion.cfg"
+  },
+  {
+    "name": "OctoSat_Pr_LfOx",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Pr_LfOx.cfg"
+  },
+  {
+    "name": "OctoSat_Pr_Mp",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Pr_Mp.cfg"
+  },
+  {
+    "name": "OctoSat_Pr_Nuclear",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Pr_Nuclear.cfg"
+  },
+  {
+    "name": "OctoSat_Sc_Goo",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Sc_Goo.cfg"
+  },
+  {
+    "name": "OctoSat_Sc_M900",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Sc_M900.cfg"
+  },
+  {
+    "name": "OctoSat_Sc_MaterialBay",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Sc_MaterialBay.cfg"
+  },
+  {
+    "name": "OctoSat_Sc_Science",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Sc_Science.cfg"
+  },
+  {
+    "name": "OctoSat_Sc_SideDish",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Sc_SideDish.cfg"
+  },
+  {
+    "name": "OctoSat_Sc_TopDish",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Sc_TopDish.cfg"
+  },
+  {
+    "name": "OctoSat_St_Adapter",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Adapter.cfg"
+  },
+  {
+    "name": "OctoSat_St_Cargo",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Cargo.cfg"
+  },
+  {
+    "name": "OctoSat_St_CargoModule",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_CargoModule.cfg"
+  },
+  {
+    "name": "OctoSat_St_Core",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Core.cfg"
+  },
+  {
+    "name": "OctoSatSt_Decoupler",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Decoupler.cfg"
+  },
+  {
+    "name": "OctoSat_St_HalfBottom",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_HalfBottom.cfg"
+  },
+  {
+    "name": "OctoSat_St_HalfTop",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_HalfTop.cfg"
+  },
+  {
+    "name": "OctoSat_St_Plate",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Plate.cfg"
+  },
+  {
+    "name": "OctoSatSt_Separator",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Separator.cfg"
+  },
+  {
+    "name": "OctoSat_St_Side",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_St_Side.cfg"
+  },
+  {
+    "name": "OctoSat_Ta_Core",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ta_Core.cfg"
+  },
+  {
+    "name": "OctoSat_Ta_HalfBottom",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ta_HalfBottom.cfg"
+  },
+  {
+    "name": "OctoSat_Ta_HalfTop",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ta_HalfTop.cfg"
+  },
+  {
+    "name": "OctoSat_Ta_Side",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ta_Side.cfg"
+  },
+  {
+    "name": "OctoSat_Ut_Battery",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ut_Battery.cfg"
+  },
+  {
+    "name": "OctoSat_Ut_FuelCell",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ut_FuelCell.cfg"
+  },
+  {
+    "name": "OctoSat_Ut_RTG",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ut_RTG.cfg"
+  },
+  {
+    "name": "OctoSat_Ut_SolarPanels",
+    "filePath": "NSS_0.72\\GameData\\NSS\\Parts\\OctoSat_Ut_SolarPanels.cfg"
+  },
+  {
+    "name": "FStextureSwitch2",
+    "filePath": "NSS_0.72\\GameData\\NSS\\TextureSwitch\\NSS_MM_FSTextureSwitch2.cfg"
+  },
+  {
+    "name": "Swiss Space Systems",
+    "filePath": "NSS_0.72\\GameData\\S3\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "SOAR",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR.cfg"
+  },
+  {
+    "name": "SOAR Aileron C",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR_AileronC.cfg"
+  },
+  {
+    "name": "SOAR Aileron L",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR_AileronL.cfg"
+  },
+  {
+    "name": "SOAR Aileron R",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR_AileronR.cfg"
+  },
+  {
+    "name": "SOAR_Engine",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR_Engine.cfg"
+  },
+  {
+    "name": "SOAR Rudder L",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR_RudderL.cfg"
+  },
+  {
+    "name": "SOAR Rudder R",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\SOAR_RudderR.cfg"
+  },
+  {
+    "name": "ThirdStage",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\ThirdStage.cfg"
+  },
+  {
+    "name": "ThirdStageDecoupler",
+    "filePath": "NSS_0.72\\GameData\\S3\\Parts\\ThirdStageDecoupler.cfg"
+  }
+]

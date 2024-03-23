@@ -1,0 +1,194 @@
+[
+  {
+    "name": "halfMeterFlexJoint",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Experimental\\hmFlexJoint\\hmFlexJoing.cfg"
+  },
+  {
+    "name": "chimeraCockpit",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Experimental\\Spaces\\ChimeraCockpit\\internal.cfg"
+  },
+  {
+    "name": "OneMeterCockpitInterior",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Experimental\\Spaces\\OneMeterCockpit\\internal.cfg"
+  },
+  {
+    "name": "thirtyMeterRoundThing",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Experimental\\thirtyMeterExpandingRoundThing\\part.cfg"
+  },
+  {
+    "name": "halfMeterShockInlet",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Aero\\HalfMeterShockCone\\hmShockInlet.cfg"
+  },
+  {
+    "name": "halfMeterTailBoom",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Aero\\HalfMeterTailBoom\\hmTailBoom.cfg"
+  },
+  {
+    "name": "smallGliderWing",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Aero\\SmallWings\\smallWings.cfg"
+  },
+  {
+    "name": "halfMeterCockpit",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Command\\HalfMeterCockpit\\hmCockpit.cfg"
+  },
+  {
+    "name": "halfMeterBattery",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Electrical\\HalfMeterBattery\\hmBatteries.cfg"
+  },
+  {
+    "name": "halfMeterArcjet",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterArcjet\\hmArcjet.cfg"
+  },
+  {
+    "name": "halfMeterDuctedFan",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterDuctedFan\\hmDuctedFan.cfg"
+  },
+  {
+    "name": "halfMeterFixedEngine",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterFixedEngine\\hmFixedEngine.cfg"
+  },
+  {
+    "name": "halfMeterQThruster",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterFixedEngine\\qthruster.cfg"
+  },
+  {
+    "name": "halfMeterGimballedEngine",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterGimballedEngine\\hmGimballedEngine.cfg"
+  },
+  {
+    "name": "halfMeterJetEngine",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterJetEngine\\hmJetEngine.cfg"
+  },
+  {
+    "name": "halfMeterMpdThruster",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterMpdThruster\\hmMpdThruster.cfg"
+  },
+  {
+    "name": "halfMeterVtolEngine",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterVtolEngine\\hmVtolEngine.cfg"
+  },
+  {
+    "name": "halfMeterVtolRocket",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\HalfMeterVtolRocket\\hmVtolRocket.cfg"
+  },
+  {
+    "name": "oneMeterDualMpdThruster",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Engine\\OneMeterDualMpdThruster\\omDualMpdThruster.cfg"
+  },
+  {
+    "name": "halfMeterJetFuelTank",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\FuelTank\\HalfMeterJetFuelTank\\hmJetFuelTank.cfg"
+  },
+  {
+    "name": "halfMeterRcsTank",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\FuelTank\\HalfMeterMonoTank\\hmMonoTank.cfg"
+  },
+  {
+    "name": "halfMeterFuelTankLong",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\FuelTank\\HalfMeterTankLong\\hmTankLong.cfg"
+  },
+  {
+    "name": "halfMeterFuelTankShort",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\FuelTank\\HalfMeterTankShort\\hmTankShort.cfg"
+  },
+  {
+    "name": "halfMeterXenonTank",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\FuelTank\\HalfMeterXenonTank\\hmXenonTank.cfg"
+  },
+  {
+    "name": "oneMeterXenonTank",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\FuelTank\\OneMeterKegOfXenon\\xenonKeg.cfg"
+  },
+  {
+    "name": "halfToOneMeterAdapter",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterAdapter\\hmAdapter.cfg"
+  },
+  {
+    "name": "halfMeterBicoupler",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterBicoupler\\hmBicoupler.cfg"
+  },
+  {
+    "name": "halfMeterEnginePylon",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterEnginePylon\\hmEnginePylon.cfg"
+  },
+  {
+    "name": "halfMeterInlineTricoupler",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterInlineTricoupler\\hmInlineTricoupler.cfg"
+  },
+  {
+    "name": "halfMeterRadialAdapter",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterRadialAdapter\\hmRadialAdapter.cfg"
+  },
+  {
+    "name": "halfMeterRadialTricoupler",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterRadialTricoupler\\hmTriCoupler.cfg"
+  },
+  {
+    "name": "HalfMeterStationHub",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterStationHub\\hmStationHub.cfg"
+  },
+  {
+    "name": "halfMeterStructuralLatticeBent",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\HalfMeterStructuralLattice\\halfMeterLattice.cfg"
+  },
+  {
+    "name": "quadHalfMeterToMeterAdapter",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\QuadHalfMeterAdapter\\hmQuadAdapter.cfg"
+  },
+  {
+    "name": "tinyGirderSmallElbow",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\tinyGirder\\tinyGirders.cfg"
+  },
+  {
+    "name": "nineteenEngineCoupler",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Structural\\UndevigintiCoupler\\nineteenCoupler.cfg"
+  },
+  {
+    "name": "BleedThruster",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Utility\\BleedThruster\\bleedThruster.cfg"
+  },
+  {
+    "name": "BleedThrusterQuad",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Utility\\BleedThrusterQuad\\bleedThrusterQuad.cfg"
+  },
+  {
+    "name": "halfMeterRcsNosecone",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Utility\\HalfMeterRcsNosecone\\hmRcsNosecone.cfg"
+  },
+  {
+    "name": "HallThruster",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Utility\\HallEffectThruster\\hallThruster.cfg"
+  },
+  {
+    "name": "HallThrusterQuad",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Utility\\HallEffectThrusterQuad\\hallThrusterQuad.cfg"
+  },
+  {
+    "name": "lightRadialDecoupler",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Parts\\Utility\\LightRadialDecoupler\\lightRadialDecoupler.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Patches\\B9FuelSwitch.cfg"
+  },
+  {
+    "name": "Xenon",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Patches\\B9TankTypes.cfg"
+  },
+  {
+    "name": "FSplanePropellerSpinner",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Patches\\firespitter.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Patches\\tweakscale.cfg"
+  },
+  {
+    "name": "Arrrghon",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Resources\\nukeResources.cfg"
+  },
+  {
+    "name": "halfMeterCockpitInterior",
+    "filePath": "NukeRefueled-v.1.7.3.0.1\\GameData\\Nuke\\Spaces\\HalfMeterCockpit\\PropConfig.cfg"
+  }
+]

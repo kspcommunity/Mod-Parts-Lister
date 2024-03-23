@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TDAPS-NTR-Frame",
+    "filePath": "TDAPS\\GameData\\TDAPS\\Parts\\FrameSegment.cfg"
+  },
+  {
+    "name": "MultiModeGasCoreRocketShort",
+    "filePath": "TDAPS\\GameData\\TDAPS\\Parts\\OCGC-NTR-6kShort.cfg"
+  },
+  {
+    "name": "MultiModeGasCoreRocketLF",
+    "filePath": "TDAPS\\GameData\\TDAPS\\Parts\\OCGC-NTR-LF.cfg"
+  },
+  {
+    "name": "Size3WUTank",
+    "filePath": "TDAPS\\GameData\\TDAPS\\Parts\\WUTank375.cfg"
+  },
+  {
+    "name": "UraniumTetraflouride",
+    "filePath": "TDAPS\\GameData\\TDAPS\\Resources\\ResourcesGeneric.cfg"
+  }
+]

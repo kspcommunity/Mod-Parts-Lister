@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Prototype Cockpit",
+    "filePath": "MK1PC\\Gamedata\\Mk1PrototypeCockpit\\parts\\mk1Cockpit\\mk1Cockpit.cfg"
+  },
+  {
+    "name": "mk1CockpitOldInternal",
+    "filePath": "MK1PC\\Gamedata\\Mk1PrototypeCockpit\\spaces\\mk1CockpitOldInternal\\internal.cfg"
+  }
+]

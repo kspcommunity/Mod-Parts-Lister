@@ -1,0 +1,234 @@
+[
+  {
+    "name": "mk3FuselageMONO-SF",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\MONO.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_100",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\SFO_100.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_25",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\SFO_25.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_50",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\SFO_50.cfg"
+  },
+  {
+    "name": "mk3FuselageLF_100",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\SF_100.cfg"
+  },
+  {
+    "name": "mk3FuselageSF_25",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\SF_25.cfg"
+  },
+  {
+    "name": "mk3FuselageSF_50",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\mk3Fuselage\\SF_50.cfg"
+  },
+  {
+    "name": "SFe-1",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\SFe-1\\SF-1.cfg"
+  },
+  {
+    "name": "SolidEngineCat",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\SolidEngineCat\\SolidEngineCat.cfg"
+  },
+  {
+    "name": "SolidTank",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\SolidGasTank\\SolidTank.cfg"
+  },
+  {
+    "name": "SoliDionEngine",
+    "filePath": "SolidPropulsionIndustries\\Deprecated\\SolidIonEngine\\SolidionEngine.cfg"
+  },
+  {
+    "name": "pMark2-2Pod",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Command\\mk2pod\\Crew_1.cfg"
+  },
+  {
+    "name": "mk2podCrew3",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Command\\mk2pod\\Crew_3.cfg"
+  },
+  {
+    "name": "mk2podOriginalUnmanned ",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Command\\mk2pod\\Probe.cfg"
+  },
+  {
+    "name": "pMark3-2Pod",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Command\\mk3pod\\Crew_1.cfg"
+  },
+  {
+    "name": "mk3podCrew3",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Command\\mk3pod\\Crew_3.cfg"
+  },
+  {
+    "name": "mk3podOriginalUnmanned ",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Command\\mk3pod\\Probe.cfg"
+  },
+  {
+    "name": "SolidEngineMk-45",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\Mk45-ThumperSolidEngine\\SolidEngineMk45.cfg"
+  },
+  {
+    "name": "RSPEP",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\rspepEngine\\rspepEngine.cfg"
+  },
+  {
+    "name": "SFe2",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SFe-2a\\part.cfg"
+  },
+  {
+    "name": "SFe429",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SFe-429 (SFe-318x2)\\part.cfg"
+  },
+  {
+    "name": "SFBSize2",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SFe-897\\part.cfg"
+  },
+  {
+    "name": "solidBoostermodel10Toggle",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\solidBoosterRT-10Toggle\\solidBoosterRT-10T.cfg"
+  },
+  {
+    "name": "solidBooster_model5Toggle",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\solidBoosterRT-5Toggle\\solidBoosterRT-5T.cfg"
+  },
+  {
+    "name": "sepMotor1",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\solidBoosterRT-R1Toggle\\SolidRT1Toggle.cfg"
+  },
+  {
+    "name": "SolidEngine215",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngine215\\SFe-215.cfg"
+  },
+  {
+    "name": "SSMESolid",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngine318\\SFe-318.cfg"
+  },
+  {
+    "name": "SolidEngine480",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngine480\\SFe-480.cfg"
+  },
+  {
+    "name": "SolidEngine3-X",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngine902-Proto\\SFe-S-902.cfg"
+  },
+  {
+    "name": "SolidEngine3",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngine959\\SFe-959.cfg"
+  },
+  {
+    "name": "Breakout990",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngine990\\SFe-990.cfg"
+  },
+  {
+    "name": "BoatsailEngine",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngineBoatsail\\SolidEngineBoatSail.cfg"
+  },
+  {
+    "name": "SolidengineLargeFlipper",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEnginePenguin\\SolidEnginePenguin.cfg"
+  },
+  {
+    "name": "smallRadialSolidEngine",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngineRadial10\\SFe-R10.cfg"
+  },
+  {
+    "name": "SolidEngineX50",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngineRadialX50\\SolidEngineX50.cfg"
+  },
+  {
+    "name": "nuclearSolidFuelEngine",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngineSFe-Nx\\SFe-Nx.cfg"
+  },
+  {
+    "name": "SFe-T-1",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidEngineSolidSpike\\SFe-T-1.cfg"
+  },
+  {
+    "name": "SolidTurboFan",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\SolidTurboJet\\jetEngineTurbo.cfg"
+  },
+  {
+    "name": "SolidUberDrive",
+    "filePath": "SolidPropulsionIndustries\\Parts\\Engine\\UberEnginePoodleX\\SFe-2x2-Poodle-X.cfg"
+  },
+  {
+    "name": "mk2FuselageLongSFO",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\mk2FuselageLong\\SFO_long.cfg"
+  },
+  {
+    "name": "mk2FuselageSolid",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\mk2FuselageLong\\S_long.cfg"
+  },
+  {
+    "name": "mk2FuselageShortSFO",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\mk2FuselageShort\\SFO_short.cfg"
+  },
+  {
+    "name": "mk2FuselageShortSolidMono",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\mk2FuselageShort\\Sono_short.cfg"
+  },
+  {
+    "name": "mk2FuselageSolidShort",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\mk2FuselageShort\\S_Short.cfg"
+  },
+  {
+    "name": "radialbodyunit",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\RadialBodyUnit\\part.cfg"
+  },
+  {
+    "name": "ramDustIntake",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\ramDustIntake\\part.cfg"
+  },
+  {
+    "name": "SolidFuel10",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-10\\part.cfg"
+  },
+  {
+    "name": "SolidFuel100Tank",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-100\\SF100FuelTank.cfg"
+  },
+  {
+    "name": "SolidFuel20",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-20\\part.cfg"
+  },
+  {
+    "name": "SolidFuel200Tank",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-200\\SF-200.cfg"
+  },
+  {
+    "name": "SolidFuel400Tank",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-400\\SF-400.cfg"
+  },
+  {
+    "name": "SolidFuel405Tank",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-405\\SF-405.cfg"
+  },
+  {
+    "name": "SolidFuel50",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-50\\part.cfg"
+  },
+  {
+    "name": "SF-800SolidFuel",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-800\\SF-800.cfg"
+  },
+  {
+    "name": "SolidFuel90",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF-90\\part.cfg"
+  },
+  {
+    "name": "SF2-116",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF2-116\\part.cfg"
+  },
+  {
+    "name": "SolidTank2-232",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SF2-232\\part.cfg"
+  },
+  {
+    "name": "SolidFuelUnit",
+    "filePath": "SolidPropulsionIndustries\\Parts\\FuelTank\\SolidFuelUnit\\part.cfg"
+  }
+]

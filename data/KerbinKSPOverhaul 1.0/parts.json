@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chez Industrys",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\Agents\\agents.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\launchclamp\\LaunchClamps.cfg"
+  },
+  {
+    "name": "Kydrogen",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\Resources\\Fuels\\convertorhanderer.cfg"
+  },
+  {
+    "name": "Kerboseene",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\Resources\\Fuels\\FuelHandeler.cfg"
+  },
+  {
+    "name": "Kerboseene",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\Resources\\Fuels\\Fuels.cfg"
+  },
+  {
+    "name": "RESWATERKO",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\Resources\\Misc\\RESOURCESmisc.cfg"
+  },
+  {
+    "name": "ModuleScienceExperiment",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\SCIENCE\\Sci_handler.cfg"
+  },
+  {
+    "name": "SolidBoosterBasicKO",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\techpatches\\extras.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "KerbinKSPOverhaul 1.0\\GameData\\0KO\\techpatches\\otherstuff.cfg"
+  }
+]

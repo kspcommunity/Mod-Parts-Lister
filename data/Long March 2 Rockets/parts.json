@@ -1,0 +1,218 @@
+[
+  {
+    "name": "CZ-2F_Booster",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_Booster\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_BoosterWing",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_BoosterWing\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_DecouplerEscTower",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_DecouplerEscTower\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_DecouplerS1S2",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_DecouplerS1S2\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_DecouplerS2S3",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_DecouplerS2S3\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_EscTower",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_EscTower\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_FairingA",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_FairingA\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_FairingB",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_FairingB\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_Stage1",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_Stage1\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_Stage2",
+    "filePath": "Long March 2 Rockets\\For RSS\\CASA\\CZ-2F_Stage2\\part.cfg"
+  },
+  {
+    "name": "KzProcFairingChina",
+    "filePath": "Long March 2 Rockets\\GameData\\blackheart\\ProceduralFairings\\ChinaFairing\\chinafairing.cfg"
+  },
+  {
+    "name": "CZ-2E_Booster",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2E_Booster\\part.cfg"
+  },
+  {
+    "name": "CZ-2E_DecouplerS1S2",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2E_DecouplerS1S2\\part.cfg"
+  },
+  {
+    "name": "CZ-2E_Stage1",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2E_Stage1\\part.cfg"
+  },
+  {
+    "name": "CZ-2E_Stage2",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2E_Stage2\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_Booster",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_Booster\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_BoosterWing",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_BoosterWing\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_DecouplerEscTower",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_DecouplerEscTower\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_DecouplerS1S2",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_DecouplerS1S2\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_DecouplerS2S3",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_DecouplerS2S3\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_EscTower",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_EscTower\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_FairingA",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_FairingA\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_FairingB",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_FairingB\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_Stage1",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_Stage1\\part.cfg"
+  },
+  {
+    "name": "CZ-2F_Stage2",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\CZ-2F_Stage2\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF22E",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\Engines\\Engine_YF22E\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF23C1_float",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\Engines\\Engine_YF23C1_vernier\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF25",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\Engines\\Engine_YF25\\part.cfg"
+  },
+  {
+    "name": "RealChuteModule",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\MM_Configs\\ShenzhouRC.cfg"
+  },
+  {
+    "name": "SZ_HeatShield",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_HeatShield\\SZ_HeatShield.cfg"
+  },
+  {
+    "name": "SZ_OrbitingModuleXX",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_OrbitingModule\\SZ_OrbitingModule.cfg"
+  },
+  {
+    "name": "SZ_OrbitingModuleXX",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_OrbitingModuleXX\\SZ_OrbitingModule.cfg"
+  },
+  {
+    "name": "SZ_Parachute",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_Parachute\\SZ_Parachute.cfg"
+  },
+  {
+    "name": "SZ_ReentryModule",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_ReentryModule\\SZ_ReentryModule.cfg"
+  },
+  {
+    "name": "SZ_ServiceModule",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_ServiceModule\\SZ_ServiceModule.cfg"
+  },
+  {
+    "name": "SZ_SolarPanel",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_SolarPanel\\SZ_SolarPanel.cfg"
+  },
+  {
+    "name": "SZ_TG_DockingPort",
+    "filePath": "Long March 2 Rockets\\GameData\\CASA\\ShenZhou\\Part\\SZ_TG_DockingPort\\SZ_TG_DockingPort.cfg"
+  },
+  {
+    "name": "KzInterstageAdapter2",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\adapter2.cfg"
+  },
+  {
+    "name": "KzResizableFairingBase",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\base.cfg"
+  },
+  {
+    "name": "KzResizableFairingBaseRing",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\baseRing.cfg"
+  },
+  {
+    "name": "pf_tech_fairing04m",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\common.cfg"
+  },
+  {
+    "name": "KzProcFairingFuselage1",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\fuselage1.cfg"
+  },
+  {
+    "name": "KzProcFairingFuselage2",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\fuselage2.cfg"
+  },
+  {
+    "name": "KzThrustPlate",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\plate.cfg"
+  },
+  {
+    "name": "KzProcFairingSide1",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\side1.cfg"
+  },
+  {
+    "name": "KzProcFairingSide2",
+    "filePath": "Long March 2 Rockets\\GameData\\ProceduralFairings\\side2.cfg"
+  },
+  {
+    "name": "SZ_HeatShield",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_HeatShield\\SZ_HeatShield.cfg"
+  },
+  {
+    "name": "SZ_OrbitingModuleXX",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_OrbitingModule\\SZ_OrbitingModule.cfg"
+  },
+  {
+    "name": "SZ_OrbitingModuleXX",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_OrbitingModuleXX\\SZ_OrbitingModule.cfg"
+  },
+  {
+    "name": "SZ_Parachute",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_Parachute\\SZ_Parachute.cfg"
+  },
+  {
+    "name": "SZ_ReentryModule",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_ReentryModule\\SZ_ReentryModule.cfg"
+  },
+  {
+    "name": "SZ_ServiceModule",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_ServiceModule\\SZ_ServiceModule.cfg"
+  },
+  {
+    "name": "SZ_SolarPanel",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_SolarPanel\\SZ_SolarPanel.cfg"
+  },
+  {
+    "name": "SZ_TG_DockingPort",
+    "filePath": "Long March 2 Rockets\\Sheng Zhou CFG\\Game Data\\CASA\\ShenZhou\\Part\\SZ_TG_DockingPort\\SZ_TG_DockingPort.cfg"
+  }
+]

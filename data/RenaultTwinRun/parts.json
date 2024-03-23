@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Renault Twin'Run Concept",
+    "filePath": "RenaultTwinRun\\Parts\\RenaultTwinRun\\RenaultTwinRun.cfg"
+  },
+  {
+    "name": "RenaultTwinRunIVA",
+    "filePath": "RenaultTwinRun\\Spaces\\RenaultTwinRunIVA\\internal.cfg"
+  }
+]

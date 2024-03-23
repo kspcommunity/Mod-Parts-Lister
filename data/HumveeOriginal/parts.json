@@ -1,0 +1,10 @@
+[
+  {
+    "name": "HumveeOriginal",
+    "filePath": "HumveeOriginal\\Hull\\part.cfg"
+  },
+  {
+    "name": "BasicHumveeWheel",
+    "filePath": "HumveeOriginal\\Wheel\\part.cfg"
+  }
+]

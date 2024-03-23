@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bofors40mm",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Bofors\\part.cfg"
+  },
+  {
+    "name": "FV10190",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\FV10190mm\\FV10190.cfg"
+  },
+  {
+    "name": "FV101Body",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\FV101Body\\part.cfg"
+  },
+  {
+    "name": "FV107Turret30mm",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\FV107-30mm\\FV107Turret.cfg"
+  },
+  {
+    "name": "GustavMax",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Gustav\\GustavSmall.cfg"
+  },
+  {
+    "name": "ChallengerII",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_Challenger2Turret\\NED_Challenger2.cfg"
+  },
+  {
+    "name": "Challenger_Hull",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_ChallengerHull\\NED_ChallengerHull.cfg"
+  },
+  {
+    "name": "ChieftainHull",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_ChieftainHull\\NED_ChieftainHull.cfg"
+  },
+  {
+    "name": "ChieftainTurret",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_ChieftainTurret\\NED_ChieftainTurret.cfg"
+  },
+  {
+    "name": "Falcon Turret",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_Falcon\\NED_Falcon.cfg"
+  },
+  {
+    "name": "KV2",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_KV1\\NED_KV2.cfg"
+  },
+  {
+    "name": "Leviathan_II_Railgun",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_Levi\\NED_Levi.cfg"
+  },
+  {
+    "name": "NED_Otom",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\NED_Oto_melara75mm\\NED_Otom.cfg"
+  },
+  {
+    "name": "76x636Ammo",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Resources\\Ammo.cfg"
+  },
+  {
+    "name": "ChallengerBInternal",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Spaces\\ChallengerBInternal\\ChallengerBInternal.cfg"
+  },
+  {
+    "name": "ChallengerInternal",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Spaces\\ChallengerInternal\\ChallengerInternal.cfg"
+  },
+  {
+    "name": "ChieftainInternal",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Spaces\\ChieftainInternal\\ChieftainInternal.cfg"
+  },
+  {
+    "name": "ScorpInternal",
+    "filePath": "NeverEnuffDakkaRedux\\GameData\\NED\\Spaces\\ScorpInternal\\ScorpInternal.cfg"
+  }
+]

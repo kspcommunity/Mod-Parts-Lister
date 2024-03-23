@@ -1,0 +1,210 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "ModuleAnalysisResource",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\CommunityResourcePack\\AsteroidScannerSetup.cfg"
+  },
+  {
+    "name": "CarbonDioxide",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks                      // sets module",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\RF_Patches\\CZ1_RF.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks                      // sets module",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\RF_Patches\\CZ3B.cfg"
+  },
+  {
+    "name": "ModuleEnginesRF",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\RF_Patches\\cz5.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\RP_Patches\\CZ-1 RP patch.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\RP_Patches\\CZ-3B_for_RealPlume.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\RP_Patches\\CZ-5 RP patch.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\Stock_Patches\\CZ-1_rescale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\MM_Patches\\Stock_Patches\\CZ-3B_rescale.cfg"
+  },
+  {
+    "name": "CPC_YF100_Univ",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\Engines\\YF100\\part.cfg"
+  },
+  {
+    "name": "cz1_stage_1st",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\1stStage\\part.cfg"
+  },
+  {
+    "name": "cz1_fueltubes",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\1stStageTubes\\part.cfg"
+  },
+  {
+    "name": "cz1_engine_2nd_stage",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\2ndStageEngine\\part.cfg"
+  },
+  {
+    "name": "cz1_tank_2nd_stage",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\2ndStageFuel\\part.cfg"
+  },
+  {
+    "name": "cz1_engine_3rd_stage",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\3rdStageSRB\\part.cfg"
+  },
+  {
+    "name": "cz1_decoupler_12_stage",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\Decoupler12\\part.cfg"
+  },
+  {
+    "name": "cz1_decoupler_23_stage",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\Decoupler23\\part.cfg"
+  },
+  {
+    "name": "cz1_decoupler_payload",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\DecouplerUpper\\part.cfg"
+  },
+  {
+    "name": "cz1_fairing",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\Fairing\\part.cfg"
+  },
+  {
+    "name": "CZ1_Tailfin",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch1\\Tailfin\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_1st_stage_fueltank",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\1st stage fueltank\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_2nd_stage_fueltank",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\2nd stage fueltank\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_3rd_stage_fueltank",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\3rd stage fueltank\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_boost_stage_fueltank",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\boost stage fueltank\\part.cfg"
+  },
+  {
+    "name": "CZ3B_booster_winglet",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\booster_winglet\\booster_winglet.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF-21C",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\Engine_YF-21C\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF22E",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\Engine_YF22E\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF23C1_float",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\Engine_YF23C1_float\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF23C1_float",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\Engine_YF23C1_vernier\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF25",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\Engine_YF25\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Engine_YF75",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\Engine_YF75\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Equipment",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\long march 3B Equipment\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Support",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\long march 3B Support\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Top_Fairing",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\top fairing\\part.cfg"
+  },
+  {
+    "name": "long_march_3B_Top_Fairing_flag",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch3B\\Parts\\top fairing flag\\part.cfg"
+  },
+  {
+    "name": "CZ5 1fuel",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch5\\CZ5 1fuel\\part.cfg"
+  },
+  {
+    "name": "CZ5 2fuel",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch5\\CZ5 2fuel\\part.cfg"
+  },
+  {
+    "name": "CZ5 decoupler",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch5\\CZ5 decoupler\\part.cfg"
+  },
+  {
+    "name": "CZ5 faring",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch5\\CZ5 fairing\\part.cfg"
+  },
+  {
+    "name": "CZ5 fairing base",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch5\\CZ5 fairing base\\part.cfg"
+  },
+  {
+    "name": "CZ5 Spoiler",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\LongMarch5\\CZ5 Spoiler\\part.cfg"
+  },
+  {
+    "name": "RealChuteModule",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\MM_Configs\\ShenzhouRC.cfg"
+  },
+  {
+    "name": "SZ_HeatShield",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_HeatShield\\SZ_HeatShield.cfg"
+  },
+  {
+    "name": "SZ_OrbitingModuleXX",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_OrbitingModule\\SZ_OrbitingModule.cfg"
+  },
+  {
+    "name": "SZ_OrbitingModuleXX",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_OrbitingModuleXX\\SZ_OrbitingModule.cfg"
+  },
+  {
+    "name": "SZ_Parachute",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_Parachute\\SZ_Parachute.cfg"
+  },
+  {
+    "name": "SZ_ReentryModule",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_ReentryModule\\SZ_ReentryModule.cfg"
+  },
+  {
+    "name": "SZ_ServiceModule",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_ServiceModule\\SZ_ServiceModule.cfg"
+  },
+  {
+    "name": "SZ_SolarPanel",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_SolarPanel\\SZ_SolarPanel.cfg"
+  },
+  {
+    "name": "SZ_TG_DockingPort",
+    "filePath": "ChinesePackCont_v0.2.0.18Y\\ChinesePackCont_v0.2.0.18Y\\GameData\\KFStudios\\Parts\\ShenZhou\\Part\\SZ_TG_DockingPort\\SZ_TG_DockingPort.cfg"
+  }
+]

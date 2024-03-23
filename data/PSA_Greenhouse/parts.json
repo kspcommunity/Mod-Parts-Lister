@@ -1,0 +1,30 @@
+[
+  {
+    "name": "PSAGreenhouse25",
+    "filePath": "PSA_Greenhouse\\Parts\\PSAGreenhouse25.cfg"
+  },
+  {
+    "name": "PSAGreenhouse375",
+    "filePath": "PSA_Greenhouse\\Parts\\PSAGreenhouse375.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "PSA_Greenhouse\\PSA_Configs\\PSA_CLS.cfg"
+  },
+  {
+    "name": "Snacks",
+    "filePath": "PSA_Greenhouse\\PSA_Configs\\PSA_Snacks.cfg"
+  },
+  {
+    "name": "PlanetaryGreenhouse",
+    "filePath": "PSA_Greenhouse\\PSA_Configs\\PSA_TAC-LS.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "PSA_Greenhouse\\PSA_Configs\\PSA_USI-LS.cfg"
+  },
+  {
+    "name": "Light",
+    "filePath": "PSA_Greenhouse\\Resources.cfg"
+  }
+]

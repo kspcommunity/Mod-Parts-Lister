@@ -1,0 +1,106 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "DIRECT_1.0.0\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "ModuleAnalysisResource",
+    "filePath": "DIRECT_1.0.0\\CommunityResourcePack\\AsteroidScannerSetup.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "DIRECT_1.0.0\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "5mDecoupler",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5mdecoupler.cfg"
+  },
+  {
+    "name": "5mtank_10m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5x10.cfg"
+  },
+  {
+    "name": "5mtankB_10m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5x10b.cfg"
+  },
+  {
+    "name": "5mtank_2-5m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5x2-5.cfg"
+  },
+  {
+    "name": "5mtankB_2-5m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5x2-5b.cfg"
+  },
+  {
+    "name": "5mtank_5m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5x5.cfg"
+  },
+  {
+    "name": "5mtankB_5m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\5x5b.cfg"
+  },
+  {
+    "name": "7mtank_15m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\7x15.cfg"
+  },
+  {
+    "name": "7mtank_3m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\7x3.cfg"
+  },
+  {
+    "name": "7mtank_7m",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\7x7.cfg"
+  },
+  {
+    "name": "5mAdapter1",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\adapter1.cfg"
+  },
+  {
+    "name": "5mAdapter2",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\adapter2.cfg"
+  },
+  {
+    "name": "5mEndCap",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\endcap.cfg"
+  },
+  {
+    "name": "5mET",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\ET.cfg"
+  },
+  {
+    "name": "5mShuttleCone",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\5m_Tanks\\noseCone.cfg"
+  },
+  {
+    "name": "fairingSize4",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\Aero\\fairingSize4.cfg"
+  },
+  {
+    "name": "fairingSize5",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\Aero\\fairingSize5.cfg"
+  },
+  {
+    "name": "DIRECT_RS25",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\Engines\\RS25.cfg"
+  },
+  {
+    "name": "directOrion",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\Spacecraft\\Orion\\orionCM.cfg"
+  },
+  {
+    "name": "AresAdapter",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\SRB\\adapter.cfg"
+  },
+  {
+    "name": "directCone",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\SRB\\noseCone.cfg"
+  },
+  {
+    "name": "DirectSRB4",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\SRB\\SRB_4seg.cfg"
+  },
+  {
+    "name": "DirectSRB5",
+    "filePath": "DIRECT_1.0.0\\DIRECT_LV\\Parts\\SRB\\SRB_5seg.cfg"
+  }
+]

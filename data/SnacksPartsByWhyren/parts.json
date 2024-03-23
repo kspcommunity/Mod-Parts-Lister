@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SnackHouse",
+    "filePath": "SnacksPartsByWhyren\\Cultivation\\SnackHouse\\part.cfg"
+  },
+  {
+    "name": "GiantSnackHouse",
+    "filePath": "SnacksPartsByWhyren\\Cultivation\\SnackHouseGiant\\part.cfg"
+  },
+  {
+    "name": "Lighted SnackHouse",
+    "filePath": "SnacksPartsByWhyren\\Cultivation\\SnackHouseLighted\\part.cfg"
+  },
+  {
+    "name": "snack_black_long",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackBoxLarge\\B_black_long.cfg"
+  },
+  {
+    "name": "snack_black",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackBoxMedium\\B_black.cfg"
+  },
+  {
+    "name": "snack_black_flat",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackBoxSmall\\B_black_flat.cfg"
+  },
+  {
+    "name": "snack_SPLM",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackPLM\\part.cfg"
+  },
+  {
+    "name": "SnackTankLarge",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackStackLarge\\375.cfg"
+  },
+  {
+    "name": "SnackTankMedium",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackStackMedium\\250.cfg"
+  },
+  {
+    "name": "SnackTankSmall",
+    "filePath": "SnacksPartsByWhyren\\Storage\\SnackStackSmall\\125.cfg"
+  }
+]

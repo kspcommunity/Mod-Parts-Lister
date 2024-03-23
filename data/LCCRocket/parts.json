@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Light Car Company Rocket",
+    "filePath": "LCCRocket\\Parts\\LCCRocket\\LCCRocket.cfg"
+  },
+  {
+    "name": "LCCRocketIVA",
+    "filePath": "LCCRocket\\Spaces\\LCCRocketIVA\\internal.cfg"
+  }
+]

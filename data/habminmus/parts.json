@@ -1,0 +1,18 @@
+[
+  {
+    "name": "HabMinmus",
+    "filePath": "habminmus\\configs\\HabMinmus.cfg"
+  },
+  {
+    "name": "HabMinmus-clouds1",
+    "filePath": "habminmus\\Eve\\clouds.cfg"
+  },
+  {
+    "name": "HabMinmus",
+    "filePath": "habminmus\\scatterer\\atmo.cfg"
+  },
+  {
+    "name": "HabMinmus",
+    "filePath": "habminmus\\scatterer\\ocean.cfg"
+  }
+]

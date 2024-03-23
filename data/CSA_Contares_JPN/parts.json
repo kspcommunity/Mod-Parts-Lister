@@ -1,0 +1,146 @@
+[
+  {
+    "name": "CONTARES-JPN",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "E_H2B_SRB",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\E_H2B_SRB\\E_H2B_SRB.cfg"
+  },
+  {
+    "name": "E_RK-0-100F",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\E_RK-0\\E_RK-0-100F.cfg"
+  },
+  {
+    "name": "E_RK-0-120F",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\E_RK-0\\E_RK-0-120F.cfg"
+  },
+  {
+    "name": "H1_S1",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H1_S1.cfg"
+  },
+  {
+    "name": "H1_S2",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H1_S2.cfg"
+  },
+  {
+    "name": "H2B_Bi_Adapter",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2B_Bi_Adapter\\H2B_Bi_Adapter.cfg"
+  },
+  {
+    "name": "H2B_S1_Adapter",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2B_S1_Adapter\\H2B_S1_Adapter.cfg"
+  },
+  {
+    "name": "H2B_S2_Engine",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2B_S2_Engine\\H2B_S2_Engine.cfg"
+  },
+  {
+    "name": "H3B_S2_Engine",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2B_S2_Engine\\H3B_S2_Engine.cfg"
+  },
+  {
+    "name": "H2A_single_Adapter",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2B_single_Adapter\\H2A_single_Adapter.cfg"
+  },
+  {
+    "name": "H2DECUAB",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2DECUAB\\H2DECUAB.cfg"
+  },
+  {
+    "name": "CH2_S1",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2_S1\\CH2A_S1_LFO.cfg"
+  },
+  {
+    "name": "H2A_S1",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2_S1\\H2A_S1.cfg"
+  },
+  {
+    "name": "H2B_S1",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H2_S1\\H2B_S1.cfg"
+  },
+  {
+    "name": "H3B_Triadapter",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\H3B_triadapter\\H3B_Triadapter.cfg"
+  },
+  {
+    "name": "RK-N-05b",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\RK-N-05b\\RK-N-05b.cfg"
+  },
+  {
+    "name": "RK-N-MB3III",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\RK-N-MB3III.cfg"
+  },
+  {
+    "name": "RK-N-TX354",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\RK-N-TX354.cfg"
+  },
+  {
+    "name": "SRB-EM",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\H-JAXA\\SRB-EM\\SRB-EM.cfg"
+  },
+  {
+    "name": "HOPE-XL_ADAPTER",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\HOPE_XL\\HOPE-XL_Adapter.cfg"
+  },
+  {
+    "name": "HOPE_XL",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\HOPE_XL\\HOPE_XL.cfg"
+  },
+  {
+    "name": "KTVII_avionic",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\KTV_II\\KTVII_avionic.cfg"
+  },
+  {
+    "name": "KTVII_cap",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\KTV_II\\KTVII_cap.cfg"
+  },
+  {
+    "name": "KTVII_ps",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\KTV_II\\KTVII_ps.cfg"
+  },
+  {
+    "name": "KTVII_ups",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Parts\\KTV_II\\KTVII_ups.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Patches\\Contares_NIP_KIS.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Patches\\Contares_NIP_plume.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Patches\\Contares_NIP_TACLS.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "HOPE_XL_Crew_A",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Spaces\\HOPE_XL_Crew_A\\HOPE_XL_Crew_A.cfg"
+  },
+  {
+    "name": "HTV_POD_Crew_A",
+    "filePath": "CSA_Contares_JPN\\GameData\\Contares_JPN\\Spaces\\HTV_POD_Crew_A\\HTV_POD_Crew_A.cfg"
+  }
+]

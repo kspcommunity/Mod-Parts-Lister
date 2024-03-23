@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HVI",
+    "filePath": "New Solar\\Agencies\\HVI\\Agents.cfg"
+  },
+  {
+    "name": "New Solar",
+    "filePath": "New Solar\\Agencies\\New Solar\\Agents.cfg"
+  },
+  {
+    "name": "fuelLine",
+    "filePath": "New Solar\\Parts\\CompoundParts\\fuelLine\\fuelLine.cfg"
+  },
+  {
+    "name": "strutConnector",
+    "filePath": "New Solar\\Parts\\CompoundParts\\strutConnector\\strutConnector.cfg"
+  },
+  {
+    "name": "solarPanels4",
+    "filePath": "New Solar\\Parts\\Electrical\\1x6SolarHVIPanels\\1x6SolarHVIPanels.cfg"
+  },
+  {
+    "name": "solarPanels4",
+    "filePath": "New Solar\\Parts\\Electrical\\1x6SolarPanels\\1x6SolarPanels.cfg"
+  },
+  {
+    "name": "90-0 Panel",
+    "filePath": "New Solar\\Parts\\Electrical\\90-0 Solar\\part.cfg"
+  },
+  {
+    "name": "batteryBankLarge",
+    "filePath": "New Solar\\Parts\\Electrical\\Gen\\z-4kBattery.cfg"
+  },
+  {
+    "name": "largeSolarPanel",
+    "filePath": "New Solar\\Parts\\Electrical\\gigantorXlSolarArray\\gigantorXlSolarArray.cfg"
+  },
+  {
+    "name": "fuelTank3-2",
+    "filePath": "New Solar\\Parts\\FuleTank\\HVI 5588-64\\HVI 5588-64.cfg"
+  },
+  {
+    "name": "fuelTank1-2",
+    "filePath": "New Solar\\Parts\\FuleTank\\HVI 8899\\HVI 8899.cfg"
+  },
+  {
+    "name": "HVI-Pod",
+    "filePath": "New Solar\\Parts\\Pods\\HVI-Pod\\HVI-Pod.cfg"
+  }
+]

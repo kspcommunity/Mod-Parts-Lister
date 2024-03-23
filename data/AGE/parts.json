@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ica",
+    "filePath": "AGE\\Kopernicus_Files\\Rogue\\Ica\\Ica.cfg"
+  },
+  {
+    "name": "Zurbo-A",
+    "filePath": "AGE\\Kopernicus_Files\\Stars\\Zurbo\\Zurbo.cfg"
+  },
+  {
+    "name": "Zurbo-B",
+    "filePath": "AGE\\Kopernicus_Files\\Zurbo System\\Zurbo-B\\Zurbo-B.cfg"
+  },
+  {
+    "name": "Zurbo-C",
+    "filePath": "AGE\\Kopernicus_Files\\Zurbo System\\Zurbo-C\\Zurbo-C.cfg"
+  }
+]

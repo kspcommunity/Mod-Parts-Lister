@@ -1,0 +1,142 @@
+[
+  {
+    "name": "def // do not change this!",
+    "filePath": "MNWS_SHIP\\BulletDefs\\Johnny_Bullets.cfg"
+  },
+  {
+    "name": "055A",
+    "filePath": "MNWS_SHIP\\Part\\055X1\\055A.cfg"
+  },
+  {
+    "name": "055X1",
+    "filePath": "MNWS_SHIP\\Part\\055X1\\055X1.cfg"
+  },
+  {
+    "name": "075A",
+    "filePath": "MNWS_SHIP\\Part\\055X1\\075A.cfg"
+  },
+  {
+    "name": "055X1",
+    "filePath": "MNWS_SHIP\\Part\\055X1\\test4.cfg"
+  },
+  {
+    "name": "055A",
+    "filePath": "MNWS_SHIP\\Part\\055X1\\test5.cfg"
+  },
+  {
+    "name": "065",
+    "filePath": "MNWS_SHIP\\Part\\065\\065.cfg"
+  },
+  {
+    "name": "CGX065",
+    "filePath": "MNWS_SHIP\\Part\\065\\CGX065.cfg"
+  },
+  {
+    "name": "AMB",
+    "filePath": "MNWS_SHIP\\Part\\AMB\\AMB.cfg"
+  },
+  {
+    "name": "AMBII",
+    "filePath": "MNWS_SHIP\\Part\\AMB\\AMBII.cfg"
+  },
+  {
+    "name": "ASMM",
+    "filePath": "MNWS_SHIP\\Part\\AS_M\\ASMM.cfg"
+  },
+  {
+    "name": "AS_ML",
+    "filePath": "MNWS_SHIP\\Part\\AS_M\\AS_ML.cfg"
+  },
+  {
+    "name": "AVLS11",
+    "filePath": "MNWS_SHIP\\Part\\AVLS\\AVLS11.cfg"
+  },
+  {
+    "name": "AVLS22",
+    "filePath": "MNWS_SHIP\\Part\\AVLS\\AVLS22.cfg"
+  },
+  {
+    "name": "AVLS33",
+    "filePath": "MNWS_SHIP\\Part\\AVLS\\AVLS33.cfg"
+  },
+  {
+    "name": "AVLSX1",
+    "filePath": "MNWS_SHIP\\Part\\AVLSX\\AVLSX1.cfg"
+  },
+  {
+    "name": "AVLSX2",
+    "filePath": "MNWS_SHIP\\Part\\AVLSX\\AVLSX2.cfg"
+  },
+  {
+    "name": "AVLSX3",
+    "filePath": "MNWS_SHIP\\Part\\AVLSX\\AVLSX3.cfg"
+  },
+  {
+    "name": "CGNX2050",
+    "filePath": "MNWS_SHIP\\Part\\CGNX2050\\CGNX2050.cfg"
+  },
+  {
+    "name": "CVN003",
+    "filePath": "MNWS_SHIP\\Part\\CVN003\\CVN003.cfg"
+  },
+  {
+    "name": "CVN004",
+    "filePath": "MNWS_SHIP\\Part\\CVN004\\CVN004.cfg"
+  },
+  {
+    "name": "CVN16",
+    "filePath": "MNWS_SHIP\\Part\\CVN16\\CVN16.cfg"
+  },
+  {
+    "name": "CVN16",
+    "filePath": "MNWS_SHIP\\Part\\CVN16\\CVN16PBR.cfg"
+  },
+  {
+    "name": "CVN21",
+    "filePath": "MNWS_SHIP\\Part\\CVN21\\CVN21.cfg"
+  },
+  {
+    "name": "CVN21",
+    "filePath": "MNWS_SHIP\\Part\\CVN21\\test6.cfg"
+  },
+  {
+    "name": "DDG030",
+    "filePath": "MNWS_SHIP\\Part\\DDG030\\DDG030.cfg"
+  },
+  {
+    "name": "DDG2002 RAIL",
+    "filePath": "MNWS_SHIP\\Part\\DDG2002\\DDG2002.cfg"
+  },
+  {
+    "name": "FDG057",
+    "filePath": "MNWS_SHIP\\Part\\FDG057\\FDG057.cfg"
+  },
+  {
+    "name": "FDG060",
+    "filePath": "MNWS_SHIP\\Part\\FDG060\\FDG060.cfg"
+  },
+  {
+    "name": "FRADAR",
+    "filePath": "MNWS_SHIP\\Part\\FRADAR\\FRADAR.cfg"
+  },
+  {
+    "name": "MissleCell2050",
+    "filePath": "MNWS_SHIP\\Part\\MissleCell2050\\MissleCell2050.cfg"
+  },
+  {
+    "name": "RGBB",
+    "filePath": "MNWS_SHIP\\Part\\RGBB\\RGBB.cfg"
+  },
+  {
+    "name": "SSBN002",
+    "filePath": "MNWS_SHIP\\Part\\SSBN002\\SSBN002.cfg"
+  },
+  {
+    "name": "35mmAAMS",
+    "filePath": "MNWS_SHIP\\Resources\\Johnny_Ammo.cfg"
+  },
+  {
+    "name": "BallastWater",
+    "filePath": "MNWS_SHIP\\Resources\\Jresource.cfg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "bpLargeTransmitterDish",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Parts\\LargeTransmitter\\LargeTransmitter.cfg"
+  },
+  {
+    "name": "bpAblativeEngine",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Parts\\Propulsion\\AblativeEngine\\AblativeEngine.cfg"
+  },
+  {
+    "name": "bpPhotonSail",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Parts\\Propulsion\\PhotonSail\\PhotonSail.cfg"
+  },
+  {
+    "name": "bpThermalEngine",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Parts\\Propulsion\\ThermalEngine\\ThermalEngine.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Patches\\LqdHydrogen.cfg"
+  },
+  {
+    "name": "WirelessReceiver",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Patches\\NearFutureExploration.cfg"
+  },
+  {
+    "name": "WirelessSource",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Patches\\RealisticWavelengths.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Patches\\RealPlume.cfg"
+  },
+  {
+    "name": "WirelessSource",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Patches\\Tweakscale.cfg"
+  },
+  {
+    "name": "outerGlow2",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Patches\\WaterfallFX.cfg"
+  },
+  {
+    "name": "Photons",
+    "filePath": "BeamedPowerStandalone_1.1.0\\GameData\\BeamedPowerStandalone\\Resources\\ResourceDefinitions.cfg"
+  }
+]

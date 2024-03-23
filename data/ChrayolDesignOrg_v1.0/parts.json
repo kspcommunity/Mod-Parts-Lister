@@ -1,0 +1,130 @@
+[
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "ProceduralFairingBase",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Compatibility\\ProceduralFairings\\Procedural_Fairings.cfg"
+  },
+  {
+    "name": "Hypergolic_LowerOrangeShock",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Compatibility\\RealPlume\\PSLV_Liquid.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Compatibility\\RealPlume\\PSLV_Solids.cfg"
+  },
+  {
+    "name": "pp_vvthin",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\FX\\PlumeParty\\Vapor\\vent.cfg"
+  },
+  {
+    "name": "CDO_FirstStageMotor",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_FirstStageMotor.cfg"
+  },
+  {
+    "name": "CDO_PayloadAdaptorLong",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PayloadAdaptorLong.cfg"
+  },
+  {
+    "name": "CDO_PayloadAdaptorShort",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PayloadAdaptorShort.cfg"
+  },
+  {
+    "name": "CDO_PayloadDecoupler1",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PayloadDecoupler1.cfg"
+  },
+  {
+    "name": "CDO_PS2Roll",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PS2Roll.cfg"
+  },
+  {
+    "name": "CDO_PSLV_Interstage",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PSLV_Interstage.cfg"
+  },
+  {
+    "name": "CDO_PSOM-9",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PSOM-9.cfg"
+  },
+  {
+    "name": "CDO_PSOM-XL",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_PSOM-XL.cfg"
+  },
+  {
+    "name": "CDO_RetroMotor-1",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_RetroMotor-1.cfg"
+  },
+  {
+    "name": "CDO_RetroMotor-2",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_RetroMotor-2.cfg"
+  },
+  {
+    "name": "CDO_S2Mount",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S2Mount.cfg"
+  },
+  {
+    "name": "CDO_S2Tank",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S2Tank.cfg"
+  },
+  {
+    "name": "CDO_S3Motor",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S3Motor.cfg"
+  },
+  {
+    "name": "CDO_S4DLABottom",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4DLABottom.cfg"
+  },
+  {
+    "name": "CDO_S4DLATop",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4DLATop.cfg"
+  },
+  {
+    "name": "CDO_S4Engines",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4Engines.cfg"
+  },
+  {
+    "name": "CDO_S4FairingBase",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4FairingBase.cfg"
+  },
+  {
+    "name": "CDO_S4PayloadRack",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4PayloadRack.cfg"
+  },
+  {
+    "name": "CDO_S4StructuralTube",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4StructuralTube.cfg"
+  },
+  {
+    "name": "CDO_S4TankBig1",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4TankBig1.cfg"
+  },
+  {
+    "name": "CDO_S4TankBig2",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4TankBig2.cfg"
+  },
+  {
+    "name": "CDO_S4TankSmall1",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4TankSmall1.cfg"
+  },
+  {
+    "name": "CDO_S4TankSmall2",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_S4TankSmall2.cfg"
+  },
+  {
+    "name": "CDO_UllageMotor-1",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_UllageMotor-1.cfg"
+  },
+  {
+    "name": "CDO_Vikas2",
+    "filePath": "ChrayolDesignOrg_v1.0\\GameData\\Chrayol_Design_Org\\Parts\\PSLV\\CDO_Vikas2.cfg"
+  }
+]

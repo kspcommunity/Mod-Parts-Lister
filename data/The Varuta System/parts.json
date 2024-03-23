@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Deaphus",
+    "filePath": "The Varuta System\\VarutaSystem\\Deaphus.cfg"
+  },
+  {
+    "name": "Olten",
+    "filePath": "The Varuta System\\VarutaSystem\\Olten.cfg"
+  },
+  {
+    "name": "Oltimos",
+    "filePath": "The Varuta System\\VarutaSystem\\Oltimos.cfg"
+  },
+  {
+    "name": "Rebos",
+    "filePath": "The Varuta System\\VarutaSystem\\Rebos.cfg"
+  },
+  {
+    "name": "Theonus",
+    "filePath": "The Varuta System\\VarutaSystem\\Theonus.cfg"
+  },
+  {
+    "name": "Varuta",
+    "filePath": "The Varuta System\\VarutaSystem\\Varuta.cfg"
+  }
+]

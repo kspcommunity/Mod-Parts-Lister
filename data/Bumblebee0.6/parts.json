@@ -1,0 +1,142 @@
+[
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Bumblebee0.6\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Bumblebee0.6\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "Bumblebee0.6\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "Hummingbird RC Models and Drones",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "bb_Aeroshell",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Aeroshell.cfg"
+  },
+  {
+    "name": "bb_Chute",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Chute.cfg"
+  },
+  {
+    "name": "bb_Core",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Core.cfg"
+  },
+  {
+    "name": "bb_Decoupler",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Decoupler.cfg"
+  },
+  {
+    "name": "bb_Drogue",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Drogue.cfg"
+  },
+  {
+    "name": "bb_HGA",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_HGA.cfg"
+  },
+  {
+    "name": "bb_Prop",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Prop.cfg"
+  },
+  {
+    "name": "bb_PropSingle",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_PropSingle.cfg"
+  },
+  {
+    "name": "bb_RTG",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_RTG.cfg"
+  },
+  {
+    "name": "bb_Seismometer",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Seismometer.cfg"
+  },
+  {
+    "name": "bb_Sensor",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Sensor.cfg"
+  },
+  {
+    "name": "bb_SingleTruss",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_SingleTruss.cfg"
+  },
+  {
+    "name": "bb_Skids",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Skids.cfg"
+  },
+  {
+    "name": "bb_Truss",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\bb_Truss.cfg"
+  },
+  {
+    "name": "bb_Dunaprop",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Parts\\DunaRotor.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\CRP\\IntakeAtm.cfg"
+  },
+  {
+    "name": "ModuleRestockDepthMask",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\DepthMasks.cfg"
+  },
+  {
+    "name": "DMModuleScienceAnimateGeneric",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\DMSA.cfg"
+  },
+  {
+    "name": "MuMechModuleHullCameraZoom",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\Hullcam.cfg"
+  },
+  {
+    "name": "ModuleControllableEmissive",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\IndicatorLights.cfg"
+  },
+  {
+    "name": "KilowattHour",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\Interstellar.cfg"
+  },
+  {
+    "name": "StoredCharge",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\NFE.cfg"
+  },
+  {
+    "name": "Classic Stock",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\PlayMode.cfg"
+  },
+  {
+    "name": "ModuleScienceExperiment",
+    "filePath": "Bumblebee0.6\\GameData\\Bumblebee\\Patches\\scienceCompat.cfg"
+  },
+  {
+    "name": "Containers",
+    "filePath": "Bumblebee0.6\\GameData\\CommunityCategoryKit\\common-filters.cfg"
+  },
+  {
+    "name": "Cool Mod Things",
+    "filePath": "Bumblebee0.6\\GameData\\CommunityCategoryKit\\extra-filters.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "Bumblebee0.6\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "Bumblebee0.6\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "Bumblebee0.6\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "wbiSampleArm",
+    "filePath": "Bumblebee0.6\\GameData\\WildBlueIndustries\\001KerbalActuators\\Parts\\Utility\\SampleArm\\SampleArm.cfg"
+  },
+  {
+    "name": "wbiSampleCrane",
+    "filePath": "Bumblebee0.6\\GameData\\WildBlueIndustries\\001KerbalActuators\\Parts\\Utility\\SampleCrane\\SampleCrane.cfg"
+  }
+]

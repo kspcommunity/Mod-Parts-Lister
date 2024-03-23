@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Charla",
+    "filePath": "SSP\\KopernicusData\\Moons (existing planets)\\Charla.cfg"
+  },
+  {
+    "name": "Desma",
+    "filePath": "SSP\\KopernicusData\\Moons (existing planets)\\Desma.cfg"
+  },
+  {
+    "name": "Herma",
+    "filePath": "SSP\\KopernicusData\\Moons (existing planets)\\Herma.cfg"
+  },
+  {
+    "name": "Nea",
+    "filePath": "SSP\\KopernicusData\\Moons (existing planets)\\Nea.cfg"
+  },
+  {
+    "name": "Pistas",
+    "filePath": "SSP\\KopernicusData\\Moons (existing planets)\\Pistas.cfg"
+  },
+  {
+    "name": "Vesi",
+    "filePath": "SSP\\KopernicusData\\Moons (existing planets)\\Vesi.cfg"
+  },
+  {
+    "name": "Ala",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Ala.cfg"
+  },
+  {
+    "name": "Enca",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Enca.cfg"
+  },
+  {
+    "name": "Mina",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Mina.cfg"
+  },
+  {
+    "name": "Ove",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Ove.cfg"
+  },
+  {
+    "name": "Tila",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Tila.cfg"
+  },
+  {
+    "name": "Tilo",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Tilo.cfg"
+  },
+  {
+    "name": "Tria",
+    "filePath": "SSP\\KopernicusData\\Moons (new planets)\\Tria.cfg"
+  },
+  {
+    "name": "Nala",
+    "filePath": "SSP\\KopernicusData\\Planets\\Nala.cfg"
+  },
+  {
+    "name": "Sati",
+    "filePath": "SSP\\KopernicusData\\Planets\\Sati.cfg"
+  },
+  {
+    "name": "Seno",
+    "filePath": "SSP\\KopernicusData\\Planets\\Seno.cfg"
+  },
+  {
+    "name": "Ulan",
+    "filePath": "SSP\\KopernicusData\\Planets\\Ulan.cfg"
+  }
+]

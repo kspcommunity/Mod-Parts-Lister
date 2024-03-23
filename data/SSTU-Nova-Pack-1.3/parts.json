@@ -1,0 +1,314 @@
+[
+  {
+    "name": "TenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-10-TenCenter.cfg"
+  },
+  {
+    "name": "TenRadial",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-10-TenRadial.cfg"
+  },
+  {
+    "name": "ElevenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-11-ElevenCenter.cfg"
+  },
+  {
+    "name": "ElevenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-11-ElevenCenter2.cfg"
+  },
+  {
+    "name": "TwelveCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-12-TwelveCenter.cfg"
+  },
+  {
+    "name": "TwelveCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-12-TwelveCenter2.cfg"
+  },
+  {
+    "name": "TwelveRadial",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-12-TwelveRadial.cfg"
+  },
+  {
+    "name": "ThirteenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-13-ThirteenCenter.cfg"
+  },
+  {
+    "name": "ThirteenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-13-ThirteenCenter2.cfg"
+  },
+  {
+    "name": "FourteenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-14-FourteenCenter.cfg"
+  },
+  {
+    "name": "FourteenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-14-FourteenCenter2.cfg"
+  },
+  {
+    "name": "FourteenCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-14-FourteenCenter3.cfg"
+  },
+  {
+    "name": "FifteenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-15-FifteenCenter.cfg"
+  },
+  {
+    "name": "FifteenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-15-FifteenCenter2.cfg"
+  },
+  {
+    "name": "FifteenCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-15-FifteenCenter3.cfg"
+  },
+  {
+    "name": "FifteenCenter4",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-15-FifteenCenter4.cfg"
+  },
+  {
+    "name": "SixteenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-16-SixteenCenter.cfg"
+  },
+  {
+    "name": "SixteenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-16-SixteenCenter2.cfg"
+  },
+  {
+    "name": "SixteenCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-16-SixteenCenter3.cfg"
+  },
+  {
+    "name": "SeventeenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-17-SeventeenCenter.cfg"
+  },
+  {
+    "name": "SeventeenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-17-SeventeenCenter2.cfg"
+  },
+  {
+    "name": "SeventeenCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-17-SeventeenCenter3.cfg"
+  },
+  {
+    "name": "EighteenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-18-EighteenCenter.cfg"
+  },
+  {
+    "name": "EighteenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-18-EighteenCenter2.cfg"
+  },
+  {
+    "name": "EighteenRadial",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-18-EighteenRadial.cfg"
+  },
+  {
+    "name": "NineteenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-19-NineteenCenter.cfg"
+  },
+  {
+    "name": "NineteenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-19-NineteenCenter2.cfg"
+  },
+  {
+    "name": "TwentyCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-20-TwentyCenter.cfg"
+  },
+  {
+    "name": "TwentyOneCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-21-TwentyOneCenter.cfg"
+  },
+  {
+    "name": "TwentyOneCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-21-TwentyOneCenter2.cfg"
+  },
+  {
+    "name": "TwentyTwoCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-22-TwentyTwoCenter.cfg"
+  },
+  {
+    "name": "TwentyTwoCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-22-TwentyTwoCenter2.cfg"
+  },
+  {
+    "name": "TwentyThreeCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-23-TwentyThreeCenter.cfg"
+  },
+  {
+    "name": "TwentyThreeCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-23-TwentyThreeCenter2.cfg"
+  },
+  {
+    "name": "TwentyFourCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-24-TwentyFourCenter.cfg"
+  },
+  {
+    "name": "TwentyFourCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-24-TwentyFourCenter2.cfg"
+  },
+  {
+    "name": "TwentyFourRadial",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-24-TwentyFourRadial.cfg"
+  },
+  {
+    "name": "TwentyFiveCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-25-TwentyFiveCenter.cfg"
+  },
+  {
+    "name": "TwentySixCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-26-TwentySixCenter.cfg"
+  },
+  {
+    "name": "TwentySixCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-26-TwentySixCenter2.cfg"
+  },
+  {
+    "name": "TwentySixCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-26-TwentySixCenter3.cfg"
+  },
+  {
+    "name": "TwentySixCenter4",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-26-TwentySixCenter4.cfg"
+  },
+  {
+    "name": "TwentySevenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-27-TwentySevenCenter.cfg"
+  },
+  {
+    "name": "TwentyEightCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-28-TwentyEightCenter.cfg"
+  },
+  {
+    "name": "TwentyEightCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-28-TwentyEightCenter2.cfg"
+  },
+  {
+    "name": "TwentyNineCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-29-TwentyNineCenter.cfg"
+  },
+  {
+    "name": "ThirtyCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-30-ThirtyCenter.cfg"
+  },
+  {
+    "name": "ThirtyCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-30-ThirtyCenter2.cfg"
+  },
+  {
+    "name": "ThirtyCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-30-ThirtyCenter3.cfg"
+  },
+  {
+    "name": "ThirtyOneCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-31-ThirtyOneCenter.cfg"
+  },
+  {
+    "name": "ThirtyOneCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-31-ThirtyOneCenter2.cfg"
+  },
+  {
+    "name": "ThirtyTwoCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-32-ThirtytwoCenter.cfg"
+  },
+  {
+    "name": "ThirtyTwoCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-32-ThirtytwoCenter2.cfg"
+  },
+  {
+    "name": "ThirtyThreeCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-33-ThirtyThreeCenter.cfg"
+  },
+  {
+    "name": "ThirtyThreeCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-33-ThirtyThreeCenter2.cfg"
+  },
+  {
+    "name": "ThirtyThreeCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-33-ThirtyThreeCenter3.cfg"
+  },
+  {
+    "name": "ThirtyThreeCenter4",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-33-ThirtyThreeCenter4.cfg"
+  },
+  {
+    "name": "ThirtyFourCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-34-ThirtyFourCenter.cfg"
+  },
+  {
+    "name": "ThirtyFourCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-34-ThirtyFourCenter2.cfg"
+  },
+  {
+    "name": "ThirtyFourCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-34-ThirtyFourCenter3.cfg"
+  },
+  {
+    "name": "ThirtyFiveCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-35-ThirtyFiveCenter.cfg"
+  },
+  {
+    "name": "ThirtyFiveCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-35-ThirtyFiveCenter2.cfg"
+  },
+  {
+    "name": "ThirtyFiveCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-35-ThirtyFiveCenter3.cfg"
+  },
+  {
+    "name": "ThirtySixCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-36-ThirtySixCenter.cfg"
+  },
+  {
+    "name": "ThirtySixCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-36-ThirtySixCenter2.cfg"
+  },
+  {
+    "name": "ThirtySevenCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-37-ThirtySevenCenter.cfg"
+  },
+  {
+    "name": "ThirtySevenCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-37-ThirtySevenCenter2.cfg"
+  },
+  {
+    "name": "ThirtyEightCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-38-ThirtyEightCenter.cfg"
+  },
+  {
+    "name": "ThirtyEightCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-38-ThirtyEightCenter2.cfg"
+  },
+  {
+    "name": "ThirtyEightCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-38-ThirtyEightCenter3.cfg"
+  },
+  {
+    "name": "ThirtyNineCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-39-ThirtyNineCenter.cfg"
+  },
+  {
+    "name": "ThirtyNineCenter2",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-39-ThirtyNineCenter2.cfg"
+  },
+  {
+    "name": "ThirtyNineCenter3",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-39-ThirtyNineCenter3.cfg"
+  },
+  {
+    "name": "ThirtyNineCenter4",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-39-ThirtyNineCenter4.cfg"
+  },
+  {
+    "name": "FortyCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-40-FortyCenter.cfg"
+  },
+  {
+    "name": "SixtyCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-60-SixtyCenter.cfg"
+  },
+  {
+    "name": "SixtyOneCenter",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\EngineLayouts\\Layout-61-SixtyOneCenter.cfg"
+  },
+  {
+    "name": "SSTU-DC-D5",
+    "filePath": "SSTU-Nova-Pack-1.3\\GameData\\SSTU-NovaPack\\Data\\MaxSizes.cfg"
+  }
+]

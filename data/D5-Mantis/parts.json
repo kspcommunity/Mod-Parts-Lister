@@ -1,0 +1,358 @@
+[
+  {
+    "name": "D5MantisEngine",
+    "filePath": "D5-Mantis\\GameData\\ASkunkWorks\\StarWars\\Mantis\\Engines\\part.cfg"
+  },
+  {
+    "name": "D5HTOLEngines",
+    "filePath": "D5-Mantis\\GameData\\ASkunkWorks\\StarWars\\Mantis\\HTOL\\part.cfg"
+  },
+  {
+    "name": "D5MantisHull",
+    "filePath": "D5-Mantis\\GameData\\ASkunkWorks\\StarWars\\Mantis\\Hull\\part.cfg"
+  },
+  {
+    "name": "D5VTOLEngines",
+    "filePath": "D5-Mantis\\GameData\\ASkunkWorks\\StarWars\\Mantis\\VTOL\\part.cfg"
+  },
+  {
+    "name": "Bahamuto Dynamics",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "def // do not change this!",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\BulletDefs\\BD_Bullets.cfg"
+  },
+  {
+    "name": "9mmBullet",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\BulletDefs\\NAS_Bullets.cfg"
+  },
+  {
+    "name": "30mmGat",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\BulletDefs\\USCSM_Bullets.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Localization\\localization-en-us.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Localization\\localization-es-es.cfg"
+  },
+  {
+    "name": "BD Armory",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Localization\\localization-zh-cn.cfg"
+  },
+  {
+    "name": "ModuleECMJammer",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\MMPatches\\10_bdac_stealth.cfg"
+  },
+  {
+    "name": "TweakScale ",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\MMPatches\\BDA_Armor.cfg"
+  },
+  {
+    "name": "bdRadome1snubGA",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\MMPatches\\BDA_GroundRadar.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\MMPatches\\BDA_TweakScale.cfg"
+  },
+  {
+    "name": "bahaGatlingGun",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\20mmVulcan\\vulcanTurret.cfg"
+  },
+  {
+    "name": "bahaTurret",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\50CalTurret\\50cal.cfg"
+  },
+  {
+    "name": "bahaABL",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\ABL\\ABL.cfg"
+  },
+  {
+    "name": "bahaALB",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\ABL\\ALB.cfg"
+  },
+  {
+    "name": "bahaAdjustableRail",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\adjustableRail\\adjustableRail.cfg"
+  },
+  {
+    "name": "bahaAgm86B",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AGM86-17\\AGM86-17.cfg"
+  },
+  {
+    "name": "bahaAim120",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\aim-120\\amraam.cfg"
+  },
+  {
+    "name": "AMRAAM_EMP",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\aim-120\\amraam_emp.cfg"
+  },
+  {
+    "name": "bdPilotAI",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\aiPilot\\part.cfg"
+  },
+  {
+    "name": "bdShipAI",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\aiPilot\\surface_ai.cfg"
+  },
+  {
+    "name": "baha20mmAmmo",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AmmoBox\\20mm.cfg"
+  },
+  {
+    "name": "baha30mmAmmo",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AmmoBox\\30mm.cfg"
+  },
+  {
+    "name": "baha50CalAmmo",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AmmoBox\\50cal.cfg"
+  },
+  {
+    "name": "BDAcUniversalAmmoBox",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AmmoBox\\BDAcUniversalAmmoBox.cfg"
+  },
+  {
+    "name": "bahaCannonShellBox",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AmmoBox\\cannonShell.cfg"
+  },
+  {
+    "name": "UniversalAmmoBoxBDA",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\AmmoBox\\UniversalAmmoBoxBDA.cfg"
+  },
+  {
+    "name": "BD1x1slopeArmor",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\ArmorPlate\\BD1x1panelArmor.cfg"
+  },
+  {
+    "name": "awacsRadar",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\awacsRadar\\awacsRadar.cfg"
+  },
+  {
+    "name": "bdammGuidanceModule",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\bammGuidance\\part.cfg"
+  },
+  {
+    "name": "bahaBrowningAnm2",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\browninganm2\\browninganm2.cfg"
+  },
+  {
+    "name": "bahaClusterBomb",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\clusterBomb\\clusterBomb.cfg"
+  },
+  {
+    "name": "bahaChaffPod",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\cmDropper\\chaffDispenser.cfg"
+  },
+  {
+    "name": "bahaCmPod",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\cmDropper\\flareDispenser.cfg"
+  },
+  {
+    "name": "bahaECMJammer",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\ecmJammer\\ecmj131.cfg"
+  },
+  {
+    "name": "bahaGau-8",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\gau-8\\gau8.cfg"
+  },
+  {
+    "name": "bahaGoalKeeper",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\goalkeeper\\goalkeeper.cfg"
+  },
+  {
+    "name": "GoalKeeperBDAcMk1",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\GoalKeeperBDAcMk1\\GoalKeeperBDAcMk1.cfg"
+  },
+  {
+    "name": "BDAcGKmk2",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\GoalKeeperBDAcMk2\\BDAcGKmk2.cfg"
+  },
+  {
+    "name": "scanLockRadar1",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\groundRadar\\radar1.cfg"
+  },
+  {
+    "name": "scanLargeRadar",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\groundRadar\\radar2.cfg"
+  },
+  {
+    "name": "bahaH70Launcher",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\h70Launcher\\h70Launcher.cfg"
+  },
+  {
+    "name": "bahaH70Turret",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\h70turret\\h70turret.cfg"
+  },
+  {
+    "name": "bahaHarm",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\harm\\harm.cfg"
+  },
+  {
+    "name": "bahaHEKV1",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\hekv1\\hekv1.cfg"
+  },
+  {
+    "name": "bahaAGM-114",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\hellfireMissile\\hellfireMissile.cfg"
+  },
+  {
+    "name": "HellfireEMP",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\hellfireMissile\\hellfire_emp.cfg"
+  },
+  {
+    "name": "bahaHiddenVulcan",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\hiddenVulcan\\hiddenVulcan.cfg"
+  },
+  {
+    "name": "bahaJdamMk83",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\jdamMk83\\jdam.cfg"
+  },
+  {
+    "name": "bahaM102Howitzer",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\m102Howitzer\\m102.cfg"
+  },
+  {
+    "name": "bahaM1Abrams",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\m1Abrams\\m1Abrams.cfg"
+  },
+  {
+    "name": "bahaM230ChainGun",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\m230ChainGun\\m230.cfg"
+  },
+  {
+    "name": "bahaAGM-65",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\maverick\\maverickMissile.cfg"
+  },
+  {
+    "name": "missileTurretTest",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\missileTurret\\missileTurret.cfg"
+  },
+  {
+    "name": "bahaMk82Bomb",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\mk82Bomb\\mk82Bomb.cfg"
+  },
+  {
+    "name": "bahaMk82BombBrake",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\mk82BombBrake\\mk82BombBrake.cfg"
+  },
+  {
+    "name": "bahaOMillennium",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\oMillennium\\oMillennium.cfg"
+  },
+  {
+    "name": "bahaPac-3",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\pac-3\\pac3.cfg"
+  },
+  {
+    "name": "patriotLauncherTurret",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\patriotLauncher\\patriotLauncher.cfg"
+  },
+  {
+    "name": "radarDataReceiver",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\radarDataReceiver\\radarDataReceiver.cfg"
+  },
+  {
+    "name": "bdRadome1",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\radome125\\radome1.cfg"
+  },
+  {
+    "name": "bdRadome1inline",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\radome125\\radome1inline.cfg"
+  },
+  {
+    "name": "bdRadome1snub",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\radome125\\radome1snub.cfg"
+  },
+  {
+    "name": "bahaRBS-15Cruise",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\RBS-15-17\\rbs15-17.cfg"
+  },
+  {
+    "name": "bahaRBS-15ALCruise",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\RBS-15-17AL\\rbs15-17AL.cfg"
+  },
+  {
+    "name": "bdRotBombBay",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\rotaryBombBay\\rotaryBombBay.cfg"
+  },
+  {
+    "name": "bahaS-8Launcher",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\s-8Launcher\\s-8Launcher.cfg"
+  },
+  {
+    "name": "SaturnAL31",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\SaturnAL31\\SaturnAL31.cfg"
+  },
+  {
+    "name": "bahaAim9",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\sidewinder\\sidewinder.cfg"
+  },
+  {
+    "name": "bdWarheadSmall",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\smallWarhead\\part.cfg"
+  },
+  {
+    "name": "bahaSmokeCmPod",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\smokeCm\\part.cfg"
+  },
+  {
+    "name": "BDAsonarPod1A",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\SonarPod\\BDAsonarPod1A.cfg"
+  },
+  {
+    "name": "StingRayBDATorpedo",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\StingRayBDA\\StingRayBDATorpedo.cfg"
+  },
+  {
+    "name": "bahaFlirBall",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\targetingCam\\flirBall.cfg"
+  },
+  {
+    "name": "bahaCamPod",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\targetingCam\\targetingCam.cfg"
+  },
+  {
+    "name": "bahaFlirBallSmall",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\targetingCamSmall\\flirBall.cfg"
+  },
+  {
+    "name": "bahaCamPod",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\targetingCamSmall\\targetingCam.cfg"
+  },
+  {
+    "name": "towLauncherTurret",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\towLauncher\\towLauncher.cfg"
+  },
+  {
+    "name": "bahaTowMissile",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\towMissile\\towMissile.cfg"
+  },
+  {
+    "name": "missileController",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Parts\\weaponManager\\weaponManager.cfg"
+  },
+  {
+    "name": "Armor",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Resources\\Armor.cfg"
+  },
+  {
+    "name": "LaserBolt",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Resources\\BDAmmo_Universal.cfg"
+  },
+  {
+    "name": "CMFlare",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Resources\\Countermeasures.cfg"
+  },
+  {
+    "name": "HighExplosive",
+    "filePath": "D5-Mantis\\GameData\\BDArmory\\Resources\\HighExplosive.cfg"
+  },
+  {
+    "name": "KSC Launch Pad",
+    "filePath": "D5-Mantis\\GameData\\Kerbaltek\\HyperEdit\\landcoords.cfg"
+  }
+]

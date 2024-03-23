@@ -1,6 +1,3638 @@
 [
   {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\color_tints - RP1.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\color_tints.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\color_tints2.cfg"
+  },
+  {
+    "name": "ModuleRadioisotopeGenerator",
+    "filePath": "Extras\\DecayingRTGs\\NFElectricalRTGPatch.cfg"
+  },
+  {
+    "name": "ModuleAnimateGeneric",
+    "filePath": "Extras\\IMPP_HarvestersIndependentAnim.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Extras\\IMPP_ImpulseRocketHardBalance.cfg"
+  },
+  {
+    "name": "WBIWarpUpgrade1",
+    "filePath": "Extras\\IMPP_WarpCoilsUpgrades.cfg"
+  },
+  {
+    "name": "Stock_FullMetal",
+    "filePath": "Extras\\oldTU\\BDBConfig.cfg"
+  },
+  {
+    "name": "FullMetal",
+    "filePath": "Extras\\oldTU\\NFLV-old.cfg"
+  },
+  {
+    "name": "FullMetal",
+    "filePath": "Extras\\oldTU\\ReStockConfig.cfg"
+  },
+  {
+    "name": "FullMetal",
+    "filePath": "Extras\\oldTU\\ReStockConfigbrnz.cfg"
+  },
+  {
+    "name": "Stock_FullMetal",
+    "filePath": "Extras\\oldTU\\StockConfig.cfg"
+  },
+  {
+    "name": "Stock_FullMetal",
+    "filePath": "Extras\\oldTU\\Tantares-Old.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Extras\\OPT_Reconfig_CryoEngines.cfg"
+  },
+  {
+    "name": "Aluminium",
+    "filePath": "Extras\\RationalResourcesAluminium\\RR_Aluminum.cfg"
+  },
+  {
+    "name": "Classic Stock",
+    "filePath": "Extras\\RationalResourcesBlacksmith\\PlayMode.cfg"
+  },
+  {
+    "name": "RR_Work2",
+    "filePath": "Extras\\RationalResourcesBlacksmith\\RR_Blacksmith.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "Extras\\RationalResourcesBlacksmith\\RR_BlacksmithFamily.cfg"
+  },
+  {
+    "name": "RadiationShielding",
+    "filePath": "Extras\\RationalResourcesBlacksmith\\RR_Blacksmith_KerbalHealth.cfg"
+  },
+  {
+    "name": "ModuleSystemHeatConverter",
+    "filePath": "Extras\\RationalResourcesELUtilities\\RR-EL-SH00.cfg"
+  },
+  {
+    "name": "ModuleSystemHeat",
+    "filePath": "Extras\\RationalResourcesELUtilities\\RR-EL-SH01.cfg"
+  },
+  {
+    "name": "MetallicOre",
+    "filePath": "Extras\\RationalResourcesELUtilities\\RR_EL-CRP.cfg"
+  },
+  {
+    "name": "Hydrolox",
+    "filePath": "Extras\\RationalResourcesELUtilities\\RR_EL-RF.cfg"
+  },
+  {
+    "name": "Metals",
+    "filePath": "Extras\\RationalResourcesELUtilities\\RR_SandCastleRecipes.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Extras\\RationalResourcesJetFamily\\RR_JetFamily_CRP.cfg"
+  },
+  {
+    "name": "Classic Stock",
+    "filePath": "Extras\\RationalResourcesNuclearFamily\\PlayMode.cfg"
+  },
+  {
+    "name": "Atmosphere",
+    "filePath": "Extras\\RationalResourcesNuclearFamily\\RR_NuclearFamily_Classic_Jets.cfg"
+  },
+  {
+    "name": "Water",
+    "filePath": "Extras\\RationalResourcesNuclearFamily\\RR_NuclearFamily_Classic_Rockets.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "Extras\\RationalResourcesNuclearFamily\\RR_NuclearFamily_CRP_Jets.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "Extras\\RationalResourcesNuclearFamily\\RR_NuclearFamily_CRP_Rockets.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Extras\\RationalResourcesNuclearFamily\\RR_NuclearFamily_CRP_ThermalNozzles.cfg"
+  },
+  {
+    "name": "Classic Stock",
+    "filePath": "Extras\\RationalResourcesRCSFamily\\PlayMode.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Extras\\RationalResourcesRCSFamily\\RR_RCSFamily_Classic.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Extras\\RationalResourcesRCSFamily\\RR_RCSFamily_CRP.cfg"
+  },
+  {
+    "name": "Classic Stock",
+    "filePath": "Extras\\RationalResourcesSquad\\PlayMode.cfg"
+  },
+  {
+    "name": "MO",
+    "filePath": "Extras\\RationalResourcesSquad\\RR_MoreTankSwitches.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Extras\\RationalResourcesSquad\\RR_SquadTanks.cfg"
+  },
+  {
+    "name": "FissionPellets",
+    "filePath": "Extras\\RationalResourcesSquad\\RR_TankswitchFusionFuel.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "Extras\\RationalResourcesSSPXRTanks\\RR_SSPXr_ContainerTypes_Classic.cfg"
+  },
+  {
+    "name": "Ammonia",
+    "filePath": "Extras\\RationalResourcesSSPXRTanks\\RR_SSPXr_ContainerTypes_CRP.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "Extras\\RationalResourcesTACLS\\RR_TACLS.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Alcolox-Lower-A6.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Ammonialox.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hydrogen-NTR-HighTemp.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hydrogen-NTR.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hydrolox-Lower.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hydrolox-Upper.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hydynelox-A7.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hypergolic-Apollo-SM.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hypergolic-Lower.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hypergolic-OMS-Red.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hypergolic-OMS-White.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hypergolic-Upper.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Hypergolic-Vernier.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Ion-Argon-Gridded.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Ion-Krypton-Gridded.cfg"
+  },
+  {
+    "name": "ring",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Ion-Krypton-Hall.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Ion-Xenon-Gridded.cfg"
+  },
+  {
+    "name": "ring",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Ion-Xenon-Hall.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Kerolox-Lower-F1.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Kerolox-Lower.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Kerolox-Upper.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Kerolox-Vernier.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Solid-Lower.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Solid-Sepmotor.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Solid-Upper.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Solid-Vacuum.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Turbofan.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\Turbojet.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\RealPlume\\000_Generic_Plumes\\zRN_Decoupler.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AB_Launchers\\ABL_5_cyclone4.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AB_Launchers\\ABL_Engine_A.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\AB_Launchers\\ABL_Nose_A.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\dest5Engine.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\engineexper05.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\enginelmodc.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\galaxvr2.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\liquidEngineconstelacion.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\liquidEnginemogulmp1500.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\liquidEngineorbit2.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\liquidEngineprodulVR2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\microEngineex1sat.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\microEngineSE1.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\AIES\\VR1vulcan.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Atomic Age\\nuclearEngineKANDL.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\Atomic Age\\nuclearEngineLANTR.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Atomic Age\\nuclearEngineLightbulb.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Atomic Age\\NuclearJetEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\BahamutoD\\bahars68b.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "Extras\\RealPlume-Stock\\BahamutoD\\constellationBNTR.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\BTSM\\BTSMLiquidEngine1-2.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\BTSM\\BTSMLiquidEngine1.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\BTSM\\BTSMLiquidEngine3.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\BTSM\\BTSMSolidRocket1.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\BTSM\\BTSMSolidRocket2.cfg"
+  },
+  {
+    "name": "ModuleEnginesRF",
+    "filePath": "Extras\\RealPlume-Stock\\Compatibility.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Cormorant Aeronology\\OMSEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\CryoEngines\\cryoengine-125-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\CryoEngines\\cryoengine-125-2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\CryoEngines\\cryoengine-25-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\CryoEngines\\cryoengine-25-2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\CryoEngines\\cryoengine-375-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\CryoEngines\\cryoengine-375-2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\CTN\\sem24Booser.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "Extras\\RealPlume-Stock\\CTN\\sm25Booster.cfg"
+  },
+  {
+    "name": "Kerolox-Lower          ",
+    "filePath": "Extras\\RealPlume-Stock\\CustomClusters\\VADCCVC010.cfg"
+  },
+  {
+    "name": "Ammonialox           ",
+    "filePath": "Extras\\RealPlume-Stock\\CustomClusters\\VADCCVC1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower          ",
+    "filePath": "Extras\\RealPlume-Stock\\CustomClusters\\VADCCVC5.cfg"
+  },
+  {
+    "name": "Kerolox-Lower          ",
+    "filePath": "Extras\\RealPlume-Stock\\CustomClusters\\VADCCVC8.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red            ",
+    "filePath": "Extras\\RealPlume-Stock\\CustomClusters\\VADCCVCL1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\DIRECT_LV\\directCone.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\DIRECT_LV\\DirectSRBX.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\DIRECT_LV\\DIRECT_RS25.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\EveEngines\\eveEngine1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\EveEngines\\eveEngine2.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\EveEngines\\eveEngine3.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\EveEngines\\eveEngine4.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAAgena_Engine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAAgena_Engine_FP.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApolloAPS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApolloLFEF1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApolloLFEH1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApolloLFEJ2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApolloLFEM1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApolloLFERL10.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAApollo_SM_Engine.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASADeltaCastorSRB.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASADeltaMB3LFE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAExplorerSgt.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGemini4X800Mini.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGeminiEngineFuel.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGeminiLFECentarTwin.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGeminiLR87Twin.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGeminiLR91.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGeminiLR91Mini.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGeminiUtilitySASRCS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAGerminiSRB175.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASALM_AscentEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASALM_DescentEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAMercuryAtlasEng.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAMercuryAtlasEngBooster.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAMercuryAtlasVernierEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASAPioneerLFE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASA_Gemini_Lander_Eng.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASA_LaunchEscapeMotors.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASA_Mercury_Eng.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASA_Mercury_LFEng.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\FASA\\FASA_Mercury_Redstone_Eng.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\HGR\\FG120.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White       //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\HGR\\HGRG47b.cfg"
+  },
+  {
+    "name": "Kerolox-Upper            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\HGR\\HGR_FG90_Engine.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\JoolDIRECT\\SuperMassiveSRB.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\KE180.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\KE4.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\KE68.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\LVT1C.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\LVT1D.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\LVTA.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\RTA.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\KerbalStockLauncherOverhaul\\sepratronx.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KOSMOS\\KOSMOS.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KSO\\boosterkso.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\KSO\\omskso.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KSO\\super25boosterkso.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KSO\\super25enginekso.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\KSO\\thrustmaxkso.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "Extras\\RealPlume-Stock\\KSPX\\cl_large_nuclearEngine.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "Extras\\RealPlume-Stock\\KSPX\\cl_small_ionEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW1mengineMaverick1D.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW1mengineVestaVR1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW1mengineWildCatV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW2mengineGriffonG8D.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW2mengineMaverickV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW2mengineSPS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW2mengineVestaVR9D.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW3mengineGriffonXX.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW3mengineTitanT1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW3mengineWildcatXR.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW5mengineGriffonC.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KW5mengineTitanV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWSepMotors.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeI.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeVI.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeX.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeX10L.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeX10S.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeX2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\KWRocketry\\KWsrbGlobeX5.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\MoarMk1\\engine100v.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\MoarMk1\\engine200v.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\MoarMk1\\engine400.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\MoarMk1\\engine400v.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\MoarMk1\\engine800.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\MoarMk1\\engine800v.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NB0mLFOengine1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NB0mMonoEngine1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NB2mNuclearEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NB3mHoundEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NB3mQuadEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NBflingatron.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NBjetBasic0m.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NBjetTurbo0m.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ModRocketSys\\NBLAStower.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\PartOverhauls\\liquidEngine303.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\PartOverhauls\\liquidEngine909.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\PartOverhauls\\liquidEngineT15.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\PartOverhauls\\liquidEngineT30.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\PartOverhauls\\liquidEngineT45.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\PlanetaryBaseInc\\KKAOSS_engine_g.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ProceduralParts\\proceduralTankHRB.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\ProceduralParts\\proceduralTankSRB.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBdecouplerSaturnSII.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBdecouplerSaturnSIVB.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBdecouplerSaturnSIVB2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBdeltaIVsrm.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineAresSRB.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineAtlasSRB.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineF1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineF1B.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineH1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineJ2.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineJ2X.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineRD180.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineRL10A42.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineRL10B2.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineRS68.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\RealScaleBoosters\\RSBengineSTSSRB.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_lfo_medium_linearspike.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_large_spike.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_large_vac.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_medium_vac.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_small_radial.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_small_stack.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_tiny_radial.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_mp_tiny_stack.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_small_arcjet.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_small_highthrust.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_small_ion.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_small_ntr.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_small_resistojet.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_small_spike.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_solid_medium_upper.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_solid_small.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\RLA_Stockalike\\RLA_tiny_vac.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\RN_Cygnus\\Cygnus.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\RN_Cygnus\\Cygnus_e.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\RSCapsuledyne\\TaurusHCV.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "Extras\\RealPlume-Stock\\RSCapsuledyne\\taurusNuclearEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\RSCapsuledyne\\TaurusOrbitalEngine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\SDHI\\SDHI_2.5_Mk1-2AeroShroud.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\SDHI\\SDHI_LES.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\AJ10-190.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\AJ1E6.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\DarkKnight.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            ",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\F1B.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\R4D11.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\RL-10B2.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\RL-10C2.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\RS-25.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\Separatron1.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\Separatron3.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\SEPengine.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Space Launch System\\SLSSolidRocket.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Space Shuttle\\OMS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Space Shuttle\\SRB.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\Space Shuttle\\SSME HL.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine3mE1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine3mP1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine5mP2.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine7mE2.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine7mE4.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine7mP4.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Expanded\\SYengine7mR9.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYdecouplerRadial1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYdecouplerRadial2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYejectatron.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine1mK1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine2mM1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine2mR1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine5mM5.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine5mM9.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine5mR5.cfg"
+  },
+  {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYengine5mR7.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRBradial01.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_0625L5.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_0625L6R.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_0625L9.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_1875L.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_1875S.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_1875X.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_25L.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_25S.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_25X23.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_375L08.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_375L12.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SpaceY-Lifters\\SYSRB_375L21.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\engineLargeSkipper.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\ionEngine.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\jetEngineAfterburning.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\jetEngineBasic.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\jetEngineBig.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\jetEngineTurbo.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\LaunchEscapeSystem.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngine.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngine1-2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngine2-2.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngine2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngine3.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngineAerospike.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngineMini.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\liquidEngineSSME.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\MassiveBooster.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\microEngine.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\miniJet.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\nuclearEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\omsEngine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\radialEngineMini.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\radialLiquidEngine1-2.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\RAPIER.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\sepMotor1.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\Size2LFB.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\Size3AdvancedEngine.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\Size3EngineCluster.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\smallRadialEngine.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\solidBooster.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\solidBooster1-1.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Squad\\solidBooster_sm.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\MEMDescentMod.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\MEMLander.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTAJ10.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTBlackAdder.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTBlackAdder2.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTCastor30.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTCommodore.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTKOPO4E.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTLT80.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTMk2LinearAerospike.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTNERVA.cfg"
+  },
+  {
+    "name": "Ammonialox",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTNERVAB.cfg"
+  },
+  {
+    "name": "Solid-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTWaxWing.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\SXT\\SXTX405.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\Taerobee\\Bumper_Engine.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\Taerobee\\Bumper_Engine_Unclad.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\Taerobee\\X1_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Agena_Control_A.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Alnair_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Alnair_Engine_B.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Alnair_LES_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Alnair_LK_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Alto_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Vernier",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Alto_Engine_B.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Capella_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Castor_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Castor_LM_Engine.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Castor_Nerva.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Libra_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Libra_Engine_B.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Libra_Nesting_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Phoenix_Ex_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Polaris_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Pollux_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Tantares_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Tantares_Engine_B.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Vega_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Vega_Engine_B.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Vega_Engine_C.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\Tantares\\Vostok_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\ALV_Engine_A.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\ALV_Motor_A.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\ALV_Motor_B.cfg"
+  },
+  {
+    "name": "Kerolox-Lower //Actually uses RP-1 and HTP, but no plume exists as of the creation of this file",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Arrow_Engine_A.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\CLV_Engine_A.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\CLV_SRB_A.cfg"
+  },
+  {
+    "name": "Kerolox-Upper //Actually uses RP-1 and HTP, but no plume exists as of the creation of this file",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Knight_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Lower //Actually uses RP-1 and HTP, but no plume exists as of the creation of this file",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Knight_Motor_A.cfg"
+  },
+  {
+    "name": "Kerolox-Upper //Actually uses RP-1 and HTP, but no plume exists as of the creation of this file",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Knight_Motor_B.cfg"
+  },
+  {
+    "name": "Kerolox-Upper //Actually uses RP-1 and HTP, but no plume exists as of the creation of this file",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Knight_Motor_C.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\LLV_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\LLV_Engine_B.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\LLV_Engine_C.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\LLV_Engine_D.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\PLV_Engine_A.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\PLV_Engine_B.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Prince_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\TLV_Engine_A.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\TLV_Engine_B.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\TLV_LES.cfg"
+  },
+  {
+    "name": "Kerolox-Vernier",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\TLV_Vernier.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\TUS_Engine_A.cfg"
+  },
+  {
+    "name": "Solid-Vacuum",
+    "filePath": "Extras\\RealPlume-Stock\\TantaresLV\\Wax_SRB_A.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TundraExploration\\Engine1.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\TundraExploration\\Engine2.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\TundraExploration\\Ladee_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\TundraExploration\\Rodan.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\TundraExploration\\Rosetta_Engine.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\LargeOMS.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\liquidEngineMiniTurbo.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\LVT15.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\MicroEngineB.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR-HighTemp",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\PoodleM.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\RT1.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\RT2.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\RT20.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\Size2MedEngine.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\size2nuclearEngine.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\SnubOtron.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\solidBoosterMAX.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\RealPlume-Stock\\VenStockRevamp\\VenLV909b.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            \t\t  //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD125Hornet.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD125Omicron.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD125Orbital.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD250Atmospheric.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD250HeavyAtmo.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD250Orbital.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD250Sigma.cfg"
+  },
+  {
+    "name": "Kerolox-Lower            //pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD375Atmospheric.cfg"
+  },
+  {
+    "name": "Hydynelox-A7\t\t\t//pre-fabbed plume you want",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VAD375Orbital.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VADLanderspike125.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-Red",
+    "filePath": "Extras\\RealPlume-Stock\\VX_Series_II\\VADULE.cfg"
+  },
+  {
+    "name": "Dark",
+    "filePath": "Extras\\ReStockDarkFairingAllSizes\\MH-RestockFairing.cfg"
+  },
+  {
+    "name": "Dark",
+    "filePath": "Extras\\ReStockDarkFairingAllSizes\\RESTOCKFAIRING.cfg"
+  },
+  {
+    "name": "restock-leg-1-rigid",
+    "filePath": "Extras\\RestockRigidLegs\\Parts\\restock-leg-1-rigid.cfg"
+  },
+  {
+    "name": "restock-leg-2-rigid",
+    "filePath": "Extras\\RestockRigidLegs\\Parts\\restock-leg-2-rigid.cfg"
+  },
+  {
+    "name": "restock-leg-3-rigid",
+    "filePath": "Extras\\RestockRigidLegs\\Parts\\restock-leg-3-rigid.cfg"
+  },
+  {
+    "name": "restock-low-grip",
+    "filePath": "Extras\\RestockRigidLegs\\Resources\\PhysicsMaterials.cfg"
+  },
+  {
+    "name": "ThermalPower",
+    "filePath": "Extras\\RR_NTRReactorPatch.cfg"
+  },
+  {
+    "name": "AM_MLP_SaturnMobileLauncherBaseFree",
+    "filePath": "Extras\\Saturn-Shuttle_Freestanding_Bases\\Saturn-Launcher-Free-Base.cfg"
+  },
+  {
+    "name": "AM_MLP_ShuttleLauncherBaseFree",
+    "filePath": "Extras\\Saturn-Shuttle_Freestanding_Bases\\Shuttle-Launcher-Base-Free.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\TacTextures\\TACTANKS - Copy.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\TacTextures\\TACTANKS.cfg"
+  },
+  {
     "name": "Copper",
     "filePath": "Extras\\TankSwitch.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Extras\\TweakScale\\BreakingParts\\B9_HX.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Extras\\TweakScale\\BreakingParts\\MarkIVSystem.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Extras\\TweakScale\\BreakingParts\\SXT.cfg"
+  },
+  {
+    "name": "KOSMOS_stack",
+    "filePath": "Extras\\TweakScale\\Deprecated\\patches\\KOSMOS_TweakScale.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "Extras\\TweakScale\\HotFixes\\RO-Stock_Electrical.cfg"
+  },
+  {
+    "name": "skylon_LACE",
+    "filePath": "Extras\\Upgrades_LACE.cfg"
+  },
+  {
+    "name": "skylon_advTPS",
+    "filePath": "Extras\\Upgrades_Transpiration.cfg"
+  },
+  {
+    "name": "WBIMultipurposeHab",
+    "filePath": "Extras\\WildBlueTools\\Pathfinder_Patches.cfg"
+  },
+  {
+    "name": "radialWBTank2",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\radialRCSTank Big.cfg"
+  },
+  {
+    "name": "radialWBTank3",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\radialRCSTank Bigger.cfg"
+  },
+  {
+    "name": "radialWBTank",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\radialRCSTank.cfg"
+  },
+  {
+    "name": "externalTankCapsuleWBM2",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RadialTank_Capsule Big.cfg"
+  },
+  {
+    "name": "externalTankCapsuleWBM",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RadialTank_Capsule.cfg"
+  },
+  {
+    "name": "externalTankRoundWBM2",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RadialTank_RoundWB Big.cfg"
+  },
+  {
+    "name": "externalTankRoundWBM3",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RadialTank_RoundWB Bigger.cfg"
+  },
+  {
+    "name": "externalTankRoundWBM",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RadialTank_RoundWB.cfg"
+  },
+  {
+    "name": "WBSTankRadialLong2",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RCSTankRadialLong Big.cfg"
+  },
+  {
+    "name": "WBSTankRadialLong3",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RCSTankRadialLong Bigger.cfg"
+  },
+  {
+    "name": "WBSTankRadialLong",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\RCSTankRadialLong.cfg"
+  },
+  {
+    "name": "externalTankToroidWBM3",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\ToroidTankWB  BIgger.cfg"
+  },
+  {
+    "name": "externalTankToroidWBM2",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\ToroidTankWB Big.cfg"
+  },
+  {
+    "name": "externalTankToroidWBM",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\ToroidTankWB.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WildBlueTools\\RadialWildBlueTanks\\WBTanks.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\FTT_Realplume.cfg"
+  },
+  {
+    "name": "C3_DepletedFuelTankSml",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\DepletedFuelTank_Sml.cfg"
+  },
+  {
+    "name": "C3_FlatRnd_01",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatRnd_01.cfg"
+  },
+  {
+    "name": "C3_FlatRnd_02",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatRnd_02.cfg"
+  },
+  {
+    "name": "C3_FlatRnd_03",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatRnd_03.cfg"
+  },
+  {
+    "name": "C3_FlatRnd_04",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatRnd_04.cfg"
+  },
+  {
+    "name": "C3_FlatTank_01",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatTank_01.cfg"
+  },
+  {
+    "name": "C3_FlatTank_02",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatTank_02.cfg"
+  },
+  {
+    "name": "C3_FlatTank_03",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatTank_03.cfg"
+  },
+  {
+    "name": "C3_FlatTank_04",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\FlatTank_04.cfg"
+  },
+  {
+    "name": "C3_Kontainer_065",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Kontainer_005.cfg"
+  },
+  {
+    "name": "C3_Kontainer_01",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Kontainer_01.cfg"
+  },
+  {
+    "name": "C3_Kontainer_02",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Kontainer_02.cfg"
+  },
+  {
+    "name": "C3_Kontainer_03",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Kontainer_03.cfg"
+  },
+  {
+    "name": "C3_Kontainer_04",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Kontainer_04.cfg"
+  },
+  {
+    "name": "C3_LqdTrussTank",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\LqdTrussTank.cfg"
+  },
+  {
+    "name": "MountableLqdTank",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\MountableLqdTank.cfg"
+  },
+  {
+    "name": "MountableSupPack",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\MountableSupPak.cfg"
+  },
+  {
+    "name": "C3_NukeFuelTankSml",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\NukeFuelTank_Sml.cfg"
+  },
+  {
+    "name": "RadialLqdTank",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RadialLqdTank.cfg"
+  },
+  {
+    "name": "RadialSupPack",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RadialSupPak.cfg"
+  },
+  {
+    "name": "C3_RTank_00",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_00.cfg"
+  },
+  {
+    "name": "C3_RTank_01",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_01.cfg"
+  },
+  {
+    "name": "C3_RTank_02",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_02.cfg"
+  },
+  {
+    "name": "C3_RTank_03",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_03.cfg"
+  },
+  {
+    "name": "C3_RTank_04",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_04.cfg"
+  },
+  {
+    "name": "C3_RTank_06",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_06.cfg"
+  },
+  {
+    "name": "C3_RTank_08",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\RndTank_08.cfg"
+  },
+  {
+    "name": "StowPakSup",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\StowPakSup.cfg"
+  },
+  {
+    "name": "C3_Tank_01",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Tank_01.cfg"
+  },
+  {
+    "name": "C3_Tank_02",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Tank_02.cfg"
+  },
+  {
+    "name": "C3_Tank_03",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Tank_03.cfg"
+  },
+  {
+    "name": "C3_Tank_04",
+    "filePath": "Extras\\WildBlueTools\\USI_Kontainers_OmniStorage\\GameData\\UmbraSpaceIndustries\\Kontainers\\Tank_04.cfg"
+  },
+  {
+    "name": "airplaneTail187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\187tailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailB187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\187tailConnectorB.cfg"
+  },
+  {
+    "name": "airbrake1-big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\AirbrakeBig.cfg"
+  },
+  {
+    "name": "airbrake1-Small",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\AirbrakeSmall.cfg"
+  },
+  {
+    "name": "wingConnectorbig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigconnector1.cfg"
+  },
+  {
+    "name": "wingConnector2big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigconnector2.cfg"
+  },
+  {
+    "name": "wingConnector3big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigconnector3.cfg"
+  },
+  {
+    "name": "wingConnector4big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigconnector4.cfg"
+  },
+  {
+    "name": "wingConnector5big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigconnector5.cfg"
+  },
+  {
+    "name": "deltaWingbig1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigdelta.cfg"
+  },
+  {
+    "name": "delta_smallbig1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigdelta_small.cfg"
+  },
+  {
+    "name": "StandardCtrlSrfbig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigelevon1.cfg"
+  },
+  {
+    "name": "elevon2big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigelevon2.cfg"
+  },
+  {
+    "name": "elevon3big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigelevon3.cfg"
+  },
+  {
+    "name": "smallCtrlSrfbig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigelevon4.cfg"
+  },
+  {
+    "name": "elevon5big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigelevon5.cfg"
+  },
+  {
+    "name": "wingShuttleElevon1big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\BigrSelevon1.cfg"
+  },
+  {
+    "name": "wingShuttleElevon2big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigrSelevon2.cfg"
+  },
+  {
+    "name": "wingShuttleStrakebig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\BigrSstrake.cfg"
+  },
+  {
+    "name": "wingShuttleRudderbig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigrudder.cfg"
+  },
+  {
+    "name": "wingStrakebig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigstrake.cfg"
+  },
+  {
+    "name": "structuralWingbig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigstructural1.cfg"
+  },
+  {
+    "name": "structuralWing2big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigstructural2.cfg"
+  },
+  {
+    "name": "structuralWing3big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigstructural3.cfg"
+  },
+  {
+    "name": "structuralWing4big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigstructural4.cfg"
+  },
+  {
+    "name": "sweptWing1big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigswept1.cfg"
+  },
+  {
+    "name": "sweptWing2big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\bigswept2.cfg"
+  },
+  {
+    "name": "wingShuttleDeltabig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\BIgWings\\BisrSdelta.cfg"
+  },
+  {
+    "name": "wingConnectorboat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigconnector1.cfg"
+  },
+  {
+    "name": "wingConnector2boat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigconnector2.cfg"
+  },
+  {
+    "name": "wingConnector3boat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigconnector3.cfg"
+  },
+  {
+    "name": "wingConnector4boat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigconnector4.cfg"
+  },
+  {
+    "name": "wingConnector5big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigconnector5.cfg"
+  },
+  {
+    "name": "structuralWingboat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigstructural1.cfg"
+  },
+  {
+    "name": "structuralWing2boat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigstructural2.cfg"
+  },
+  {
+    "name": "structuralWing3boat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigstructural3.cfg"
+  },
+  {
+    "name": "structuralWing4boat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\bigstructural4.cfg"
+  },
+  {
+    "name": "SXTfloatFrontboat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\part.cfg"
+  },
+  {
+    "name": "SXTfloatMidBoat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\partMid.cfg"
+  },
+  {
+    "name": "SXTfloatOutboardboat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\boat\\partOutboard.cfg"
+  },
+  {
+    "name": "wingShuttleDeltaXXL",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\deltaXXl.cfg"
+  },
+  {
+    "name": "CircularIntake-1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\18circularIntake.cfg"
+  },
+  {
+    "name": "nacelleBody187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\18engineNacelle .cfg"
+  },
+  {
+    "name": "shockConeIntake-1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\18intakeShockCone .cfg"
+  },
+  {
+    "name": "ramAirIntake18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\18iramAirIntake.cfg"
+  },
+  {
+    "name": "radialEngineBody1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\18Precooler.cfg"
+  },
+  {
+    "name": "airScoopBig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\airIntakeRadialXM-G50-big.cfg"
+  },
+  {
+    "name": "IntakeRadialLonger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\intakeRadialLonger.cfg"
+  },
+  {
+    "name": "IntakeRadialLarger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\intakeRadialxxl.cfg"
+  },
+  {
+    "name": "CircularIntake-Mni",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\MincircularIntake.cfg"
+  },
+  {
+    "name": "nacelleBodysmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\MinengineNacelle.cfg"
+  },
+  {
+    "name": "airScoopMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\MiniairIntakeRadialXM-G50.cfg"
+  },
+  {
+    "name": "shockConeIntakeMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\MiniintakeShockCone.cfg"
+  },
+  {
+    "name": "MK1IntakeFuselagesmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\miniMk1inline.cfg"
+  },
+  {
+    "name": "radialEngineBodySmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\MiniPrecooler.cfg"
+  },
+  {
+    "name": "ramAirIntakeMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\MiniramAirIntake .cfg"
+  },
+  {
+    "name": "MK1IntakeFuselage1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Intakes\\mk1.8FuselageIntake.cfg"
+  },
+  {
+    "name": "wingShuttleDeltaXL",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Longdelta.cfg"
+  },
+  {
+    "name": "wingShuttleDeltaXL",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\Longerdelta.cfg"
+  },
+  {
+    "name": "AdvancedCanard-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\advancedCanardMini.cfg"
+  },
+  {
+    "name": "wingConnector-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\connector1Mini.cfg"
+  },
+  {
+    "name": "wingConnector2-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\connector2Mini.cfg"
+  },
+  {
+    "name": "wingConnector3-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\connector3Mini.cfg"
+  },
+  {
+    "name": "wingConnector4-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\connector4Mini.cfg"
+  },
+  {
+    "name": "wingConnector5-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\connector5Mini.cfg"
+  },
+  {
+    "name": "deltaWing-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\delta-Mini.cfg"
+  },
+  {
+    "name": "delta_Realysmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\delta_Reallysmall.cfg"
+  },
+  {
+    "name": "airlinerMainWing-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\MainWingMini.cfg"
+  },
+  {
+    "name": "StandardCtrlSrf-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Mini-elevon1.cfg"
+  },
+  {
+    "name": "airlinerCtrlSrf-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\MiniControlSurface.cfg"
+  },
+  {
+    "name": "elevon2-min",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Minielevon2.cfg"
+  },
+  {
+    "name": "elevon3-mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Minielevon3.cfg"
+  },
+  {
+    "name": "smallCtrlSrf-mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Minielevon4.cfg"
+  },
+  {
+    "name": "elevon5-mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Minielevon5.cfg"
+  },
+  {
+    "name": "wingStrakeMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Ministrake.cfg"
+  },
+  {
+    "name": "sweptWing1Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Miniswept1.cfg"
+  },
+  {
+    "name": "sweptWing2Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Miniswept2.cfg"
+  },
+  {
+    "name": "airlinerTailFin-mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\MiniTailFin.cfg"
+  },
+  {
+    "name": "winglet3-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\MinwingletDeltaDeluxe.cfg"
+  },
+  {
+    "name": "wingShuttleRudderSmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Smallrudder.cfg"
+  },
+  {
+    "name": "wingShuttleDeltaS",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\SmallSdelta.cfg"
+  },
+  {
+    "name": "wingShuttleElevon1S1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\SmallSelevon1.cfg"
+  },
+  {
+    "name": "wingShuttleElevon2S2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\SmallSelevon2.cfg"
+  },
+  {
+    "name": "wingShuttleStrakeMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\SmallSstrake.cfg"
+  },
+  {
+    "name": "CanardController-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\standardCanardMini.cfg"
+  },
+  {
+    "name": "sweptWing-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\sweptWingMini.cfg"
+  },
+  {
+    "name": "tailfin-mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\tailfinMini.cfg"
+  },
+  {
+    "name": "structuralWingMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Tstructural1.cfg"
+  },
+  {
+    "name": "structuralWing2mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Tstructural2.cfg"
+  },
+  {
+    "name": "structuralWing3mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Tstructural3.cfg"
+  },
+  {
+    "name": "structuralWing4",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\Tstructural4.cfg"
+  },
+  {
+    "name": "R8winglet067",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\wingletAV-R767.cfg"
+  },
+  {
+    "name": "wingletmini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\MiniWings\\wingletAV-T0625.cfg"
+  },
+  {
+    "name": "Mk187FuselageStructural",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\mk18Structural.cfg"
+  },
+  {
+    "name": "airplaneTail062",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\SmalltailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailB062",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Aero\\SmalltailConnectorB.cfg"
+  },
+  {
+    "name": "cargoContainer0625",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\BG\\062cargoContainer.cfg"
+  },
+  {
+    "name": "cargoContainer187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\BG\\187cargoContainer.cfg"
+  },
+  {
+    "name": "cargoContainer25",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\BG\\25cargoContainer.cfg"
+  },
+  {
+    "name": "RotorEngine_0212",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\BG\\Rotors\\RotorEngine_021.cfg"
+  },
+  {
+    "name": "RotorEngine_0321",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\BG\\Rotors\\RotorEngine_031.cfg"
+  },
+  {
+    "name": "smallCargoContainerbigbox",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\BG\\smallCargoContainer.cfg"
+  },
+  {
+    "name": "cupola_125",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Cupola\\Cupolola125.cfg"
+  },
+  {
+    "name": "cupola_1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Cupola\\Cupolola1875.cfg"
+  },
+  {
+    "name": "cupola_2m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Cupola\\Cupolola3m.cfg"
+  },
+  {
+    "name": "cupola_0625",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Cupola\\CupololaWindowProbe.cfg"
+  },
+  {
+    "name": "crewCabin-1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Htchker\\HtchHKer-1875.cfg"
+  },
+  {
+    "name": "mk1-2-3pod",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Mk1-3Pod\\mk1-2-3.cfg"
+  },
+  {
+    "name": "mk1-3-4pod",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Mk1-3Pod\\mk1-3-4.cfg"
+  },
+  {
+    "name": "mk1-3mpod",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Mk1-3Pod\\mk1-3M.cfg"
+  },
+  {
+    "name": "avionicsNoseConelarge",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\MK1cockpits\\avionicsNoseConeBig.cfg"
+  },
+  {
+    "name": "Mark1Cockpit197",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\MK1cockpits\\mk1Cockpit187.cfg"
+  },
+  {
+    "name": "MK1CrewCabin187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\MK1cockpits\\mk1CrewCabin187.cfg"
+  },
+  {
+    "name": "Mark2Cockpit187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\MK1cockpits\\mk1InlineCockpit187.cfg"
+  },
+  {
+    "name": "HECS3_ProbeCore3",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Probes\\HECS3.cfg"
+  },
+  {
+    "name": "probeStackXS",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Probes\\Probe-06.cfg"
+  },
+  {
+    "name": "probeStackSMid",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Probes\\Probe-1875.cfg"
+  },
+  {
+    "name": "probeCoreCubeSmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Probes\\probeCoreCube.cfg"
+  },
+  {
+    "name": "probeCoreHex_v2Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Probes\\probeCoreHex_v2mini.cfg"
+  },
+  {
+    "name": "asasmodule1-375",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Reactionwheel\\3madvSasModuleLarge.cfg"
+  },
+  {
+    "name": "asasmodule1-18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\Reactionwheel\\advSasModuleLarge.cfg"
+  },
+  {
+    "name": "roverBody_v2Large",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\RoveMaxx\\probeRoverBody_v2Big.cfg"
+  },
+  {
+    "name": "roverBody_v2XXL",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Command\\RoveMaxx\\probeRoverBody_v2XXL.cfg"
+  },
+  {
+    "name": "EXLstrutConnector",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\CoumpoundParts\\EXLStrut.cfg"
+  },
+  {
+    "name": "batteryBank187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Battery\\187Bat.cfg"
+  },
+  {
+    "name": "batteryBankLargerer",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Battery\\z-7kBattery.cfg"
+  },
+  {
+    "name": "adapterSmallMiniShortBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\Adapt.cfg"
+  },
+  {
+    "name": "adapterSmallMiniTallBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\Adapter.cfg"
+  },
+  {
+    "name": "noseConeBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\aerodynamicNoseCone.cfg"
+  },
+  {
+    "name": "pointyNoseConeABat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\ConeA.cfg"
+  },
+  {
+    "name": "pointyNoseConeBBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\ConeB.cfg"
+  },
+  {
+    "name": "largeAdapterBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\largeAdapter.cfg"
+  },
+  {
+    "name": "largeAdapter2Bat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\largeAdapterShort.cfg"
+  },
+  {
+    "name": "rocketNoseCone_v2Bat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\protectiveRocketNoseMk7_v2.cfg"
+  },
+  {
+    "name": "rocketNoseConeSize3Bat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\rocketNoseCone_size3.cfg"
+  },
+  {
+    "name": "standardNoseConeBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\smallNoseCone.cfg"
+  },
+  {
+    "name": "airplaneTailBat",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\tailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailBBAt",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\BatterylCones\\tailConnectorB.cfg"
+  },
+  {
+    "name": "Biginator1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Biginator\\Biginator.cfg"
+  },
+  {
+    "name": "Biginator2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Biginator\\Biginator2.cfg"
+  },
+  {
+    "name": "rtg2xl",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Rtg2\\Rtg2xl.cfg"
+  },
+  {
+    "name": "rtgMid",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Rtg2\\Rtg321.cfg"
+  },
+  {
+    "name": "LgRadialSolarPanelLARGER",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\LgRadialSolar1.cfg"
+  },
+  {
+    "name": "LgRadialSolarPanelLARGERer",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\LgRadialSolar2.cfg"
+  },
+  {
+    "name": "solarPanels420",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\RadialSolar.cfg"
+  },
+  {
+    "name": "solarPanels420",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\RadialSolarBIG.cfg"
+  },
+  {
+    "name": "solarPanels16B",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\Solar16.cfg"
+  },
+  {
+    "name": "solarPanels16Big",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\Solar16Big.cfg"
+  },
+  {
+    "name": "solarPanels32B",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\Solar23.cfg"
+  },
+  {
+    "name": "solarPanels32BIG",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Electrical\\Solar\\Solar32Big.cfg"
+  },
+  {
+    "name": "toroidalAerospike18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\AeroSpike\\liquidEngineAerospike18.cfg"
+  },
+  {
+    "name": "toroidalAerospike2m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\AeroSpike\\liquidEngineAerospike2m.cfg"
+  },
+  {
+    "name": "toroidalAerospikeMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\AeroSpike\\liquidEngineAerospikeMini.cfg"
+  },
+  {
+    "name": "turboFanEngine25",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\BIGWhiplash.cfg"
+  },
+  {
+    "name": "turboFanSize2Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\David.cfg"
+  },
+  {
+    "name": "turboJet25",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\Ligar.cfg"
+  },
+  {
+    "name": "turboFanEngine18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\MajorWhiplash.cfg"
+  },
+  {
+    "name": "turboFanEngineTiny",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\MinorWhiplash.cfg"
+  },
+  {
+    "name": "turboJetTiny",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\PantherCub.cfg"
+  },
+  {
+    "name": "turboJet18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\Puma.cfg"
+  },
+  {
+    "name": "turboFanSize2MiniTullip",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\Tulip.cfg"
+  },
+  {
+    "name": "JetEngine062",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\Wheazel.cfg"
+  },
+  {
+    "name": "JetEngine187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\JetEngines\\Whesley.cfg"
+  },
+  {
+    "name": "LiquidEngineKE-123",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\masta\\masta.cfg"
+  },
+  {
+    "name": "LiquidEngineRK-7a",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\MH\\LiquidEngineRK-7.cfg"
+  },
+  {
+    "name": "Wolfcub",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\MH\\Wolfcub.cfg"
+  },
+  {
+    "name": "nuclearEngineNervado",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Nerva\\liquidEngineLV-Nervado.cfg"
+  },
+  {
+    "name": "nuclearEngineNervina",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Nerva\\liquidEngineLV-Nervina.cfg"
+  },
+  {
+    "name": "nuclearEngineNervino",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Nerva\\liquidEngineLV-Nervino.cfg"
+  },
+  {
+    "name": "Collie",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Poodle\\Collie.cfg"
+  },
+  {
+    "name": "Scotty",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Poodle\\Scotty.cfg"
+  },
+  {
+    "name": "Spaniel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Poodle\\Spaniel.cfg"
+  },
+  {
+    "name": "RAPIERc8",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Rapier\\1.8rapierEngine.cfg"
+  },
+  {
+    "name": "RAPIERc9",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Rapier\\2.5rapierEngine.cfg"
+  },
+  {
+    "name": "RAPIERc6",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Rapier\\MinirapierEngine.cfg"
+  },
+  {
+    "name": "Clydesdaleyly",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Solids\\Clyde.cfg"
+  },
+  {
+    "name": "sepMotor3",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Solids\\Seper.cfg"
+  },
+  {
+    "name": "sepMotor2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Solids\\Sepra.cfg"
+  },
+  {
+    "name": "LsolidBooster1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Solids\\ThumpedsolidBoosterBACC.cfg"
+  },
+  {
+    "name": "SSME2m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Vectors\\SSM2m.cfg"
+  },
+  {
+    "name": "SSME18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Vectors\\SSME18.cfg"
+  },
+  {
+    "name": "SSMEMini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Engines\\Vectors\\SSMEmini.cfg"
+  },
+  {
+    "name": "fairingSize4BIG",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Fairing\\fairingSize4BIGBOI.cfg"
+  },
+  {
+    "name": "Size3_EngineAdapter_0123",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\3mengineadapter.cfg"
+  },
+  {
+    "name": "Size9LargeTank",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\large.cfg"
+  },
+  {
+    "name": "Size9MediumTank",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\medium.cfg"
+  },
+  {
+    "name": "Size3_Size4_Adapter_0234",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\size10adapter.cfg"
+  },
+  {
+    "name": "Size4_EngineAdapter_0123",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\Size10EngineAdapter_01.cfg"
+  },
+  {
+    "name": "Size3To2Adapter_v231",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\Size4to6_v2.cfg"
+  },
+  {
+    "name": "Size3_Size4_Adapter_0123",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\size6adapter.cfg"
+  },
+  {
+    "name": "Size9SmallTank",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\10mTanks\\small.cfg"
+  },
+  {
+    "name": "fuelTankSmallFlatLF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\125LF\\fuelTankLF100.cfg"
+  },
+  {
+    "name": "fuelTankSmallLF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\125LF\\fuelTankLF200.cfg"
+  },
+  {
+    "name": "fuelTank_longLF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\125LF\\fuelTankLF800.cfg"
+  },
+  {
+    "name": "Size1p5_Size0_Adapter_01LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Size0_Adapter_01.cfg"
+  },
+  {
+    "name": "Size1p5_Size1_Adapter_01LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Size1_Adapter_01.cfg"
+  },
+  {
+    "name": "Size1p5_Size1_Adapter_02LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Size1_Adapter_02.cfg"
+  },
+  {
+    "name": "Size1p5_Size2_Adapter_01LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Size2_Adapter_01.cfg"
+  },
+  {
+    "name": "Size1p5_Tank_01LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Tank_01.cfg"
+  },
+  {
+    "name": "Size1p5_Tank_02LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Tank_02.cfg"
+  },
+  {
+    "name": "Size1p5_Tank_03LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Tank_03.cfg"
+  },
+  {
+    "name": "Size1p5_Tank_04LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Tank_04.cfg"
+  },
+  {
+    "name": "Size1p5_Tank_05LF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875LF\\LFSize1p5_Tank_05.cfg"
+  },
+  {
+    "name": "Size1p5_Size2_Adapter_01Short",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\1875_2m_short.cfg"
+  },
+  {
+    "name": "Size6LargeTank",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\6mTanks\\large.cfg"
+  },
+  {
+    "name": "Size6MediumTank",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\6mTanks\\medium.cfg"
+  },
+  {
+    "name": "Size6SmallTank",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\6mTanks\\small.cfg"
+  },
+  {
+    "name": "externalTankRoundMono",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\Foil\\RadialTank_RoundMONO.cfg"
+  },
+  {
+    "name": "externalTankRoundXENON",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\Foil\\RadialTank_RoundXen.cfg"
+  },
+  {
+    "name": "externalTankToroidMONO",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\Foil\\ToroidTankMONO.cfg"
+  },
+  {
+    "name": "externalTankToroidXENON",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\Foil\\ToroidTankXen.cfg"
+  },
+  {
+    "name": "adapterSmallMiniShortFuel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\Adapt.cfg"
+  },
+  {
+    "name": "adapterSmallMiniTallFuel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\Adapter.cfg"
+  },
+  {
+    "name": "noseConeF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\aerodynamicNoseCone.cfg"
+  },
+  {
+    "name": "pointyNoseConeAF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\ConeA.cfg"
+  },
+  {
+    "name": "pointyNoseConeBF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\ConeB.cfg"
+  },
+  {
+    "name": "largeAdapterFuel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\largeAdapter.cfg"
+  },
+  {
+    "name": "largeAdapter2Fuel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\largeAdapterShort.cfg"
+  },
+  {
+    "name": "rocketNoseCone_v2F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\protectiveRocketNoseMk7_v2.cfg"
+  },
+  {
+    "name": "rocketNoseConeSize3F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\rocketNoseCone_size3.cfg"
+  },
+  {
+    "name": "standardNoseConeF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\smallNoseCone.cfg"
+  },
+  {
+    "name": "airplaneTailF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\tailConnectorA.cfg"
+  },
+  {
+    "name": "airplaneTailBF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\FuelCones\\tailConnectorB.cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi12-06F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\12-06adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad12-06F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\12-06adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri125-06F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\12-06adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi13-18F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\3-18adapterLargeSmallBi .cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad13-18F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\3-18adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri3-18F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\3-18adapterLargeSmallTri .cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi15-2F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\5-2adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad15-2F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\5-2adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri15-2F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackApapters\\5-2adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "stackBiCoupler_v062F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\06stackBiCoupler_v2.cfg"
+  },
+  {
+    "name": "stackQuadCoupler062F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\06stackQuadCoupler.cfg"
+  },
+  {
+    "name": "stackTriCoupler_v062F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\06stackTriCoupler_v2 .cfg"
+  },
+  {
+    "name": "stackBiCoupler_v187F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\187stackBiCoupler_v2.cfg"
+  },
+  {
+    "name": "stackQuadCoupler187F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\187stackQuadCoupler.cfg"
+  },
+  {
+    "name": "stackTriCoupler_v187F",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\187stackTriCoupler_v2.cfg"
+  },
+  {
+    "name": "stackBiCoupler_v3mF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\3mstackBiCoupler_v2.cfg"
+  },
+  {
+    "name": "stackQuadCoupler3mF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\3mstackQuadCoupler .cfg"
+  },
+  {
+    "name": "stackTriCoupler_v3mF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\StackCoupler\\3mstackTriCoupler_v2 .cfg"
+  },
+  {
+    "name": "fuelTank-Tiny",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\TinyLFO\\TinyfuelTankT100.cfg"
+  },
+  {
+    "name": "fuelTankSmallFlat-Mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\TinyLFO\\TinyfuelTankT40.cfg"
+  },
+  {
+    "name": "fuelTankSmallTINY",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\TinyLFO\\TinyfuelTankT70.cfg"
+  },
+  {
+    "name": "fuelTank_long-tinyLF",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\TinyLFO\\TiyfuelTankLF120.cfg"
+  },
+  {
+    "name": "fuelTank_long-tiny",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\FuelTank\\TinyLFO\\TiyfuelTankT140.cfg"
+  },
+  {
+    "name": "adapterEnginesSmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\Mk3m-ShuttleAdapter.cfg"
+  },
+  {
+    "name": "adapterMk3-Size2Small",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\Mk3m-Size2.cfg"
+  },
+  {
+    "name": "adapterSize3-Mk3Small",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\Mk3m-Size3-Mk3.cfg"
+  },
+  {
+    "name": "mk3mCargoBayL",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mCargolong.cfg"
+  },
+  {
+    "name": "mk3mCargoBayM",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mCargomedium.cfg"
+  },
+  {
+    "name": "mk3mCargoRamp",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mCargoramp.cfg"
+  },
+  {
+    "name": "mk3mCargoBayS",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mCargoshort.cfg"
+  },
+  {
+    "name": "Tmk3MCockpit_Shuttle",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mCockpitShuttle.cfg"
+  },
+  {
+    "name": "mk3MCrewCabin",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mCREW.cfg"
+  },
+  {
+    "name": "mk3mFuselageLFO_100",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mLFO_100.cfg"
+  },
+  {
+    "name": "mk3FuselageLFO_25",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mLFO_25.cfg"
+  },
+  {
+    "name": "mk3mFuselageLFO_50",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mLFO_50.cfg"
+  },
+  {
+    "name": "mk3mFuselageLF_100",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mLF_100.cfg"
+  },
+  {
+    "name": "mk3mFuselageLF_25",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mLF_25.cfg"
+  },
+  {
+    "name": "mk3mFuselageLF_50",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mLF_50.cfg"
+  },
+  {
+    "name": "mk3mFuselageMONO",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\mk3mMONO.cfg"
+  },
+  {
+    "name": "adapterMk3-Size2SlantSmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\MiNIMk3\\Mkm3-Size2Slant.cfg"
+  },
+  {
+    "name": "mk2Battery",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2\\mk2Battery.cfg"
+  },
+  {
+    "name": "mk2ReactionWheel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2\\mk2ReactionWheel.cfg"
+  },
+  {
+    "name": "mk2FuselageShortLiquid",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk-5mL_short.cfg"
+  },
+  {
+    "name": "mk2-5mBattery",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mBattery.cfg"
+  },
+  {
+    "name": "mk2-5mCargoBayL",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mBayL.cfg"
+  },
+  {
+    "name": "mk2-5mCargoBayS",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mBayS.cfg"
+  },
+  {
+    "name": "mk2-5FuselageLongLFO",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mLFO_long.cfg"
+  },
+  {
+    "name": "mk2-5mFuselageShortLFO",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mLFO_short.cfg"
+  },
+  {
+    "name": "mk2-5m_1m_AdapterLong",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mlong.cfg"
+  },
+  {
+    "name": "mk2-5mFuselageShortMono",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mMono_short.cfg"
+  },
+  {
+    "name": "mk2-5mSpacePlaneAdapter",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2-5mstandard.cfg"
+  },
+  {
+    "name": "mk2-5_2m_Bicoupler",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2.5bicoupler.cfg"
+  },
+  {
+    "name": "mk2-5mCockpit_Inline",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2.5mCockpitInline.cfg"
+  },
+  {
+    "name": "mk2-5mCockpit_Standard",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2.5mCockpitStandard.cfg"
+  },
+  {
+    "name": "mk2-5mDroneCore",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2.5mDronecore.cfg"
+  },
+  {
+    "name": "mk2-5mReactionWheel",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2.5mReactionWheel.cfg"
+  },
+  {
+    "name": "mk2-5mFuselage",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk25mL_long.cfg"
+  },
+  {
+    "name": "mk2-5mCrewCabin",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Mk2.5m\\mk2CrewCabin.cfg"
+  },
+  {
+    "name": "RadialDrillTiny",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Recourse\\Drill\\RadialDrillSuperShrunk.cfg"
+  },
+  {
+    "name": "ISRU1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Recourse\\ISRU\\isru1875.cfg"
+  },
+  {
+    "name": "MiniISRU06",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Recourse\\ISRU\\supMiniISRU.cfg"
+  },
+  {
+    "name": "SurveyScannerSmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Recourse\\SurveyScanner\\SurveyScannerSmall.cfg"
+  },
+  {
+    "name": "Large_Crewed_Lab1.5",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\LAb\\CrewedLab.cfg"
+  },
+  {
+    "name": "Large_Crewed_Lab1.25",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\LAb\\CrewedLab125.cfg"
+  },
+  {
+    "name": "Large_Crewed_Lab3m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\LAb\\CrewedLab3m.cfg"
+  },
+  {
+    "name": "Large_Crewed_Labmk3",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\LAb\\Mk3lab.cfg"
+  },
+  {
+    "name": "science_modulesmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\MaterialBaby\\materialBaby.cfg"
+  },
+  {
+    "name": "science_King",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\MaterialBaby\\ScienceKing.cfg"
+  },
+  {
+    "name": "science_Queen",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\MaterialBaby\\ScienceQueen.cfg"
+  },
+  {
+    "name": "science_moduleCap",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\MaterialBaby\\SCI_JR_cap.cfg"
+  },
+  {
+    "name": "ScienceBoxMk2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Science\\ScienceBox.cfg"
+  },
+  {
+    "name": "stackPoint187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\radialAttachmentPoint\\radialAttachmentPoint187.cfg"
+  },
+  {
+    "name": "stackPoint2m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\radialAttachmentPoint\\radialAttachmentPoint25.cfg"
+  },
+  {
+    "name": "stackPoint375",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\radialAttachmentPoint\\radialAttachmentPoint375.cfg"
+  },
+  {
+    "name": "stackPoint062m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\radialAttachmentPoint\\radialAttachmentPoint625 .cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi12-06",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\12-06adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad12-06",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\12-06adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri125-06",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\12-06adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi13-18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\3-18adapterLargeSmallBi .cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad13-18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\3-18adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri3-18",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\3-18adapterLargeSmallTri .cfg"
+  },
+  {
+    "name": "adapterLargeSmallBi15-2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\5-2adapterLargeSmallBi.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuad15-2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\5-2adapterLargeSmallQuad.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTri15-2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackApapters\\5-2adapterLargeSmallTri.cfg"
+  },
+  {
+    "name": "stackBiCoupler_v062",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\06stackBiCoupler_v2.cfg"
+  },
+  {
+    "name": "stackQuadCoupler062",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\06stackQuadCoupler.cfg"
+  },
+  {
+    "name": "stackTriCoupler_v062",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\06stackTriCoupler_v2 .cfg"
+  },
+  {
+    "name": "stackBiCoupler_v187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\187stackBiCoupler_v2.cfg"
+  },
+  {
+    "name": "stackQuadCoupler187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\187stackQuadCoupler.cfg"
+  },
+  {
+    "name": "stackTriCoupler_v187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\187stackTriCoupler_v2.cfg"
+  },
+  {
+    "name": "stackBiCoupler_v3m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\3mstackBiCoupler_v2.cfg"
+  },
+  {
+    "name": "stackQuadCoupler3m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\3mstackQuadCoupler .cfg"
+  },
+  {
+    "name": "stackTriCoupler_v3m",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StackCoupler\\3mstackTriCoupler_v2 .cfg"
+  },
+  {
+    "name": "stationHub06M",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StationHUb18\\StatnHub06.cfg"
+  },
+  {
+    "name": "stationHub187",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StationHUb18\\StatnHub187.cfg"
+  },
+  {
+    "name": "stationHub2M",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StationHUb18\\StatnHub2m.cfg"
+  },
+  {
+    "name": "stationHub3M",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Structrual\\StationHUb18\\StatnHub3m.cfg"
+  },
+  {
+    "name": "InfraredTelescopeSmall",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\CamSatSmall.cfg"
+  },
+  {
+    "name": "commDishBIG",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\commDish88-big.cfg"
+  },
+  {
+    "name": "commDishBIGer",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\commDish88-bigger.cfg"
+  },
+  {
+    "name": "mediumDishAntennabig",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\commsAntennaDTS-M1bg.cfg"
+  },
+  {
+    "name": "HighGainAntenna5bg",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\HG-5bg.cfg"
+  },
+  {
+    "name": "HighGainAntenna5bgr",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\HG-5bgr.cfg"
+  },
+  {
+    "name": "HighGainAntenna",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\HighGainAntennaBig.cfg"
+  },
+  {
+    "name": "RelayAntenna200",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\RA-200.cfg"
+  },
+  {
+    "name": "RelayAntenna300",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\BigDish\\RA-300.cfg"
+  },
+  {
+    "name": "dockingPortLateral1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\Dock18\\187dockingPortInline.cfg"
+  },
+  {
+    "name": "dockingPort1875",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\Dock18\\Dock1875.cfg"
+  },
+  {
+    "name": "dockingPort1p5",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\Dock18\\Shiedled1875.cfg"
+  },
+  {
+    "name": "GrapplingDeviceSmallMGM",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\Grappler\\Theklaw.cfg"
+  },
+  {
+    "name": "landingLegT3",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\Leg\\landingLegLT-3.cfg"
+  },
+  {
+    "name": "landingLegT4",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\Leg\\landingLegLT-4.cfg"
+  },
+  {
+    "name": "Size0_stut_Decoupler",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\MH-StrutDecoupler\\Size0Strut_Decoupler .cfg"
+  },
+  {
+    "name": "Size1_stut_Decoupler",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\MH-StrutDecoupler\\Size1_Strut_Decoupler .cfg"
+  },
+  {
+    "name": "Size2_stut_Decoupler",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\MH-StrutDecoupler\\Size2_Strut_Decoupler.cfg"
+  },
+  {
+    "name": "Size3_stut_Decoupler",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\MH-StrutDecoupler\\Size3_Strut_Decoupler .cfg"
+  },
+  {
+    "name": "Size5_stut_Decoupler",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\MH-StrutDecoupler\\Size4_Strut_Decoupler .cfg"
+  },
+  {
+    "name": "ProbeRCSBlock1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ProbeRCS\\rcsBlockRV-105Probe.cfg"
+  },
+  {
+    "name": "RCSBlockProcver",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ProbeRCS\\rcsBlockRV-105Probe1.cfg"
+  },
+  {
+    "name": "Size2to1ServiceModule",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\MHService\\Size2to1ServiceModule.cfg"
+  },
+  {
+    "name": "Size3to18ServiceModule",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\MHService\\Size3to18ServiceModule.cfg"
+  },
+  {
+    "name": "ServiceModule125",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\MHService\\SM125.cfg"
+  },
+  {
+    "name": "ServiceModule252",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\MHService\\SM25-2.cfg"
+  },
+  {
+    "name": "ServiceModule375",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\MHService\\SM3m.cfg"
+  },
+  {
+    "name": "ServiceBay_0625_v1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\ServiceBay_0625_v2.cfg"
+  },
+  {
+    "name": "ServiceBay_1875_v2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\ServiceBay_1875_v2.cfg"
+  },
+  {
+    "name": "ServiceBay_375_v1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\ServiceBay_375_v2.cfg"
+  },
+  {
+    "name": "ServiceBay_50_v2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\ServiceBay\\ServiceBay_50_v2.cfg"
+  },
+  {
+    "name": "radialDecoupler1-2mini",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\SmallDecouplers\\decouplerRadialHDM.cfg"
+  },
+  {
+    "name": "radialDecouplermin",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\SmallDecouplers\\decouplerRadialTT-38K.cfg"
+  },
+  {
+    "name": "radialDecoupler2min",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\SmallDecouplers\\decouplerRadialTT-70.cfg"
+  },
+  {
+    "name": "radialDecoupler2BIGBOI",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\SmallDecouplers\\decouplerRadialTT-70BIG.cfg"
+  },
+  {
+    "name": "radialDecoupler2BIGGERBOI",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Utility\\SmallDecouplers\\decouplerRadialTT-70BIGGER.cfg"
+  },
+  {
+    "name": "GearLarger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\Gearextralarger.cfg"
+  },
+  {
+    "name": "GearxxLargerer1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearExtraLargeR1.cfg"
+  },
+  {
+    "name": "GearxxLargerer",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearExtraLargeR2.cfg"
+  },
+  {
+    "name": "GearLargerm1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearextralargerM1.cfg"
+  },
+  {
+    "name": "GearxxLarge",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearExtraSupM2.cfg"
+  },
+  {
+    "name": "GearLarger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearLargerr.cfg"
+  },
+  {
+    "name": "GearSmallLARGER",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearMediumLa.cfg"
+  },
+  {
+    "name": "GearSMediumLarge",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearMedLArge.cfg"
+  },
+  {
+    "name": "GearSmallHeavy",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearSmallHeavy.cfg"
+  },
+  {
+    "name": "SmallishGearBay",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearSmallishL.cfg"
+  },
+  {
+    "name": "GearLarger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\LandinGear\\GearSmallSuperH.cfg"
+  },
+  {
+    "name": "roverWheelM1-FB",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\RoverWheelB.cfg"
+  },
+  {
+    "name": "roverWheelM1-FBG",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\RoverWheelBG.cfg"
+  },
+  {
+    "name": "roverWheel23",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\roverWheelM1.cfg"
+  },
+  {
+    "name": "roverWheel234",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\roverWheelM1BG.cfg"
+  },
+  {
+    "name": "roverWheel21",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\roverWheelS2B.cfg"
+  },
+  {
+    "name": "roverWheel21",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\roverWheelS2BG.cfg"
+  },
+  {
+    "name": "wheelMedB",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\roverWheelTR-2LB.cfg"
+  },
+  {
+    "name": "wheelMedBG",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Parts\\Wheels\\Roverwheels\\roverWheelTR-2LBG.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Goliaths.cfg"
+  },
+  {
+    "name": "Turbofan",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\jetEngineBasic.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Kodiak.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\MH_LiquidEngineRE-I2_Skiff.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\MH_LiquidEngineRE-J10_Wolfhound.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\MH_LiquidEngineRK-7_Kodiak.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\NERVAs-Restock.cfg"
+  },
+  {
+    "name": "Nuclear_SolidCore_LH2",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Nervs.cfg"
+  },
+  {
+    "name": "Turbofan //Normal mode",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Panthers.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Poodle-Restock.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Poodle.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\RAPIER-Restock.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Rapiers.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Skiff.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Spikes.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Vector-Restock.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Vectors.cfg"
+  },
+  {
+    "name": "Turbojet",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Whiplash.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RealPlume\\Wolfhound.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\6mTanks.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\9mTanks .cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Adapters.cfg"
+  },
+  {
+    "name": "ModuleSeeThroughObject",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Bays.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Cones.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Mastadon.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Poodles.cfg"
+  },
+  {
+    "name": "fx1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\rcs.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\ResocFoils.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restoc-Vectors.cfg"
+  },
+  {
+    "name": "ModuleColorChanger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\RestocDock.cfg"
+  },
+  {
+    "name": "fx1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restock-Command.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restock-Coms.cfg"
+  },
+  {
+    "name": "fx1",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-Control.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restock-Dart-Eff.cfg"
+  },
+  {
+    "name": "ModuleRestockLinkedMesh",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-EXLstrut.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-fueltanks-125.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-MH-engines.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-mh-Liquidfueltanks-1875.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restock-Nervs.cfg"
+  },
+  {
+    "name": "coreclosed",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-Rapier.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restock-Resources.cfg"
+  },
+  {
+    "name": "ModuleColorChanger",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restock-Structrual.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\restock-tinyfueltanks-0625.cfg"
+  },
+  {
+    "name": "ModuleSeeThroughObject",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Restockvar.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Solids.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "Extras\\WIP Rescaled Parts Pack\\Patches\\RestockPatches\\Wheels.cfg"
   }
 ]

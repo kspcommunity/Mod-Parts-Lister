@@ -1,0 +1,1722 @@
+[
+  {
+    "name": "KK_1700m_C_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\1700m_C_runway.cfg"
+  },
+  {
+    "name": "KK_1700m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\1700m_RL_runway.cfg"
+  },
+  {
+    "name": "KK_1700m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\1700m_runway.cfg"
+  },
+  {
+    "name": "KK_2500mX_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\2500mX_runway.cfg"
+  },
+  {
+    "name": "KK_2500m_C_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\2500m_C_runway.cfg"
+  },
+  {
+    "name": "KK_2500m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\2500m_RL_runway.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\2500m_runway.cfg"
+  },
+  {
+    "name": "KK_4800m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\4800m_runway.cfg"
+  },
+  {
+    "name": "KSR_CrSTR",
+    "filePath": "KerbinSideRemastered\\Statics\\crawler_roads.cfg"
+  },
+  {
+    "name": "KSR_dam",
+    "filePath": "KerbinSideRemastered\\Statics\\dam.cfg"
+  },
+  {
+    "name": "WaterSound",
+    "filePath": "KerbinSideRemastered\\Statics\\danger_hpw.cfg"
+  },
+  {
+    "name": "KSR_dSTR",
+    "filePath": "KerbinSideRemastered\\Statics\\dirt_roads.cfg"
+  },
+  {
+    "name": "KS_3_Dish_Array",
+    "filePath": "KerbinSideRemastered\\Statics\\ear_array.cfg"
+  },
+  {
+    "name": "KS_DishBase3",
+    "filePath": "KerbinSideRemastered\\Statics\\ear_array_HexBase.cfg"
+  },
+  {
+    "name": "KS_DishBase1",
+    "filePath": "KerbinSideRemastered\\Statics\\ear_array_Triangle.cfg"
+  },
+  {
+    "name": "KS_1_Dish_Array",
+    "filePath": "KerbinSideRemastered\\Statics\\ear_one.cfg"
+  },
+  {
+    "name": "ehi_anomaly1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\anomaly1.cfg"
+  },
+  {
+    "name": "ehi_anomaly2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\anomaly2.cfg"
+  },
+  {
+    "name": "ehi_anomaly3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\anomaly3.cfg"
+  },
+  {
+    "name": "KS_anomalyM",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\anomaly_m.cfg"
+  },
+  {
+    "name": "ehi_anomaly1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\ehi_anomaly1.cfg"
+  },
+  {
+    "name": "ehi_anomaly2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\ehi_anomaly2-instances.cfg"
+  },
+  {
+    "name": "KSR_snowkerb",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\KSR_snowkerb-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSC_FlagPole_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSC_WaterTower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSC_WaterTower-instances.cfg"
+  },
+  {
+    "name": "KSR_fueltruck",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_fueltruck-instances.cfg"
+  },
+  {
+    "name": "KSR_GPUtruck",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_GPUtruck-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_heavyflatbed_cargo1-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_heavyflatbed_cargo2-instances.cfg"
+  },
+  {
+    "name": "KSR_Heavy_Flatbed",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_Heavy_Flatbed-instances.cfg"
+  },
+  {
+    "name": "KSR_Light_Flatbed_Cargo",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_Light_Flatbed_Cargo-instances.cfg"
+  },
+  {
+    "name": "KSR_TSA15",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KSR_TSA15-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_Building",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\SQUAD_Desert_Airfield_Building-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Anomalies\\TSA15\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_Administration_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_Administration_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_AstronautComplex_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_AstronautComplex_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_Crawlerway_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_Crawlerway_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_FlagPole_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSC_LaunchPad_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_LaunchPad_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_MissionControl_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_MissionControl_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_ResearchAndDevelopment_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_ResearchAndDevelopment_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_TrackingStation_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_TrackingStation_level_1-instances.cfg"
+  },
+  {
+    "name": "KSC_TrackingStation_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_TrackingStation_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_VAB_AC_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_VAB_AC_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VAB_RnD1_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_VAB_RnD1_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VAB_RnD2_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_VAB_RnD2_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VehicleAssemblyBuilding_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSC_VehicleAssemblyBuilding_level_3-instances.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSR_LargeTower_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_large_warhouse",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSR_large_warhouse-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_anomalyM",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_anomalyM-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\CapeKerman\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "ehi_anomaly3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\ehi_anomaly3-instances.cfg"
+  },
+  {
+    "name": "KK_2500mX_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KK_2500mX_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_AC_SPH_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSC_AC_SPH_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_Administration_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSC_Administration_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_AstronautComplex_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSC_AstronautComplex_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSC_FlagPole_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSC_ResearchAndDevelopment_level_3-instances.cfg"
+  },
+  {
+    "name": "KSR_hangar_large",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_hangar_large-instances.cfg"
+  },
+  {
+    "name": "KSR_HD2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_HD2-instances.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_LargeTower_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_terminal",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_terminal-instances.cfg"
+  },
+  {
+    "name": "KSR_terminal_a",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_terminal_a-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_filler_B2-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_Building",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\SQUAD_Desert_Airfield_Building-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Dununda\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KSR_HD1-instances.cfg"
+  },
+  {
+    "name": "KSR_HD2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KSR_HD2-instances.cfg"
+  },
+  {
+    "name": "KSR_HD3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KSR_HD3-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\DustyIsland\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KK_1700m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_AC_SPH_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KSC_AC_SPH_level_1-instances.cfg"
+  },
+  {
+    "name": "KSC_MissionControl_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KSC_MissionControl_level_1-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KSC_ResearchAndDevelopment_level_1-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_observatory1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_observatory1-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Harvester\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KK_1700m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\HazardShallows\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "KSC_Runway_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\JebJunkyard\\KSC_Runway_level_1-instances.cfg"
+  },
+  {
+    "name": "KSR_fueltruck",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\JebJunkyard\\KSR_fueltruck-instances.cfg"
+  },
+  {
+    "name": "KSR_jebs",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\JebJunkyard\\KSR_jebs-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\JebJunkyard\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\JebJunkyard\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\JebJunkyard\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "ILS_Localizer",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\ILS_Localizer-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_ILS_L-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_R",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_ILS_R-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KamberwickGreen\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "ehi_anomaly2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\ehi_anomaly2-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KK_2500m_RL_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_Crawlerway_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_Crawlerway_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_FlagPole_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_LaunchPad_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_LaunchPad_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_MissionControl_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_MissionControl_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_ResearchAndDevelopment_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_SpaceplaneHangar_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_SpaceplaneHangar_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VehicleAssemblyBuilding_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KSC_VehicleAssemblyBuilding_level_2-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_filler_B1-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_filler_B2-instances.cfg"
+  },
+  {
+    "name": "KS_ObsBase",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_ObsBase-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "KS_Taxiway_V",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\KS_Taxiway_V-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KermanAtoll\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "ILS_Localizer",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\ILS_Localizer-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KK_1700m_RL_runway-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KK_2500m_RL_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_AstronautComplex_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_AstronautComplex_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_Crawlerway_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_Crawlerway_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_FlagPole_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_LaunchPad_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_LaunchPad_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_MissionControl_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_MissionControl_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_ResearchAndDevelopment_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_SpaceplaneHangar_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_SpaceplaneHangar_level_1-instances.cfg"
+  },
+  {
+    "name": "KSC_TrackingStation_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_TrackingStation_level_1-instances.cfg"
+  },
+  {
+    "name": "KSC_VehicleAssemblyBuilding_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSC_VehicleAssemblyBuilding_level_2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KS_1_Dish_Array",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_1_Dish_Array-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_DishBase1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_DishBase1-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_filler_B1-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_filler_B2-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_ILS_L-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_R",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_ILS_R-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "KS_Taxiway_V",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\KS_Taxiway_V-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KojaveSands\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_HD1-instances.cfg"
+  },
+  {
+    "name": "KSR_HD2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_HD2-instances.cfg"
+  },
+  {
+    "name": "KSR_HD3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_HD3-instances.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_LargeTower_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_AirshipHanger",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_AirshipHanger-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KolaIsland\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_Crawlerway_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_Crawlerway_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_FlagPole_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_LaunchPad_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_LaunchPad_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_SpaceplaneHangar_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_SpaceplaneHangar_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VAB_AC_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_VAB_AC_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VAB_RnD1_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_VAB_RnD1_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_VehicleAssemblyBuilding_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KSC_VehicleAssemblyBuilding_level_2-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KS_filler_B2-instances.cfg"
+  },
+  {
+    "name": "KS_ODALS",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KS_ODALS-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSC2\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "ILS_Localizer",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\ILS_Localizer-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_ILS_L-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_R",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_ILS_R-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiKSC",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_TaxiKSC-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\KSCUpgrades\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KK_1700m_runway-instances.cfg"
+  },
+  {
+    "name": "KS_ObsBase",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_ObsBase-instances.cfg"
+  },
+  {
+    "name": "KS_observatory1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_observatory1-instances.cfg"
+  },
+  {
+    "name": "KS_ODALS",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_ODALS-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\NyeIsland\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KK_1700m_runway-instances.cfg"
+  },
+  {
+    "name": "KS_ObsBase",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_ObsBase-instances.cfg"
+  },
+  {
+    "name": "KS_observatory1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_observatory1-instances.cfg"
+  },
+  {
+    "name": "KS_ODALS",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_ODALS-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\Polar_Alpha\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "ILS_Localizer",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\ILS_Localizer-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KK_1700m_RL_runway-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_RL_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KK_2500m_RL_runway-instances.cfg"
+  },
+  {
+    "name": "KSR_GPUtruck",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KSR_GPUtruck-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KSR_heavyflatbed_cargo1-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KSR_heavyflatbed_cargo2-instances.cfg"
+  },
+  {
+    "name": "KSR_Light_Flatbed_Cargo",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KSR_Light_Flatbed_Cargo-instances.cfg"
+  },
+  {
+    "name": "KSR_pushback",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KSR_pushback-instances.cfg"
+  },
+  {
+    "name": "KS_3_Dish_Array",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_3_Dish_Array-instances.cfg"
+  },
+  {
+    "name": "KS_AirshipHanger",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_AirshipHanger-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_DishBase3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_DishBase3-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_filler_B1-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_ILS_L-instances.cfg"
+  },
+  {
+    "name": "KS_ILS_R",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_ILS_R-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "KS_Taxiway_V",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\KS_Taxiway_V-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_h02",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\SQUAD_Desert_Airfield_model_prop_truck_h02-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Desert_Airfield_model_prop_truck_m01",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\SQUAD_Desert_Airfield_model_prop_truck_m01-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\RoundRange\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KK_1700m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KK_1700m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSC_FlagPole_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSC_WaterTower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSC_WaterTower-instances.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSR_HD1-instances.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSR_LargeTower_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\KS_TaxiSmall-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SandyIsland\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthField\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\EHIFuelTanks-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_Administration_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KSC_Administration_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSC_SpaceplaneHangar_level_3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KSC_SpaceplaneHangar_level_3-instances.cfg"
+  },
+  {
+    "name": "KSC_VAB_AC_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KSC_VAB_AC_level_2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_filler_B1-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SouthLake\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "KK_2500mX_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KK_2500mX_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_FlagPole_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSC_FlagPole_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSC_ResearchAndDevelopment_level_2-instances.cfg"
+  },
+  {
+    "name": "KSC_TrackingStation_level_1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSC_TrackingStation_level_1-instances.cfg"
+  },
+  {
+    "name": "KSR_1700m_runway_SNOW",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_1700m_runway_SNOW-instances.cfg"
+  },
+  {
+    "name": "KSR_bulldozer",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_bulldozer-instances.cfg"
+  },
+  {
+    "name": "KSR_fueltruck",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_fueltruck-instances.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_HD1-instances.cfg"
+  },
+  {
+    "name": "KSR_HD3",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_HD3-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_heavyflatbed_cargo1-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_heavyflatbed_cargo2-instances.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_LargeTower_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "KSR_snowkerbFirst",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_snowkerbFirst-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_filler_B1-instances.cfg"
+  },
+  {
+    "name": "KS_filler_B2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_filler_B2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_C1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_filler_C1-instances.cfg"
+  },
+  {
+    "name": "KS_filler_C2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_filler_C2-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_smallhangarblock-instances.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_smallhangarblockH-instances.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_small_tower-instances.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_SSLAR-L-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\SP_and_Meeda\\wind_sock_ts-instances.cfg"
+  },
+  {
+    "name": "KK_2500m_runway",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KK_2500m_runway-instances.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSC_FuelTanks-instances.cfg"
+  },
+  {
+    "name": "KSR_dam",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_dam-instances.cfg"
+  },
+  {
+    "name": "KSR_dam_water",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_dam_water-instances.cfg"
+  },
+  {
+    "name": "KSR_GPUtruck",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_GPUtruck-instances.cfg"
+  },
+  {
+    "name": "KSR_hangar_large",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_hangar_large-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_heavyflatbed_cargo1-instances.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_heavyflatbed_cargo2-instances.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_LargeTower_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_main_hangar_mk2-instances.cfg"
+  },
+  {
+    "name": "KSR_pushback",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_pushback-instances.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KSR_water_towers-instances.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_ALSF_2-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_filler_A-instances.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_PAPI-instances.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_radar1-instances.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_radio1-instances.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_tankfarm-instances.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\KS_TaxiLarge-instances.cfg"
+  },
+  {
+    "name": "WaterSound",
+    "filePath": "KerbinSideRemastered\\Statics\\ExampleBases\\UberDam\\WaterSound-instances.cfg"
+  },
+  {
+    "name": "KS_filler_A",
+    "filePath": "KerbinSideRemastered\\Statics\\filler_A.cfg"
+  },
+  {
+    "name": "KS_filler_B1",
+    "filePath": "KerbinSideRemastered\\Statics\\filler_B1.cfg"
+  },
+  {
+    "name": "KS_filler_B2",
+    "filePath": "KerbinSideRemastered\\Statics\\filler_B2.cfg"
+  },
+  {
+    "name": "KS_filler_C1",
+    "filePath": "KerbinSideRemastered\\Statics\\filler_C1.cfg"
+  },
+  {
+    "name": "KS_filler_C2",
+    "filePath": "KerbinSideRemastered\\Statics\\filler_C2.cfg"
+  },
+  {
+    "name": "EHIFuelTanks",
+    "filePath": "KerbinSideRemastered\\Statics\\FuelTanks.cfg"
+  },
+  {
+    "name": "KS_tankfarm",
+    "filePath": "KerbinSideRemastered\\Statics\\fuel_tank_farm.cfg"
+  },
+  {
+    "name": "KSR_heavyflatbed_cargo2",
+    "filePath": "KerbinSideRemastered\\Statics\\ground_vehicles.cfg"
+  },
+  {
+    "name": "KS_AirshipHanger",
+    "filePath": "KerbinSideRemastered\\Statics\\hangerone.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "KerbinSideRemastered\\Statics\\HD1.cfg"
+  },
+  {
+    "name": "KSR_jebs",
+    "filePath": "KerbinSideRemastered\\Statics\\jebshop.cfg"
+  },
+  {
+    "name": "KS_TaxiKSC",
+    "filePath": "KerbinSideRemastered\\Statics\\KSC_Taxiway.cfg"
+  },
+  {
+    "name": "KS_ILS_L",
+    "filePath": "KerbinSideRemastered\\Statics\\KS_ILS_L.cfg"
+  },
+  {
+    "name": "KS_ILS_R",
+    "filePath": "KerbinSideRemastered\\Statics\\KS_ILS_R.cfg"
+  },
+  {
+    "name": "KS_ALSF_2",
+    "filePath": "KerbinSideRemastered\\Statics\\KS_LL_ALSF-2.cfg"
+  },
+  {
+    "name": "KS_ODALS",
+    "filePath": "KerbinSideRemastered\\Statics\\KS_LL_ODALS.cfg"
+  },
+  {
+    "name": "KS_SSLAR-L",
+    "filePath": "KerbinSideRemastered\\Statics\\KS_LL_SSLAR-L.cfg"
+  },
+  {
+    "name": "KS_PAPI",
+    "filePath": "KerbinSideRemastered\\Statics\\KS_PAPI.cfg"
+  },
+  {
+    "name": "KSR_LargeTower_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\LargeTower.cfg"
+  },
+  {
+    "name": "KSR_hangar_large",
+    "filePath": "KerbinSideRemastered\\Statics\\large_hangars.cfg"
+  },
+  {
+    "name": "KSR_large_warhouse",
+    "filePath": "KerbinSideRemastered\\Statics\\large_warehouse.cfg"
+  },
+  {
+    "name": "ILS_Localizer",
+    "filePath": "KerbinSideRemastered\\Statics\\localizer.cfg"
+  },
+  {
+    "name": "KSR_P1km",
+    "filePath": "KerbinSideRemastered\\Statics\\long_roads.cfg"
+  },
+  {
+    "name": "KSR_main_hangar_mk2",
+    "filePath": "KerbinSideRemastered\\Statics\\main_hangar_mk2.cfg"
+  },
+  {
+    "name": "KS_observatory1",
+    "filePath": "KerbinSideRemastered\\Statics\\obseratory1.cfg"
+  },
+  {
+    "name": "KS_ObsBase",
+    "filePath": "KerbinSideRemastered\\Statics\\observeBase.cfg"
+  },
+  {
+    "name": "KSR_ptee",
+    "filePath": "KerbinSideRemastered\\Statics\\paved_roads.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemastered\\Statics\\pier.cfg"
+  },
+  {
+    "name": "KS_radar1",
+    "filePath": "KerbinSideRemastered\\Statics\\radar1.cfg"
+  },
+  {
+    "name": "KS_radio1",
+    "filePath": "KerbinSideRemastered\\Statics\\radio_tower1.cfg"
+  },
+  {
+    "name": "KS_smallhangarblock",
+    "filePath": "KerbinSideRemastered\\Statics\\SmallHangarBlock.cfg"
+  },
+  {
+    "name": "KS_smallhangarblockH",
+    "filePath": "KerbinSideRemastered\\Statics\\SmallHangarBlockHalf.cfg"
+  },
+  {
+    "name": "KS_small_tower",
+    "filePath": "KerbinSideRemastered\\Statics\\small_tower.cfg"
+  },
+  {
+    "name": "KSR_snowkerb",
+    "filePath": "KerbinSideRemastered\\Statics\\SnowKerbs.cfg"
+  },
+  {
+    "name": "KSR_SpcCul",
+    "filePath": "KerbinSideRemastered\\Statics\\special_roads.cfg"
+  },
+  {
+    "name": "KS_TaxiLarge",
+    "filePath": "KerbinSideRemastered\\Statics\\TaxiFrontLarge.cfg"
+  },
+  {
+    "name": "KS_TaxiSmall",
+    "filePath": "KerbinSideRemastered\\Statics\\TaxiFrontSmall.cfg"
+  },
+  {
+    "name": "KS_Taxiway_V",
+    "filePath": "KerbinSideRemastered\\Statics\\taxiway-vl.cfg"
+  },
+  {
+    "name": "KSR_terminal",
+    "filePath": "KerbinSideRemastered\\Statics\\terminal.cfg"
+  },
+  {
+    "name": "KSR_terminal_a",
+    "filePath": "KerbinSideRemastered\\Statics\\terminal_a.cfg"
+  },
+  {
+    "name": "KSR_TSA15",
+    "filePath": "KerbinSideRemastered\\Statics\\TSA15.cfg"
+  },
+  {
+    "name": "KSR_water_towers",
+    "filePath": "KerbinSideRemastered\\Statics\\water_tanks.cfg"
+  },
+  {
+    "name": "wind_sock_ts",
+    "filePath": "KerbinSideRemastered\\Statics\\windSock.cfg"
+  }
+]

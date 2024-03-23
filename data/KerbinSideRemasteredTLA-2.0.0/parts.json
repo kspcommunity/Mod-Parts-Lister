@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Kerbin Side Remastered TLA",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Agencies.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\1-CGB-AkitaBay\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\1-CGB-AkitaBay\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\1-CGB-AkitaBay\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\10-CGB-Zhbishlina Island\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\10-CGB-Zhbishlina Island\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\10-CGB-Zhbishlina Island\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\2-CGB-Arcachon\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\2-CGB-Arcachon\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\2-CGB-Arcachon\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\3-CGB-Cadenza\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\3-CGB-Cadenza\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\3-CGB-Cadenza\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\4-CGB-Pinamar\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\4-CGB-Pinamar\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\4-CGB-Pinamar\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\5-CGB-PortHalseyIsland\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\5-CGB-PortHalseyIsland\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\5-CGB-PortHalseyIsland\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\6-CGB-RiverMouth\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\6-CGB-RiverMouth\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\6-CGB-RiverMouth\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\7-CGB-Sabratha\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\7-CGB-Sabratha\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\7-CGB-Sabratha\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\8-CGB8-VanissiusBay\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\8-CGB8-VanissiusBay\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\8-CGB8-VanissiusBay\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "cc_ground_gaspump",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\9-CGB-ViridiaIsland\\cc_ground_gaspump-instances.cfg"
+  },
+  {
+    "name": "KSR_pier",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\9-CGB-ViridiaIsland\\KSR_pier-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\9-CGB-ViridiaIsland\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\CG Bases\\DustyIslandHarbour_Adds\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "BillBoard-TLA",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\KSCMarina\\BillBoard-TLA-instances.cfg"
+  },
+  {
+    "name": "BillBoard-TLA",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\KSCMarina\\BillBoard-TLA.cfg"
+  },
+  {
+    "name": "ksideboatlaunch2",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\KSCMarina\\ksideboatlaunch2-instances.cfg"
+  },
+  {
+    "name": "ksidelighthousesmall",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\KSCMarina\\ksidelighthousesmall-instances.cfg"
+  },
+  {
+    "name": "ksidemarina",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\KSCMarina\\ksidemarina-instances.cfg"
+  },
+  {
+    "name": "ehi_anomaly2",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\Avalon\\ehi_anomaly2-instances.cfg"
+  },
+  {
+    "name": "Sea_bluefish",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\Avalon\\Sea_bluefish-instances.cfg"
+  },
+  {
+    "name": "Sky_birdflockV1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\Avalon\\Sky_birdflockV1-instances.cfg"
+  },
+  {
+    "name": "Rock_Cluster_1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\BluefishHatchery\\Rock_Cluster_1-instances.cfg"
+  },
+  {
+    "name": "Sea_bluefish",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\BluefishHatchery\\Sea_bluefish-instances.cfg"
+  },
+  {
+    "name": "Sea_shroomies_1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\BluefishHatchery\\Sea_shroomies_1-instances.cfg"
+  },
+  {
+    "name": "Sea_shroomies_2",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\BluefishHatchery\\Sea_shroomies_2-instances.cfg"
+  },
+  {
+    "name": "Sea_shroomies_3",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\BluefishHatchery\\Sea_shroomies_3-instances.cfg"
+  },
+  {
+    "name": "Sea_bluefish",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\CagedTwins_Adds\\Sea_bluefish-instances.cfg"
+  },
+  {
+    "name": "Sea_bluefish",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\CarmenIslandCaves\\Sea_bluefish-instances.cfg"
+  },
+  {
+    "name": "Sea_Cave_1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\CarmenIslandCaves\\Sea_Cave_1-instances.cfg"
+  },
+  {
+    "name": "Sea_bluefish",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\CoralLagoon\\Sea_bluefish-instances.cfg"
+  },
+  {
+    "name": "SQUAD_Cave",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\CoralLagoon\\SQUAD_Cave-instances.cfg"
+  },
+  {
+    "name": "Sea_bluefish",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\Mammoth_Adds\\Sea_bluefish-instances.cfg"
+  },
+  {
+    "name": "Alien_Tet_1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Kerbal-Konstructs\\Statics\\SiteDives\\Tripod\\Alien_Tet_1-instances.cfg"
+  },
+  {
+    "name": "TheBlackBox",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Items\\TheBlackBox\\TheBlackBox.cfg"
+  },
+  {
+    "name": "mk3Cockpit_Shuttle_wreck",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Wrecks\\large\\mk3CockpitShuttlewreck.cfg"
+  },
+  {
+    "name": "mk3CrewCabin_wreck",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Wrecks\\large\\mk3CrewCabinwreck.cfg"
+  },
+  {
+    "name": "mk2Cockpit_Standard_wreck",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Wrecks\\medium\\mk2CockpitStandardWreck.cfg"
+  },
+  {
+    "name": "mk2CrewCabin_wreck",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Wrecks\\medium\\mk2CrewCabinWreck.cfg"
+  },
+  {
+    "name": "Mark1Cockpit_wreck",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Wrecks\\small\\mk1CockpitWreck.cfg"
+  },
+  {
+    "name": "MK1CrewCabin_wreck",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Assets\\Parts\\Wrecks\\small\\mk1CrewCabinWreck.cfg"
+  },
+  {
+    "name": "KSRTLA-CG-Patrol",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\CoastGuard\\Patrol.cfg"
+  },
+  {
+    "name": "KSRTLA-CG-ShipRescue",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\CoastGuard\\ShipRescue.cfg"
+  },
+  {
+    "name": "KSRTLA-DiveTest",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\00 - KumaCertification.cfg"
+  },
+  {
+    "name": "KSRTLA-Survey-Ship",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\01 - Survey Ship.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-0",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-0.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-1.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-2",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-2.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-3",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-3.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-4",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-4.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-5",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-5.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-6",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-6.cfg"
+  },
+  {
+    "name": "KSRTLA-Site-Dives-7",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Exploration\\02 - Site Dives-7.cfg"
+  },
+  {
+    "name": "KSRTLA",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Groups.cfg"
+  },
+  {
+    "name": "Dusty Island",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Patches\\CustomWaypoints.KSRTLA.cfg"
+  },
+  {
+    "name": "KSRTLA-Salvage1",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Salvage\\Salvage1.cfg"
+  },
+  {
+    "name": "KSRTLA-Salvage2",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Salvage\\Salvage2.cfg"
+  },
+  {
+    "name": "KSRTLA-Salvage3",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Salvage\\Salvage3.cfg"
+  },
+  {
+    "name": "Civil-Servant",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Traits\\CommunityTraitIcons.cfg"
+  },
+  {
+    "name": "RosterCheckCitizen",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Traits\\RosterCheck.cfg"
+  },
+  {
+    "name": "Civil-Servant",
+    "filePath": "KerbinSideRemasteredTLA-2.0.0\\GameData\\ContractPacks\\KerbinSideRemasteredTLA\\Traits\\Traits.cfg"
+  }
+]

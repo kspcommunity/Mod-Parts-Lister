@@ -1,0 +1,514 @@
+[
+  {
+    "name": "ModuleCryoTank",
+    "filePath": "Tundra-ExplorationV7.0\\Extras\\Extra_Boiloff.cfg"
+  },
+  {
+    "name": "MonoPropellant",
+    "filePath": "Tundra-ExplorationV7.0\\Extras\\Extra_RR_CGT.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Tundra-ExplorationV7.0\\Extras\\Extra_RR_CGT_Ghidorah.cfg"
+  },
+  {
+    "name": "MonoPropellant",
+    "filePath": "Tundra-ExplorationV7.0\\Extras\\Extra_RR_CGT_Gigan.cfg"
+  },
+  {
+    "name": "MonoPropellant",
+    "filePath": "Tundra-ExplorationV7.0\\Extras\\Extra_RR_CGT_RodanCargo.cfg"
+  },
+  {
+    "name": "Tundra Exploration",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "TE_19_F910_S1_Engine",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Bagorah9\\TE_19_F910_S1_Engine.cfg"
+  },
+  {
+    "name": "TE_19_F910_S1_Tank",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Bagorah9\\TE_19_F910_S1_Tank.cfg"
+  },
+  {
+    "name": "TE_19_F910_S2_Engine",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Bagorah9\\TE_19_F910_S2_Engine.cfg"
+  },
+  {
+    "name": "TE_19_F910_S2_Tank",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Bagorah9\\TE_19_F910_S2_Tank.cfg"
+  },
+  {
+    "name": "TE_21_F1_Fairing_Half",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_21_F1_Fairing_Half.cfg"
+  },
+  {
+    "name": "TE_F1_Interstage",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_F1_Interstage.cfg"
+  },
+  {
+    "name": "TE_F1_PayloadFairing",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_F1_PayloadFairing.cfg"
+  },
+  {
+    "name": "TE_F1_S1_Engine",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_F1_S1_Engine.cfg"
+  },
+  {
+    "name": "TE_F1_S1_Tank",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_F1_S1_Tank.cfg"
+  },
+  {
+    "name": "TE_F1_S2_Engine",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_F1_S2_Engine.cfg"
+  },
+  {
+    "name": "TE_F1_S2_Tank",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Falcon1\\TE_F1_S2_Tank.cfg"
+  },
+  {
+    "name": "TE_Ghidorah_Erector",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\FALCON_CLAMP\\FALCON_CLAMP.cfg"
+  },
+  {
+    "name": "TE_Ghidorah_Erector_2",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\FALCON_CLAMP\\TE_Ghidorah_Erector_2.cfg"
+  },
+  {
+    "name": "TE_Ghidorah_Erector_3",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\FALCON_CLAMP\\TE_Ghidorah_Erector_3.cfg"
+  },
+  {
+    "name": "TE2_19_F9_CGT",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE2_19_F9_CGT.cfg"
+  },
+  {
+    "name": "TE2_19_F9_Merlin_1D",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE2_19_F9_Merlin_1D.cfg"
+  },
+  {
+    "name": "TE_19_F9_Fairing",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_Fairing.cfg"
+  },
+  {
+    "name": "TE_F9_Fairing_Adapter",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_Fairing_Adapter.cfg"
+  },
+  {
+    "name": "TE_19_F9_S1_Engine",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_S1_Engine.cfg"
+  },
+  {
+    "name": "TE_19_F9_S1_Interstage",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_S1_Interstage.cfg"
+  },
+  {
+    "name": "TE_19_F9_S1_Tank",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_S1_Tank.cfg"
+  },
+  {
+    "name": "TE_19_F9_S2_Engine",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_S2_Engine.cfg"
+  },
+  {
+    "name": "TE_19_F9_S2_Tank",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_F9_S2_Tank.cfg"
+  },
+  {
+    "name": "TE_19_FH_NoseCone",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_19_FH_NoseCone.cfg"
+  },
+  {
+    "name": "TE_21_F9_Extended_Fairing",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_21_F9_Extended_Fairing.cfg"
+  },
+  {
+    "name": "TE_21_Rideshare_Adapter_0625",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_21_Rideshare_Adapter_0625.cfg"
+  },
+  {
+    "name": "TE_21_Rideshare_Adapter_TOP",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_21_Rideshare_Adapter_TOP.cfg"
+  },
+  {
+    "name": "TE_19_F9_S1_Octaweb",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_23_F9_S1_Engine_Empty.cfg"
+  },
+  {
+    "name": "TE_F9_S2_RCS",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_23_F9_S2_RCS.cfg"
+  },
+  {
+    "name": "TE_FH_Decoupler",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TE_FH_Decoupler.cfg"
+  },
+  {
+    "name": "TT_21_Rideshare_Adapter_03125",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\Ghidorah9\\TT_21_Rideshare_Adapter_03125.cfg"
+  },
+  {
+    "name": "TE_19_C-Dragon_Heatshield",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C-Dragon_Heatshield.cfg"
+  },
+  {
+    "name": "TE_19_C-Dragon_Pod",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C-Dragon_Pod.cfg"
+  },
+  {
+    "name": "TE_CargoV2_Panel",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C-Dragon_SolarPanel.cfg"
+  },
+  {
+    "name": "TE_19_C-Dragon_Trunk",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C-Dragon_Trunk.cfg"
+  },
+  {
+    "name": "TE_19_C_Dragon_Decoupler",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C_Dragon_Decoupler.cfg"
+  },
+  {
+    "name": "TE_19_C-Dragon_Nosecone",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C_Dragon_Nosecone.cfg"
+  },
+  {
+    "name": "TE_19_C_Dragon_Solar_Shield",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganV2\\TE_19_C_Dragon_Solar_Shield.cfg"
+  },
+  {
+    "name": "TE_21_DXL_Docking",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganXL\\TE_21_DXL_Docking.cfg"
+  },
+  {
+    "name": "TE_21_DXL_RCS",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganXL\\TE_21_DXL_RCS.cfg"
+  },
+  {
+    "name": "TE_21_DXL_Storage",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganXL\\TE_21_DXL_Storage.cfg"
+  },
+  {
+    "name": "TE_21_DXL_Utility",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\GiganXL\\TE_21_DXL_Utility.cfg"
+  },
+  {
+    "name": "TE_20_CargoRodan",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_CARGO.cfg"
+  },
+  {
+    "name": "TE_18_DRAGONV2_POD",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_POD.cfg"
+  },
+  {
+    "name": "TE_CD2_POD_DROGUES",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_POD_DROGUES.cfg"
+  },
+  {
+    "name": "TE_18_DRAGONV2_POD_I4",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_POD_I4.cfg"
+  },
+  {
+    "name": "TE_CD2_POD_MAINS",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_POD_MAINS.cfg"
+  },
+  {
+    "name": "TE_18_DRAGONV2_HEATSHIELD",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_SHIELD.cfg"
+  },
+  {
+    "name": "TE_18_DRAGONV2_TRUNK",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Parts\\RodanV2\\TE_CD2_TRUNK.cfg"
+  },
+  {
+    "name": "Tundra Exploration",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\CCK\\Extra_CCK.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_B9Tanks.cfg"
+  },
+  {
+    "name": "tundraSupplyOre",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_B9TankTypes.cfg"
+  },
+  {
+    "name": "ModuleTankManager",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_CCTanks.cfg"
+  },
+  {
+    "name": "ModuleInventoryPart",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_CommandInventories.cfg"
+  },
+  {
+    "name": "MuMechModuleHullCameraZoom",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_Hullcam.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_KIS.cfg"
+  },
+  {
+    "name": "MASFlightComputer",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_MAS.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_MethaloxEngine.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_ModularFuelTanks+RealFuels.cfg"
+  },
+  {
+    "name": "WBIConvertibleStorage",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_Pathfinder.cfg"
+  },
+  {
+    "name": "MerlinPlume",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_RealPlume_Engines.cfg"
+  },
+  {
+    "name": "SoilRecycler",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_Snacks.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_TAC.cfg"
+  },
+  {
+    "name": "USI_SwapController",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Extra_USI.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Plumes\\MerlinPlume.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Plumes\\MerlinPlumeStock.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Barracuda.cfg"
+  },
+  {
+    "name": "dragonRCSTemplate",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\DragonRCSTemplate.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\GhidorahRCS.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\GhidorahRCS_S2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\GiganXL.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Kestrel.cfg"
+  },
+  {
+    "name": "rcs",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\kestrel_rcs_template.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Merlin1A.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Merlin1A_Nozzle_template.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Merlin1A_template.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\MerlinVac.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\MerlinVacTemplate.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Rodan.cfg"
+  },
+  {
+    "name": "rcs",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\Stage2_RCSTemplate.cfg"
+  },
+  {
+    "name": "superDracoTemplate",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Patches\\Waterfall\\superDracoTemplate.cfg"
+  },
+  {
+    "name": "TE_23_CD2_EVA_HATCH",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Props\\TE_23_CD2_EVA_HATCH.cfg"
+  },
+  {
+    "name": "TE_CD2_IVA_HATCH",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Props\\TE_CD2_IVA_HATCH.cfg"
+  },
+  {
+    "name": "TE_CD2_IVA_HATCH_2",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Props\\TE_CD2_IVA_HATCH_2.cfg"
+  },
+  {
+    "name": "TE_CD2_IVA_SCREEN",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Props\\TE_CD2_IVA_SCREEN.cfg"
+  },
+  {
+    "name": "TE_CD2_IVA_SEAT",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Props\\TE_CD2_IVA_SEAT.cfg"
+  },
+  {
+    "name": "TE_CD2_IVA",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Spaces\\TE_CD2_IVA.cfg"
+  },
+  {
+    "name": "TE_CD2_IVA_CUPOLA",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraExploration\\Spaces\\TE_CD2_IVA_CUPOLA.cfg"
+  },
+  {
+    "name": "Tundra Technologies",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "TT_G1_AFT",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Gaira\\TT_G1_AFT.cfg"
+  },
+  {
+    "name": "TT_G1_BASE",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Gaira\\TT_G1_BASE.cfg"
+  },
+  {
+    "name": "TT_G1_RCS",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Gaira\\TT_G1_RCS.cfg"
+  },
+  {
+    "name": "TT_G1_SOLAR",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Gaira\\TT_G1_SOLAR.cfg"
+  },
+  {
+    "name": "TT_G1_Thuster",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Gaira\\TT_G1_Thuster.cfg"
+  },
+  {
+    "name": "TT_G1_TOP",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Gaira\\TT_G1_TOP.cfg"
+  },
+  {
+    "name": "TT_19_IRI_ADAPTER",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_IRI_ADAPTER.cfg"
+  },
+  {
+    "name": "TT_19_IRI_AIRONE",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_IRI_AIRONE.cfg"
+  },
+  {
+    "name": "TT_19_IRI_ANTENNA_1",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_IRI_ANTENNA_1.cfg"
+  },
+  {
+    "name": "TT_19_IRI_ANTENNA_2",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_IRI_ANTENNA_2.cfg"
+  },
+  {
+    "name": "TT_19_IRI_BODY",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_IRI_BODY.cfg"
+  },
+  {
+    "name": "TT_19_IRI_SOLAR",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_IRI_SOLAR.cfg"
+  },
+  {
+    "name": "TT_19_NH_Antenna",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_Antenna.cfg"
+  },
+  {
+    "name": "TT_19_NH_BODY",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_BODY.cfg"
+  },
+  {
+    "name": "TT_19_NH_Generator",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_Generator.cfg"
+  },
+  {
+    "name": "TT_19_NH_RCS_1",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_RCS_1.cfg"
+  },
+  {
+    "name": "TT_19_NH_RCS_2",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_RCS_2.cfg"
+  },
+  {
+    "name": "TT_19_NH_RCS_3",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_RCS_3.cfg"
+  },
+  {
+    "name": "TT_19_NH_RCS_4",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_19_NH_RCS_4.cfg"
+  },
+  {
+    "name": "TT_20_SL_Dish",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Parts\\Sats\\TT_20_SL_Dish.cfg"
+  },
+  {
+    "name": "Supplies",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Patches\\Extra_USI.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Patches\\Gaira.cfg"
+  },
+  {
+    "name": "gairaRCSTemplate",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Patches\\GairaRCSTemplate.cfg"
+  },
+  {
+    "name": "ModuleGPSTransmitter",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Patches\\KerbalGPS.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Patches\\NH_ResourceScanners.cfg"
+  },
+  {
+    "name": "SCANsat",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Patches\\SCANsat.cfg"
+  },
+  {
+    "name": "TT_G1_HANDLE",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Props\\TT_G1_HANDLE.cfg"
+  },
+  {
+    "name": "TT_G1_HATCH",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Props\\TT_G1_HATCH.cfg"
+  },
+  {
+    "name": "TT_G1_HATCH_2",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Props\\TT_G1_HATCH_2.cfg"
+  },
+  {
+    "name": "TT_G1_LAMP",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Props\\TT_G1_LAMP.cfg"
+  },
+  {
+    "name": "TT_G1_IVA_AFT",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Spaces\\TT_G1_IVA_AFT.cfg"
+  },
+  {
+    "name": "TT_G1_IVA_BASE",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Spaces\\TT_G1_IVA_BASE.cfg"
+  },
+  {
+    "name": "TT_G1_IVA_TOP",
+    "filePath": "Tundra-ExplorationV7.0\\GameData\\TundraTechnologies\\Spaces\\TT_G1_IVA_TOP.cfg"
+  }
+]

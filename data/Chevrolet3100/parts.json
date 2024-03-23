@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Chevrolet 3100",
+    "filePath": "Chevrolet3100\\Parts\\Chevrolet3100\\Chevrolet3100.cfg"
+  },
+  {
+    "name": "Chevrolet3100IVA",
+    "filePath": "Chevrolet3100\\Spaces\\Chevrolet3100IVA\\internal.cfg"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\B9ProceduralWings.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\B9TankSwitcher.cfg"
+  },
+  {
+    "name": "akmeKerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\B9TankTypes.cfg"
+  },
+  {
+    "name": "LqdOxygen",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\CryoEngines.cfg"
+  },
+  {
+    "name": "Kerbosene,LqdOxygen=>Kerbolox Engines",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\FilterExtensions.cfg"
+  },
+  {
+    "name": "LqdOxygen",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\KerbalAtomics.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\LfoRcs.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\NearFutureAeronautics.cfg"
+  },
+  {
+    "name": "Hypergolic",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\NearFutureConstruction.cfg"
+  },
+  {
+    "name": "Hypergolic",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\NearFutureExploration.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\NearFutureLaunchVehicles.cfg"
+  },
+  {
+    "name": "Hyprazol",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\NearFutureSpacecraft.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\Resources.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\RestockPlus.cfg"
+  },
+  {
+    "name": "LqdOxygen",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\SpaceDust.cfg"
+  },
+  {
+    "name": "Hyprazol",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\Squad.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\SquadExpansions.cfg"
+  },
+  {
+    "name": "Kerbosene",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\USI_Karibou.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\USI_MKS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AkmeFuelDepot\\GameData\\AkmeFuelDepot\\Patches\\USI_SoundingRockets.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "AkmeFuelDepot\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "AkmeFuelDepot\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "AkmeFuelDepot\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "AkmeFuelDepot\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "AkmeFuelDepot\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "AkmeFuelDepot\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  }
+]

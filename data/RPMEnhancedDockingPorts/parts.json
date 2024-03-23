@@ -1,0 +1,10 @@
+[
+  {
+    "name": "JSIRadar",
+    "filePath": "RPMEnhancedDockingPorts\\JSIDockingPorts\\Configs\\JSICameraRadarDockingPortSSTU.cfg"
+  },
+  {
+    "name": "JSIRadar",
+    "filePath": "RPMEnhancedDockingPorts\\JSIDockingPorts\\Configs\\JSIRadarCameraDockingPort.cfg"
+  }
+]

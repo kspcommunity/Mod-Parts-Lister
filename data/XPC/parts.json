@@ -1,0 +1,110 @@
+[
+  {
+    "name": "EelooAsteroids",
+    "filePath": "XPC\\EelooAlt\\Asteroids.cfg"
+  },
+  {
+    "name": "Alu",
+    "filePath": "XPC\\EelooAlt\\PlanetConfigs\\Alu.cfg"
+  },
+  {
+    "name": "Beros",
+    "filePath": "XPC\\EelooAlt\\PlanetConfigs\\Beros.cfg"
+  },
+  {
+    "name": "Kyx",
+    "filePath": "XPC\\EelooAlt\\PlanetConfigs\\Kyx.cfg"
+  },
+  {
+    "name": "Aden",
+    "filePath": "XPC\\EveAlt\\PlanetConfigs\\Aden.cfg"
+  },
+  {
+    "name": "Neith",
+    "filePath": "XPC\\EveAlt\\PlanetConfigs\\Neith.cfg"
+  },
+  {
+    "name": "Nyke",
+    "filePath": "XPC\\Kopernicus\\DunaAlt\\PlanetConfigs\\03-Nyke.cfg"
+  },
+  {
+    "name": "Alu",
+    "filePath": "XPC\\Kopernicus\\EelooAlt\\PlanetConfigs\\02-Alu.cfg"
+  },
+  {
+    "name": "Beros",
+    "filePath": "XPC\\Kopernicus\\EelooAlt\\PlanetConfigs\\03-Beros.cfg"
+  },
+  {
+    "name": "Kyx",
+    "filePath": "XPC\\Kopernicus\\EelooAlt\\PlanetConfigs\\04-Kyx.cfg"
+  },
+  {
+    "name": "Aden",
+    "filePath": "XPC\\Kopernicus\\EveAlt\\PlanetConfigs\\02-Aden.cfg"
+  },
+  {
+    "name": "Neith",
+    "filePath": "XPC\\Kopernicus\\EveAlt\\PlanetConfigs\\03-Neith.cfg"
+  },
+  {
+    "name": "VoronoiCraters",
+    "filePath": "XPC\\Kopernicus\\EveAlt\\PlanetConfigs\\04-Gilly.cfg"
+  },
+  {
+    "name": "Mios",
+    "filePath": "XPC\\Kopernicus\\MiosPlanet\\PlanetConfigs\\01-Mios.cfg"
+  },
+  {
+    "name": "Glac",
+    "filePath": "XPC\\Kopernicus\\MiosPlanet\\PlanetConfigs\\02-Glac.cfg"
+  },
+  {
+    "name": "Serc",
+    "filePath": "XPC\\Kopernicus\\MiosPlanet\\PlanetConfigs\\03-Serc.cfg"
+  },
+  {
+    "name": "Richell",
+    "filePath": "XPC\\Kopernicus\\RichellPlanet\\PlanetConfigs\\01-Richell.cfg"
+  },
+  {
+    "name": "Iber",
+    "filePath": "XPC\\Kopernicus\\RichellPlanet\\PlanetConfigs\\02-Iber.cfg"
+  },
+  {
+    "name": "MiosRings",
+    "filePath": "XPC\\MiosPlanet\\Asteroids.cfg"
+  },
+  {
+    "name": "Glac",
+    "filePath": "XPC\\MiosPlanet\\PlanetConfigs\\Glac.cfg"
+  },
+  {
+    "name": "Mios",
+    "filePath": "XPC\\MiosPlanet\\PlanetConfigs\\Mios.cfg"
+  },
+  {
+    "name": "Serc",
+    "filePath": "XPC\\MiosPlanet\\PlanetConfigs\\Serc.cfg"
+  },
+  {
+    "name": "Alu",
+    "filePath": "XPC\\ModSupport\\CelestialBodies.cfg"
+  },
+  {
+    "name": "Alu",
+    "filePath": "XPC\\ModSupport\\DistantObjectEnhancement.cfg"
+  },
+  {
+    "name": "RichellAsteroids",
+    "filePath": "XPC\\RichellPlanet\\Asteroids.cfg"
+  },
+  {
+    "name": "Iber",
+    "filePath": "XPC\\RichellPlanet\\PlanetConfigs\\Iber.cfg"
+  },
+  {
+    "name": "Richell",
+    "filePath": "XPC\\RichellPlanet\\PlanetConfigs\\Richell.cfg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "A5CoreStage",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A5CoreStage.cfg"
+  },
+  {
+    "name": "A5CSEngine",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A5CSEngine.cfg"
+  },
+  {
+    "name": "A5Decoupler",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A5Decoupler.cfg"
+  },
+  {
+    "name": "A5SRB",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A5SRB.cfg"
+  },
+  {
+    "name": "A5UpperStage",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A5UpperStage.cfg"
+  },
+  {
+    "name": "A6CoreStage",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A6CoreStage.cfg"
+  },
+  {
+    "name": "A6Decoupler",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A6Decoupler.cfg"
+  },
+  {
+    "name": "A6SRB",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A6SRB.cfg"
+  },
+  {
+    "name": "A6UpperStage",
+    "filePath": "BaconLabs\\Parts\\Ariane\\A6UpperStage.cfg"
+  },
+  {
+    "name": "VDETEDecoupler",
+    "filePath": "BaconLabs\\Parts\\Vega\\VDETEDecoupler.cfg"
+  },
+  {
+    "name": "VegaPEDecoupler",
+    "filePath": "BaconLabs\\Parts\\Vega\\VPEDecoupler.cfg"
+  },
+  {
+    "name": "VStage1",
+    "filePath": "BaconLabs\\Parts\\Vega\\VStage1.cfg"
+  },
+  {
+    "name": "VStage2",
+    "filePath": "BaconLabs\\Parts\\Vega\\VStage2.cfg"
+  },
+  {
+    "name": "VStage3",
+    "filePath": "BaconLabs\\Parts\\Vega\\VStage3.cfg"
+  },
+  {
+    "name": "VStage4",
+    "filePath": "BaconLabs\\Parts\\Vega\\VStage4.cfg"
+  }
+]

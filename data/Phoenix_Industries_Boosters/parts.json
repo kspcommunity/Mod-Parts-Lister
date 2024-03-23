@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Phoenix Industries",
+    "filePath": "Phoenix_Industries_Boosters\\GameData\\CTN\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ctnEAPbooster",
+    "filePath": "Phoenix_Industries_Boosters\\GameData\\CTN\\Parts\\Boosters\\EAP\\part.cfg"
+  },
+  {
+    "name": "sm25Booster",
+    "filePath": "Phoenix_Industries_Boosters\\GameData\\CTN\\Parts\\Boosters\\s25\\part.cfg"
+  },
+  {
+    "name": "sem24Booser",
+    "filePath": "Phoenix_Industries_Boosters\\GameData\\CTN\\Parts\\Boosters\\SEM24\\part.cfg"
+  },
+  {
+    "name": "ctnsoyuzBooster",
+    "filePath": "Phoenix_Industries_Boosters\\GameData\\CTN\\Parts\\Boosters\\soyuz\\part.cfg"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "106000x",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\106000\\atmo.cfg"
+  },
+  {
+    "name": "106030x",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\106030\\atmo.cfg"
+  },
+  {
+    "name": "109010x",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\109010\\atmo.cfg"
+  },
+  {
+    "name": "109010x",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\109010\\ocean.cfg"
+  },
+  {
+    "name": "110070x",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\110070\\atmo.cfg"
+  },
+  {
+    "name": "Canyon",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Canyon\\atmo.cfg"
+  },
+  {
+    "name": "Heyu",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Heyu\\atmo.cfg"
+  },
+  {
+    "name": "Heyu",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Heyu\\ocean.cfg"
+  },
+  {
+    "name": "Neo",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Neo\\atmo.cfg"
+  },
+  {
+    "name": "Neo",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Neo\\ocean.cfg"
+  },
+  {
+    "name": "Perbi",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Perbi\\atmo.cfg"
+  },
+  {
+    "name": "Perbi",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Perbi\\ocean.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Revan\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Revan\\ocean.cfg"
+  },
+  {
+    "name": "Vera",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Vera\\atmo.cfg"
+  },
+  {
+    "name": "Vera",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Vera\\ocean.cfg"
+  },
+  {
+    "name": "Windswept",
+    "filePath": "LSR_Scatterer\\scatterer\\config\\Planets\\Windswept\\atmo.cfg"
+  }
+]

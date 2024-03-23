@@ -1,0 +1,30 @@
+[
+  {
+    "name": "#$/Body:HAS[#SigmaBinary[Primary]]/name$$/Body:HAS[#SigmaBinary[Secondary]]/name$",
+    "filePath": "imkSushi\\Configs\\Binarys\\BopPol.cfg"
+  },
+  {
+    "name": "#$/Body:HAS[#SigmaBinary[Primary]]/name$$/Body:HAS[#SigmaBinary[Secondary]]/name$",
+    "filePath": "imkSushi\\Configs\\Binarys\\DunaIke.cfg"
+  },
+  {
+    "name": "#$/Body:HAS[#SigmaBinary[Primary]]/name$$/Body:HAS[#SigmaBinary[Secondary]]/name$",
+    "filePath": "imkSushi\\Configs\\Binarys\\EveLaythe.cfg"
+  },
+  {
+    "name": "#$/Body:HAS[#SigmaBinary[Primary]]/name$$/Body:HAS[#SigmaBinary[Secondary]]/name$",
+    "filePath": "imkSushi\\Configs\\Binarys\\MaxmusMinmus.cfg"
+  },
+  {
+    "name": "Maxmus",
+    "filePath": "imkSushi\\Configs\\Mod Compatibility\\imkSushi_DistantObjectEnhancement.cfg"
+  },
+  {
+    "name": "Maxmus",
+    "filePath": "imkSushi\\Configs\\Mod Compatibility\\imkSushi_PlanetShine.cfg"
+  },
+  {
+    "name": "Maxmus",
+    "filePath": "imkSushi\\Configs\\Planets\\Maxmus.cfg"
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "Solid Silo",
+    "filePath": "InterstellarFuelSwitch\\Parts\\TankRevamp\\CCS.cfg"
+  },
+  {
+    "name": "Cryo Silo",
+    "filePath": "InterstellarFuelSwitch\\Parts\\TankRevamp\\CTS.cfg"
+  },
+  {
+    "name": "Gas Silo",
+    "filePath": "InterstellarFuelSwitch\\Parts\\TankRevamp\\PGTS.cfg"
+  },
+  {
+    "name": "Radioactive Silo",
+    "filePath": "InterstellarFuelSwitch\\Parts\\TankRevamp\\RFCS.cfg"
+  },
+  {
+    "name": "TORA",
+    "filePath": "InterstellarFuelSwitch\\Parts\\TankRevamp\\TORA.cfg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "ApolloRecreationKit\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "ApolloRecreationKit\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "ApolloRecreationKit\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "ARK_backdrop",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_backdrop.cfg"
+  },
+  {
+    "name": "ARK_backdropDouble",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_backdropDouble.cfg"
+  },
+  {
+    "name": "ARK_directorChair",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_directorChair.cfg"
+  },
+  {
+    "name": "ARK_filmCamera",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_filmCamera.cfg"
+  },
+  {
+    "name": "ARK_light",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_light.cfg"
+  },
+  {
+    "name": "ARK_slate",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_slate.cfg"
+  },
+  {
+    "name": "ARK_stageBlock",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_stageBlock.cfg"
+  },
+  {
+    "name": "ARK_tripod",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Parts\\ARK_tripod.cfg"
+  },
+  {
+    "name": "Film Set Equipment",
+    "filePath": "ApolloRecreationKit\\GameData\\Benjee10_ARK\\Patches\\MM-CommunityCategoryKit.cfg"
+  },
+  {
+    "name": "Containers",
+    "filePath": "ApolloRecreationKit\\GameData\\CommunityCategoryKit\\common-filters.cfg"
+  },
+  {
+    "name": "Cool Mod Things",
+    "filePath": "ApolloRecreationKit\\GameData\\CommunityCategoryKit\\extra-filters.cfg"
+  }
+]

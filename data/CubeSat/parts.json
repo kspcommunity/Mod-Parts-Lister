@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Battery",
+    "filePath": "CubeSat\\Battery\\Battery.cfg"
+  },
+  {
+    "name": "Empty",
+    "filePath": "CubeSat\\Empty\\EMPTY.cfg"
+  },
+  {
+    "name": "FuelTank",
+    "filePath": "CubeSat\\FuelTank\\FuelTank.cfg"
+  },
+  {
+    "name": "ProbeCore",
+    "filePath": "CubeSat\\ProbeCore\\ProbeCore.cfg"
+  },
+  {
+    "name": "PropUnit",
+    "filePath": "CubeSat\\PropUnit\\PropUnit.cfg"
+  },
+  {
+    "name": "SciJr",
+    "filePath": "CubeSat\\SciJr\\SciJr.cfg"
+  },
+  {
+    "name": "SolarPanel",
+    "filePath": "CubeSat\\SolarPanel\\SolarPanel.cfg"
+  }
+]

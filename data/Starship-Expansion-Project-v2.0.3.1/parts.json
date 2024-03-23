@@ -1,0 +1,206 @@
+[
+  {
+    "name": "ModuleTagEngineLiquidTurbo }\t",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\RaptorRO.cfg"
+  },
+  {
+    "name": "HardDrive",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\StarshipKerbalism.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\StarshipRO.cfg"
+  },
+  {
+    "name": "ModuleAvionics",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\StarshipRP1.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\SuperHeavyRO.cfg"
+  },
+  {
+    "name": "ModuleAvionics",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\SuperHeavyRP1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\RO-RP1\\WaterfallRO.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\Extras\\SEP_Cluster_LRTRRescale.cfg"
+  },
+  {
+    "name": "SEP_22_BOOSTER_CLUSTER",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_BOOSTER_CLUSTER.cfg"
+  },
+  {
+    "name": "SEP_22_BOOSTER_CORE",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_BOOSTER_CORE.cfg"
+  },
+  {
+    "name": "SEP_22_BOOSTER_GRIDFIN",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_BOOSTER_GRIDFIN.cfg"
+  },
+  {
+    "name": "SEP_22_BOOSTER_INTER",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_BOOSTER_INTER.cfg"
+  },
+  {
+    "name": "SEP_22_RAPTOR2_SL_RB",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_RAPTOR2_SL_RB.cfg"
+  },
+  {
+    "name": "SEP_22_RAPTOR2_SL_RC",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_RAPTOR2_SL_RC.cfg"
+  },
+  {
+    "name": "SEP_22_RAPTOR_VAC",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_RAPTOR_VAC.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_AFT_LEFT",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_AFT_LEFT.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_AFT_RIGHT",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_AFT_RIGHT.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_BODY",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_BODY.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_CARGO",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_CARGO.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_CREW",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_CREW.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_FWD_LEFT",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_FWD_LEFT.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_FWD_RIGHT",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_FWD_RIGHT.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_HEADER",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_HEADER.cfg"
+  },
+  {
+    "name": "SEP_22_SHIP_TANKER",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Parts\\SEP_22_SHIP_TANKER.cfg"
+  },
+  {
+    "name": "SEPLFOX",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\B9TankTypes.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\DRE.cfg"
+  },
+  {
+    "name": "ModuleTankManager",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Resources\\CCTanks.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Resources\\LifeSupport.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Resources\\MethaloxThrusters.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Resources\\ModularFuelTanks.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Resources\\TanksResources.cfg"
+  },
+  {
+    "name": "SEP_Metallic_Ship_Body",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\TexturesUnlimited.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Raptor.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\RCS.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\SH_cluster.cfg"
+  },
+  {
+    "name": "Shock 1",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\CryoRapEngineRich.cfg"
+  },
+  {
+    "name": "Shock 1",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\CryoRapFour.cfg"
+  },
+  {
+    "name": "plume2",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\CryoRapFuelRich.cfg"
+  },
+  {
+    "name": "Shock 1",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\CryoRapThree.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\CryoRapVac.cfg"
+  },
+  {
+    "name": "RCSPlume",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\RCS.cfg"
+  },
+  {
+    "name": "Shock 1",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\SuperheavyPlumeOne.cfg"
+  },
+  {
+    "name": "jet",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Templates\\Vent.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP\\GameData\\StarshipExpansionProject\\Patches\\Waterfall\\Vent.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_SIMPLE",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\IVA.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_DM_LAUNCH",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\SEP_CREW_IVA_DM_LAUNCH\\SEP_CREW_IVA_DM_LAUNCH.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_DM_LAUNCH_RPM",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\SEP_CREW_IVA_DM_LAUNCH\\SEP_CREW_IVA_DM_LAUNCH_RPM.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_DM_ORBIT",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\SEP_CREW_IVA_DM_ORBIT\\SEP_CREW_IVA_DM_ORBIT.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_DM_ORBIT_RPM",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\SEP_CREW_IVA_DM_ORBIT\\SEP_CREW_IVA_DM_ORBIT_RPM.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_SIMPLE",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\SEP_CREW_IVA_SIMPLE\\SEP_CREW_IVA_SIMPLE.cfg"
+  },
+  {
+    "name": "SEP_CREW_IVA_SIMPLE_RPM",
+    "filePath": "Starship-Expansion-Project-v2.0.3.1\\SEP_IVA\\Spaces\\SEP_CREW_IVA_SIMPLE\\SEP_CREW_IVA_SIMPLE_RPM.cfg"
+  }
+]

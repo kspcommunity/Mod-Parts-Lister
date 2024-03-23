@@ -1,0 +1,174 @@
+[
+  {
+    "name": "HLV_5MADAPTER",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\ADAPTER\\5M_ADAPTER.cfg"
+  },
+  {
+    "name": "HLV_Shell",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\AEROSHELL\\HLV2_AEROSHELL.cfg"
+  },
+  {
+    "name": "HLV_BowTank",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\BOW_TANK\\HLV2_BOWTANK.cfg"
+  },
+  {
+    "name": "HLV2_AFT_Cargo_container",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\CARGO\\AFT\\HLVCargoAft.cfg"
+  },
+  {
+    "name": "HLV2_BOW_Cargo_container",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\CARGO\\BOW\\HLVCargoBow.cfg"
+  },
+  {
+    "name": "CARGOPOD_HEATSHIELD",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\CARGO_POD\\HEATSHIELD\\HLV2_CARGO_HEAT.cfg"
+  },
+  {
+    "name": "HLV_CARGOPOD",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\CARGO_POD\\POD\\HLV2_CARGOPOD.cfg"
+  },
+  {
+    "name": "DROPTANK",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\COPERNICUS\\DROP_TANK\\DropTank.cfg"
+  },
+  {
+    "name": "HLV2_KORPERNICUS_HAB",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\COPERNICUS\\HAB_COP\\HABKORP.cfg"
+  },
+  {
+    "name": "HLV2_SADDLE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\COPERNICUS\\SADDLE\\HLV2_SADDLE.cfg"
+  },
+  {
+    "name": "HLV2_BACKCOVER",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\COVER_BACK\\BACKCOVER.cfg"
+  },
+  {
+    "name": "HLV2_FRONTCOVER",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\COVER_FRONT\\FRONTCOVER.cfg"
+  },
+  {
+    "name": "HLV_MAVDecoupler",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\DECOUPLER\\HLV2_DECOUPLER.cfg"
+  },
+  {
+    "name": "HLV2_DOCK",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\DOCK\\HLV2_DOCK.cfg"
+  },
+  {
+    "name": "MAV_Engine2",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\ENGINES\\BOW_Engine.cfg"
+  },
+  {
+    "name": "MAV_Engine",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\ENGINES\\MAV_Engine.cfg"
+  },
+  {
+    "name": "EXP_AEROSHELL",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\EXPLORER\\AEROSHELL\\EXP_AEROSHELL.cfg"
+  },
+  {
+    "name": "EXP_COMMS",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\EXPLORER\\COMMS\\EXP_COMMS.cfg"
+  },
+  {
+    "name": "HLV_CRANE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\EXPLORER\\CRANE\\EXP_CRANE.cfg"
+  },
+  {
+    "name": "HLV_CRANE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\EXPLORER\\CRANE\\EXP_CRANE13.cfg"
+  },
+  {
+    "name": "EXP_HEATSHIELD",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\EXPLORER\\HEATSHIELD\\EXP_HEATSHIELD.cfg"
+  },
+  {
+    "name": "EX_roverBody",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\EXPLORER\\ROVER\\EX_ROVER.cfg"
+  },
+  {
+    "name": "HLV2_Fairing_adapter",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\FAIRING_ADAPT\\HLV2_FAIRINGADAPT.cfg"
+  },
+  {
+    "name": "HLV_Frame",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\FRAME\\FRAME\\HLV2_frame.cfg"
+  },
+  {
+    "name": "HLV_ROVERFRAME",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\FRAME\\ROVER_FRAME\\HLV2_frame.cfg"
+  },
+  {
+    "name": "HLV2_SOLAR",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\FRAME_SOLAR\\FRAME_SOLAR.cfg"
+  },
+  {
+    "name": "HLV2_H2NOSECONE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\H2_NOSECONE\\HLV2_HNOSE.cfg"
+  },
+  {
+    "name": "HLV_GREENHOUSE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HAB\\GREENHOUSE\\HLV2_GREENHOUSE.cfg"
+  },
+  {
+    "name": "HLV_HAB",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HAB\\HAB\\HLV2_HAB.cfg"
+  },
+  {
+    "name": "HLV_SCICOMM",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HAB\\SCI_COMM\\HLV2_SCICOMM.cfg"
+  },
+  {
+    "name": "HLV_Heatshield",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HEATSHIELD\\HLV2_HEATSHIELD.cfg"
+  },
+  {
+    "name": "HLV_HEATCOVER",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HEATSHIELDTEST\\COVER\\HLV2_COVER.cfg"
+  },
+  {
+    "name": "HLV_HeatshieldTEST",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HEATSHIELDTEST\\SHIELD\\HLV2_SHIELD.cfg"
+  },
+  {
+    "name": "HLV2_Hydrogen_Tank",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\HYDROGEN_TANK\\HLV2_LH2TANK.cfg"
+  },
+  {
+    "name": "HLV2_LANDINLEG",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\LANDING_LEG\\HLV2_LLEG.cfg"
+  },
+  {
+    "name": "HLV_LandingSM",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\LANDING_SM\\HLV_LSM.cfg"
+  },
+  {
+    "name": "HLV2_MAVPod",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\MAV\\MAV_POD\\HLV2_MAV.cfg"
+  },
+  {
+    "name": "HLV2_MAVTank",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\MAV\\MAV_TANK\\HLV2_MAVTANK.cfg"
+  },
+  {
+    "name": "HLV2_NoseCone",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\NOSE_CONE\\HLV2_NOSECONE.cfg"
+  },
+  {
+    "name": "HLV2_NUKE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\NUKE\\HLV2_NUKE.cfg"
+  },
+  {
+    "name": "HLV2_DEORBIT_ENGINE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\PAYLOAD\\HLV2_PAYLOAD.cfg"
+  },
+  {
+    "name": "HLV2_ISRU",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\RESOURCES\\HLV2_ISRU\\HLV2_ISRU.cfg"
+  },
+  {
+    "name": "HLV_ROVERBASE",
+    "filePath": "MoonPrint_1.6.5\\GameData\\Moonprint\\HLV2\\ROVER_BASE\\ROVER_BASE.cfg"
+  }
+]

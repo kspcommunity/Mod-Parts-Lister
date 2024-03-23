@@ -1,0 +1,374 @@
+[
+  {
+    "name": "LEM_ASCENT_STAGE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_LEM\\LEM_A_STAGE.cfg"
+  },
+  {
+    "name": "LEM_DOCK_PORT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_LEM\\LEM_DOCKPORT.cfg"
+  },
+  {
+    "name": "LEM_D_ENGINE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_LEM\\LEM_D_ENGINE.cfg"
+  },
+  {
+    "name": "LEM_DESERT_STAGE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_LEM\\LEM_D_STAGE.cfg"
+  },
+  {
+    "name": "LEM_DESERT_STAGE_J",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_LEM\\LEM_D_STAGE_J.cfg"
+  },
+  {
+    "name": "LEM_SEPARAT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_LEM\\LEM_SEPARAT.cfg"
+  },
+  {
+    "name": "APOLLO_High_Gain_S_band_Antenna",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\APOLLO_ANTENNA.cfg"
+  },
+  {
+    "name": "APOLLO_Antenna2",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\APOLLO_ANTENNA2.cfg"
+  },
+  {
+    "name": "APOLLO_CM",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\APOLLO_COMMAND.cfg"
+  },
+  {
+    "name": "APOLLO_ENGINE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\APOLLO_ENGINE.cfg"
+  },
+  {
+    "name": "APOLLO_RCS",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\APOLLO_RCS.cfg"
+  },
+  {
+    "name": "APOLLO_SM",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\APOLLO_SERVISE.cfg"
+  },
+  {
+    "name": "APOLLO_BOTTOM_SHIELD",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\BOTTOM_SHEALT.cfg"
+  },
+  {
+    "name": "APOLLO_CAP_INTERIM_PARACHUTE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\CAP_INTERIM_PARACHUTE.cfg"
+  },
+  {
+    "name": "DOCKinPORT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\DockPort.cfg"
+  },
+  {
+    "name": "APOLLO_EAS_CAP",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\EAS.cfg"
+  },
+  {
+    "name": "APOLLO_EAS_TOWER_JETTISON_MOTOR",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\EAS_CENTER.cfg"
+  },
+  {
+    "name": "APOLLO_EAS_PITCH_CONTROL_MOTOR",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\EAS_PITCH.cfg"
+  },
+  {
+    "name": "INTERIM_PARACHUTE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\INTERIM_PARACHUTE.cfg"
+  },
+  {
+    "name": "APOLLO_cockpit_real",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\Internal\\internal_real.cfg"
+  },
+  {
+    "name": "APOLLO_cockpit_stock",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\Internal\\internal_stock.cfg"
+  },
+  {
+    "name": "Lem_cockpit",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\Internal\\LEMinternal.cfg"
+  },
+  {
+    "name": "Lem_cockpit_real",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\Internal\\LEMinternalreal.cfg"
+  },
+  {
+    "name": "APOLLO_chute",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\PARASHUTE.cfg"
+  },
+  {
+    "name": "S_IC_RETRO_MOTOR",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\S-IC_SEPARAT.cfg"
+  },
+  {
+    "name": "APOLLO_SubSat",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_PROJECT_APOLLO\\SUBSAT.cfg"
+  },
+  {
+    "name": "Instrument_Unit",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\Instrument_Unit.cfg"
+  },
+  {
+    "name": "S_IVB_Auxiliary_propulsion_system",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S-IVB___RCS_IB.cfg"
+  },
+  {
+    "name": "SLA",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\SLA.cfg"
+  },
+  {
+    "name": "SLAbasis",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\SLABasis.cfg"
+  },
+  {
+    "name": "SLA_Shield_panels",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\SLAShieldPanel.cfg"
+  },
+  {
+    "name": "SLA_DECOUPLER",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\SLA_DEC.cfg"
+  },
+  {
+    "name": "S_IC",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IC.cfg"
+  },
+  {
+    "name": "S_IC_DECOUPLER",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IC_DECOUPLER.cfg"
+  },
+  {
+    "name": "S_II",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_II.cfg"
+  },
+  {
+    "name": "S_II_DECOUPLER",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_II_DEC.cfg"
+  },
+  {
+    "name": "S_II_FAIRING_BASE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_II_FAIRING_BASE.cfg"
+  },
+  {
+    "name": "S_II_FAIRING_TOP",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_II_FAIRING_TOP.cfg"
+  },
+  {
+    "name": "S_II_FAIRING_TOP2",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_II_FAIRING_TOP2.cfg"
+  },
+  {
+    "name": "S_II_SEPARAT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_II_SEPARAT.cfg"
+  },
+  {
+    "name": "S_IVB",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IVB.cfg"
+  },
+  {
+    "name": "S_IVB_FAIRING_BASE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IVB_FAIRING_BASE.cfg"
+  },
+  {
+    "name": "S_IVB_FAIRING_TOP",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IVB_FAIRING_TOP.cfg"
+  },
+  {
+    "name": "S_IVB_FAIRING_TOP2",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IVB_FAIRING_TOP2.cfg"
+  },
+  {
+    "name": "S_IVB_SEPARAT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\DECQ_SATURN_V\\S_IVB_SEPARAT.cfg"
+  },
+  {
+    "name": "F1_Engine",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\F-1\\F-1.cfg"
+  },
+  {
+    "name": "F1_Engine_insulationVersion",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\F-1\\F-1Central.cfg"
+  },
+  {
+    "name": "J2_Engine",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\J_2\\J-2.cfg"
+  },
+  {
+    "name": "LRV",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\LRV\\LRV.cfg"
+  },
+  {
+    "name": "DigitalIndicator_DELTAVAP ",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\DigitalIndicator_DELTAVAP.cfg"
+  },
+  {
+    "name": "DigitalIndicator_ISPEED ",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\DigitalIndicator_ISPEED.cfg"
+  },
+  {
+    "name": "DigitalIndicator_VSpeedLM",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\DigitalIndicator_VSPEED.cfg"
+  },
+  {
+    "name": "FI_MECO",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\FI_MECO.cfg"
+  },
+  {
+    "name": "FI_PREC",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\FI_Prec.cfg"
+  },
+  {
+    "name": "FI_RCS",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\FI_RCS.cfg"
+  },
+  {
+    "name": "Label_ARRTMod",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_ARRTMODE.cfg"
+  },
+  {
+    "name": "Label_ARRT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_ARRTON.cfg"
+  },
+  {
+    "name": "Label_Backlight",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_Backlight.cfg"
+  },
+  {
+    "name": "Label_DispMode",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_Dispmode.cfg"
+  },
+  {
+    "name": "Label_EngMode",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_EngMode.cfg"
+  },
+  {
+    "name": "Label_FDAIErr",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_FDAIErr.cfg"
+  },
+  {
+    "name": "Label_FDAIRate",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_FDAIRate.cfg"
+  },
+  {
+    "name": "Label_TWR",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_TWR.cfg"
+  },
+  {
+    "name": "Label_XPTR",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\SmallPlate_XPtrScale.cfg"
+  },
+  {
+    "name": "swTumbleApolloCPLights",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbleApolloLights.cfg"
+  },
+  {
+    "name": "swTumbler_FDAIErrorSelector",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_3Pos_ErrorScaleSelector.cfg"
+  },
+  {
+    "name": "swTumbler_FDAIRateSelector",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_3Pos_RateScaleSelector.cfg"
+  },
+  {
+    "name": "swTumbler_XPointerScale",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_3Pos_XPointerScale.cfg"
+  },
+  {
+    "name": "swTumbler_V2_ARRT_MODE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_ARRT_MODE.cfg"
+  },
+  {
+    "name": "swTumbler_V2_ARRT_ON",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_ARRT_ON.cfg"
+  },
+  {
+    "name": "swTumbler_V2_BackLight",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Backlight.cfg"
+  },
+  {
+    "name": "swTumbler_V2_CLRTGT",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_CLRTGT.cfg"
+  },
+  {
+    "name": "swTumbler_V2_Engine",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Engine.cfg"
+  },
+  {
+    "name": "swTumbler_V2_EngineMode",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_EngineMode.cfg"
+  },
+  {
+    "name": "swTumbler_V2_Gimbal",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Gimbal.cfg"
+  },
+  {
+    "name": "swTumbler_V2_LEMLight",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_LEMLight.cfg"
+  },
+  {
+    "name": "swTumbler_V2_PrecControl",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_PREC.cfg"
+  },
+  {
+    "name": "swTumbler_V2_RES_MODE",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_RES_MODE.cfg"
+  },
+  {
+    "name": "swTumbler_V2_Roll0",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Roll0.cfg"
+  },
+  {
+    "name": "swTumbler_V2_Roll180",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Roll180.cfg"
+  },
+  {
+    "name": "swTumbler_V2_Roll270",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Roll270.cfg"
+  },
+  {
+    "name": "swTumbler_V2_Roll90",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_Roll90.cfg"
+  },
+  {
+    "name": "swTumbler_V2_TWR",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumbler_V2_TWR.cfg"
+  },
+  {
+    "name": "swTumble_PREC_CTRLAP",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASETControl\\swTumble_PREC_CTRLAP.cfg"
+  },
+  {
+    "name": "ASET_CabinPress",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\ASET_CabinPress\\ASET_CabinPress.cfg"
+  },
+  {
+    "name": "CSS SWitch 01",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\cssswitch01\\cssswitch01.cfg"
+  },
+  {
+    "name": "MCP_VertSpeedRWheel",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\Props\\MCP_RotaryWheel\\MCP_VertSpeedRWheel.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\RealFX.cfg"
+  },
+  {
+    "name": "TRR_Reflection",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\SaturnApolloRef.cfg"
+  },
+  {
+    "name": "TOWER_SV",
+    "filePath": "SV\\GameData\\ATS\\SATURN_V\\TOWER\\launchC.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "SV\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "ModuleAnalysisResource",
+    "filePath": "SV\\GameData\\CommunityResourcePack\\AsteroidScannerSetup.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "SV\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  }
+]

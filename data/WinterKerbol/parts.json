@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Snow",
+    "filePath": "WinterKerbol\\KopernicusFiles\\Eeloo\\EelooPineTrees.cfg"
+  },
+  {
+    "name": "Badlands",
+    "filePath": "WinterKerbol\\KopernicusFiles\\Eve\\HotEveChocolate.cfg"
+  },
+  {
+    "name": "BaseBeach",
+    "filePath": "WinterKerbol\\KopernicusFiles\\Kerbin\\WinterKerbin.cfg"
+  },
+  {
+    "name": "_LandClass",
+    "filePath": "WinterKerbol\\KopernicusFiles\\Laythe\\MilkyLaythe.cfg"
+  }
+]

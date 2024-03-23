@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Doth",
+    "filePath": "Thalassa\\Moons\\Doth\\Doth.cfg"
+  },
+  {
+    "name": "Letinic",
+    "filePath": "Thalassa\\Moons\\Letinic\\Letinic.cfg"
+  },
+  {
+    "name": "Wot",
+    "filePath": "Thalassa\\Moons\\Letinic\\Wot\\Wot.cfg"
+  },
+  {
+    "name": "Mof",
+    "filePath": "Thalassa\\Moons\\Mof\\Mof.cfg"
+  },
+  {
+    "name": "Spimm",
+    "filePath": "Thalassa\\Moons\\Spimm\\Spimm.cfg"
+  },
+  {
+    "name": "Thalassa",
+    "filePath": "Thalassa\\Thalassa.cfg"
+  }
+]

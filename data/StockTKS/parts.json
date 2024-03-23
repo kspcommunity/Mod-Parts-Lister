@@ -1,0 +1,34 @@
+[
+  {
+    "name": "StTKSpod",
+    "filePath": "StockTKS\\Parts\\1\\Pod.cfg"
+  },
+  {
+    "name": "StTKSrcs",
+    "filePath": "StockTKS\\Parts\\1\\RCS.cfg"
+  },
+  {
+    "name": "StTKSbullet",
+    "filePath": "StockTKS\\Parts\\2\\Cap.cfg"
+  },
+  {
+    "name": "StTKSfuel",
+    "filePath": "StockTKS\\Parts\\2\\Fuel.cfg"
+  },
+  {
+    "name": "StTKSdeorbit",
+    "filePath": "StockTKS\\Parts\\2\\SRB.cfg"
+  },
+  {
+    "name": "StTKSantenna",
+    "filePath": "StockTKS\\Parts\\2\\TKSantenna.cfg"
+  },
+  {
+    "name": "StTKSbase25",
+    "filePath": "StockTKS\\Parts\\3\\Base25.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "StockTKS\\Patches\\CLS.cfg"
+  }
+]

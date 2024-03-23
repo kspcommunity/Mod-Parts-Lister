@@ -1,0 +1,66 @@
+[
+  {
+    "name": "JPL",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "bluedog_Apollo_AARDV_Cargo_SSTU",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Other Mods\\BDB\\BDB.cfg"
+  },
+  {
+    "name": "JPL-FFT-ISRU",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Other Mods\\FarFutureTechnologies\\JPL-FFT-ISRU.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Other Mods\\KerbalReusability\\KerbalReusability.cfg"
+  },
+  {
+    "name": "KzProcFairingSide3",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Other Mods\\ProceduralFairings\\ProceduralFairings.cfg"
+  },
+  {
+    "name": "StageRecoveryPod",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Other Mods\\StageRecovery\\StageRecoveryPod.cfg"
+  },
+  {
+    "name": "RadialScienceBay_mk1",
+    "filePath": "JPL\\GameData\\Jimbodiah\\SSTU\\JPL-RadialScienceBay.cfg"
+  },
+  {
+    "name": "ModuleAlternator",
+    "filePath": "JPL\\GameData\\Jimbodiah\\SSTU\\TWK-ENG-Alternators.cfg"
+  },
+  {
+    "name": "USI_ModuleResourceWarehouse",
+    "filePath": "JPL\\GameData\\Jimbodiah\\SSTU\\TWK-MFT-A.cfg"
+  },
+  {
+    "name": "ModuleReactionWheel",
+    "filePath": "JPL\\GameData\\Jimbodiah\\SSTU\\TWK-ReactionWheels.cfg"
+  },
+  {
+    "name": "ModuleScienceConverter",
+    "filePath": "JPL\\GameData\\Jimbodiah\\SSTU\\TWK-ScienceLabs.cfg"
+  },
+  {
+    "name": "ScienceBoxRadial",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Stock\\JPL-ScienceBoxRadial.cfg"
+  },
+  {
+    "name": "vernierEngineLH2",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Stock\\JPL-VernierEngineLH2.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Stock\\TWK-LaunchClamp.cfg"
+  },
+  {
+    "name": "ModuleScienceConverter",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Stock\\TWK-Science.cfg"
+  },
+  {
+    "name": "ModuleScienceContainer",
+    "filePath": "JPL\\GameData\\Jimbodiah\\Stock\\TWK-ScienceBoxes.cfg"
+  }
+]

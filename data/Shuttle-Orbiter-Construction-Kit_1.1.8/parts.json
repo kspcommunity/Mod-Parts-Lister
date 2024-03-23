@@ -1,0 +1,458 @@
+[
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\Extras\\ColumbiaWings\\columbiaWings.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "B10_APASv2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_APASv2.cfg"
+  },
+  {
+    "name": "B10_IDA",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_IDA.cfg"
+  },
+  {
+    "name": "B10_NDS",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\B10_NDS.cfg"
+  },
+  {
+    "name": "B10_APAS",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Parts\\APAS\\Deprecated\\B10_APAS.cfg"
+  },
+  {
+    "name": "DIRECT_KJ10",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Parts\\Engines\\AJ10.cfg"
+  },
+  {
+    "name": "benjee10_AJ10_v2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Parts\\Engines\\AJ10_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Patches\\waterfall_KJ10.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_sharedAssets\\Patches\\waterfall_KJ10_v2.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_aftFuselage",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_aftFuselage.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_airlock-inline",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_airlock-inline.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_bodyFlap",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_bodyFlap.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_crewTube1",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_crewTube1.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_crewTube2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_crewTube2.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_crewTubeAdapter",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_crewTubeAdapter.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_crewTubeT",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_crewTubeT.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_crewTubeZ",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_crewTubeZ.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_deltaWing",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_deltaWing.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_elevon1",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_elevon1.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_elevon2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_elevon2.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_forwardFuselage",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_forwardFuselage.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_kuBand",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_kuBand.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_longeron",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_longeron.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_mainGear",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_mainGear.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_midFuselage",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_midFuselage.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_noseGear",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_noseGear.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_ODS",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_ODS.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_payloadTruss",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_payloadTruss.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_rudder",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_rudder.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_spaceLab",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_spaceLab.cfg"
+  },
+  {
+    "name": "benjee10_shuttle_spaceLab_Short",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Parts\\OV_spaceLab_short.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Patches\\WaterfallRCS.cfg"
+  },
+  {
+    "name": "OV_odsIVA",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Spaces\\OV_odsIVA.cfg"
+  },
+  {
+    "name": "OV_shuttleIVA",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Benjee10_shuttleOrbiter\\Spaces\\OV_shuttleIVA.cfg"
+  },
+  {
+    "name": "htProps_cabinet1x1",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_cabinetSystem.cfg"
+  },
+  {
+    "name": "htProps_CameraDSLR",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_Cameras.cfg"
+  },
+  {
+    "name": "htProps_cargoBag_small_white",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_cargoBags.cfg"
+  },
+  {
+    "name": "htProps_Handrail01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_handrails.cfg"
+  },
+  {
+    "name": "htProps_HatchCBM",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_Hatches.cfg"
+  },
+  {
+    "name": "htProps_tubeLight",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_lights.cfg"
+  },
+  {
+    "name": "htProps_MFD_Nav",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_MFDs.cfg"
+  },
+  {
+    "name": "htProps_fireExtinguisher",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_misc.cfg"
+  },
+  {
+    "name": "htProps_seat_command",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\HabTechProps\\Props\\Configs\\htProps_Seats.cfg"
+  },
+  {
+    "name": "ht_C1_boom",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC1boom.cfg"
+  },
+  {
+    "name": "ht_C1_elbow",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC1elbow.cfg"
+  },
+  {
+    "name": "ht_C1_LEE",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC1LEE.cfg"
+  },
+  {
+    "name": "ht_C1_pitch",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC1pitch.cfg"
+  },
+  {
+    "name": "ht_C1_rotator",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC1rotator.cfg"
+  },
+  {
+    "name": "ht_C2_boom",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC2boom.cfg"
+  },
+  {
+    "name": "ht_C2_joint",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC2joint.cfg"
+  },
+  {
+    "name": "ht_C2_LEE",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htC2LEE.cfg"
+  },
+  {
+    "name": "ht_PDGF",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Parts\\htPDGF.cfg"
+  },
+  {
+    "name": "ModuleIRServo_v3",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\htRobotics\\Patches\\IR_next.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\Lights\\waterfall-floodlight-1.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\Lights\\waterfall-spotlight-1.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\Lights\\waterfall-spotlight-2.cfg"
+  },
+  {
+    "name": "MainPlumeDyn",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-alcolox-lower-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-alcolox-lower-2.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-ethalox-sustainer-1.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrazine-monopropellant-upper-1.cfg"
+  },
+  {
+    "name": "outerGlow",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrolox-lower-1.cfg"
+  },
+  {
+    "name": "shockMain",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrolox-lower-2.cfg"
+  },
+  {
+    "name": "MainPlumeDyn",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrolox-lower-3.cfg"
+  },
+  {
+    "name": "shockMain",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrolox-lower-4.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrolox-rs25-1.cfg"
+  },
+  {
+    "name": "shockMain",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydrolox-upper-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hydyne-lower-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-aerozine50-lower-1.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-aerozine50-upper-1.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-HDA-UDMH-upper-1.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-IRFNA-UDMH-upper-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-UDMH-NTO-lower-1.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-UDMH-NTO-upper-1.cfg"
+  },
+  {
+    "name": "vernierplume2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-vernier-upper-1.cfg"
+  },
+  {
+    "name": "vernierplume2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-vernier-upper-2.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-hypergolic-white-upper-1.cfg"
+  },
+  {
+    "name": "mainEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-ion-xenon-1.cfg"
+  },
+  {
+    "name": "plumeVernier",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-exhaust-1.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-1.cfg"
+  },
+  {
+    "name": "innerGlow",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-2.cfg"
+  },
+  {
+    "name": "innerGlow",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-3.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-4.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-5-film-cooled.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-5.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-RD170-1.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-lower-vanguard-1.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-sustainer-1.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-sustainer-2-film-cooled.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-sustainer-2.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-upper-1.cfg"
+  },
+  {
+    "name": "newEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-upper-2.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-upper-3.cfg"
+  },
+  {
+    "name": "plumeVernier",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-vernier-1.cfg"
+  },
+  {
+    "name": "plumeVernier",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerolox-vernier-2.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerosene-nitric-acid-lower-1.cfg"
+  },
+  {
+    "name": "plume2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-kerosene-nitric-acid-upper-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-keroxide-lower-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-methalox-lower-BE4-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-methalox-lower-raptor-1.cfg"
+  },
+  {
+    "name": "plume1",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-methalox-upper-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-methalox-upper-BE4-1.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-methalox-upper-raptor-1.cfg"
+  },
+  {
+    "name": "vernierplume2",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-methalox-vernier-1.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-nozzle-glow-blue-1.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-nozzle-glow-orange-1.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-nozzle-glow-white-1.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-nozzle-glow-yellow-1.cfg"
+  },
+  {
+    "name": "outerGlow",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-ntr-lh2-1.cfg"
+  },
+  {
+    "name": "rcs",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\Templates\\waterfall-rcs-jet-1.cfg"
+  },
+  {
+    "name": "Basic Billboard",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\WaterfallModels.cfg"
+  },
+  {
+    "name": "Waterfall/Additive (Dynamic)",
+    "filePath": "Shuttle-Orbiter-Construction-Kit_1.1.8\\GameData\\Waterfall\\WaterfallShaders.cfg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "2097 Dres",
+    "filePath": "KerbinIsReal\\Dres.cfg"
+  },
+  {
+    "name": "Duna",
+    "filePath": "KerbinIsReal\\DunaIke.cfg"
+  },
+  {
+    "name": "Eeloo",
+    "filePath": "KerbinIsReal\\Eeloo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "KerbinIsReal\\Eve.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "KerbinIsReal\\Jool.cfg"
+  },
+  {
+    "name": "StockKerbin",
+    "filePath": "KerbinIsReal\\Kerbin.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "KerbinIsReal\\Laythe.cfg"
+  },
+  {
+    "name": "Moho",
+    "filePath": "KerbinIsReal\\Moho.cfg"
+  },
+  {
+    "name": "Mun",
+    "filePath": "KerbinIsReal\\MunMinmus.cfg"
+  }
+]

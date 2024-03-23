@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HVI",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "fuelLine",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Parts\\CompoundParts\\fuelLine\\fuelLine.cfg"
+  },
+  {
+    "name": "strutConnector",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Parts\\CompoundParts\\strutConnector\\strutConnector.cfg"
+  },
+  {
+    "name": "solarPanels4",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Parts\\Electrical\\1x6SolarHVIPanels\\1x6SolarHVIPanels.cfg"
+  },
+  {
+    "name": "fuelTank3-2",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Parts\\FuleTank\\HVI 5588-64\\HVI 5588-64.cfg"
+  },
+  {
+    "name": "fuelTank1-2",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Parts\\FuleTank\\HVI 8899\\HVI 8899.cfg"
+  },
+  {
+    "name": "HVI-Pod",
+    "filePath": "BetterFlags+HVI+GuineaPigFlags\\GameData\\HVI Mod\\Parts\\Pods\\HVI-Pod\\HVI-Pod.cfg"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "def // do not change this!",
+    "filePath": "TBAE\\BulletDefs\\TBAE_Bullets.cfg"
+  },
+  {
+    "name": "baha118mm",
+    "filePath": "TBAE\\Parts\\118mmAC\\118mmAC.cfg"
+  },
+  {
+    "name": "baha23x126mmAmmo",
+    "filePath": "TBAE\\Parts\\23x126mmAmmo\\23mm.cfg"
+  },
+  {
+    "name": "baha40x234mmAmmo",
+    "filePath": "TBAE\\Parts\\40x234mmAmmo\\40mm.cfg"
+  },
+  {
+    "name": "76.2mm",
+    "filePath": "TBAE\\Parts\\76.2mm\\76.2mm.cfg"
+  },
+  {
+    "name": "tigerTank",
+    "filePath": "TBAE\\Parts\\88mm\\88mm.cfg"
+  },
+  {
+    "name": "bahaAGM-114E",
+    "filePath": "TBAE\\Parts\\AGM-114\\AGM-114E.cfg"
+  },
+  {
+    "name": "bahaAGM45",
+    "filePath": "TBAE\\Parts\\AGM-45 Shrike\\amraam.cfg"
+  },
+  {
+    "name": "bahaAGM-65C",
+    "filePath": "TBAE\\Parts\\AGM-65\\AGM-65B.cfg"
+  },
+  {
+    "name": "bahaAGM-65B",
+    "filePath": "TBAE\\Parts\\AGM-65\\AGM-65C.cfg"
+  },
+  {
+    "name": "bahaAGM-82",
+    "filePath": "TBAE\\Parts\\AGM-82\\AGM-82.cfg"
+  },
+  {
+    "name": "bahaAGM-87",
+    "filePath": "TBAE\\Parts\\AGM-87 Nebula\\hellfireMissile.cfg"
+  },
+  {
+    "name": "Aim-117A",
+    "filePath": "TBAE\\Parts\\Aim-117\\Aim-117A.cfg"
+  },
+  {
+    "name": "bahaAIM-120ER",
+    "filePath": "TBAE\\Parts\\AIM-120ER\\AIM-120ER.cfg"
+  },
+  {
+    "name": "bahaAim-144F",
+    "filePath": "TBAE\\Parts\\AIM-144F\\pac3.cfg"
+  },
+  {
+    "name": "bahaAim9M2",
+    "filePath": "TBAE\\Parts\\Aim-9M\\Aim-9M.cfg"
+  },
+  {
+    "name": "bahaAim-9R-3",
+    "filePath": "TBAE\\Parts\\AIM-9R-3\\Aim-9R-3.cfg"
+  },
+  {
+    "name": "bahaAM-M",
+    "filePath": "TBAE\\Parts\\AM-M\\AM-M.cfg"
+  },
+  {
+    "name": "bahaANW-3A-1",
+    "filePath": "TBAE\\Parts\\ANW-3A-1 Odax\\ANW-3A-1.cfg"
+  },
+  {
+    "name": "AAMS",
+    "filePath": "TBAE\\Parts\\Atlas Anti-Missile System\\AAMS.cfg"
+  },
+  {
+    "name": "bahaAI-ECMJammer",
+    "filePath": "TBAE\\Parts\\Atlas Infused ECM\\AI-ECM.cfg"
+  },
+  {
+    "name": "bahaATM-16A",
+    "filePath": "TBAE\\Parts\\ATM-16A Forge\\ATM-16A.cfg"
+  },
+  {
+    "name": "bahaGau-27",
+    "filePath": "TBAE\\Parts\\Gau-27\\Gau-27.cfg"
+  },
+  {
+    "name": "bahaGBM-8A",
+    "filePath": "TBAE\\Parts\\GBM-8 Cleanser\\GBM-8A.cfg"
+  },
+  {
+    "name": "GBU-12B",
+    "filePath": "TBAE\\Parts\\GBU-12\\GBU-12.cfg"
+  },
+  {
+    "name": "bahaHAC-55",
+    "filePath": "TBAE\\Parts\\HAC-55\\HAC-55.cfg"
+  },
+  {
+    "name": "harp155mmheavy",
+    "filePath": "TBAE\\Parts\\Heavy155mm\\heavy155mm.cfg"
+  },
+  {
+    "name": "HV75mm",
+    "filePath": "TBAE\\Parts\\HV75mm\\HV75mm.cfg"
+  },
+  {
+    "name": "j627ares",
+    "filePath": "TBAE\\Parts\\J-627\\J-627 Ares.cfg"
+  },
+  {
+    "name": "soundDry1",
+    "filePath": "TBAE\\Parts\\J-627\\j627ares_wf.cfg"
+  },
+  {
+    "name": "bahaLAA-M",
+    "filePath": "TBAE\\Parts\\LAA-M\\LAA-M.cfg"
+  },
+  {
+    "name": "bahaLAA-M2",
+    "filePath": "TBAE\\Parts\\LAA-M2\\LAA-M2.cfg"
+  },
+  {
+    "name": "Light20mm",
+    "filePath": "TBAE\\Parts\\Light20mm\\Light20mm.cfg"
+  },
+  {
+    "name": "bahaLightRifle",
+    "filePath": "TBAE\\Parts\\Long Range Light Rifle\\Light Rifle.cfg"
+  },
+  {
+    "name": "bahaMRLR",
+    "filePath": "TBAE\\Parts\\Long Range Medium Rifle\\40mm Medium Rifle.cfg"
+  },
+  {
+    "name": "ssrmanpads",
+    "filePath": "TBAE\\Parts\\MANPADS Radar\\MANPADS SRR.cfg"
+  },
+  {
+    "name": "bdRadome1",
+    "filePath": "TBAE\\Parts\\radome166\\radome1.cfg"
+  },
+  {
+    "name": "bdRadome1inline",
+    "filePath": "TBAE\\Parts\\radome166\\radome1inline.cfg"
+  },
+  {
+    "name": "bdRadome2snub",
+    "filePath": "TBAE\\Parts\\radome166\\radome1snub.cfg"
+  },
+  {
+    "name": "bahaS-125",
+    "filePath": "TBAE\\Parts\\SAMs\\S-125.cfg"
+  },
+  {
+    "name": "bahaS-200",
+    "filePath": "TBAE\\Parts\\SAMs\\S-200.cfg"
+  },
+  {
+    "name": "bahaS-300",
+    "filePath": "TBAE\\Parts\\SAMs\\S-300.cfg"
+  },
+  {
+    "name": "bahaS-400",
+    "filePath": "TBAE\\Parts\\SAMs\\S-400.cfg"
+  },
+  {
+    "name": "bahaS-75",
+    "filePath": "TBAE\\Parts\\SAMs\\S-75.cfg"
+  },
+  {
+    "name": "bahaSLDFgaussc",
+    "filePath": "TBAE\\Parts\\SLDF Gauss Rifle\\SLDFgauss (C).cfg"
+  },
+  {
+    "name": "bahaSLDFgauss",
+    "filePath": "TBAE\\Parts\\SLDF Gauss Rifle\\SLDFgauss.cfg"
+  },
+  {
+    "name": "bahaSLDFSBgaussc",
+    "filePath": "TBAE\\Parts\\SLDF Gauss Rifle\\SLDFSBgauss (C).cfg"
+  },
+  {
+    "name": "bahaSLDFAngelECM",
+    "filePath": "TBAE\\Parts\\SLDF Guardian ECM (C)\\SLDFAECM.cfg"
+  },
+  {
+    "name": "bahaSLDFGuardianECMc",
+    "filePath": "TBAE\\Parts\\SLDF Guardian ECM (C)\\SLDFECMc.cfg"
+  },
+  {
+    "name": "bahaerllaserc",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\ER L Laser (C).cfg"
+  },
+  {
+    "name": "bahaerllaser",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\ER L Laser.cfg"
+  },
+  {
+    "name": "bahaermlaserc",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\ER M Laser (C).cfg"
+  },
+  {
+    "name": "bahaermlaser",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\ER M Laser.cfg"
+  },
+  {
+    "name": "bahaerslaserc",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\ER S Laser (C).cfg"
+  },
+  {
+    "name": "bahaerslaser",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\ER S Laser.cfg"
+  },
+  {
+    "name": "bahallaser",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\L Laser.cfg"
+  },
+  {
+    "name": "bahamlaser",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\M Laser.cfg"
+  },
+  {
+    "name": "bahaslaser",
+    "filePath": "TBAE\\Parts\\SLDF Lasers\\S Laser.cfg"
+  },
+  {
+    "name": "bahaSLDFLBX",
+    "filePath": "TBAE\\Parts\\SLDF LBX-10 AC\\SLDFlbx.cfg"
+  },
+  {
+    "name": "bahaSLDFLBXc",
+    "filePath": "TBAE\\Parts\\SLDF LBX-20 AC (C)\\SLDFlbxc.cfg"
+  },
+  {
+    "name": "bahaSLDFLRM15c",
+    "filePath": "TBAE\\Parts\\SLDF LRM-15 (C)\\SLDF LRM-15 (C).cfg"
+  },
+  {
+    "name": "bahaSLDFprc",
+    "filePath": "TBAE\\Parts\\SLDF Plasma Rifle (C)\\SLDFplasmarifle (C).cfg"
+  },
+  {
+    "name": "TBAESLDFplsl",
+    "filePath": "TBAE\\Parts\\SLDF PLSL (C)\\SLDFPLSL.cfg"
+  },
+  {
+    "name": "TBAESLDFplslheavyrepeater",
+    "filePath": "TBAE\\Parts\\SLDF PLSL (C)\\SLDFplslheavyrepeater.cfg"
+  },
+  {
+    "name": "TBAESLDFplsllightrepeater",
+    "filePath": "TBAE\\Parts\\SLDF PLSL (C)\\SLDFplsllightrepeater.cfg"
+  },
+  {
+    "name": "TBAESLDFplslrepeater",
+    "filePath": "TBAE\\Parts\\SLDF PLSL (C)\\SLDFplslrepeater.cfg"
+  },
+  {
+    "name": "bahaSLDFPPC",
+    "filePath": "TBAE\\Parts\\SLDF PPC\\SLDFppc.cfg"
+  },
+  {
+    "name": "bahaSLDFPPCc",
+    "filePath": "TBAE\\Parts\\SLDF PPC (C)\\SLDFppc (C).cfg"
+  },
+  {
+    "name": "bahaSLDFTbolt10c",
+    "filePath": "TBAE\\Parts\\SLDF Thunderbolt 10 (C)\\SLDF Tbolt10 (C).cfg"
+  },
+  {
+    "name": "bahaSLDFUAC",
+    "filePath": "TBAE\\Parts\\SLDF UAC-10 (C)\\SLDFUAC.cfg"
+  },
+  {
+    "name": "bahaSRCM-09B AL",
+    "filePath": "TBAE\\Parts\\SRCM-09B AL\\SRCM-09B AL.cfg"
+  },
+  {
+    "name": "bahaTD-03C",
+    "filePath": "TBAE\\Parts\\TD-03C 23mm\\TD-03C.cfg"
+  },
+  {
+    "name": "bahaTLC",
+    "filePath": "TBAE\\Parts\\ThermalLaserCannon\\TLC.cfg"
+  },
+  {
+    "name": "bahaZu23A",
+    "filePath": "TBAE\\Parts\\Zu-23A GBAAG\\Zu-23A GBAAG.cfg"
+  },
+  {
+    "name": "23x126Ammo",
+    "filePath": "TBAE\\Resources\\TBAEAmmo.cfg"
+  }
+]

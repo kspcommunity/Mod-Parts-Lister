@@ -1,0 +1,78 @@
+[
+  {
+    "name": "CC_BO_BE3U",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\BE3U.cfg"
+  },
+  {
+    "name": "CC_BO_BE4",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\BE4.cfg"
+  },
+  {
+    "name": "CC_BO_Lander1",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\BM_BigLander.cfg"
+  },
+  {
+    "name": "CC_BO_Lander2",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\BM_MedLander.cfg"
+  },
+  {
+    "name": "CC_BO_LANDER",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\LanderCan_1.cfg"
+  },
+  {
+    "name": "CC_BO_BotLL",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\NG_BotLL.cfg"
+  },
+  {
+    "name": "CC_BO_FT",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\NG_FuelTank.cfg"
+  },
+  {
+    "name": "CC_BO_MFT",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\NG_MediumFuelTank.cfg"
+  },
+  {
+    "name": "CC_BO_WNGL",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Parts\\BO_Canonic\\NG_Winglet.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\CCGB120.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\CCGB33.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\ICPS.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\ICPS_LKH.cfg"
+  },
+  {
+    "name": "Ion-Xenon-Hall",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\LRE_GIE.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\LRE_NautilusEngine.cfg"
+  },
+  {
+    "name": "Hydrogen-NTR",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\LRE_TitanEngine.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\RL10.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\RealPlumesConfig\\RL10_mini.cfg"
+  },
+  {
+    "name": "BO_LanderCan1",
+    "filePath": "CC_BO_Release_V1_Alpha\\GameData\\CapsuleCorp\\Spaces\\BO_LanderCan_1\\internal.cfg"
+  }
+]

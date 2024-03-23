@@ -1,0 +1,34 @@
+[
+  {
+    "name": "501tt",
+    "filePath": "BHS\\Parts\\501tt\\model.cfg"
+  },
+  {
+    "name": "50sChevyPU",
+    "filePath": "BHS\\Parts\\50sChevyPU\\model.cfg"
+  },
+  {
+    "name": "Crow",
+    "filePath": "BHS\\Parts\\Alpha body\\model.cfg"
+  },
+  {
+    "name": "Car Chassie",
+    "filePath": "BHS\\Parts\\Car Chassie\\model.cfg"
+  },
+  {
+    "name": "Dragster Frame",
+    "filePath": "BHS\\Parts\\Dragster Frame\\model.cfg"
+  },
+  {
+    "name": "Khevrolet",
+    "filePath": "BHS\\Parts\\Khevrolet\\model.cfg"
+  },
+  {
+    "name": "Race frame",
+    "filePath": "BHS\\Parts\\MHG01chassie\\model.cfg"
+  },
+  {
+    "name": "orf",
+    "filePath": "BHS\\Parts\\ORF\\model.cfg"
+  }
+]

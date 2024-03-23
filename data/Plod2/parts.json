@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bord",
+    "filePath": "Plod2\\Bord.cfg"
+  },
+  {
+    "name": "Pilionis",
+    "filePath": "Plod2\\Pilionis.cfg"
+  },
+  {
+    "name": "Plod II",
+    "filePath": "Plod2\\Plod II.cfg"
+  },
+  {
+    "name": "Reast",
+    "filePath": "Plod2\\Reast.cfg"
+  },
+  {
+    "name": "Sbeve",
+    "filePath": "Plod2\\Sbeve.cfg"
+  },
+  {
+    "name": "Toxin",
+    "filePath": "Plod2\\Toxin.cfg"
+  }
+]

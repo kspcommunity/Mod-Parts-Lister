@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Essentials",
+    "filePath": "MainSailor\\Essentials\\MS_Essentials.cfg"
+  },
+  {
+    "name": "MainSailorFairingConicBlk",
+    "filePath": "MainSailor\\Fairings\\Black\\Conic.cfg"
+  },
+  {
+    "name": "MainSailorFairingEggBlk",
+    "filePath": "MainSailor\\Fairings\\Black\\Egg.cfg"
+  },
+  {
+    "name": "MainSailorFairing001BK",
+    "filePath": "MainSailor\\Fairings\\Black\\SoyuzFairing.cfg"
+  },
+  {
+    "name": "MainSailorFairingConicGamma",
+    "filePath": "MainSailor\\Fairings\\Gamma\\Conic.cfg"
+  },
+  {
+    "name": "MainSailorFairingEggGamma",
+    "filePath": "MainSailor\\Fairings\\Gamma\\Egg.cfg"
+  },
+  {
+    "name": "MainSailorFairing001",
+    "filePath": "MainSailor\\Fairings\\Gamma\\SoyuzFairing.cfg"
+  },
+  {
+    "name": "MainSailorFairingConicWht",
+    "filePath": "MainSailor\\Fairings\\White\\Conic.cfg"
+  },
+  {
+    "name": "MainSailorFairingEggWht",
+    "filePath": "MainSailor\\Fairings\\White\\Egg.cfg"
+  },
+  {
+    "name": "MainSailorFairing001SyzWht",
+    "filePath": "MainSailor\\Fairings\\White\\SoyuzFairing.cfg"
+  },
+  {
+    "name": "Gamma_Series",
+    "filePath": "MainSailor\\Gamma\\MS_Gamma.cfg"
+  },
+  {
+    "name": "MS_Historical",
+    "filePath": "MainSailor\\Historical\\MS_Historical.cfg"
+  },
+  {
+    "name": "Theta_Series",
+    "filePath": "MainSailor\\Theta\\STTextures.cfg"
+  }
+]

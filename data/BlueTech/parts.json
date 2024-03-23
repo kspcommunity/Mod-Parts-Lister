@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BlueDrill",
+    "filePath": "BlueTech\\Parts\\gasdrill\\RadialDrill.cfg"
+  },
+  {
+    "name": "BlueScoop",
+    "filePath": "BlueTech\\Parts\\gasintake\\engineNacelle.cfg"
+  }
+]

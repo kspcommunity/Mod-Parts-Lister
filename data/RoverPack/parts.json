@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ROVERFRIGTH-A",
+    "filePath": "RoverPack\\ROVERFRIGTH-A\\ROVERFRIGTH-A.cfg"
+  },
+  {
+    "name": "ROVERPOD-A",
+    "filePath": "RoverPack\\ROVERPOD-A\\ROVERPOD-A.cfg"
+  },
+  {
+    "name": "ROVERPOD-B",
+    "filePath": "RoverPack\\ROVERPOD-B\\ROVERPOD-B.cfg"
+  },
+  {
+    "name": "solar",
+    "filePath": "RoverPack\\SOLAR\\SOLAR.cfg"
+  }
+]

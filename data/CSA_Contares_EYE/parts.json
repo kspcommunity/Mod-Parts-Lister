@@ -1,0 +1,178 @@
+[
+  {
+    "name": "CONTARES-EYE",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ASTRIS_TANK_1M",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\ASTRIS_TANK_1M.cfg"
+  },
+  {
+    "name": "ASTRIS_TRIEBWERK_L",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\ASTRIS_TRIEBWERK_L.cfg"
+  },
+  {
+    "name": "FILM_KAPSEL",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\FILM_KAPSEL.cfg"
+  },
+  {
+    "name": "FILM_SAS",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\FILM_SAS.cfg"
+  },
+  {
+    "name": "FILM_SRB",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\FILM_SRB.cfg"
+  },
+  {
+    "name": "FILM_SRB_DECU",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\FILM_SRB_DECU.cfg"
+  },
+  {
+    "name": "FILM_STEREO_KAMERA",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FILM\\FILM_STEREO_KAMERA.cfg"
+  },
+  {
+    "name": "FSW-SPYU3",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FSW\\DSW-SPYU3.cfg"
+  },
+  {
+    "name": "FSW-DECOU",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FSW\\FSW-DECOU.cfg"
+  },
+  {
+    "name": "FSW-REPO3",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FSW\\FSW-REPO3.cfg"
+  },
+  {
+    "name": "FSW-RERO3",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FSW\\FSW-RERO3.cfg"
+  },
+  {
+    "name": "FSW-SEPA3",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\FSW\\FSW-SEPA3.cfg"
+  },
+  {
+    "name": "C-DS-low-micro",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\Parachutes\\C-DS-low-micro.cfg"
+  },
+  {
+    "name": "C-DS-low-nano",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\Parachutes\\C-DS-low-nano.cfg"
+  },
+  {
+    "name": "C-CAM_1",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\C-CAM_1.cfg"
+  },
+  {
+    "name": "C-CAM_1hatch",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\C-CAM_1hatch.cfg"
+  },
+  {
+    "name": "C_AGENA_ENGINE",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\C_AGENA_ENGINE.cfg"
+  },
+  {
+    "name": "C_AGENA_TANK",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\C_AGENA_TANK.cfg"
+  },
+  {
+    "name": "C-CAM_2S",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\C_CAM_2S.cfg"
+  },
+  {
+    "name": "FiReCa_1",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\FiReCa_1.cfg"
+  },
+  {
+    "name": "FiReHe_1",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\FiReHe_1.cfg"
+  },
+  {
+    "name": "FiReRo_1",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\FiReRo_1.cfg"
+  },
+  {
+    "name": "SAR_US_radial",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\SAR_US_radial.cfg"
+  },
+  {
+    "name": "SAS_US_09375",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\SAS_US_09375.cfg"
+  },
+  {
+    "name": "YNTR-P09",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YANTAR_CMP.cfg"
+  },
+  {
+    "name": "YANTAR_DEC",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YANTAR_DEC.cfg"
+  },
+  {
+    "name": "YANTAR_DIR",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YANTAR_DIR.cfg"
+  },
+  {
+    "name": "YNTR-T80",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YANTAR_OBJ.cfg"
+  },
+  {
+    "name": "YANTAR_PCA",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YANTAR_PCA.cfg"
+  },
+  {
+    "name": "YANTAR_RAL",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YANTAR_RAL.cfg"
+  },
+  {
+    "name": "YFR_CAP",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YFR_CAP.cfg"
+  },
+  {
+    "name": "YFR_CAPSULE",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YFR_CAPSULE.cfg"
+  },
+  {
+    "name": "YFR_DECU",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YFR_DECU.cfg"
+  },
+  {
+    "name": "YFR_RETRO",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\YFR_RETRO.cfg"
+  },
+  {
+    "name": "ZENIT_1",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\ZENIT_1.cfg"
+  },
+  {
+    "name": "ZENIT_DEC",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\ZENIT_DEC.cfg"
+  },
+  {
+    "name": "ZENIT_SM",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\SPY\\ZENIT_SM.cfg"
+  },
+  {
+    "name": "11D428",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\YNTR\\11D428.cfg"
+  },
+  {
+    "name": "Pokemon3",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\YNTR\\Pokemon3.cfg"
+  },
+  {
+    "name": "VOLGA",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\YNTR\\VOLGA.cfg"
+  },
+  {
+    "name": "YNTR_SP",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Parts\\YNTR\\YNTR_SP.cfg"
+  },
+  {
+    "name": "MuMechModuleHullCameraZoom",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Patches\\HullCameraVDS.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_EYE\\GameData\\Contares_EYE\\Patches\\SPY_plume.cfg"
+  }
+]

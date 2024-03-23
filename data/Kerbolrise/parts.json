@@ -1,0 +1,170 @@
+[
+  {
+    "name": "BURANFrontGear",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Gear\\GearFront.cfg"
+  },
+  {
+    "name": "KR_Parashute",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Parashute\\PARASHUTE.cfg"
+  },
+  {
+    "name": "KR_RAMP_Base",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_base.cfg"
+  },
+  {
+    "name": "KR_RAMP_Base_left_side",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_baseL.cfg"
+  },
+  {
+    "name": "RAMP_CAPTURE",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_CAPTURE.cfg"
+  },
+  {
+    "name": "KR_RAMP_Elbow1",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_Elbow1.cfg"
+  },
+  {
+    "name": "KR_RAMP_RAMP_Elbow2",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_Elbow2.cfg"
+  },
+  {
+    "name": "KR_RAMP_End",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_End.cfg"
+  },
+  {
+    "name": "RAMP_DockPort",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_Grab.cfg"
+  },
+  {
+    "name": "KR_RAMP_Rotator1",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_Rotator1.cfg"
+  },
+  {
+    "name": "KR_RAMP_Rotator2",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_Rotator2.cfg"
+  },
+  {
+    "name": "KR_RAMP_Rotator3",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RAMP\\RAMP_Rotator3.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\RealPlume.cfg"
+  },
+  {
+    "name": "KRENGINE_0150",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\KRengine_0150.cfg"
+  },
+  {
+    "name": "ROCKET_SS_BOT_TANK",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\ROCKET_BOT.cfg"
+  },
+  {
+    "name": "ROCKET_SS_finalBOT",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\ROCKET_FinalBOT.cfg"
+  },
+  {
+    "name": "ROCKET_SS_INTERSTAGE",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\ROCKET_INTERSTAGE.cfg"
+  },
+  {
+    "name": "ROCKET_SS_LH2_TANK",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\ROCKET_LH2.cfg"
+  },
+  {
+    "name": "ROCKET_SS_OXY_TANK",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\ROCKET_OXY.cfg"
+  },
+  {
+    "name": "R_DECOUPLER",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\R_DECOUPLER.cfg"
+  },
+  {
+    "name": "KR_SSRB_DECOUPLER",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\SFHB\\SFHB_DECOUPLER.cfg"
+  },
+  {
+    "name": "KR_SFHB",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\SFHB.cfg"
+  },
+  {
+    "name": "SFHB_BottomSeparatSystem",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\SFHB_BSS.cfg"
+  },
+  {
+    "name": "SFHB_TopSeparatSystem",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\Rocket\\SFHB_TSS.cfg"
+  },
+  {
+    "name": "KR_Auxiliary_tanksL",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_Auxiliary_tanks_left.cfg"
+  },
+  {
+    "name": "KR_Auxiliary_tanksR",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_Auxiliary_tanks_right.cfg"
+  },
+  {
+    "name": "KR_Shuttle_BodyFlap",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_BodyFlap.cfg"
+  },
+  {
+    "name": "KR_Cockpit",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_Cockpit.cfg"
+  },
+  {
+    "name": "KR_DockingPort",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_DockPort.cfg"
+  },
+  {
+    "name": "KR_EngineMouth",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_EngineMouth.cfg"
+  },
+  {
+    "name": "KR_EngineMouth_KR1",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_EngineMouth2.cfg"
+  },
+  {
+    "name": "KR_EngineSegmentL",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_EngineSegmentL.cfg"
+  },
+  {
+    "name": "KR_EngineSegmentR",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_EngineSegmentR.cfg"
+  },
+  {
+    "name": "KR_Shuttle_Evelon_Leftside",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_EvelonL.cfg"
+  },
+  {
+    "name": "KR_Shuttle_Evelon_Rightside",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_EvelonR.cfg"
+  },
+  {
+    "name": "KR_CargoBay",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_Fuselase.cfg"
+  },
+  {
+    "name": "KR_propulsion_system",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_jetEngine.cfg"
+  },
+  {
+    "name": "KR_Tail",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_Tail.cfg"
+  },
+  {
+    "name": "KR_TAIL_Control",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_TailControl.cfg"
+  },
+  {
+    "name": "KR_DeltaWing_Left",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_WingLeft.cfg"
+  },
+  {
+    "name": "KR_DeltaWing_Right",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\KR_WingRight.cfg"
+  },
+  {
+    "name": "Holder",
+    "filePath": "Kerbolrise\\GameData\\Kerbolrise\\SpaceShuttle\\Payload\\Holder.cfg"
+  }
+]

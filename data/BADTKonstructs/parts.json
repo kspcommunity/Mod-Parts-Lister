@@ -1,0 +1,498 @@
+[
+  {
+    "name": "BADTBocage_Prefab",
+    "filePath": "BADTKonstructs\\BADTArenas\\Bocage\\BADTBocage_Prefab.cfg"
+  },
+  {
+    "name": "BADTDirtRunway",
+    "filePath": "BADTKonstructs\\BADTArenas\\Bocage\\BADTDirtRunway.cfg"
+  },
+  {
+    "name": "BADTField_Fallow",
+    "filePath": "BADTKonstructs\\BADTArenas\\Bocage\\BADTField_Fallow.cfg"
+  },
+  {
+    "name": "BADTSpawnpoint",
+    "filePath": "BADTKonstructs\\BADTArenas\\BoostershireFarm\\BADTSpawnpoint-instances.cfg"
+  },
+  {
+    "name": "Boostershire",
+    "filePath": "BADTKonstructs\\BADTArenas\\BoostershireFarm\\Boostershire-instances.cfg"
+  },
+  {
+    "name": "BADTCarrierRunwayIJN",
+    "filePath": "BADTKonstructs\\BADTArenas\\CraterFleet\\BADTCarrierRunwayIJN.cfg"
+  },
+  {
+    "name": "BADTCarrierRunwayUSN",
+    "filePath": "BADTKonstructs\\BADTArenas\\CraterFleet\\BADTCarrierRunwayUSN.cfg"
+  },
+  {
+    "name": "BADTEscortDestroyer",
+    "filePath": "BADTKonstructs\\BADTArenas\\CraterFleet\\BADTEscortDestroyer.cfg"
+  },
+  {
+    "name": "BADTSpawnpoint",
+    "filePath": "BADTKonstructs\\BADTArenas\\EastRocketBase\\BADTSpawnpoint.cfg"
+  },
+  {
+    "name": "Keenemunde",
+    "filePath": "BADTKonstructs\\BADTArenas\\EastRocketBase\\Keenemunde.cfg"
+  },
+  {
+    "name": "BADTAFBPrefab",
+    "filePath": "BADTKonstructs\\BADTArenas\\KessexAFB\\BADTAFBPrefab.cfg"
+  },
+  {
+    "name": "BADTSpawnpoint",
+    "filePath": "BADTKonstructs\\BADTArenas\\KessexAFB\\BADTSpawnpoint.cfg"
+  },
+  {
+    "name": "BADTBarracks",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTBarracks.cfg"
+  },
+  {
+    "name": "BADTBoxcar",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTBoxcar.cfg"
+  },
+  {
+    "name": "BADTChimney",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTChimney.cfg"
+  },
+  {
+    "name": "BADTControlTower",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTControlTower.cfg"
+  },
+  {
+    "name": "BADTFactoryA",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTFactoryA.cfg"
+  },
+  {
+    "name": "BADTFactoryB",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTFactoryB.cfg"
+  },
+  {
+    "name": "BADTFlatbed",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTFlatbed.cfg"
+  },
+  {
+    "name": "BADTFlatconcrete",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTFlatconcrete.cfg"
+  },
+  {
+    "name": "BADTFuelTank",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTFuelTank.cfg"
+  },
+  {
+    "name": "BADTHAngar",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTHangar.cfg"
+  },
+  {
+    "name": "BADTPavedRunway",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTPavedRunway.cfg"
+  },
+  {
+    "name": "BADTPaved_Road",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTPaved_Road.cfg"
+  },
+  {
+    "name": "BADTRadar",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTRadar.cfg"
+  },
+  {
+    "name": "BADTTrainStation",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTStation.cfg"
+  },
+  {
+    "name": "BADTTrack90deg",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTTrack90deg.cfg"
+  },
+  {
+    "name": "BADTTrackSBend",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTTrackSBend.cfg"
+  },
+  {
+    "name": "BADTTrackStraight",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTTrackStraight.cfg"
+  },
+  {
+    "name": "BADTTrackStraight_Long",
+    "filePath": "BADTKonstructs\\BADTArenas\\Kraftwerks\\BADTTrackStraight_Long.cfg"
+  },
+  {
+    "name": "BADTBarracks",
+    "filePath": "BADTKonstructs\\BADTArenas\\OasisProvingGrounds\\BADTBarracks.cfg"
+  },
+  {
+    "name": "BADTControlTower",
+    "filePath": "BADTKonstructs\\BADTArenas\\OasisProvingGrounds\\BADTControlTower.cfg"
+  },
+  {
+    "name": "BADTDesertRunway",
+    "filePath": "BADTKonstructs\\BADTArenas\\OasisProvingGrounds\\BADTDesertRunway.cfg"
+  },
+  {
+    "name": "BADTFuelTank",
+    "filePath": "BADTKonstructs\\BADTArenas\\OasisProvingGrounds\\BADTFuelTank.cfg"
+  },
+  {
+    "name": "BADTHAngar",
+    "filePath": "BADTKonstructs\\BADTArenas\\OasisProvingGrounds\\BADTHangar.cfg"
+  },
+  {
+    "name": "BADTAFBPrefab",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTAFBPrefab.cfg"
+  },
+  {
+    "name": "BADTCarrierRunwayUSN",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTCarrierRunwayUSN.cfg"
+  },
+  {
+    "name": "BADTChimney",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTChimney.cfg"
+  },
+  {
+    "name": "BADTEscortDestroyer",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTEscortDestroyer.cfg"
+  },
+  {
+    "name": "BADTFactoryA",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTFactoryA.cfg"
+  },
+  {
+    "name": "BADTFactoryB",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTFactoryB.cfg"
+  },
+  {
+    "name": "BADTFlatconcrete",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTFlatconcrete.cfg"
+  },
+  {
+    "name": "BADTFlatConcreteTri",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTFlatConcreteTri.cfg"
+  },
+  {
+    "name": "BADTGantry",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTGantry.cfg"
+  },
+  {
+    "name": "BADTRowhouseA",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTRowhouseA.cfg"
+  },
+  {
+    "name": "BADTRowhouseB",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTRowhouseB.cfg"
+  },
+  {
+    "name": "BADTSpawnpoint",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTSpawnpoint.cfg"
+  },
+  {
+    "name": "BADTTownhouseA",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTTownhouseA.cfg"
+  },
+  {
+    "name": "BADTTownhouseB",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTTownhouseB.cfg"
+  },
+  {
+    "name": "BADTTownhouseL",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTTownhouseL.cfg"
+  },
+  {
+    "name": "BADTTownhouseLCorner",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTTownhouseLCorner.cfg"
+  },
+  {
+    "name": "BADTTrackStraight_Long",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTTrackStraight_Long.cfg"
+  },
+  {
+    "name": "BADTWarehouse",
+    "filePath": "BADTKonstructs\\BADTArenas\\OysterBay\\BADTWarehouse.cfg"
+  },
+  {
+    "name": "BADTBarracks",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTBarracks.cfg"
+  },
+  {
+    "name": "BADTControlTower",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTControlTower.cfg"
+  },
+  {
+    "name": "BADTDesertAirstrip",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTDesertAirstrip.cfg"
+  },
+  {
+    "name": "BADTDesertRunway",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTDesertRunway.cfg"
+  },
+  {
+    "name": "BADTFuelTank",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTFuelTank.cfg"
+  },
+  {
+    "name": "BADTHAngar",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTHangar.cfg"
+  },
+  {
+    "name": "BADTRadar",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTRadar.cfg"
+  },
+  {
+    "name": "BADTSilo",
+    "filePath": "BADTKonstructs\\BADTArenas\\PyramidSiteAirfield\\BADTSilo.cfg"
+  },
+  {
+    "name": "BADTBarracks",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTBarracks.cfg"
+  },
+  {
+    "name": "BADTControlTower",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTControlTower.cfg"
+  },
+  {
+    "name": "BADTFlatconcrete",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTFlatconcrete.cfg"
+  },
+  {
+    "name": "BADTHAngar",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTHangar.cfg"
+  },
+  {
+    "name": "BADTHangarB",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTHangarB.cfg"
+  },
+  {
+    "name": "BADTPavedRunway",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTPavedRunway.cfg"
+  },
+  {
+    "name": "BADTRadar",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\BADTRadar.cfg"
+  },
+  {
+    "name": "BADTTownPrefab",
+    "filePath": "BADTKonstructs\\BADTArenas\\SeasideTown\\Town_Prefab.cfg"
+  },
+  {
+    "name": "BADTAFBPrefab",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTAFBPrefab.cfg"
+  },
+  {
+    "name": "BADTAirfield",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTAirfield.cfg"
+  },
+  {
+    "name": "BADTBarn",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTBarn.cfg"
+  },
+  {
+    "name": "BADTBarracks",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTBarracks.cfg"
+  },
+  {
+    "name": "BADTBocage_Prefab",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTBocage_Prefab.cfg"
+  },
+  {
+    "name": "BADTBoxcar",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTBoxcar.cfg"
+  },
+  {
+    "name": "BADTCarrierRunwayIJN",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTCarrierRunwayIJN.cfg"
+  },
+  {
+    "name": "BADTCarrierRunwayUSN",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTCarrierRunwayUSN.cfg"
+  },
+  {
+    "name": "BADTChimney",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTChimney.cfg"
+  },
+  {
+    "name": "BADTControlTower",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTControlTower.cfg"
+  },
+  {
+    "name": "BADTDesertAirstrip",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTDesertAirstrip.cfg"
+  },
+  {
+    "name": "BADTDesertRunway",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTDesertRunway.cfg"
+  },
+  {
+    "name": "BADTDirtRunway",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTDirtRunway.cfg"
+  },
+  {
+    "name": "BADTDirt_Road",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTDirt_Road.cfg"
+  },
+  {
+    "name": "BADTDirt_Road_Short",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTDirt_Road_Short.cfg"
+  },
+  {
+    "name": "BADTEscortDestroyer",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTEscortDestroyer.cfg"
+  },
+  {
+    "name": "BADTFactoryA",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFactoryA.cfg"
+  },
+  {
+    "name": "BADTFactoryB",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFactoryB.cfg"
+  },
+  {
+    "name": "BADTFarmhouse",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFarmhouse.cfg"
+  },
+  {
+    "name": "BADTFarmhouseS",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFarmhouseS.cfg"
+  },
+  {
+    "name": "BADTField_Fallow",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTField_Fallow.cfg"
+  },
+  {
+    "name": "BADTField_Planted",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTField_Planted.cfg"
+  },
+  {
+    "name": "BADTField_Tilled",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTField_Tilled.cfg"
+  },
+  {
+    "name": "BADTFlatbed",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFlatbed.cfg"
+  },
+  {
+    "name": "BADTFlatconcrete",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFlatconcrete.cfg"
+  },
+  {
+    "name": "BADTFlatConcreteTri",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFlatConcreteTri.cfg"
+  },
+  {
+    "name": "BADTFlatgrass",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFlatGrass.cfg"
+  },
+  {
+    "name": "BADTFuelTank",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTFuelTank.cfg"
+  },
+  {
+    "name": "BADTGantry",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTGantry.cfg"
+  },
+  {
+    "name": "BADTHAngar",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTHangar.cfg"
+  },
+  {
+    "name": "BADTHangarA",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTHangarA.cfg"
+  },
+  {
+    "name": "BADTHangarB",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTHangarB.cfg"
+  },
+  {
+    "name": "BADTLaunchpit",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTLaunchpit.cfg"
+  },
+  {
+    "name": "BADTPavedRunway",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTPavedRunway.cfg"
+  },
+  {
+    "name": "BADTPaved_Road",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTPaved_Road.cfg"
+  },
+  {
+    "name": "BADTRadar",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTRadar.cfg"
+  },
+  {
+    "name": "BADTRowhouseA",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTRowhouseA.cfg"
+  },
+  {
+    "name": "BADTRowhouseB",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTRowhouseB.cfg"
+  },
+  {
+    "name": "BADTRunwayZeppelin",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTRunwayZeppelin.cfg"
+  },
+  {
+    "name": "BADTSilo",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTSilo.cfg"
+  },
+  {
+    "name": "BADTSpawnpoint",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTSpawnpoint.cfg"
+  },
+  {
+    "name": "BADTTrainStation",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTStation.cfg"
+  },
+  {
+    "name": "BADTTownhouseA",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTownhouseA.cfg"
+  },
+  {
+    "name": "BADTTownhouseB",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTownhouseB.cfg"
+  },
+  {
+    "name": "BADTTownhouseL",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTownhouseL.cfg"
+  },
+  {
+    "name": "BADTTownhouseLCorner",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTownhouseLCorner.cfg"
+  },
+  {
+    "name": "BADTTrack90deg",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTrack90deg.cfg"
+  },
+  {
+    "name": "BADTTrackCrossing",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTrackCrossing.cfg"
+  },
+  {
+    "name": "BADTTrackSBend",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTrackSBend.cfg"
+  },
+  {
+    "name": "BADTTrackStraight",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTrackStraight.cfg"
+  },
+  {
+    "name": "BADTTrackStraight_Long",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTTrackStraight_Long.cfg"
+  },
+  {
+    "name": "BADTWarehouse",
+    "filePath": "BADTKonstructs\\CoreAssets\\BADTWarehouse.cfg"
+  },
+  {
+    "name": "Boostershire",
+    "filePath": "BADTKonstructs\\CoreAssets\\Boostershire.cfg"
+  },
+  {
+    "name": "Keenemunde",
+    "filePath": "BADTKonstructs\\CoreAssets\\Keenemunde.cfg"
+  },
+  {
+    "name": "BADTAFBPrefab",
+    "filePath": "BADTKonstructs\\CoreAssets\\Town_Prefab.cfg"
+  }
+]

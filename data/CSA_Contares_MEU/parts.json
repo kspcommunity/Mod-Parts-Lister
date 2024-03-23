@@ -1,0 +1,582 @@
+[
+  {
+    "name": "CONTARES-MEU",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "A1-44_FIN",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A1-44_FIN.cfg"
+  },
+  {
+    "name": "A5_EAP-236c",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A5_EAP_236.cfg"
+  },
+  {
+    "name": "A5_ECA_LFO",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A5_ECA_LFO.cfg"
+  },
+  {
+    "name": "A5_EPS",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A5_EPS.cfg"
+  },
+  {
+    "name": "A6-Nosecone",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A6-Nosecone.cfg"
+  },
+  {
+    "name": "A6-P120",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A6-P120.cfg"
+  },
+  {
+    "name": "A6-P180",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A6-P180.cfg"
+  },
+  {
+    "name": "A6_LFO_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\A6_LFO_A.cfg"
+  },
+  {
+    "name": "ALIYANA_VUL2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\ALIYANA_VUL2.cfg"
+  },
+  {
+    "name": "ALIYANA_VUL2_ADAPTER",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\ALIYANA_VUL2_ADAPTER.cfg"
+  },
+  {
+    "name": "C-ESC-A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\ESC-A.cfg"
+  },
+  {
+    "name": "ESC-B",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\ESC-B.cfg"
+  },
+  {
+    "name": "E_ALIYANA_PAL",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\E_ALIYANA_PAL\\E_ALIYANA_PAL.cfg"
+  },
+  {
+    "name": "E_ATV_Engine_4N",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\E_ATV_Engine_4N\\E_ATV_Engine_4N.cfg"
+  },
+  {
+    "name": "RK-M-HM7b",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\E_HM-7\\RK-M-HM7b.cfg"
+  },
+  {
+    "name": "E_viking4_2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\E_viking4_2\\E_viking4_2.cfg"
+  },
+  {
+    "name": "RK-0-0V2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\RK-0-0V2.cfg"
+  },
+  {
+    "name": "C-HM20",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\RK-M-HM20.cfg"
+  },
+  {
+    "name": "C-HM-60",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\RK-M-HM60.cfg"
+  },
+  {
+    "name": "RK_VINCI_NUP",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A5\\VINCI\\VINCI_NUP.cfg"
+  },
+  {
+    "name": "A543C_S1",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A543C\\A543C_S1.cfg"
+  },
+  {
+    "name": "A543C_S2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\A543C\\A543C_S2.cfg"
+  },
+  {
+    "name": "CSA_ADA_1250",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ADA_1250.cfg"
+  },
+  {
+    "name": "ALIYANA_S1500_7500",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1500_7500.cfg"
+  },
+  {
+    "name": "ALIYANA_S1x4EN",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1x4EN.cfg"
+  },
+  {
+    "name": "ALIYANA_S1x4EO",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1x4EO.cfg"
+  },
+  {
+    "name": "ALIYANA_S1x5EN",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1x5EN.cfg"
+  },
+  {
+    "name": "ALIYANA_S1x_7500",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1x_7500.cfg"
+  },
+  {
+    "name": "ALIYANA_S1x_9000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1x_9000.cfg"
+  },
+  {
+    "name": "ALIYANA_S1_10000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1_10000.cfg"
+  },
+  {
+    "name": "ALIYANA_S1_12000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1_12000.cfg"
+  },
+  {
+    "name": "ALIYANA_S1_7500",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1_7500.cfg"
+  },
+  {
+    "name": "ALIYANA_S1_8000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1_8000.cfg"
+  },
+  {
+    "name": "ALIYANA_S1_9000c",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S1_9000c.cfg"
+  },
+  {
+    "name": "ALIYANA_S2x_3000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S2x_3000.cfg"
+  },
+  {
+    "name": "ALIYANA_S2x_5000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S2x_5000.cfg"
+  },
+  {
+    "name": "ALIYANA_S2x_8000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S2x_8000.cfg"
+  },
+  {
+    "name": "ALIYANA_S2_4000",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S2_4000.cfg"
+  },
+  {
+    "name": "ALIYANA_S3_3600",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S3_3600.cfg"
+  },
+  {
+    "name": "ALIYANA_S3_4500",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\ALIYANA_S3_4500.cfg"
+  },
+  {
+    "name": "CORA-x2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\CORA-x2.cfg"
+  },
+  {
+    "name": "EUROPAEV2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\EUROPA-EV2.cfg"
+  },
+  {
+    "name": "PAP_735",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\PAP_735.cfg"
+  },
+  {
+    "name": "PAP_950",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\PAP_950.cfg"
+  },
+  {
+    "name": "Viking2x1-9375",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\Viking2x1_9375.cfg"
+  },
+  {
+    "name": "Viking2x2-1250",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\ALIYANA\\Viking2x2_1250.cfg"
+  },
+  {
+    "name": "CD-Hermes",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\CD_HERMES\\CD-Hermes.cfg"
+  },
+  {
+    "name": "CD_DOCSTO",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\CD_HERMES\\CD_DOCSTO.cfg"
+  },
+  {
+    "name": "DH_decoupler",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\CD_HERMES\\DH_decoupler.cfg"
+  },
+  {
+    "name": "CeXpert",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\CeXpert\\CeXpert.cfg"
+  },
+  {
+    "name": "CeXpert_BRAKE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\CeXpert\\CeXpert_BRAKE.cfg"
+  },
+  {
+    "name": "COLOMBO",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\Columbus\\COLOMBO.cfg"
+  },
+  {
+    "name": "COLOMBO_oP",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\Columbus\\COLOMBO_oP.cfg"
+  },
+  {
+    "name": "ATV-SM2-ORION",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\ATV-SM2-ORION.cfg"
+  },
+  {
+    "name": "ATV_AJ10",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\ATV_AJ10.cfg"
+  },
+  {
+    "name": "ATV_autodock",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\ATV_autodock.cfg"
+  },
+  {
+    "name": "CLCDCUBE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\CLCDCUBE.cfg"
+  },
+  {
+    "name": "CTV2B_SM",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\CTV2B_SM.cfg"
+  },
+  {
+    "name": "C_ATV_09375to1250",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_ATV_09375to1250.cfg"
+  },
+  {
+    "name": "C_ATV_1250to2200",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_ATV_1250to2200.cfg"
+  },
+  {
+    "name": "C_ATV_SM",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_ATV_SM.cfg"
+  },
+  {
+    "name": "C_ATV_Storage",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_ATV_Storage.cfg"
+  },
+  {
+    "name": "C_CTV_AirLock",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_CTV_AirLock.cfg"
+  },
+  {
+    "name": "C_CTV_Capsule",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_CTV_Capsule.cfg"
+  },
+  {
+    "name": "C_CTV_Decoupler",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_CTV_Decoupler.cfg"
+  },
+  {
+    "name": "C_CTV_Decoupler_2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_CTV_Decoupler_2.cfg"
+  },
+  {
+    "name": "C_CTV_Decoupler_3",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_CTV_Decoupler_3.cfg"
+  },
+  {
+    "name": "C_CTV_HeatShield",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\C_CTV_HeatShield.cfg"
+  },
+  {
+    "name": "ESA-Docking-Habitat",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\C_ATV_CTV\\ESA-Docking-Habitat.cfg"
+  },
+  {
+    "name": "EUROPA3_EB",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA3_EB.cfg"
+  },
+  {
+    "name": "EUROPA3_S2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA3_S2.cfg"
+  },
+  {
+    "name": "EUROPA_S1_ENGINE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S1_ENGINE.cfg"
+  },
+  {
+    "name": "EUROPA_S1_TANK",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S1_TANK.cfg"
+  },
+  {
+    "name": "EUROPA_S2_DECOUPLER",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S2_DECOUPLER.cfg"
+  },
+  {
+    "name": "EUROPA_S2_ENGINE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S2_ENGINE.cfg"
+  },
+  {
+    "name": "EUROPA_S2_TANK",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S2_TANK.cfg"
+  },
+  {
+    "name": "EUROPA_S3_DECOUPLER",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S3_DECOUPLER.cfg"
+  },
+  {
+    "name": "EUROPA_S3_ENGINE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S3_ENGINE.cfg"
+  },
+  {
+    "name": "EUROPA_S3_TANK",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA\\EUROPA_S3_TANK.cfg"
+  },
+  {
+    "name": "S1_Europa_5Mk",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_5Mk_S1.cfg"
+  },
+  {
+    "name": "S2_Europa_5Mk",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_5Mk_S2.cfg"
+  },
+  {
+    "name": "S1_Europa_5Msk",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_5Msk_S1.cfg"
+  },
+  {
+    "name": "IS_Europa_5M",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_5M_Interstage.cfg"
+  },
+  {
+    "name": "S1_Europa_5M",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_5M_S1.cfg"
+  },
+  {
+    "name": "S2_Europa_5M",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_5M_S2.cfg"
+  },
+  {
+    "name": "Europa_M5_CONTROL",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\EUROPA_M5_CONTROL.cfg"
+  },
+  {
+    "name": "RK-0-MBB220M",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\RK-0-MBB220M.cfg"
+  },
+  {
+    "name": "RK-0-MBB220MV",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_5M\\RK-0-MBB220MV.cfg"
+  },
+  {
+    "name": "E-SRM-1",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_III_D\\E-SRM-1.cfg"
+  },
+  {
+    "name": "RK-0-MBB200",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_III_D\\RK-0-MBB200.cfg"
+  },
+  {
+    "name": "S1_Europa_III_D",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_III_D\\S1_Europa_III_D.cfg"
+  },
+  {
+    "name": "S2_Europa_III_D",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\EUROPA_III_D\\S2_Europa_III_D.cfg"
+  },
+  {
+    "name": "FVL_LAB",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\FVL\\FVL_LAB.cfg"
+  },
+  {
+    "name": "FVL_TANK",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\FVL\\FVL_TANK.cfg"
+  },
+  {
+    "name": "GTK_2_0",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\GTK_2_0\\GTK_2_0.cfg"
+  },
+  {
+    "name": "C-IXV-SR",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\IXVC\\C-IXV-SpaceRider.cfg"
+  },
+  {
+    "name": "C-IXV",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\IXVC\\C-IXV.cfg"
+  },
+  {
+    "name": "L_POD_LANDER",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\L_POD_LANDER\\L_POD_LANDER.cfg"
+  },
+  {
+    "name": "OTR_4S_4",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\OTRAG\\OTR_4S_4.cfg"
+  },
+  {
+    "name": "OTR_8S_16",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\OTRAG\\OTR_8S_16.cfg"
+  },
+  {
+    "name": "OTR_8S_4",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\OTRAG\\OTR_8S_4.cfg"
+  },
+  {
+    "name": "OTR_S1",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\OTRAG\\OTR_S1.cfg"
+  },
+  {
+    "name": "OTR_S2",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\OTRAG\\OTR_S2.cfg"
+  },
+  {
+    "name": "OTR_S3",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\OTRAG\\OTR_S3.cfg"
+  },
+  {
+    "name": "NANO_RCS",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\NANO_RCS.cfg"
+  },
+  {
+    "name": "REX_AVIONIC",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_AVIONIC.cfg"
+  },
+  {
+    "name": "REX_FLAP",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_FLAP.cfg"
+  },
+  {
+    "name": "REX_FUEL",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_FUEL.cfg"
+  },
+  {
+    "name": "REX_LFE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_LFE.cfg"
+  },
+  {
+    "name": "REX_MONOP",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_MONOP.cfg"
+  },
+  {
+    "name": "REX_MONOPL",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_MONOPL.cfg"
+  },
+  {
+    "name": "REX_SOLAR",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_SOLAR.cfg"
+  },
+  {
+    "name": "REX_STORAGE",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\REXFF\\REX_STORAGE.cfg"
+  },
+  {
+    "name": "EUF_LABOR",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\UTIL\\EUF_LABOR\\EUF_LABOR.cfg"
+  },
+  {
+    "name": "U_CONHAB_01",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\UTIL\\U_CONHAB_01\\U_CONHAB_01.cfg"
+  },
+  {
+    "name": "U_CONHAB_02",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\UTIL\\U_CONHAB_01\\U_CONHAB_02.cfg"
+  },
+  {
+    "name": "U_CONHAB_03",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\UTIL\\U_CONHAB_01\\U_CONHAB_03.cfg"
+  },
+  {
+    "name": "U_CTV_Adapter",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\UTIL\\U_CTV_Adapter\\U_CTV_Adapter.cfg"
+  },
+  {
+    "name": "VEGA-E-S1_P080",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S1_P080.cfg"
+  },
+  {
+    "name": "VEGA-E-S1_P100",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S1_P100.cfg"
+  },
+  {
+    "name": "VEGA-E-S1_P120c",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S1_P120c.cfg"
+  },
+  {
+    "name": "VEGA-E-S2_Z23",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S2_Z23.cfg"
+  },
+  {
+    "name": "VEGA-E-S2_Z40",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S2_Z40.cfg"
+  },
+  {
+    "name": "VEGA-E-S3_VUS",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S3_VUS.cfg"
+  },
+  {
+    "name": "VEGA-E-S3_Z9",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E-S3_Z9.cfg"
+  },
+  {
+    "name": "VEGA-E_VUSdecu",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E_VUSdecu.cfg"
+  },
+  {
+    "name": "VEGA-E_Z23decu",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E_Z23decu.cfg"
+  },
+  {
+    "name": "VEGA-E_Z40decu",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA-E_Z40decu.cfg"
+  },
+  {
+    "name": "VEGA_AVUM",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Parts\\VEGA\\VEGA_AVUM.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Patches\\Contares_MEU_KAS.cfg"
+  },
+  {
+    "name": "Hydrolox-Upper",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Patches\\Contares_MEU_plume.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Patches\\Contares_MEU_TACLS.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "CD-Hermes_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\CD-Hermes_Crew_A\\CD-Hermes_Crew_A.cfg"
+  },
+  {
+    "name": "CTV_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\CTV_Crew_A\\CTV_Crew_A.cfg"
+  },
+  {
+    "name": "LPOD_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\LPOD_Crew_A\\LPOD_Crew_A.cfg"
+  },
+  {
+    "name": "UHCC_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\UHCC_Crew_A\\UHCC_Crew_A.cfg"
+  },
+  {
+    "name": "UHCL_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\UHCL_Crew_A\\UHCL_Crew_A.cfg"
+  },
+  {
+    "name": "UHCR_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\UHCR_Crew_A\\KhiOm_Crew_A.cfg"
+  },
+  {
+    "name": "UIHC_Crew_A",
+    "filePath": "CSA_Contares_MEU\\GameData\\Contares_MEU\\Spaces\\UIHC_Crew_A\\UIHC_Crew_A.cfg"
+  }
+]

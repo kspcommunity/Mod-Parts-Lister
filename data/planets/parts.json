@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Apollo",
+    "filePath": "planets\\Apollo\\Config\\Apollo.cfg"
+  },
+  {
+    "name": "Achelous",
+    "filePath": "planets\\Apollo\\Moons\\Config\\Achelous.cfg"
+  }
+]

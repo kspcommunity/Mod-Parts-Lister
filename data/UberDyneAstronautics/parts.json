@@ -1,0 +1,62 @@
+[
+  {
+    "name": "UberDyne Astronautics",
+    "filePath": "UberDyneAstronautics\\Agency\\UDAAgency.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_RED_1x6",
+    "filePath": "UberDyneAstronautics\\Soylent\\1x6SoylentRed\\1x6SoylentRed.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_RED_3x2",
+    "filePath": "UberDyneAstronautics\\Soylent\\3x2SoylentRed\\3x2SoylentRed.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_DARK_GREEN_BS2",
+    "filePath": "UberDyneAstronautics\\Soylent\\Dark\\DarkGreenL.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_DARK_GREEN_BS1",
+    "filePath": "UberDyneAstronautics\\Soylent\\Dark\\DarkGreenM.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_DARK_RED_BS2",
+    "filePath": "UberDyneAstronautics\\Soylent\\Dark\\DarkRedL.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_DARK_RED_BS1",
+    "filePath": "UberDyneAstronautics\\Soylent\\Dark\\DarkRedM.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_DARK_RED_BS0",
+    "filePath": "UberDyneAstronautics\\Soylent\\Dark\\DarkRedS.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_GREEN_GIGANTOR",
+    "filePath": "UberDyneAstronautics\\Soylent\\gigantorSoylentGreen\\gigantorSoylentGreen.cfg"
+  },
+  {
+    "name": "UDA_SOYLENT_RED_GIGANTOR",
+    "filePath": "UberDyneAstronautics\\Soylent\\gigantorSoylentRed\\gigantorSoylentRed.cfg"
+  },
+  {
+    "name": "RCSTank1-2X",
+    "filePath": "UberDyneAstronautics\\Soylent\\RCSFuelTankR1X\\RCSFuelTankR1X.cfg"
+  },
+  {
+    "name": "UDA_SCWOU",
+    "filePath": "UberDyneAstronautics\\Soylent\\SCWOU\\SCWOU.cfg"
+  },
+  {
+    "name": "UDA_SCWOUarray",
+    "filePath": "UberDyneAstronautics\\Soylent\\SCWOU\\SCWOUXL.cfg"
+  },
+  {
+    "name": "Photons",
+    "filePath": "UberDyneAstronautics\\Soylent\\SoylentResources.cfg"
+  },
+  {
+    "name": "UDA_STARTER_RADIAL",
+    "filePath": "UberDyneAstronautics\\Soylent\\StarterRadial\\StarterRadial.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Mun",
+    "filePath": "WaterMun\\Configs\\Mun.cfg"
+  },
+  {
+    "name": "Mun-clouds1",
+    "filePath": "WaterMun\\EVE\\clouds.cfg"
+  },
+  {
+    "name": "WaterMun/EVE/Textures/particle/rgb",
+    "filePath": "WaterMun\\EVE\\Config.cfg"
+  },
+  {
+    "name": "BoulderCo/Atmosphere/Textures/fair",
+    "filePath": "WaterMun\\EVE\\Textures\\textures.cfg"
+  },
+  {
+    "name": "Mun-Rain1",
+    "filePath": "WaterMun\\MunVolumetricClouds\\Clouds\\Clouds_Mun.cfg"
+  },
+  {
+    "name": "Mun",
+    "filePath": "WaterMun\\MunVolumetricClouds\\Scatterer\\Mun\\atmo.cfg"
+  },
+  {
+    "name": "Mun",
+    "filePath": "WaterMun\\MunVolumetricClouds\\Scatterer\\Mun\\ocean.cfg"
+  }
+]

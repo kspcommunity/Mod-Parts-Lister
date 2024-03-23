@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Arkar",
+    "filePath": "TJO\\Configs\\Arkar\\Arkar.cfg"
+  },
+  {
+    "name": "Kros",
+    "filePath": "TJO\\Configs\\Kros\\Kros.cfg"
+  },
+  {
+    "name": "Verner",
+    "filePath": "TJO\\Configs\\Kros\\Verner.cfg"
+  },
+  {
+    "name": "Kuvar",
+    "filePath": "TJO\\Configs\\Kuvar\\Kuvar.cfg"
+  },
+  {
+    "name": "Veff",
+    "filePath": "TJO\\Configs\\Kuvar\\Veff.cfg"
+  },
+  {
+    "name": "Nognog",
+    "filePath": "TJO\\Configs\\Nognog\\Nognog.cfg"
+  },
+  {
+    "name": "Xipe",
+    "filePath": "TJO\\Configs\\Nognog\\Xipe.cfg"
+  }
+]

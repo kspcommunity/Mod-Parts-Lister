@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Konvair division of Kerbal Dynamics",
+    "filePath": "Nexus2\\Nexus\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "size5",
+    "filePath": "Nexus2\\Nexus\\Bulkheads\\profiles.cfg"
+  },
+  {
+    "name": "fairingSize11",
+    "filePath": "Nexus2\\Nexus\\Parts\\Fairings\\fairingSize11.cfg"
+  },
+  {
+    "name": "fairingSize15",
+    "filePath": "Nexus2\\Nexus\\Parts\\Fairings\\fairingSize18.cfg"
+  },
+  {
+    "name": "airbrakeNex1",
+    "filePath": "Nexus2\\Nexus\\Parts\\Flap1\\NexusAirbrake.cfg"
+  },
+  {
+    "name": "Nexus150fHeatShield",
+    "filePath": "Nexus2\\Nexus\\Parts\\HeatShield\\NexusHeatShield.cfg"
+  },
+  {
+    "name": "Nexus150fInterstage",
+    "filePath": "Nexus2\\Nexus\\Parts\\Interstages\\150fInterstage.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Nexus2\\Nexus\\Parts\\L30AH\\fuel.cfg"
+  },
+  {
+    "name": "NexusL30AHExpansionDeflection",
+    "filePath": "Nexus2\\Nexus\\Parts\\L30AH\\L30AH_Engine.cfg"
+  },
+  {
+    "name": "supermaxiLandingLeg",
+    "filePath": "Nexus2\\Nexus\\Parts\\LandingLeg\\landingLegLT-99.cfg"
+  },
+  {
+    "name": "NexusRCS",
+    "filePath": "Nexus2\\Nexus\\Parts\\NexusRCS\\NexusControlRockets.cfg"
+  },
+  {
+    "name": "NexusEnginePlug",
+    "filePath": "Nexus2\\Nexus\\Parts\\PlugEngine\\NexusPlugEngine.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Nexus2\\Nexus\\Parts\\RealismConfigs.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Nexus2\\Nexus\\Parts\\RealPlumeConfig.cfg"
+  },
+  {
+    "name": "LF70f-B",
+    "filePath": "Nexus2\\Nexus\\Parts\\SecondStages\\70footB.cfg"
+  },
+  {
+    "name": "Nexus25mShell",
+    "filePath": "Nexus2\\Nexus\\Parts\\Shell\\NexusShellPiece.cfg"
+  },
+  {
+    "name": "NexusFuelTank",
+    "filePath": "Nexus2\\Nexus\\Parts\\Tank\\NexusMainTank1.cfg"
+  },
+  {
+    "name": "UraniumTetraflouride",
+    "filePath": "Nexus2\\Nexus\\Resources\\ResourcesGeneric.cfg"
+  }
+]

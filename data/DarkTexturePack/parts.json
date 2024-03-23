@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ModulePartVariants",
+    "filePath": "DarkTexturePack\\AeroConfig.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "DarkTexturePack\\CommandConfig.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "DarkTexturePack\\EngineConfig.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "DarkTexturePack\\FuelTankConfig.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "DarkTexturePack\\LandingGearConfig.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "DarkTexturePack\\StructuralConfig.cfg"
+  }
+]

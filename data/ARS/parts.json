@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Heat_shield_ARSLS125",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_ARSLS125.cfg"
+  },
+  {
+    "name": "Heat_shield_ARSLS205",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_ARSLS205.cfg"
+  },
+  {
+    "name": "Heat_shield_ARSLS375",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_ARSLS375.cfg"
+  },
+  {
+    "name": "Heat_shield_RSL125",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_RSL125.cfg"
+  },
+  {
+    "name": "Heat_shield_RSL205",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_RSL205.cfg"
+  },
+  {
+    "name": "Heat_shield_RSL375",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_RSL375.cfg"
+  },
+  {
+    "name": "Heat_shield_RSLDP125",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_RSLDP125.cfg"
+  },
+  {
+    "name": "Heat_shield_RSLDP205",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_RSLDP205.cfg"
+  },
+  {
+    "name": "Heat_shield_RSLDP375",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\HS_RSLDP375.cfg"
+  },
+  {
+    "name": "Kuran_Aeronose",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\KURAN\\CockpitAeroNose.cfg"
+  },
+  {
+    "name": "mk3Cockpit_Kuran",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\KURAN\\CockpitKuran.cfg"
+  },
+  {
+    "name": "wingKuranDelta",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\KURAN\\KURAN wing delta.cfg"
+  },
+  {
+    "name": "KuranRCS",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\KURAN\\KuranRCS.cfg"
+  },
+  {
+    "name": "SS_dockingPort",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\SS_dockingPort.cfg"
+  },
+  {
+    "name": "SS_P125",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\SS_P125.cfg"
+  },
+  {
+    "name": "SS_P205",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\SS_P205.cfg"
+  },
+  {
+    "name": "SS_P375",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\SS_P375.cfg"
+  },
+  {
+    "name": "SS_SUPER_KRAGO",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\SS_SUPER_KRAGO.cfg"
+  },
+  {
+    "name": "SS_SX_LEG205",
+    "filePath": "ARS\\GameData\\Alcentar_Rescue_system\\SS_SX_LEG205.cfg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "CommunityResourcePack\\SurfaceScanner.cfg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ChenowythFastBackHull",
+    "filePath": "ASkunkWorks\\DPV\\Hull\\part.cfg"
+  },
+  {
+    "name": "ChenowythReconHull",
+    "filePath": "ASkunkWorks\\DPV\\Hull2\\part.cfg"
+  },
+  {
+    "name": "ChenowythWheel",
+    "filePath": "ASkunkWorks\\DPV\\Wheel\\part.cfg"
+  }
+]

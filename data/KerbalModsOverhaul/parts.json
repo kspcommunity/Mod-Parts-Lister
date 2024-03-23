@@ -1,0 +1,94 @@
+[
+  {
+    "name": "MaterialKits",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\ExtraplanetaryLaunchpads.cfg"
+  },
+  {
+    "name": "MaterialKits",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\KeridianDynamics.cfg"
+  },
+  {
+    "name": "ELSurveyStation",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Karibou.cfg"
+  },
+  {
+    "name": "EnrichedUranium",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Processor.cfg"
+  },
+  {
+    "name": "Water",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Ranger_Agriculture.cfg"
+  },
+  {
+    "name": "Dirt",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Ranger_Crusher.cfg"
+  },
+  {
+    "name": "Dirt",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Ranger_Sifter.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Ranger_Smelter.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Ranger_Workshop.cfg"
+  },
+  {
+    "name": "ELSurveyStation",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Salamander.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Tundra_Agriculture.cfg"
+  },
+  {
+    "name": "ExSurveyStation",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Tundra_Core.cfg"
+  },
+  {
+    "name": "DepletedFuel",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Tundra_NukeProc.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Tundra_Refinery.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\MKS\\MKS_Tundra_Workshop.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\OSE-Workshop.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\PatchManager\\ActiveMMPatches\\_OSEConverter.cfg"
+  },
+  {
+    "name": "EnrichedUranium",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\PatchManager\\ActiveMMPatches\\_RangerPowerGenerator.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\PatchManager\\ActiveMMPatches\\_RM&EMConverter.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\PatchManager\\ActiveMMPatches\\_RM&EMHarvester.cfg"
+  },
+  {
+    "name": "ModuleOverheatDisplay",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\PatchManager\\PluginData\\_TundraNuclearReactor.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\ResourceHarvester.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "KerbalModsOverhaul\\GameData\\KMO\\Patches\\USI-LS.cfg"
+  }
+]

@@ -1,7 +1,219 @@
 [
   {
+    "name": "OrionAerocap",
+    "filePath": "SpaceLaunchSystem\\Aero\\AeroCap\\OrionAeroCap.cfg"
+  },
+  {
+    "name": "NoseConeAerojet",
+    "filePath": "SpaceLaunchSystem\\Aero\\AerojetNoseCone\\AerojetNoseCone.cfg"
+  },
+  {
+    "name": "CargoFairing10m",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\10mCargoFairing.cfg"
+  },
+  {
+    "name": "1Bdecoupler",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\1Bdecoupler.cfg"
+  },
+  {
+    "name": "5m_adapter",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\5madapter.cfg"
+  },
+  {
+    "name": "5mCargo",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\5mCargo.cfg"
+  },
+  {
+    "name": "ATV1",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\ATV1.cfg"
+  },
+  {
+    "name": "ATV2",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\ATV2.cfg"
+  },
+  {
+    "name": "ATV3",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\ATV3.cfg"
+  },
+  {
+    "name": "CargoFairing",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\CargoFairing.cfg"
+  },
+  {
+    "name": "Orion1B",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\Orion1B.cfg"
+  },
+  {
+    "name": "ORION1Badapter",
+    "filePath": "SpaceLaunchSystem\\Aero\\ATV\\Orion1Badapter.cfg"
+  },
+  {
+    "name": "10mCargoBase",
+    "filePath": "SpaceLaunchSystem\\Aero\\CargoAdapter\\10mCargoAdapter.cfg"
+  },
+  {
+    "name": "FairingCargoBase",
+    "filePath": "SpaceLaunchSystem\\Aero\\CargoAdapter\\CargoAdapter.cfg"
+  },
+  {
+    "name": "FairingOrionAdapter",
+    "filePath": "SpaceLaunchSystem\\Aero\\OrionAdapter\\OrionAdapt.cfg"
+  },
+  {
+    "name": "NoseConePyrios",
+    "filePath": "SpaceLaunchSystem\\Aero\\PyriosNoseCone\\PyriosNoseCone.cfg"
+  },
+  {
+    "name": "SLSNoseCone",
+    "filePath": "SpaceLaunchSystem\\Aero\\SRBNoseCone\\NoseCone.cfg"
+  },
+  {
+    "name": "Sobkos COMPANY ",
+    "filePath": "SpaceLaunchSystem\\Agencies\\Agency.cfg"
+  },
+  {
     "name": "Space Launch Systems Inc.",
     "filePath": "SpaceLaunchSystem\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "NASAdockingport",
+    "filePath": "SpaceLaunchSystem\\Command\\Dockingport\\NASAdockingPort.cfg"
+  },
+  {
+    "name": "ORIONHeatShield",
+    "filePath": "SpaceLaunchSystem\\Command\\HeatShield\\HeatShield.cfg"
+  },
+  {
+    "name": "MPCV",
+    "filePath": "SpaceLaunchSystem\\Command\\MultiPurposeCrewVehicle\\MPCV.cfg"
+  },
+  {
+    "name": "ParachuteCap_Fine",
+    "filePath": "SpaceLaunchSystem\\Command\\MultiPurposeCrewVehicle\\ParachuteCap.cfg"
+  },
+  {
+    "name": "RCSORION",
+    "filePath": "SpaceLaunchSystem\\Command\\RCS\\RCS.cfg"
+  },
+  {
+    "name": "SolarPanelMPCV",
+    "filePath": "SpaceLaunchSystem\\Command\\SolarPanel\\SolarPanel.cfg"
+  },
+  {
+    "name": "SolarPanelStable",
+    "filePath": "SpaceLaunchSystem\\Command\\SolarPanel\\SolarPanelStable.cfg"
+  },
+  {
+    "name": "AJ10-190",
+    "filePath": "SpaceLaunchSystem\\Engines\\AJ10-190\\AJ-10.cfg"
+  },
+  {
+    "name": "AJ1E6",
+    "filePath": "SpaceLaunchSystem\\Engines\\AJ1E6\\AJ1E6.cfg"
+  },
+  {
+    "name": "F1B",
+    "filePath": "SpaceLaunchSystem\\Engines\\F-1B\\F1B.cfg"
+  },
+  {
+    "name": "LAS",
+    "filePath": "SpaceLaunchSystem\\Engines\\LAS\\LAS.cfg"
+  },
+  {
+    "name": "R4D11",
+    "filePath": "SpaceLaunchSystem\\Engines\\R4d11\\R4D11.cfg"
+  },
+  {
+    "name": "RL10",
+    "filePath": "SpaceLaunchSystem\\Engines\\RL10\\RL10.cfg"
+  },
+  {
+    "name": "RL10C2",
+    "filePath": "SpaceLaunchSystem\\Engines\\RL10\\RL10C2.cfg"
+  },
+  {
+    "name": "RS-25",
+    "filePath": "SpaceLaunchSystem\\Engines\\RS-25\\RS-25.cfg"
+  },
+  {
+    "name": "Separatron1",
+    "filePath": "SpaceLaunchSystem\\Engines\\Separatron\\Separatron.cfg"
+  },
+  {
+    "name": "Separatron3",
+    "filePath": "SpaceLaunchSystem\\Engines\\Separatron\\Sparatron3.cfg"
+  },
+  {
+    "name": "SEPengine",
+    "filePath": "SpaceLaunchSystem\\Engines\\SEPengine\\Separatron.cfg"
+  },
+  {
+    "name": "DarkKnight",
+    "filePath": "SpaceLaunchSystem\\Engines\\SolidRocketBooster\\DarkKnight.cfg"
+  },
+  {
+    "name": "DarkKnightNoseCone",
+    "filePath": "SpaceLaunchSystem\\Engines\\SolidRocketBooster\\NoseCone.cfg"
+  },
+  {
+    "name": "SLSSolidRocket",
+    "filePath": "SpaceLaunchSystem\\Engines\\SolidRocketBooster\\SRB.cfg"
+  },
+  {
+    "name": "AerojetFT",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\AerojetFT\\AerojetFT.cfg"
+  },
+  {
+    "name": "AerojetDec",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\AerojetFT\\Aerojet_Decoupler.cfg"
+  },
+  {
+    "name": "DCSSmonop",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\ICPSPropellant\\DCSSmonop.cfg"
+  },
+  {
+    "name": "LH2_ICPS",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\ICPS_LH2_Tank\\ICPS_LH2_Tank.cfg"
+  },
+  {
+    "name": "LOxTankDCSS",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\ICPS_LOx_Tank\\LOXDCSS.cfg"
+  },
+  {
+    "name": "EUSFairing",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\LH2TankEUS\\EUSinterMC.cfg"
+  },
+  {
+    "name": "LH2TankEUS",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\LH2TankEUS\\EUSLH2.cfg"
+  },
+  {
+    "name": "LOxTankEUS",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\LOxTankEUS\\LOXEUS.cfg"
+  },
+  {
+    "name": "LH2TankMC",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\MCtank\\LH2Tank.cfg"
+  },
+  {
+    "name": "LOxTankMC",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\MCtank\\LOxTank.cfg"
+  },
+  {
+    "name": "OrionSM",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\OrionSM\\OrionSM.cfg"
+  },
+  {
+    "name": "PyriosTank",
+    "filePath": "SpaceLaunchSystem\\FuelTank\\PyriosFT\\PyriosTank.cfg"
+  },
+  {
+    "name": "OrionDrogue",
+    "filePath": "SpaceLaunchSystem\\Parachute\\DrogueChute.cfg"
+  },
+  {
+    "name": "MainChuteOrion",
+    "filePath": "SpaceLaunchSystem\\Parachute\\MainChute.cfg"
   },
   {
     "name": "5-3.75Adapter",
@@ -90,5 +302,61 @@
   {
     "name": "Orion-CEVServiceModuleFairing",
     "filePath": "SpaceLaunchSystem\\Parts\\Orion-CEV\\Orion-CEVServiceModuleFairing\\part.cfg"
+  },
+  {
+    "name": "AerojetEngineSkirt",
+    "filePath": "SpaceLaunchSystem\\Structural\\AerojetEngineSkirt\\AerojetEngineSkirt.cfg"
+  },
+  {
+    "name": "DCSSInter",
+    "filePath": "SpaceLaunchSystem\\Structural\\DCSSInter\\InterDCSS.cfg"
+  },
+  {
+    "name": "EUSInter",
+    "filePath": "SpaceLaunchSystem\\Structural\\DCSSInter\\InterEUS.cfg"
+  },
+  {
+    "name": "EUSInterEN",
+    "filePath": "SpaceLaunchSystem\\Structural\\EUSENadapt\\RL10C2adapter.cfg"
+  },
+  {
+    "name": "F1Adapter",
+    "filePath": "SpaceLaunchSystem\\Structural\\F1Adapter\\F1Adapter.cfg"
+  },
+  {
+    "name": "CrewFairing",
+    "filePath": "SpaceLaunchSystem\\Structural\\InterTank\\AdapterICPS.cfg"
+  },
+  {
+    "name": "SLSend",
+    "filePath": "SpaceLaunchSystem\\Structural\\InterTank\\EndSkirtMC.cfg"
+  },
+  {
+    "name": "InterTank",
+    "filePath": "SpaceLaunchSystem\\Structural\\InterTank\\Inter.cfg"
+  },
+  {
+    "name": "LVSA",
+    "filePath": "SpaceLaunchSystem\\Structural\\LaunchVehicleStageAdapter\\LaunchVehicleStageAdapter.cfg"
+  },
+  {
+    "name": "SLSMEadapt",
+    "filePath": "SpaceLaunchSystem\\Structural\\MEadapt\\MEadapt.cfg"
+  },
+  {
+    "name": "PyriosDEC",
+    "filePath": "SpaceLaunchSystem\\Structural\\PyriosDEC\\Pyrios_Decoupler.cfg"
+  },
+  {
+    "name": "Rl10B2adapter",
+    "filePath": "SpaceLaunchSystem\\Structural\\RL10B2Adapter\\RL10B2adapter.cfg"
+  },
+  {
+    "name": "SLSMEadapt_Test",
+    "filePath": "SpaceLaunchSystem\\Structural\\RS-25_Adapter\\MEadapt.cfg"
+  },
+  {
+    "name": "SLSdecoupler",
+    "filePath": "SpaceLaunchSystem\\Structural\\SRBdecoupler\\SRBdecoupler.cfg"
   }
 ]

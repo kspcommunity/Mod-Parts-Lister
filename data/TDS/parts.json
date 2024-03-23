@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Abraxa",
+    "filePath": "TDS\\PhoenixSystem\\Abraxa\\Abraxa.cfg"
+  },
+  {
+    "name": "Phoenix",
+    "filePath": "TDS\\PhoenixSystem\\configs\\TDS_DOE.cfg"
+  },
+  {
+    "name": "Neebrille",
+    "filePath": "TDS\\PhoenixSystem\\Neebrille\\Neebrille.cfg"
+  },
+  {
+    "name": "Phoenix",
+    "filePath": "TDS\\PhoenixSystem\\Phoenix\\Phoenix.cfg"
+  },
+  {
+    "name": "Rekiesse",
+    "filePath": "TDS\\PhoenixSystem\\Rekiesse\\Rekiesse.cfg"
+  },
+  {
+    "name": "Septis",
+    "filePath": "TDS\\PhoenixSystem\\Septis\\Septis.cfg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "roverX",
+    "filePath": "ElectronYear.co\\Parts\\roverWheelM1\\roverWheelM1.cfg"
+  },
+  {
+    "name": "roverY",
+    "filePath": "ElectronYear.co\\Parts\\roverWheelS2\\roverWheelS2.cfg"
+  },
+  {
+    "name": "wheelZ",
+    "filePath": "ElectronYear.co\\Parts\\roverWheelTR-2L\\roverWheelTR-2L.cfg"
+  },
+  {
+    "name": "roverA",
+    "filePath": "ElectronYear.co\\Parts\\roverWheelXL3\\roverWheelXL3.cfg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kordaRTG1",
+    "filePath": "Korda\\Parts\\kordaRTG1\\part.cfg"
+  },
+  {
+    "name": "kordaRTG2",
+    "filePath": "Korda\\Parts\\kordaRTG2\\part.cfg"
+  },
+  {
+    "name": "kordaRTG3",
+    "filePath": "Korda\\Parts\\kordaRTG3\\part.cfg"
+  },
+  {
+    "name": "kordaRTG3E",
+    "filePath": "Korda\\Parts\\kordaRTG3E\\part.cfg"
+  },
+  {
+    "name": "kordaRTG4",
+    "filePath": "Korda\\Parts\\kordaRTG4\\part.cfg"
+  },
+  {
+    "name": "kordaRTG4E",
+    "filePath": "Korda\\Parts\\kordaRTG4E\\part.cfg"
+  }
+]

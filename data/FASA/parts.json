@@ -1,0 +1,618 @@
+[
+  {
+    "name": "FASA",
+    "filePath": "FASA\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "FASAApollo_SM",
+    "filePath": "FASA\\Apollo\\ApolloCSM\\FASA_Apollo_CSM.cfg"
+  },
+  {
+    "name": "FASA_Apollo_Float_Ring",
+    "filePath": "FASA\\Apollo\\ApolloCSM\\FASA_Apollo_Float_Ring.cfg"
+  },
+  {
+    "name": "FASA_Apollo_Float_Ring125",
+    "filePath": "FASA\\Apollo\\ApolloCSM\\FASA_Apollo_Float_Ring_125.cfg"
+  },
+  {
+    "name": "FASA_Apollo_Float_Round",
+    "filePath": "FASA\\Apollo\\ApolloCSM\\FASA_Apollo_Float_Round.cfg"
+  },
+  {
+    "name": "FASA_Apollo_Float_RoundXL",
+    "filePath": "FASA\\Apollo\\ApolloCSM\\FASA_Apollo_Float_RoundXL.cfg"
+  },
+  {
+    "name": "FASAApolloAPS",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Eng\\Apollo_APS.cfg"
+  },
+  {
+    "name": "FASAApolloLFEF1",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Eng\\LFE_F1.cfg"
+  },
+  {
+    "name": "FASAApolloLFEH1",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Eng\\LFE_H1.cfg"
+  },
+  {
+    "name": "FASAApolloLFEJ2",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Eng\\LFE_J2.cfg"
+  },
+  {
+    "name": "FASAApolloLFEM1",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Eng\\LFE_M1.cfg"
+  },
+  {
+    "name": "FASAApolloLFERL10",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Eng\\LFE_RL10.cfg"
+  },
+  {
+    "name": "FASAFairingsApolloPlate375m",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Fairings\\FairingsPlateApollo375m.cfg"
+  },
+  {
+    "name": "FASAStrFairing3m4x",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Fairings\\Fairing_3m_4x.cfg"
+  },
+  {
+    "name": "FASAApolloIU",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Apollo_IU.cfg"
+  },
+  {
+    "name": "FASAApalloLFTF1Plate",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_F1_Plate.cfg"
+  },
+  {
+    "name": "FASAApalloLFTJ2",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_J2.cfg"
+  },
+  {
+    "name": "FASAApalloLFTJ2Nova",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_J2Nova.cfg"
+  },
+  {
+    "name": "FASAApalloLFTJ25XPlate",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_J2_5x_Plate.cfg"
+  },
+  {
+    "name": "FASAApalloLFTJ2Plate",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_J2_Plate.cfg"
+  },
+  {
+    "name": "FASAApalloLFTS1BStage1",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_S1B_Stage1.cfg"
+  },
+  {
+    "name": "FASAApalloLFTSVS1",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_SV_Stage1.cfg"
+  },
+  {
+    "name": "FASAApalloLFTSVS2",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\LFT_SV_Stage2.cfg"
+  },
+  {
+    "name": "FASAStrF1Fairing",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_F1_Fairing.cfg"
+  },
+  {
+    "name": "FASAApolloStrJ2StrJ23m5mDec",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_J2_3m-5m_Dec.cfg"
+  },
+  {
+    "name": "FASAApolloStrJ2Fairing",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_J2_3m_Dec.cfg"
+  },
+  {
+    "name": "FASAApolloStrJ2StrJ25mDec",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_J2_5m_Dec.cfg"
+  },
+  {
+    "name": "FASAApolloStrJ2StrJ23m5mDecNova",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_Nova_5m-7m_Dec.cfg"
+  },
+  {
+    "name": "FASAApolloStrS1BPlate",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_S1b_Plate.cfg"
+  },
+  {
+    "name": "FASAApolloStrS1BPlateNova",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_S1b_PlateNova.cfg"
+  },
+  {
+    "name": "FASAStrS1BWing",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_S1B_Wing.cfg"
+  },
+  {
+    "name": "FASAApolloDecSV5m",
+    "filePath": "FASA\\Apollo\\FASA_Apollo_Str\\Str_SV_5m_Dec.cfg"
+  },
+  {
+    "name": "FASAAgenaAnt",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Agena_Ant.cfg"
+  },
+  {
+    "name": "FASAAgenaDocking",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Agena_Docking.cfg"
+  },
+  {
+    "name": "FASAAgena_Engine",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Agena_Engine.cfg"
+  },
+  {
+    "name": "FASAAgena_Engine_FP",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Agena_Engine_FP.cfg"
+  },
+  {
+    "name": "FASAAgenaLFT",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Agena_LFT.cfg"
+  },
+  {
+    "name": "FASAAgenaProbe",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Agena_ProbeCore.cfg"
+  },
+  {
+    "name": "FASADeltaMB3LFE",
+    "filePath": "FASA\\Gemini2\\FASA_Agena\\Delta_MB3_LFE.cfg"
+  },
+  {
+    "name": "FASA_Gemini_ASAS_Comp",
+    "filePath": "FASA\\Gemini2\\FASA_ASAS_MiniComp\\part.cfg"
+  },
+  {
+    "name": "FASAGeminiBigG",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_BigG\\Gemini_BigG.cfg"
+  },
+  {
+    "name": "FASAGeminiBigGDockExt",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_BigG\\Gemini_BigGDocking_Ext.cfg"
+  },
+  {
+    "name": "FASAGeminiBigGDec",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_BigG\\Gemini_BigG_Dec.cfg"
+  },
+  {
+    "name": "FASAGeminiBigGDock",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_BigG\\Gemini_BigG_Sci.cfg"
+  },
+  {
+    "name": "FASAGeminiBigGWhite",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_BigG\\Gemini_BigG_White.cfg"
+  },
+  {
+    "name": "FASAGeminiSciRadmeter",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_BigG\\Gemini_Sci_Goo.cfg"
+  },
+  {
+    "name": "FASAGeminiLFECentarTwin",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Centaur\\LFE_Gemini_Transtage_Twin.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTCentar",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Centaur\\LFT_Gemini_Centaur.cfg"
+  },
+  {
+    "name": "FASAGeminiEngFuelDescent",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Engine_Fuel2\\GeminiEngFuelDescent.cfg"
+  },
+  {
+    "name": "FASAGeminiEngineFuel2",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Engine_Fuel2\\GeminiEngineFuel2.cfg"
+  },
+  {
+    "name": "FASAGeminiMiniSRB",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Engine_Fuel2\\Gemini_Mini_SRB.cfg"
+  },
+  {
+    "name": "FASAGeminiUtilityPack",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Engine_Fuel2\\Gemini_UtilityPack.cfg"
+  },
+  {
+    "name": "FASA_Gemini_Lander_Eng",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Lander_Eng\\part.cfg"
+  },
+  {
+    "name": "FASA_Gemini_Lander_Leg_Part",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Lander_Legs\\Gemini_Lander_Legs_Part.cfg"
+  },
+  {
+    "name": "FASA_Gemini_Lander_LFT",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Lander_Legs\\Gemini_Lander_LFT.cfg"
+  },
+  {
+    "name": "FASA_Gemini_Lander_Pod",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Lander_Pod\\Gemini_Lander_Pod.cfg"
+  },
+  {
+    "name": "FASAGeminiLES",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LES\\part.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTMed",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFT\\LFT_Gemini_Med.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTShort",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFT\\LFT_Gemini_Short.cfg"
+  },
+  {
+    "name": "FASAMercuryLFTShortLarge",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFT\\Merc_LFT_Short_Large.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTLong",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFTLong\\LFT_Gemini_Long.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTExtSmH2O2",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFT_Ext_Sm\\FASA_LFT_ExtSmH2O2.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTExtSmMono",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFT_Ext_Sm\\FASA_LFT_ExtSmMono.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTTriSm",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LFT_Ext_Sm\\FASA_LFT_Tri_Sm.cfg"
+  },
+  {
+    "name": "GeminiNosecone1m",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\FairingNosecone1m.cfg"
+  },
+  {
+    "name": "GeminiNosecone625m",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\FairingNosecone625m.cfg"
+  },
+  {
+    "name": "FASAFairingWall05m",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\FairingWall05m.cfg"
+  },
+  {
+    "name": "FASATitanLR91Dec",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\GeminiDecLR91.cfg"
+  },
+  {
+    "name": "GeminiNosecone2m",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\GeminiNosecone2m.cfg"
+  },
+  {
+    "name": "FASAGeminiLR87Twin",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFE_LR87Twin.cfg"
+  },
+  {
+    "name": "FASAGeminiLR91",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFE_LR91.cfg"
+  },
+  {
+    "name": "FASAGeminiLR91Mini",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFE_LR91Mini.cfg"
+  },
+  {
+    "name": "FASADeltaConeLFT",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFT_Delta_Cone.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTBigGAdapt",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFT_Gemini_BigG.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTMedWhite",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFT_Gemini_Med_White.cfg"
+  },
+  {
+    "name": "FASAGeminiLFTShortWhite",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_LR91_Pack\\LFT_Gemini_Short_White.cfg"
+  },
+  {
+    "name": "FASAGeminiMOLEquip",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_MOL\\Gemini_MOL_Equip.cfg"
+  },
+  {
+    "name": "FASAGeminiMOLEquip1m",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_MOL\\Gemini_MOL_Equip1m.cfg"
+  },
+  {
+    "name": "FASAGeminiMOLEquipCap",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_MOL\\Gemini_MOL_Equip_Cap.cfg"
+  },
+  {
+    "name": "FASAGeminiMOLEquipStack",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_MOL\\Gemini_MOL_Equip_Stack.cfg"
+  },
+  {
+    "name": "FASAGeminiMOLSci",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_MOL\\Gemini_MOL_Sci.cfg"
+  },
+  {
+    "name": "FASAGeminiPod2",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Pod2\\Gemini_Pod2.cfg"
+  },
+  {
+    "name": "FASAGeminiPod2RCS",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Pod2\\Gemini_Pod2_RCS.cfg"
+  },
+  {
+    "name": "FASAGeminiPodLight",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_Pod2\\Gemini_Pod_Light.cfg"
+  },
+  {
+    "name": "FASA_Gemini_RCS_Thrusters",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_RCS_Thruster\\Gemini_RCS_Thruster.cfg"
+  },
+  {
+    "name": "FASAGeminiSasRcs",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SAS_RCS\\Gemini_SAS_RCS.cfg"
+  },
+  {
+    "name": "FASAGeminiUtilitySasRcs",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SAS_RCS\\Gemini_Utility_SAS_RCS.cfg"
+  },
+  {
+    "name": "FASADeltaCastorSrb",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SRB_175\\Delta_Castor_Srb.cfg"
+  },
+  {
+    "name": "FASAGerminiSRB175",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SRB_175\\GeminiSRB175.cfg"
+  },
+  {
+    "name": "FASAGerminiSRB175_5Seg",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SRB_175\\GeminiSRB175_5Seg.cfg"
+  },
+  {
+    "name": "FASAGerminiSRB175_7Seg",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SRB_175\\GeminiSRB175_7Seg.cfg"
+  },
+  {
+    "name": "FASAGerminiSRB175White",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SRB_175\\GeminiSRB175_White.cfg"
+  },
+  {
+    "name": "FASAGerminiSRBInlineSep",
+    "filePath": "FASA\\Gemini2\\FASA_Gemini_SRB_175\\GeminiSRB_Inline_Sep.cfg"
+  },
+  {
+    "name": "WingGemini",
+    "filePath": "FASA\\Gemini2\\FASA_WingGemini\\WingGemini.cfg"
+  },
+  {
+    "name": "WingGeminiContSurf",
+    "filePath": "FASA\\Gemini2\\FASA_WingGemini\\WingGemini_ContSurf.cfg"
+  },
+  {
+    "name": "WingGeminiFP",
+    "filePath": "FASA\\Gemini2\\FASA_WingGemini\\WingGemini_FP.cfg"
+  },
+  {
+    "name": "WingGeminiFPContSurf",
+    "filePath": "FASA\\Gemini2\\FASA_WingGemini\\WingGemini_FP_CtrlSurf.cfg"
+  },
+  {
+    "name": "FASA_Atlas_LFT_Cone",
+    "filePath": "FASA\\Mercury\\FASA_Atlas_LFT_Cone\\Atlas_LFTCone.cfg"
+  },
+  {
+    "name": "FASA_Atlas_LFT_Cone2",
+    "filePath": "FASA\\Mercury\\FASA_Atlas_LFT_Cone\\Atlas_LFTCone2.cfg"
+  },
+  {
+    "name": "FASAMercuryAtlasLFTLong",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Atlas\\Mercury_AtlasLFT_Long.cfg"
+  },
+  {
+    "name": "FASAMercuryFairing",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Atlas\\Mercury_Atlas_Fairing.cfg"
+  },
+  {
+    "name": "FASAMercuryAtlasVernierEngine",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Atlas\\Mercury_Atlas_Vernier_Engine.cfg"
+  },
+  {
+    "name": "FASAMercuryAtlasEng",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Atlas_Eng\\Mercury_Atlas_Eng.cfg"
+  },
+  {
+    "name": "FASAMercuryAtlasEngBooster",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Atlas_Eng\\Mercury_Atlas_Eng_Booster.cfg"
+  },
+  {
+    "name": "FASAMercuryDec",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Eng\\Mercury_Dec.cfg"
+  },
+  {
+    "name": "FASA_Mercury_Eng",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Eng\\Merc_SRB_Eng.cfg"
+  },
+  {
+    "name": "FASA_Mercury_LES",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_LES\\Merc_LES.cfg"
+  },
+  {
+    "name": "FASA_Mercury_LFEng",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_LFEngine\\Merc_LFE.cfg"
+  },
+  {
+    "name": "FASA_Mercury_LFT_Long",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_LFT_Long\\Merc_LFT_Long.cfg"
+  },
+  {
+    "name": "FASA_Mercury_LFT_Short",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_LFT_Short\\Merc_LFT_Short.cfg"
+  },
+  {
+    "name": "FASA_Mercury_Parachute_Box",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Parachute_Box\\Merc_Parachute.cfg"
+  },
+  {
+    "name": "FASAMercruyCap2",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Pod\\FASA_Mercury_Cap2.cfg"
+  },
+  {
+    "name": "FASAMercuryPod",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Pod\\Mercury_Pod.cfg"
+  },
+  {
+    "name": "FASAMercuryPodRCS",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Pod\\Mercury_Pod_RCS.cfg"
+  },
+  {
+    "name": "FASA_Mercury_RCS_Short",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_RCS_Short\\Merc_RCS_Short.cfg"
+  },
+  {
+    "name": "FASAMercuryRedstoneFin",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Redstone_Eng\\Mercury_Redstone_Fin.cfg"
+  },
+  {
+    "name": "FASA_Mercury_Redstone_Eng",
+    "filePath": "FASA\\Mercury\\FASA_Mercury_Redstone_Eng\\Merc_LFE_Redstone.cfg"
+  },
+  {
+    "name": "FASAlaunchClamp125",
+    "filePath": "FASA\\Misc\\FASA_Launch_Clamp_125\\FASA_Launch_Clamp_125.cfg"
+  },
+  {
+    "name": "FASAlaunchClamp25",
+    "filePath": "FASA\\Misc\\FASA_Launch_Clamp_125\\FASA_Launch_Clamp_25.cfg"
+  },
+  {
+    "name": "FASAlaunchClampApollo",
+    "filePath": "FASA\\Misc\\FASA_Launch_Clamp_125\\FASA_Launch_Clamp_Apollo.cfg"
+  },
+  {
+    "name": "FASAlaunchClampAtlas",
+    "filePath": "FASA\\Misc\\FASA_Launch_Clamp_125\\FASA_Launch_Clamp_Atlas.cfg"
+  },
+  {
+    "name": "FASAlaunchTower",
+    "filePath": "FASA\\Misc\\FASA_Launch_Tower\\FASA_Launch_Tower.cfg"
+  },
+  {
+    "name": "FASAUmbilicalTower",
+    "filePath": "FASA\\Misc\\FASA_Launch_Tower\\FASA_Umbilical_Tower.cfg"
+  },
+  {
+    "name": "FASASolarLarge",
+    "filePath": "FASA\\Misc\\FASA_Solar_Panels\\Solar_Large.cfg"
+  },
+  {
+    "name": "FASASolarMed",
+    "filePath": "FASA\\Misc\\FASA_Solar_Panels\\Solar_Med.cfg"
+  },
+  {
+    "name": "FASASolarMini",
+    "filePath": "FASA\\Misc\\FASA_Solar_Panels\\Solar_Mini.cfg"
+  },
+  {
+    "name": "FASAExplorerLFTLong",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_LFT_Long.cfg"
+  },
+  {
+    "name": "FASAExplorerLFTMed",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_LFT_Med.cfg"
+  },
+  {
+    "name": "FASAExplorerLFTSmall",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_LFT_Small.cfg"
+  },
+  {
+    "name": "FASAExplorerNosecone",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Nosecone.cfg"
+  },
+  {
+    "name": "FASAExplorerProbe",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Probe.cfg"
+  },
+  {
+    "name": "FASAExplorerSgt",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Sgt.cfg"
+  },
+  {
+    "name": "FASAExplorerSgt11",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Sgt_11.cfg"
+  },
+  {
+    "name": "FASAExplorerSgt11Dec",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Sgt_11_Dec.cfg"
+  },
+  {
+    "name": "FASAExplorerSgt3",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Sgt_3.cfg"
+  },
+  {
+    "name": "FASAExplorerSgt3Dec",
+    "filePath": "FASA\\Probes\\Explorer\\Explorer_Sgt_3_Dec.cfg"
+  },
+  {
+    "name": "FASAGeminiSciRadmeter",
+    "filePath": "FASA\\Probes\\FASA_Probe_Parts\\Gemini_Sci_Goo.cfg"
+  },
+  {
+    "name": "FASAProbeCamera",
+    "filePath": "FASA\\Probes\\FASA_Probe_Parts\\Probe_Camera.cfg"
+  },
+  {
+    "name": "FASAProbeGeigerCounter",
+    "filePath": "FASA\\Probes\\FASA_Probe_Parts\\Probe_GeigerCounter.cfg"
+  },
+  {
+    "name": "FASAProbeLaser",
+    "filePath": "FASA\\Probes\\FASA_Probe_Parts\\Probe_Laser.cfg"
+  },
+  {
+    "name": "FASAApolloSubSat",
+    "filePath": "FASA\\Probes\\Pioneer\\Apollo_SubSat.cfg"
+  },
+  {
+    "name": "FASAApollo_SubSatAnt",
+    "filePath": "FASA\\Probes\\Pioneer\\Apollo_SubSat_Ant.cfg"
+  },
+  {
+    "name": "FASAProbeDecoupler",
+    "filePath": "FASA\\Probes\\Pioneer\\Decoupler_Probe.cfg"
+  },
+  {
+    "name": "FASAPioneerAnt",
+    "filePath": "FASA\\Probes\\Pioneer\\Pioneer_Ant.cfg"
+  },
+  {
+    "name": "FASAPioneerLFE",
+    "filePath": "FASA\\Probes\\Pioneer\\Pioneer_LFE.cfg"
+  },
+  {
+    "name": "FASAPioneerProbe",
+    "filePath": "FASA\\Probes\\Pioneer\\Pioneer_Probe.cfg"
+  },
+  {
+    "name": "FASAProbeParachute",
+    "filePath": "FASA\\Probes\\Probe_Parachute_Box\\Probe_Parachute.cfg"
+  },
+  {
+    "name": "NavBall_mercury",
+    "filePath": "FASA\\Props\\Navball_Mercury\\Navball_Mercury.cfg"
+  },
+  {
+    "name": "FASABigG_Sci_Int",
+    "filePath": "FASA\\Spaces\\FASA_BigG_Sci_Int\\internal.cfg"
+  },
+  {
+    "name": "GeminiBigGInt",
+    "filePath": "FASA\\Spaces\\FASA_Gemini_BigG_Int\\internal.cfg"
+  },
+  {
+    "name": "FASAGeminiInt2",
+    "filePath": "FASA\\Spaces\\FASA_Gemini_Int2\\internal.cfg"
+  },
+  {
+    "name": "FASA_IVA_Launch_Tower",
+    "filePath": "FASA\\Spaces\\FASA_IVA_Launch_Tower\\internal.cfg"
+  },
+  {
+    "name": "FASAMercuryInt",
+    "filePath": "FASA\\Spaces\\FASA_Mercury_Int\\internal.cfg"
+  },
+  {
+    "name": "FASAGeminiLanderInt",
+    "filePath": "FASA\\Spaces\\GeminiLanderInt\\internal.cfg"
+  }
+]

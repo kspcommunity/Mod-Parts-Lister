@@ -1,0 +1,22 @@
+[
+  {
+    "name": "nesdCFHb",
+    "filePath": "SurfaceAttachableControl\\Parts\\Part1\\CFH-B.cfg"
+  },
+  {
+    "name": "nesdCFHc",
+    "filePath": "SurfaceAttachableControl\\Parts\\Part1\\CFH-C.cfg"
+  },
+  {
+    "name": "nesdCFHd",
+    "filePath": "SurfaceAttachableControl\\Parts\\Part1\\CFH-D.cfg"
+  },
+  {
+    "name": "nesdCFHr",
+    "filePath": "SurfaceAttachableControl\\Parts\\Part1\\CFH-R.cfg"
+  },
+  {
+    "name": "nesdCFHs",
+    "filePath": "SurfaceAttachableControl\\Parts\\Part1\\CFH-S.cfg"
+  }
+]

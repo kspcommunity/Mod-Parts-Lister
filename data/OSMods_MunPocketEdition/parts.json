@@ -1,0 +1,70 @@
+[
+  {
+    "name": "bopPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Bop\\part.cfg"
+  },
+  {
+    "name": "dresPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Dres\\part.cfg"
+  },
+  {
+    "name": "dunaPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Duna\\part.cfg"
+  },
+  {
+    "name": "eelooPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Eeloo\\part.cfg"
+  },
+  {
+    "name": "evePocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Eve\\part.cfg"
+  },
+  {
+    "name": "gillyPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Gilly\\part.cfg"
+  },
+  {
+    "name": "ikePocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Ike\\part.cfg"
+  },
+  {
+    "name": "joolPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Jool\\part.cfg"
+  },
+  {
+    "name": "kerbinPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Kerbin\\part.cfg"
+  },
+  {
+    "name": "laythePocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Laythe\\part.cfg"
+  },
+  {
+    "name": "MicroDeathStar",
+    "filePath": "OSMods_MunPocketEdition\\MDS\\MicroDeathStar.cfg"
+  },
+  {
+    "name": "minmusPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Minmus\\part.cfg"
+  },
+  {
+    "name": "mohoPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Moho\\part.cfg"
+  },
+  {
+    "name": "munPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Mun\\part.cfg"
+  },
+  {
+    "name": "polPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Pol\\part.cfg"
+  },
+  {
+    "name": "tyloPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Tylo\\part.cfg"
+  },
+  {
+    "name": "vallPocketEdition",
+    "filePath": "OSMods_MunPocketEdition\\Vall\\part.cfg"
+  }
+]

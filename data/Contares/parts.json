@@ -4,6 +4,102 @@
     "filePath": "Contares\\Agencies\\Agents.cfg"
   },
   {
+    "name": "A1-44_FIN",
+    "filePath": "Contares\\Parts\\A5\\A1-44_FIN.cfg"
+  },
+  {
+    "name": "A5-V2plus",
+    "filePath": "Contares\\Parts\\A5\\A5-V2plus.cfg"
+  },
+  {
+    "name": "A5_EAP-236c",
+    "filePath": "Contares\\Parts\\A5\\A5_EAP_236.cfg"
+  },
+  {
+    "name": "A5_ECA_LFO",
+    "filePath": "Contares\\Parts\\A5\\A5_ECA_LFO.cfg"
+  },
+  {
+    "name": "A5_EPS",
+    "filePath": "Contares\\Parts\\A5\\A5_EPS.cfg"
+  },
+  {
+    "name": "A5_ESCa",
+    "filePath": "Contares\\Parts\\A5\\A5_ESCa.cfg"
+  },
+  {
+    "name": "A6-Nosecone",
+    "filePath": "Contares\\Parts\\A5\\A6-Nosecone.cfg"
+  },
+  {
+    "name": "A6-P120",
+    "filePath": "Contares\\Parts\\A5\\A6-P120.cfg"
+  },
+  {
+    "name": "A6-P180",
+    "filePath": "Contares\\Parts\\A5\\A6-P180.cfg"
+  },
+  {
+    "name": "A6-V2plus",
+    "filePath": "Contares\\Parts\\A5\\A6-V2plus.cfg"
+  },
+  {
+    "name": "A6_LFO_A",
+    "filePath": "Contares\\Parts\\A5\\A6_LFO_A.cfg"
+  },
+  {
+    "name": "ALIYANA_VUL2",
+    "filePath": "Contares\\Parts\\A5\\ALIYANA_VUL2.cfg"
+  },
+  {
+    "name": "ALIYANA_VUL2_ADAPTER",
+    "filePath": "Contares\\Parts\\A5\\ALIYANA_VUL2_ADAPTER.cfg"
+  },
+  {
+    "name": "C-HM-7b",
+    "filePath": "Contares\\Parts\\A5\\C_HM-7b.cfg"
+  },
+  {
+    "name": "ESC-B",
+    "filePath": "Contares\\Parts\\A5\\ESC-B.cfg"
+  },
+  {
+    "name": "E_1875_ALIYANA",
+    "filePath": "Contares\\Parts\\A5\\E_1875_ALIYANA\\E_1875_ALIYANA.cfg"
+  },
+  {
+    "name": "E_ALIYANA_PAL",
+    "filePath": "Contares\\Parts\\A5\\E_ALIYANA_PAL\\E_ALIYANA_PAL.cfg"
+  },
+  {
+    "name": "E_ALIYANA_PAP",
+    "filePath": "Contares\\Parts\\A5\\E_ALIYANA_PAP\\E_ALIYANA_PAP.cfg"
+  },
+  {
+    "name": "E_ATV_Engine_4N",
+    "filePath": "Contares\\Parts\\A5\\E_ATV_Engine_4N\\E_ATV_Engine_4N.cfg"
+  },
+  {
+    "name": "E_ATV_Engine_4Nr",
+    "filePath": "Contares\\Parts\\A5\\E_ATV_Engine_4N_real\\E_ATV_Engine_4N.cfg"
+  },
+  {
+    "name": "E_HM-7",
+    "filePath": "Contares\\Parts\\A5\\E_HM-7\\E_HM-7.cfg"
+  },
+  {
+    "name": "E_viking4_2",
+    "filePath": "Contares\\Parts\\A5\\E_viking4_2\\E_viking4_2.cfg"
+  },
+  {
+    "name": "RK-0-0V2",
+    "filePath": "Contares\\Parts\\A5\\RK-0-0V2.cfg"
+  },
+  {
+    "name": "ATV_SP",
+    "filePath": "Contares\\Parts\\A5\\U_ATV_SP\\ATV_SP.cfg"
+  },
+  {
     "name": "Fin_RIVER",
     "filePath": "Contares\\Parts\\AERO\\FIN_RIVER\\Fin_RIVER.cfg"
   },
@@ -36,6 +132,150 @@
     "filePath": "Contares\\Parts\\AERO\\S_2500_Fairing\\S_2500_Fairing.cfg"
   },
   {
+    "name": "altimeg",
+    "filePath": "Contares\\Parts\\Antennas\\altimeg\\altimeg.cfg"
+  },
+  {
+    "name": "C-KURS_A",
+    "filePath": "Contares\\Parts\\Antennas\\C-KURS_A\\C-KURS_A.cfg"
+  },
+  {
+    "name": "CRU-LG-A1",
+    "filePath": "Contares\\Parts\\Antennas\\CRU-LG-A1\\CRU-LG-A1.cfg"
+  },
+  {
+    "name": "C_DIPOL_A",
+    "filePath": "Contares\\Parts\\Antennas\\C_DIPOL_A\\C_DIPOL_A.cfg"
+  },
+  {
+    "name": "C_DIPOL_B",
+    "filePath": "Contares\\Parts\\Antennas\\C_DIPOL_B\\C_DIPOL_B.cfg"
+  },
+  {
+    "name": "CD_Starkeeper",
+    "filePath": "Contares\\Parts\\Antennas\\C_DStarkeeper\\C_DStarkeeper.cfg"
+  },
+  {
+    "name": "C_HG_D_T_2",
+    "filePath": "Contares\\Parts\\Antennas\\C_HG_D_T_2\\C_HG_D_T_2.cfg"
+  },
+  {
+    "name": "C_HG_T_1",
+    "filePath": "Contares\\Parts\\Antennas\\C_HG_T_1\\C_HG_T_1.cfg"
+  },
+  {
+    "name": "C_HORN_1",
+    "filePath": "Contares\\Parts\\Antennas\\C_HORN_1\\C_HORN_1.cfg"
+  },
+  {
+    "name": "C_LG_STAB_2",
+    "filePath": "Contares\\Parts\\Antennas\\C_LG_STAB_2\\C_LG_STAB_2.cfg"
+  },
+  {
+    "name": "FFDM",
+    "filePath": "Contares\\Parts\\Antennas\\FFDM\\FFDM.cfg"
+  },
+  {
+    "name": "HG_spiral",
+    "filePath": "Contares\\Parts\\Antennas\\HG_spiral\\HG_spiral.cfg"
+  },
+  {
+    "name": "IMS1-KA",
+    "filePath": "Contares\\Parts\\Antennas\\IMS1-KA\\IMS1-KA.cfg"
+  },
+  {
+    "name": "IS18D",
+    "filePath": "Contares\\Parts\\Antennas\\IS18D\\IS18D.cfg"
+  },
+  {
+    "name": "HG_JAXA_Relay",
+    "filePath": "Contares\\Parts\\Antennas\\JAXA\\HG_JAXA_Relay.cfg"
+  },
+  {
+    "name": "K-Sensor",
+    "filePath": "Contares\\Parts\\Antennas\\K-Sensor\\K-Sensor.cfg"
+  },
+  {
+    "name": "LG_LEGO_ANT",
+    "filePath": "Contares\\Parts\\Antennas\\LG_LEGO_ANT\\LG_LEGO_ANT.cfg"
+  },
+  {
+    "name": "MABA20m",
+    "filePath": "Contares\\Parts\\Antennas\\MABA20m\\MABA20m.cfg"
+  },
+  {
+    "name": "PAFF1",
+    "filePath": "Contares\\Parts\\Antennas\\PAFF1\\PAFF1.cfg"
+  },
+  {
+    "name": "PAFF2",
+    "filePath": "Contares\\Parts\\Antennas\\ParabolFrameFold\\PARABOL_FRAME_FOLD.cfg"
+  },
+  {
+    "name": "QuadDish",
+    "filePath": "Contares\\Parts\\Antennas\\QuadDish\\QuadDish.cfg"
+  },
+  {
+    "name": "RadAlt",
+    "filePath": "Contares\\Parts\\Antennas\\RadAlt\\RadAlt.cfg"
+  },
+  {
+    "name": "SARL",
+    "filePath": "Contares\\Parts\\Antennas\\SARL\\SARL.cfg"
+  },
+  {
+    "name": "SeaRadar",
+    "filePath": "Contares\\Parts\\Antennas\\SeaRadar\\SeaRadar.cfg"
+  },
+  {
+    "name": "S_C_Dish",
+    "filePath": "Contares\\Parts\\Antennas\\S_C_Dish\\S_C_Dish.cfg"
+  },
+  {
+    "name": "S_GPS_Dish",
+    "filePath": "Contares\\Parts\\Antennas\\S_GPS_Dish\\S_GPS_Dish.cfg"
+  },
+  {
+    "name": "S_HAHM_P",
+    "filePath": "Contares\\Parts\\Antennas\\S_HAHM\\HAHM_promo.cfg"
+  },
+  {
+    "name": "S_YAGI_TV",
+    "filePath": "Contares\\Parts\\Antennas\\S_YAGI_TV\\S_YAGI_TV.cfg"
+  },
+  {
+    "name": "U_DRR_F1",
+    "filePath": "Contares\\Parts\\Antennas\\U_DRR_F1\\U_DRR_F1.cfg"
+  },
+  {
+    "name": "ATV_autodock",
+    "filePath": "Contares\\Parts\\ATV\\ATV_autodock.cfg"
+  },
+  {
+    "name": "C-ORION_CAPSULE",
+    "filePath": "Contares\\Parts\\C-ORION\\C-ORION_CAPSULE.cfg"
+  },
+  {
+    "name": "C-ORION_ESC",
+    "filePath": "Contares\\Parts\\C-ORION\\C-ORION_ESC.cfg"
+  },
+  {
+    "name": "C-ORION_FAIRING",
+    "filePath": "Contares\\Parts\\C-ORION\\C-ORION_FAIRING.cfg"
+  },
+  {
+    "name": "C-ORION_HS",
+    "filePath": "Contares\\Parts\\C-ORION\\C-ORION_HS.cfg"
+  },
+  {
+    "name": "C-ORION_PP",
+    "filePath": "Contares\\Parts\\C-ORION\\C-ORION_PP.cfg"
+  },
+  {
+    "name": "CA-1_E4N",
+    "filePath": "Contares\\Parts\\CA_1\\CA-1_E4N.cfg"
+  },
+  {
     "name": "CA-1_Engine",
     "filePath": "Contares\\Parts\\CA_1\\CA_1_Engine.cfg"
   },
@@ -44,12 +284,496 @@
     "filePath": "Contares\\Parts\\CA_1\\CA_1_Engine_S2.cfg"
   },
   {
+    "name": "CA_1_FIN",
+    "filePath": "Contares\\Parts\\CA_1\\CA_1_FIN.cfg"
+  },
+  {
     "name": "CA-1_Pod",
     "filePath": "Contares\\Parts\\CA_1\\CA_1_Pod.cfg"
   },
   {
     "name": "CA-1_Tank_S1",
     "filePath": "Contares\\Parts\\CA_1\\CA_1_Tank_S1.cfg"
+  },
+  {
+    "name": "U_Bremse",
+    "filePath": "Contares\\Parts\\CA_1\\U_Bremse.cfg"
+  },
+  {
+    "name": "CD-Hermes",
+    "filePath": "Contares\\Parts\\CD_HERMES\\CD-Hermes.cfg"
+  },
+  {
+    "name": "CD_DOCSTO",
+    "filePath": "Contares\\Parts\\CD_HERMES\\CD_DOCSTO.cfg"
+  },
+  {
+    "name": "DH_decoupler",
+    "filePath": "Contares\\Parts\\CD_HERMES\\DH_decoupler.cfg"
+  },
+  {
+    "name": "CKC-1",
+    "filePath": "Contares\\Parts\\CKC-1\\CKC-1.cfg"
+  },
+  {
+    "name": "CKC-HS",
+    "filePath": "Contares\\Parts\\CKC-1\\CKC-HS.cfg"
+  },
+  {
+    "name": "Cosmos3_S1",
+    "filePath": "Contares\\Parts\\Cosmos3\\Cosmos3_S1.cfg"
+  },
+  {
+    "name": "Cosmos3_S2",
+    "filePath": "Contares\\Parts\\Cosmos3\\Cosmos3_S2.cfg"
+  },
+  {
+    "name": "RK-Z-216",
+    "filePath": "Contares\\Parts\\Cosmos3\\RK-Z-216.cfg"
+  },
+  {
+    "name": "RK-Z-S5_23",
+    "filePath": "Contares\\Parts\\Cosmos3\\RK-Z-S5_23.cfg"
+  },
+  {
+    "name": "CPII_Payload",
+    "filePath": "Contares\\Parts\\CPII\\CPII_Payload.cfg"
+  },
+  {
+    "name": "CPII_Radar",
+    "filePath": "Contares\\Parts\\CPII\\CPII_Radar.cfg"
+  },
+  {
+    "name": "CPII_S1",
+    "filePath": "Contares\\Parts\\CPII\\CPII_S1.cfg"
+  },
+  {
+    "name": "CPII_S1D",
+    "filePath": "Contares\\Parts\\CPII\\CPII_S1D.cfg"
+  },
+  {
+    "name": "CPII_S2",
+    "filePath": "Contares\\Parts\\CPII\\CPII_S2.cfg"
+  },
+  {
+    "name": "CPII_SAS",
+    "filePath": "Contares\\Parts\\CPII\\CPII_SAS.cfg"
+  },
+  {
+    "name": "CAIRF",
+    "filePath": "Contares\\Parts\\CST101\\CAIRF.cfg"
+  },
+  {
+    "name": "CST101_CAP",
+    "filePath": "Contares\\Parts\\CST101\\CST101_CAP.cfg"
+  },
+  {
+    "name": "CST101_CM",
+    "filePath": "Contares\\Parts\\CST101\\CST101_CM.cfg"
+  },
+  {
+    "name": "CST101_HS",
+    "filePath": "Contares\\Parts\\CST101\\CST101_HS.cfg"
+  },
+  {
+    "name": "CST101_PP",
+    "filePath": "Contares\\Parts\\CST101\\CST101_PP.cfg"
+  },
+  {
+    "name": "CST101_SM",
+    "filePath": "Contares\\Parts\\CST101\\CST101_SM.cfg"
+  },
+  {
+    "name": "ConCon_akku",
+    "filePath": "Contares\\Parts\\CTACLS\\ConCon_akku.cfg"
+  },
+  {
+    "name": "ConCon_co2too2",
+    "filePath": "Contares\\Parts\\CTACLS\\ConCon_co2too2.cfg"
+  },
+  {
+    "name": "ConCon_food",
+    "filePath": "Contares\\Parts\\CTACLS\\ConCon_food.cfg"
+  },
+  {
+    "name": "ConCon_recycling",
+    "filePath": "Contares\\Parts\\CTACLS\\ConCon_recycling.cfg"
+  },
+  {
+    "name": "ConCon_wwtocw",
+    "filePath": "Contares\\Parts\\CTACLS\\ConCon_wwtocw.cfg"
+  },
+  {
+    "name": "CX-15-SKID",
+    "filePath": "Contares\\Parts\\CX-15\\CX-15-SKID.cfg"
+  },
+  {
+    "name": "CX-15",
+    "filePath": "Contares\\Parts\\CX-15\\CX-15.cfg"
+  },
+  {
+    "name": "CX-20",
+    "filePath": "Contares\\Parts\\CX-20\\CX-20.cfg"
+  },
+  {
+    "name": "CX-20zivil",
+    "filePath": "Contares\\Parts\\CX-20\\CX-20z.cfg"
+  },
+  {
+    "name": "CX-20_Adapter",
+    "filePath": "Contares\\Parts\\CX-20\\CX-20_Adapter.cfg"
+  },
+  {
+    "name": "CX-37b",
+    "filePath": "Contares\\Parts\\CX-37b\\CX-37b.cfg"
+  },
+  {
+    "name": "CX-37bSP",
+    "filePath": "Contares\\Parts\\CX-37b\\CX-37bSP.cfg"
+  },
+  {
+    "name": "CLCDCUBE",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\CLCDCUBE.cfg"
+  },
+  {
+    "name": "CTV2B_SM",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\CTV2B_SM.cfg"
+  },
+  {
+    "name": "C_ATV_09375to1250",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_ATV_09375to1250.cfg"
+  },
+  {
+    "name": "C_ATV_1250to2200",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_ATV_1250to2200.cfg"
+  },
+  {
+    "name": "C_ATV_SM",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_ATV_SM.cfg"
+  },
+  {
+    "name": "C_ATV_Storage",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_ATV_Storage.cfg"
+  },
+  {
+    "name": "C_CTV_AirLock",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_CTV_AirLock.cfg"
+  },
+  {
+    "name": "C_CTV_Capsule",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_CTV_Capsule.cfg"
+  },
+  {
+    "name": "C_CTV_Decoupler",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_CTV_Decoupler.cfg"
+  },
+  {
+    "name": "C_CTV_Decoupler_2",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_CTV_Decoupler_2.cfg"
+  },
+  {
+    "name": "C_CTV_Decoupler_3",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_CTV_Decoupler_3.cfg"
+  },
+  {
+    "name": "C_CTV_HeatShield",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\C_CTV_HeatShield.cfg"
+  },
+  {
+    "name": "ESA-Docking-Habitat",
+    "filePath": "Contares\\Parts\\C_ATV_CTV\\ESA-Docking-Habitat.cfg"
+  },
+  {
+    "name": "CSD-3125",
+    "filePath": "Contares\\Parts\\Decoupler\\CSD-3125.cfg"
+  },
+  {
+    "name": "HDECU-L",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU-L.cfg"
+  },
+  {
+    "name": "HDECU-VL",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU-VL.cfg"
+  },
+  {
+    "name": "HDECU0625",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU0625.cfg"
+  },
+  {
+    "name": "HDECU09375",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU09375.cfg"
+  },
+  {
+    "name": "HDECU1250",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU1250.cfg"
+  },
+  {
+    "name": "HDECU1500",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU1500.cfg"
+  },
+  {
+    "name": "HDECU1875",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU1875.cfg"
+  },
+  {
+    "name": "HDECU2500",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU2500.cfg"
+  },
+  {
+    "name": "HDECU3750",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU3750.cfg"
+  },
+  {
+    "name": "HDECU5000",
+    "filePath": "Contares\\Parts\\Decoupler\\HDECU5000.cfg"
+  },
+  {
+    "name": "RD-RK-3B",
+    "filePath": "Contares\\Parts\\Decoupler\\RD_RK\\RD-RK-3B.cfg"
+  },
+  {
+    "name": "RD_RK-3",
+    "filePath": "Contares\\Parts\\Decoupler\\RD_RK\\RD_RK-3.cfg"
+  },
+  {
+    "name": "RD_RK-4",
+    "filePath": "Contares\\Parts\\Decoupler\\RD_RK\\RD_RK-4.cfg"
+  },
+  {
+    "name": "Decoupler_1250_GV",
+    "filePath": "Contares\\Parts\\Decoupler\\SD_GVD\\Decoupler_1250_GV.cfg"
+  },
+  {
+    "name": "Decoupler_1250_GVD",
+    "filePath": "Contares\\Parts\\Decoupler\\SD_GVD\\Decoupler_1250_GVD.cfg"
+  },
+  {
+    "name": "Decoupler_1875_GV",
+    "filePath": "Contares\\Parts\\Decoupler\\SD_GVD\\Decoupler_1875_GV.cfg"
+  },
+  {
+    "name": "Decoupler_2500_GV",
+    "filePath": "Contares\\Parts\\Decoupler\\SD_GVD\\Decoupler_2500_GV.cfg"
+  },
+  {
+    "name": "Decoupler_1250t",
+    "filePath": "Contares\\Parts\\Decoupler\\SD_slim\\Decoupler_1250t.cfg"
+  },
+  {
+    "name": "Decoupler_1875t",
+    "filePath": "Contares\\Parts\\Decoupler\\SD_slim\\Decoupler_1875t.cfg"
+  },
+  {
+    "name": "DLMS_C",
+    "filePath": "Contares\\Parts\\DLMS_C\\DLMS_C.cfg"
+  },
+  {
+    "name": "BBBPrTANK",
+    "filePath": "Contares\\Parts\\DOS\\BBBPrTANK.cfg"
+  },
+  {
+    "name": "BBBPrTANKx2",
+    "filePath": "Contares\\Parts\\DOS\\BBBPrTANKx2.cfg"
+  },
+  {
+    "name": "CWANT",
+    "filePath": "Contares\\Parts\\DOS\\CWANT.cfg"
+  },
+  {
+    "name": "FGB_LANG",
+    "filePath": "Contares\\Parts\\DOS\\FGB_LANG.cfg"
+  },
+  {
+    "name": "GABUN-2a",
+    "filePath": "Contares\\Parts\\DOS\\GABUN-2a.cfg"
+  },
+  {
+    "name": "KALJUT_NODA",
+    "filePath": "Contares\\Parts\\DOS\\KALJUT_NODA.cfg"
+  },
+  {
+    "name": "KALJUT_NODC",
+    "filePath": "Contares\\Parts\\DOS\\KALJUT_NODC.cfg"
+  },
+  {
+    "name": "KALJUT_NODE",
+    "filePath": "Contares\\Parts\\DOS\\KALJUT_NODE.cfg"
+  },
+  {
+    "name": "KALJUT_RUMA",
+    "filePath": "Contares\\Parts\\DOS\\KALJUT_RUMA.cfg"
+  },
+  {
+    "name": "KIR_AIRLOCK",
+    "filePath": "Contares\\Parts\\DOS\\KIR_AIRLOCK.cfg"
+  },
+  {
+    "name": "KIR_BACK_6",
+    "filePath": "Contares\\Parts\\DOS\\KIR_BACK_6.cfg"
+  },
+  {
+    "name": "KIR_BACK_9",
+    "filePath": "Contares\\Parts\\DOS\\KIR_BACK_9.cfg"
+  },
+  {
+    "name": "KIR_FRONT",
+    "filePath": "Contares\\Parts\\DOS\\KIR_FRONT.cfg"
+  },
+  {
+    "name": "KIR_FRONT_6solo",
+    "filePath": "Contares\\Parts\\DOS\\KIR_FRONT_6solo.cfg"
+  },
+  {
+    "name": "KIR_FRONT_solo",
+    "filePath": "Contares\\Parts\\DOS\\KIR_FRONT_solo.cfg"
+  },
+  {
+    "name": "KIR_INTER",
+    "filePath": "Contares\\Parts\\DOS\\KIR_INTER.cfg"
+  },
+  {
+    "name": "KIR_MAIN",
+    "filePath": "Contares\\Parts\\DOS\\KIR_MAIN.cfg"
+  },
+  {
+    "name": "KPA_kurz",
+    "filePath": "Contares\\Parts\\DOS\\KPA_kurz.cfg"
+  },
+  {
+    "name": "KPA_lang",
+    "filePath": "Contares\\Parts\\DOS\\KPA_lang.cfg"
+  },
+  {
+    "name": "PRIRODA-TRAVER",
+    "filePath": "Contares\\Parts\\DOS\\PRIRODA-TRAVER.cfg"
+  },
+  {
+    "name": "PRIRODA_CAM",
+    "filePath": "Contares\\Parts\\DOS\\PRIRODA_CAM.cfg"
+  },
+  {
+    "name": "PRIRODA_DANT",
+    "filePath": "Contares\\Parts\\DOS\\PRIRODA_DANT.cfg"
+  },
+  {
+    "name": "SOFORA_TRUSS",
+    "filePath": "Contares\\Parts\\DOS\\SOFORA_TRUSS.cfg"
+  },
+  {
+    "name": "SWE-RADAR",
+    "filePath": "Contares\\Parts\\DOS\\SWE-RADAR.cfg"
+  },
+  {
+    "name": "TKS_CWANT2",
+    "filePath": "Contares\\Parts\\DOS\\TKS_CWANT2.cfg"
+  },
+  {
+    "name": "TKS_ESC",
+    "filePath": "Contares\\Parts\\DOS\\TKS_ESC.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL",
+    "filePath": "Contares\\Parts\\DOS\\TKS_KAPSEL.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_DC",
+    "filePath": "Contares\\Parts\\DOS\\TKS_KAPSEL_DC.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_DO",
+    "filePath": "Contares\\Parts\\DOS\\TKS_KAPSEL_DO.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_HS",
+    "filePath": "Contares\\Parts\\DOS\\TKS_KAPSEL_HS.cfg"
+  },
+  {
+    "name": "TKS_KONUS",
+    "filePath": "Contares\\Parts\\DOS\\TKS_KONUS.cfg"
+  },
+  {
+    "name": "TKS_KRYSTALL",
+    "filePath": "Contares\\Parts\\DOS\\TKS_KRYSTALL.cfg"
+  },
+  {
+    "name": "TKS_MIDDLE",
+    "filePath": "Contares\\Parts\\DOS\\TKS_MIDDLE.cfg"
+  },
+  {
+    "name": "TKS_MONO_duo",
+    "filePath": "Contares\\Parts\\DOS\\TKS_MONO_duo.cfg"
+  },
+  {
+    "name": "TKS_MONO_duo2",
+    "filePath": "Contares\\Parts\\DOS\\TKS_MONO_duo2.cfg"
+  },
+  {
+    "name": "TKS_MONO_solo",
+    "filePath": "Contares\\Parts\\DOS\\TKS_MONO_solo.cfg"
+  },
+  {
+    "name": "TKS_PRIRODA",
+    "filePath": "Contares\\Parts\\DOS\\TKS_PRIRODA.cfg"
+  },
+  {
+    "name": "TKS_RCS",
+    "filePath": "Contares\\Parts\\DOS\\TKS_RCS.cfg"
+  },
+  {
+    "name": "TKS_RCS_F",
+    "filePath": "Contares\\Parts\\DOS\\TKS_RCS_F.cfg"
+  },
+  {
+    "name": "TKS_SPECTR",
+    "filePath": "Contares\\Parts\\DOS\\TKS_SPECTR.cfg"
+  },
+  {
+    "name": "TKS_TANK_Typ_A",
+    "filePath": "Contares\\Parts\\DOS\\TKS_TANK_Typ_A.cfg"
+  },
+  {
+    "name": "ZAR_rad",
+    "filePath": "Contares\\Parts\\DOS\\ZAR_rad.cfg"
+  },
+  {
+    "name": "C-DreamCrusher",
+    "filePath": "Contares\\Parts\\DreamCrusher\\C-DreamCrusher.cfg"
+  },
+  {
+    "name": "C-DreamCrusherCargo",
+    "filePath": "Contares\\Parts\\DreamCrusher\\C-DreamCrusherCargo.cfg"
+  },
+  {
+    "name": "C-DRILL-R0625",
+    "filePath": "Contares\\Parts\\DRILL\\C-DRILL-R0625.cfg"
+  },
+  {
+    "name": "CHM-LEG",
+    "filePath": "Contares\\Parts\\DUNA\\CHM-LEG.cfg"
+  },
+  {
+    "name": "KOMPAKTLANDER-2",
+    "filePath": "Contares\\Parts\\DUNA\\KOMPAKTLANDER-2.cfg"
+  },
+  {
+    "name": "LFO-VIPERA",
+    "filePath": "Contares\\Parts\\DUNA\\LFO-VIPERA.cfg"
+  },
+  {
+    "name": "MICRO-GABUN",
+    "filePath": "Contares\\Parts\\DUNA\\MICRO-GABUN.cfg"
+  },
+  {
+    "name": "EMP-1x1kN",
+    "filePath": "Contares\\Parts\\Engines\\E-MP\\EMP-1x1kN.cfg"
+  },
+  {
+    "name": "EMP-1x2kNc",
+    "filePath": "Contares\\Parts\\Engines\\E-MP\\EMP-1x2kNc.cfg"
+  },
+  {
+    "name": "EMP-2x1kN",
+    "filePath": "Contares\\Parts\\Engines\\E-MP\\EMP-2x1kN.cfg"
   },
   {
     "name": "E_1250_RD0235",
@@ -184,12 +908,112 @@
     "filePath": "Contares\\Parts\\Fairings\\AEF-1250.cfg"
   },
   {
+    "name": "AEF-1500",
+    "filePath": "Contares\\Parts\\Fairings\\AEF-1500.cfg"
+  },
+  {
     "name": "AEF-1875",
     "filePath": "Contares\\Parts\\Fairings\\AEF-1875.cfg"
   },
   {
     "name": "AEF-2500",
     "filePath": "Contares\\Parts\\Fairings\\AEF-2500.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_3",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\FEDERAZIJA_3.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_4",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\FEDERAZIJA_4.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_6",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\FEDERAZIJA_6.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_C",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\FEDERAZIJA_C.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_LES",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\FEDERAZIJA_LES.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_SM",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\FEDERAZIJA_SM.cfg"
+  },
+  {
+    "name": "PPTS_DECRCS",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\PPTS_DECRCS.cfg"
+  },
+  {
+    "name": "PPTS_HEATSHIELD",
+    "filePath": "Contares\\Parts\\FEDERAZIJA\\PPTS_HEATSHIELD.cfg"
+  },
+  {
+    "name": "DECUS1500",
+    "filePath": "Contares\\Parts\\FENIKS\\DECUS1500.cfg"
+  },
+  {
+    "name": "RK-Z-0124m_1500",
+    "filePath": "Contares\\Parts\\FENIKS\\RK-Z-0124m_1500.cfg"
+  },
+  {
+    "name": "RK-Z-0124_1250",
+    "filePath": "Contares\\Parts\\FENIKS\\RK-Z-0124_1250.cfg"
+  },
+  {
+    "name": "RK-Z-0124_1875",
+    "filePath": "Contares\\Parts\\FENIKS\\RK-Z-0124_1875.cfg"
+  },
+  {
+    "name": "RK-Z-0146",
+    "filePath": "Contares\\Parts\\FENIKS\\RK-Z-0146.cfg"
+  },
+  {
+    "name": "RK-Z-0162",
+    "filePath": "Contares\\Parts\\FENIKS\\RK-Z-0162.cfg"
+  },
+  {
+    "name": "S5_Nosecone",
+    "filePath": "Contares\\Parts\\FENIKS\\S5_Nosecone.cfg"
+  },
+  {
+    "name": "S5_S1_LFO",
+    "filePath": "Contares\\Parts\\FENIKS\\S5_S1_LFO.cfg"
+  },
+  {
+    "name": "S5_S3_LFO",
+    "filePath": "Contares\\Parts\\FENIKS\\S5_S3_LFO.cfg"
+  },
+  {
+    "name": "CPA_long",
+    "filePath": "Contares\\Parts\\FLOSS\\CPA_long.cfg"
+  },
+  {
+    "name": "FLOSS",
+    "filePath": "Contares\\Parts\\FLOSS\\FLOSS.cfg"
+  },
+  {
+    "name": "FLOSS_RAD",
+    "filePath": "Contares\\Parts\\FLOSS\\FLOSS_RAD.cfg"
+  },
+  {
+    "name": "C-MONOS-200",
+    "filePath": "Contares\\Parts\\FuelTanks\\C-MONOS-200\\C-MONOS-200.cfg"
+  },
+  {
+    "name": "CSLH2LOX",
+    "filePath": "Contares\\Parts\\FuelTanks\\CSLH2LOX\\CSLH2LOX.cfg"
+  },
+  {
+    "name": "CSLH2LOXk",
+    "filePath": "Contares\\Parts\\FuelTanks\\CSLH2LOX\\CSLH2LOXk.cfg"
+  },
+  {
+    "name": "C_RAD_TANK_1",
+    "filePath": "Contares\\Parts\\FuelTanks\\C_TANKS\\C_RAD_TANK_1.cfg"
   },
   {
     "name": "H2A_S1",
@@ -224,6 +1048,18 @@
     "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CLT-25-4.cfg"
   },
   {
+    "name": "CMT-3-06",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CMT-3-06.cfg"
+  },
+  {
+    "name": "CSOT-25-05",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CSOT-25-05.cfg"
+  },
+  {
+    "name": "CSOT-25-10",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CSOT-25-10.cfg"
+  },
+  {
     "name": "CST-25-1",
     "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CST-25-1.cfg"
   },
@@ -238,6 +1074,22 @@
   {
     "name": "CST-25-4",
     "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CST-25-4.cfg"
+  },
+  {
+    "name": "CST-50-1",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CST-50-1.cfg"
+  },
+  {
+    "name": "CST-50-10",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CST-50-10.cfg"
+  },
+  {
+    "name": "CST-50-2",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CST-50-2.cfg"
+  },
+  {
+    "name": "CST-50-4",
+    "filePath": "Contares\\Parts\\FuelTanks\\T_CST-87\\CST-50-4.cfg"
   },
   {
     "name": "CST-87-01",
@@ -304,8 +1156,132 @@
     "filePath": "Contares\\Parts\\FuelTanks\\T_ZARYA_SM\\T_ZARYA_SM.cfg"
   },
   {
+    "name": "CAJ-60a",
+    "filePath": "Contares\\Parts\\Globus5\\CAJ-60a.cfg"
+  },
+  {
+    "name": "CEMP187",
+    "filePath": "Contares\\Parts\\Globus5\\CEMP187.cfg"
+  },
+  {
+    "name": "Globus5-DC-Adapter",
+    "filePath": "Contares\\Parts\\Globus5\\Globus5-DC-Adapter.cfg"
+  },
+  {
+    "name": "Globus5-S1",
+    "filePath": "Contares\\Parts\\Globus5\\Globus5-S1.cfg"
+  },
+  {
+    "name": "Globus5-S2-150",
+    "filePath": "Contares\\Parts\\Globus5\\Globus5-S2-150.cfg"
+  },
+  {
+    "name": "Globus5-S2-187",
+    "filePath": "Contares\\Parts\\Globus5\\Globus5-S2-187.cfg"
+  },
+  {
+    "name": "Globus5-S2F-150",
+    "filePath": "Contares\\Parts\\Globus5\\Globus5-S2F-150.cfg"
+  },
+  {
+    "name": "RK-U-180",
+    "filePath": "Contares\\Parts\\Globus5\\RK-U-180.cfg"
+  },
+  {
+    "name": "H2B_S2_Esolo",
+    "filePath": "Contares\\Parts\\H-JAXA\\E_H2B_Esolo\\H2B_S2_Esolo.cfg"
+  },
+  {
+    "name": "E_H2B_SRB",
+    "filePath": "Contares\\Parts\\H-JAXA\\E_H2B_SRB\\E_H2B_SRB.cfg"
+  },
+  {
+    "name": "E_RK-0-100F",
+    "filePath": "Contares\\Parts\\H-JAXA\\E_RK-0\\E_RK-0-100F.cfg"
+  },
+  {
+    "name": "E_RK-0-120F",
+    "filePath": "Contares\\Parts\\H-JAXA\\E_RK-0\\E_RK-0-120F.cfg"
+  },
+  {
+    "name": "H2B_Bi_Adapter",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2B_Bi_Adapter\\H2B_Bi_Adapter.cfg"
+  },
+  {
+    "name": "H2B_S1_Adapter",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2B_S1_Adapter\\H2B_S1_Adapter.cfg"
+  },
+  {
+    "name": "H2B_S2_Engine",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2B_S2_Engine\\H2B_S2_Engine.cfg"
+  },
+  {
+    "name": "H3B_S2_Engine",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2B_S2_Engine\\H3B_S2_Engine.cfg"
+  },
+  {
+    "name": "H3_S2_N1",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2B_S2_Engine\\H3_S2_N1.cfg"
+  },
+  {
+    "name": "H2A_single_Adapter",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2B_single_Adapter\\H2A_single_Adapter.cfg"
+  },
+  {
+    "name": "H2DECUAB",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2DECUAB\\H2DECUAB.cfg"
+  },
+  {
+    "name": "H2A_S1",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2_S1\\H2A_S1.cfg"
+  },
+  {
+    "name": "H2B_S1",
+    "filePath": "Contares\\Parts\\H-JAXA\\H2_S1\\H2B_S1.cfg"
+  },
+  {
+    "name": "H3B_Triadapter",
+    "filePath": "Contares\\Parts\\H-JAXA\\H3B_triadapter\\H3B_Triadapter.cfg"
+  },
+  {
+    "name": "RK-N-05b",
+    "filePath": "Contares\\Parts\\H-JAXA\\RK-N-05b\\RK-N-05b.cfg"
+  },
+  {
+    "name": "HIGGS-S1",
+    "filePath": "Contares\\Parts\\HIGGS\\HIGGS-S1.cfg"
+  },
+  {
+    "name": "HIGGS-S2",
+    "filePath": "Contares\\Parts\\HIGGS\\HIGGS-S2.cfg"
+  },
+  {
+    "name": "RK-H-13",
+    "filePath": "Contares\\Parts\\HIGGS\\RK-H-13.cfg"
+  },
+  {
+    "name": "RK-H-14",
+    "filePath": "Contares\\Parts\\HIGGS\\RK-H-14.cfg"
+  },
+  {
+    "name": "HOPE-XL_ADAPTER",
+    "filePath": "Contares\\Parts\\HOPE_XL\\HOPE-XL_Adapter.cfg"
+  },
+  {
+    "name": "HOPE_XL",
+    "filePath": "Contares\\Parts\\HOPE_XL\\HOPE_XL.cfg"
+  },
+  {
     "name": "HTV_R_POD",
     "filePath": "Contares\\Parts\\HTV\\HTV_R_POD.cfg"
+  },
+  {
+    "name": "HTV_SP",
+    "filePath": "Contares\\Parts\\HTV\\HTV_SP.cfg"
+  },
+  {
+    "name": "KTV_OML",
+    "filePath": "Contares\\Parts\\HTV\\KTV_OML.cfg"
   },
   {
     "name": "U_HTV_Adapter",
@@ -324,6 +1300,42 @@
     "filePath": "Contares\\Parts\\HTV\\U_HTV_StorageP.cfg"
   },
   {
+    "name": "IUE",
+    "filePath": "Contares\\Parts\\IUE\\IUE.cfg"
+  },
+  {
+    "name": "IUE_SP",
+    "filePath": "Contares\\Parts\\IUE\\IUE_SP.cfg"
+  },
+  {
+    "name": "C-IXV-SR",
+    "filePath": "Contares\\Parts\\IXVC\\C-IXV-SpaceRider.cfg"
+  },
+  {
+    "name": "C-IXV",
+    "filePath": "Contares\\Parts\\IXVC\\C-IXV.cfg"
+  },
+  {
+    "name": "K4-S1",
+    "filePath": "Contares\\Parts\\Kappa5\\K4-S1.cfg"
+  },
+  {
+    "name": "K4-S2",
+    "filePath": "Contares\\Parts\\Kappa5\\K4-S2.cfg"
+  },
+  {
+    "name": "RK-0-68S",
+    "filePath": "Contares\\Parts\\Kappa5\\RK-0-68S.cfg"
+  },
+  {
+    "name": "RK-0-AJ10",
+    "filePath": "Contares\\Parts\\Kappa5\\RK-0-AJ10.cfg"
+  },
+  {
+    "name": "RLV-TDK",
+    "filePath": "Contares\\Parts\\KaSRO\\RLV-TDK.cfg"
+  },
+  {
     "name": "DMSLB",
     "filePath": "Contares\\Parts\\KERLOT\\DMSLB.cfg"
   },
@@ -340,6 +1352,82 @@
     "filePath": "Contares\\Parts\\KERLOT\\E_RK-Z-180.cfg"
   },
   {
+    "name": "KERLOT-S1",
+    "filePath": "Contares\\Parts\\KERLOT\\KERLOT_S1.cfg"
+  },
+  {
+    "name": "KERLOT_S2",
+    "filePath": "Contares\\Parts\\KERLOT\\KERLOT_S2.cfg"
+  },
+  {
+    "name": "SUNKAR_S1",
+    "filePath": "Contares\\Parts\\KERLOT\\SUNKAR_S1.cfg"
+  },
+  {
+    "name": "SUNKAR_S2",
+    "filePath": "Contares\\Parts\\KERLOT\\SUNKAR_S2.cfg"
+  },
+  {
+    "name": "YENISEI_RAD",
+    "filePath": "Contares\\Parts\\KERLOT\\YENISEI_RAD.cfg"
+  },
+  {
+    "name": "C12_LES",
+    "filePath": "Contares\\Parts\\KhiNa\\C12_LES.cfg"
+  },
+  {
+    "name": "C_KhiCapsule",
+    "filePath": "Contares\\Parts\\KhiNa\\C_KhiCapsule.cfg"
+  },
+  {
+    "name": "C_KhiGong2",
+    "filePath": "Contares\\Parts\\KhiNa\\C_KhiGong2.cfg"
+  },
+  {
+    "name": "C_KhiGong3",
+    "filePath": "Contares\\Parts\\KhiNa\\C_KhiGong3.cfg"
+  },
+  {
+    "name": "C_KhiOrbEngine",
+    "filePath": "Contares\\Parts\\KhiNa\\C_KhiOrbEngine.cfg"
+  },
+  {
+    "name": "C_KhiOrbital",
+    "filePath": "Contares\\Parts\\KhiNa\\C_KhiOrbital.cfg"
+  },
+  {
+    "name": "Khi5_LFO_Booster",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi5_LFO_Booster.cfg"
+  },
+  {
+    "name": "Khi5_LFO_S1",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi5_LFO_S1.cfg"
+  },
+  {
+    "name": "Khi5_LFO_S2",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi5_LFO_S2.cfg"
+  },
+  {
+    "name": "Khi5_Nosecone",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi5_Nosecone.cfg"
+  },
+  {
+    "name": "Khi6_LFO",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi6_LFO.cfg"
+  },
+  {
+    "name": "Khi6_LFO_S2",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi6_LFO_S2.cfg"
+  },
+  {
+    "name": "Khi7_LFO_Booster",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi7_LFO_Booster.cfg"
+  },
+  {
+    "name": "Khi7_LFO_S2",
+    "filePath": "Contares\\Parts\\KhiNa\\Khi7_LFO_S2.cfg"
+  },
+  {
     "name": "KhiE1250x1",
     "filePath": "Contares\\Parts\\KhiNa\\KhiE1250x1.cfg"
   },
@@ -354,6 +1442,18 @@
   {
     "name": "KhiE1875x4",
     "filePath": "Contares\\Parts\\KhiNa\\KhiE1875x4.cfg"
+  },
+  {
+    "name": "KhiGCapsule",
+    "filePath": "Contares\\Parts\\KhiNa\\KhiGCapsule.cfg"
+  },
+  {
+    "name": "KhiGHeatShield",
+    "filePath": "Contares\\Parts\\KhiNa\\KhiGHeatShield.cfg"
+  },
+  {
+    "name": "KhiG_LFO",
+    "filePath": "Contares\\Parts\\KhiNa\\KhiG_LFO.cfg"
   },
   {
     "name": "KhiKa",
@@ -376,12 +1476,320 @@
     "filePath": "Contares\\Parts\\KhiNa\\KhiSm.cfg"
   },
   {
+    "name": "KhiSP_SZ",
+    "filePath": "Contares\\Parts\\KhiNa\\KhiSP_SZ.cfg"
+  },
+  {
+    "name": "LES_ESC_0625",
+    "filePath": "Contares\\Parts\\KhiNa\\LES_ESC_0625.cfg"
+  },
+  {
     "name": "Parabol_KhiNa",
     "filePath": "Contares\\Parts\\KhiNa\\Parabol_KhiNa.cfg"
   },
   {
+    "name": "RK-K-100",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-100.cfg"
+  },
+  {
+    "name": "RK-K-100_1x1250",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-100_1x1250.cfg"
+  },
+  {
+    "name": "RK-K-100_1x1500",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-100_1x1500.cfg"
+  },
+  {
+    "name": "RK-K-100_angle",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-100_angle.cfg"
+  },
+  {
+    "name": "RK-K-115",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-115.cfg"
+  },
+  {
+    "name": "RK-K-115x1",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-115x1.cfg"
+  },
+  {
+    "name": "RK-K-75D",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-75D.cfg"
+  },
+  {
+    "name": "RK-K-75E",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-75E.cfg"
+  },
+  {
+    "name": "RK-K-77",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-77.cfg"
+  },
+  {
+    "name": "RK-K-PBV",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-K-PBV.cfg"
+  },
+  {
+    "name": "RK-Khi-20",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-Khi-20.cfg"
+  },
+  {
+    "name": "RK-Khi-21",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-Khi-21.cfg"
+  },
+  {
+    "name": "RK-Khi-24-2",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-Khi-24-2.cfg"
+  },
+  {
+    "name": "RK-Khi-24",
+    "filePath": "Contares\\Parts\\KhiNa\\RK-Khi-24.cfg"
+  },
+  {
+    "name": "KRAFT_M_LFO",
+    "filePath": "Contares\\Parts\\KRAFT\\KRAFT_M_LFO.cfg"
+  },
+  {
+    "name": "KERLOT-M_Nosecone",
+    "filePath": "Contares\\Parts\\KRAFT\\ZENIT-Y_Nosecone.cfg"
+  },
+  {
+    "name": "KREPIR_PBV",
+    "filePath": "Contares\\Parts\\KREPIR\\KREPIR_PBV.cfg"
+  },
+  {
+    "name": "KREPIR_PBV_KR",
+    "filePath": "Contares\\Parts\\KREPIR\\KREPIR_PBV_KR.cfg"
+  },
+  {
+    "name": "KREPIR_S1_LFO",
+    "filePath": "Contares\\Parts\\KREPIR\\KREPIR_S1_LFO.cfg"
+  },
+  {
+    "name": "KREPIR_S2_LFO",
+    "filePath": "Contares\\Parts\\KREPIR\\KREPIR_S2_LFO.cfg"
+  },
+  {
+    "name": "RK-Z-0255",
+    "filePath": "Contares\\Parts\\KREPIR\\RK-Z-0255.cfg"
+  },
+  {
+    "name": "RK-Z-264",
+    "filePath": "Contares\\Parts\\KREPIR\\RK-Z-264.cfg"
+  },
+  {
+    "name": "KSRO-CUS-LFO",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-CUS-LFO.cfg"
+  },
+  {
+    "name": "KSRO-GSLV-Mk3_LFO",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-GSLV-Mk3_LFO.cfg"
+  },
+  {
+    "name": "KSRO-HLV-S2",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-HLV-S2.cfg"
+  },
+  {
+    "name": "KSRO-HSF-Capsule",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-HSF-Capsule.cfg"
+  },
+  {
+    "name": "KSRO-HSF-HS",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-HSF-HS.cfg"
+  },
+  {
+    "name": "KSRO-HSF-SM",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-HSF-SM.cfg"
+  },
+  {
+    "name": "KSRO-LH40",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-LH40.cfg"
+  },
+  {
+    "name": "KSRO-LH40FIN",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-LH40FIN.cfg"
+  },
+  {
+    "name": "KSRO-PS-1",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PS-1.cfg"
+  },
+  {
+    "name": "KSRO-PS-2",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PS-2.cfg"
+  },
+  {
+    "name": "KSRO-PS-2_VIKAS",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PS-2_VIKAS.cfg"
+  },
+  {
+    "name": "KSRO-PS-3",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PS-3.cfg"
+  },
+  {
+    "name": "KSRO-PS-4",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PS-4.cfg"
+  },
+  {
+    "name": "KSRO-PSOM-XL",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PSOM-XL.cfg"
+  },
+  {
+    "name": "KSRO-PSOM",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-PSOM.cfg"
+  },
+  {
+    "name": "KSRO-SITVC-RCS",
+    "filePath": "Contares\\Parts\\KSRO\\KSRO-SITVC-RCS.cfg"
+  },
+  {
+    "name": "RK-I-25",
+    "filePath": "Contares\\Parts\\KSRO\\RK-I-25.cfg"
+  },
+  {
+    "name": "RK-I-CUS",
+    "filePath": "Contares\\Parts\\KSRO\\RK-I-CUS.cfg"
+  },
+  {
+    "name": "RK-I-S200",
+    "filePath": "Contares\\Parts\\KSRO\\RK-I-S200.cfg"
+  },
+  {
+    "name": "RK-I-V2x2",
+    "filePath": "Contares\\Parts\\KSRO\\RK-I-V2x2.cfg"
+  },
+  {
+    "name": "KTVII_adapter",
+    "filePath": "Contares\\Parts\\KTV_II\\KTVII_adapter.cfg"
+  },
+  {
+    "name": "KTVII_avionic",
+    "filePath": "Contares\\Parts\\KTV_II\\KTVII_avionic.cfg"
+  },
+  {
+    "name": "KTVII_cap",
+    "filePath": "Contares\\Parts\\KTV_II\\KTVII_cap.cfg"
+  },
+  {
+    "name": "KTVII_ps",
+    "filePath": "Contares\\Parts\\KTV_II\\KTVII_ps.cfg"
+  },
+  {
+    "name": "KTVII_ups",
+    "filePath": "Contares\\Parts\\KTV_II\\KTVII_ups.cfg"
+  },
+  {
+    "name": "U_HTV_Palette",
+    "filePath": "Contares\\Parts\\KTV_II\\U_HTV_Palette.cfg"
+  },
+  {
+    "name": "T_Morgenrot",
+    "filePath": "Contares\\Parts\\MORGENROT\\T_Morgenrot\\T_Morgenrot.cfg"
+  },
+  {
+    "name": "T_ZARYA_SM",
+    "filePath": "Contares\\Parts\\MORGENROT\\T_ZARYA_SM\\T_ZARYA_SM.cfg"
+  },
+  {
+    "name": "ZARYA_hraban",
+    "filePath": "Contares\\Parts\\MORGENROT\\ZARYA\\ZARYA.cfg"
+  },
+  {
+    "name": "ZARYA_drei",
+    "filePath": "Contares\\Parts\\MORGENROT\\ZARYA3\\ZARYA3.cfg"
+  },
+  {
+    "name": "ZARYA_k3t",
+    "filePath": "Contares\\Parts\\MORGENROT\\ZARYA_T\\ZARYA_3t.cfg"
+  },
+  {
+    "name": "ZARYA_k4t",
+    "filePath": "Contares\\Parts\\MORGENROT\\ZARYA_T\\ZARYA_4t.cfg"
+  },
+  {
+    "name": "NEUTRON-L_S1",
+    "filePath": "Contares\\Parts\\NEUTRON\\NEUTRON-L_S1.cfg"
+  },
+  {
+    "name": "NEUTRON_DC",
+    "filePath": "Contares\\Parts\\NEUTRON\\NEUTRON_DC.cfg"
+  },
+  {
+    "name": "NEUTRON_S1",
+    "filePath": "Contares\\Parts\\NEUTRON\\NEUTRON_S1.cfg"
+  },
+  {
+    "name": "NEUTRON_S2",
+    "filePath": "Contares\\Parts\\NEUTRON\\NEUTRON_S2.cfg"
+  },
+  {
+    "name": "NEUTRON_S3",
+    "filePath": "Contares\\Parts\\NEUTRON\\NEUTRON_S3.cfg"
+  },
+  {
+    "name": "RK-Z-0210-0211",
+    "filePath": "Contares\\Parts\\NEUTRON\\RK-Z-0210-0211.cfg"
+  },
+  {
+    "name": "RK-Z-0212",
+    "filePath": "Contares\\Parts\\NEUTRON\\RK-Z-0212.cfg"
+  },
+  {
+    "name": "C-TUG-DECOUPLER",
+    "filePath": "Contares\\Parts\\ORBITAL-1K-TUG\\C-TUG-DECOUPLER.cfg"
+  },
+  {
+    "name": "ORBITAL-1K-TUG",
+    "filePath": "Contares\\Parts\\ORBITAL-1K-TUG\\ORBITAL-1K-TUG.cfg"
+  },
+  {
+    "name": "PCS_SM",
+    "filePath": "Contares\\Parts\\PCS\\PCS_SM.cfg"
+  },
+  {
+    "name": "PCS_ST",
+    "filePath": "Contares\\Parts\\PCS\\PCS_ST.cfg"
+  },
+  {
+    "name": "CAD_1500-1250",
+    "filePath": "Contares\\Parts\\PINBOL\\CAD_1500-1250.cfg"
+  },
+  {
+    "name": "CAD_1500-1875",
+    "filePath": "Contares\\Parts\\PINBOL\\CAD_1500-1875.cfg"
+  },
+  {
+    "name": "CAD_1500-2500",
+    "filePath": "Contares\\Parts\\PINBOL\\CAD_1500-2500.cfg"
+  },
+  {
+    "name": "PINBOL",
+    "filePath": "Contares\\Parts\\PINBOL\\PINBOL_body.cfg"
+  },
+  {
+    "name": "PINBOL_ESC",
+    "filePath": "Contares\\Parts\\PINBOL\\PINBOL_ESC.cfg"
+  },
+  {
+    "name": "PINBOL_SM",
+    "filePath": "Contares\\Parts\\PINBOL\\PINBOL_SM.cfg"
+  },
+  {
+    "name": "C-BOLA_S1",
+    "filePath": "Contares\\Parts\\Pods\\C-BOLA\\C-BOLA_S1.cfg"
+  },
+  {
+    "name": "C-BOLA_S2",
+    "filePath": "Contares\\Parts\\Pods\\C-BOLA\\C-BOLA_S2.cfg"
+  },
+  {
     "name": "CandyBox",
     "filePath": "Contares\\Parts\\Pods\\CandyBox\\CandyBox.cfg"
+  },
+  {
+    "name": "RCK9_CAPSULE",
+    "filePath": "Contares\\Parts\\Pods\\CRK9\\RCK9_CAPSULE.cfg"
+  },
+  {
+    "name": "RCSK9_HEATSHIELD",
+    "filePath": "Contares\\Parts\\Pods\\CRK9\\RCSK9_HEATSHIELD.cfg"
   },
   {
     "name": "K150_hraban",
@@ -432,12 +1840,92 @@
     "filePath": "Contares\\Parts\\Pods\\ZARYA_T\\ZARYA_4t.cfg"
   },
   {
+    "name": "C-POLJUS",
+    "filePath": "Contares\\Parts\\POL\\C-POLJUS.cfg"
+  },
+  {
+    "name": "POL_HAB",
+    "filePath": "Contares\\Parts\\POL\\POL_HAB.cfg"
+  },
+  {
     "name": "Tucana_Crew_A",
     "filePath": "Contares\\Parts\\PPTS\\_Tucana_Crew_A.cfg"
   },
   {
     "name": "Tucana_Heatshield_A",
     "filePath": "Contares\\Parts\\PPTS\\_Tucana_Heatshield_A.cfg"
+  },
+  {
+    "name": "BBBP-001",
+    "filePath": "Contares\\Parts\\PROBES\\BBBP-001.cfg"
+  },
+  {
+    "name": "BBBP-002",
+    "filePath": "Contares\\Parts\\PROBES\\BBBP-002.cfg"
+  },
+  {
+    "name": "C-CUBE_625",
+    "filePath": "Contares\\Parts\\PROBES\\C-CUBE_625.cfg"
+  },
+  {
+    "name": "CRK-GYRO",
+    "filePath": "Contares\\Parts\\PROBES\\CRK-GYRO.cfg"
+  },
+  {
+    "name": "DT-001",
+    "filePath": "Contares\\Parts\\PROBES\\DT-001.cfg"
+  },
+  {
+    "name": "DT-001_Teleskop",
+    "filePath": "Contares\\Parts\\PROBES\\DT-001_Teleskop.cfg"
+  },
+  {
+    "name": "DT-004",
+    "filePath": "Contares\\Parts\\PROBES\\DT-004.cfg"
+  },
+  {
+    "name": "FLAT_HG_ANT",
+    "filePath": "Contares\\Parts\\PROBES\\FLAT_HG_ANT.cfg"
+  },
+  {
+    "name": "KERBUS1000",
+    "filePath": "Contares\\Parts\\PROBES\\KERBUS1000.cfg"
+  },
+  {
+    "name": "R6_Booster_LFO",
+    "filePath": "Contares\\Parts\\R6\\R6_Booster_LFO.cfg"
+  },
+  {
+    "name": "R6_Core_LFO",
+    "filePath": "Contares\\Parts\\R6\\R6_Core_LFO.cfg"
+  },
+  {
+    "name": "RK-Z-011",
+    "filePath": "Contares\\Parts\\R6\\RK-Z-011.cfg"
+  },
+  {
+    "name": "RK-Z-105",
+    "filePath": "Contares\\Parts\\R6\\RK-Z-105.cfg"
+  },
+  {
+    "name": "RK-Z-105a",
+    "filePath": "Contares\\Parts\\R6\\RK-Z-105a.cfg"
+  },
+  {
+    "name": "RK-Z-106",
+    "filePath": "Contares\\Parts\\R6\\RK-Z-106.cfg"
+  },
+  {
+    "name": "CBIG-NESW-RCS",
+    "filePath": "Contares\\Parts\\RCS\\CBIG\\CBIG-NESW-RCS.cfg"
+  },
+  {
+    "name": "C_RCS_KVTK",
+    "filePath": "Contares\\Parts\\RCS\\C_RCS_KVTK\\C_RCS__KVTK.cfg"
+  },
+  {
+    "name": "RCSV2",
+    "filePath": "Contares\\Parts\\RCS\\RCSV2\\RCSV2.cfg"
   },
   {
     "name": "RCS_NESW22p5",
@@ -464,8 +1952,136 @@
     "filePath": "Contares\\Parts\\RCS\\RCS_CUBE_03125\\RCS_CUBE_03125.cfg"
   },
   {
+    "name": "NANO_RCS",
+    "filePath": "Contares\\Parts\\REXFF\\NANO_RCS.cfg"
+  },
+  {
+    "name": "REX_AVIONIC",
+    "filePath": "Contares\\Parts\\REXFF\\REX_AVIONIC.cfg"
+  },
+  {
+    "name": "REX_FLAP",
+    "filePath": "Contares\\Parts\\REXFF\\REX_FLAP.cfg"
+  },
+  {
+    "name": "REX_FUEL",
+    "filePath": "Contares\\Parts\\REXFF\\REX_FUEL.cfg"
+  },
+  {
+    "name": "REX_LFE",
+    "filePath": "Contares\\Parts\\REXFF\\REX_LFE.cfg"
+  },
+  {
+    "name": "REX_MONOP",
+    "filePath": "Contares\\Parts\\REXFF\\REX_MONOP.cfg"
+  },
+  {
+    "name": "REX_MONOPL",
+    "filePath": "Contares\\Parts\\REXFF\\REX_MONOPL.cfg"
+  },
+  {
+    "name": "REX_SOLAR",
+    "filePath": "Contares\\Parts\\REXFF\\REX_SOLAR.cfg"
+  },
+  {
+    "name": "REX_STORAGE",
+    "filePath": "Contares\\Parts\\REXFF\\REX_STORAGE.cfg"
+  },
+  {
+    "name": "Fin_RIVER",
+    "filePath": "Contares\\Parts\\RIVER\\FIN_RIVER\\Fin_RIVER.cfg"
+  },
+  {
+    "name": "KVTK-LFO",
+    "filePath": "Contares\\Parts\\RIVER\\KVTK\\KVTK-LFO.cfg"
+  },
+  {
+    "name": "KVTK-SAS",
+    "filePath": "Contares\\Parts\\RIVER\\KVTK\\KVTK-SAS.cfg"
+  },
+  {
+    "name": "KVTK-short",
+    "filePath": "Contares\\Parts\\RIVER\\KVTK\\KVTK-short.cfg"
+  },
+  {
+    "name": "NoseCone_1250",
+    "filePath": "Contares\\Parts\\RIVER\\Nosecone_1250\\Nosecone_1250.cfg"
+  },
+  {
+    "name": "RK-Z-0124_1500d",
+    "filePath": "Contares\\Parts\\RIVER\\RK-Z-0124_1500d.cfg"
+  },
+  {
+    "name": "RK-Z-191",
+    "filePath": "Contares\\Parts\\RIVER\\RK-Z-191.cfg"
+  },
+  {
+    "name": "T_1875_L12m",
+    "filePath": "Contares\\Parts\\RIVER\\T_1875_L12m\\T_1875_L12m.cfg"
+  },
+  {
+    "name": "T_D150_L12m",
+    "filePath": "Contares\\Parts\\RIVER\\T_D150_L12m.cfg"
+  },
+  {
+    "name": "T_D1875_L2m",
+    "filePath": "Contares\\Parts\\RIVER\\T_D1875_L2m\\T_D1875_L2m.cfg"
+  },
+  {
+    "name": "RK-Z-0233",
+    "filePath": "Contares\\Parts\\ROCKOT\\RK-Z-0233.cfg"
+  },
+  {
+    "name": "RK-Z-0235",
+    "filePath": "Contares\\Parts\\ROCKOT\\RK-Z-0235.cfg"
+  },
+  {
+    "name": "ROCKOT_S1_LFO",
+    "filePath": "Contares\\Parts\\ROCKOT\\ROCKOT_S1_LFO.cfg"
+  },
+  {
+    "name": "ROCKOT_S2_LFO",
+    "filePath": "Contares\\Parts\\ROCKOT\\ROCKOT_S2_LFO.cfg"
+  },
+  {
+    "name": "C_FuelCell",
+    "filePath": "Contares\\Parts\\RTG\\C_FuelCell.cfg"
+  },
+  {
+    "name": "C_mRTG_Cs_Stirling",
+    "filePath": "Contares\\Parts\\RTG\\C_MiniRTG-Cs-Stirling.cfg"
+  },
+  {
+    "name": "RK-Z-0120",
+    "filePath": "Contares\\Parts\\RUMMS\\RK-Z-0120.cfg"
+  },
+  {
+    "name": "RK-Z-0120_1250",
+    "filePath": "Contares\\Parts\\RUMMS\\RK-Z-0120_1250.cfg"
+  },
+  {
     "name": "RKC-BUS-1",
     "filePath": "Contares\\Parts\\SAS\\RKC-BUS-1.cfg"
+  },
+  {
+    "name": "RK_SAS_1250",
+    "filePath": "Contares\\Parts\\SAS\\RK_SAS_1250.cfg"
+  },
+  {
+    "name": "RK_SAS_1500",
+    "filePath": "Contares\\Parts\\SAS\\RK_SAS_1500.cfg"
+  },
+  {
+    "name": "RK_SAS_1875",
+    "filePath": "Contares\\Parts\\SAS\\RK_SAS_1875.cfg"
+  },
+  {
+    "name": "RK_SAS_3750",
+    "filePath": "Contares\\Parts\\SAS\\RK_SAS_3750.cfg"
+  },
+  {
+    "name": "RK_SAS_5000",
+    "filePath": "Contares\\Parts\\SAS\\RK_SAS_5000.cfg"
   },
   {
     "name": "SAS-1250",
@@ -478,6 +2094,10 @@
   {
     "name": "SAS-2500",
     "filePath": "Contares\\Parts\\SAS\\SAS-2500.cfg"
+  },
+  {
+    "name": "GTK_101",
+    "filePath": "Contares\\Parts\\Science\\GTK_101\\GTK_101.cfg"
   },
   {
     "name": "HG_spiral",
@@ -526,6 +2146,258 @@
   {
     "name": "YNTR-T60a",
     "filePath": "Contares\\Parts\\Science\\YNTR-T60a\\YNTR-T60.cfg"
+  },
+  {
+    "name": "SRB_Betsu_retro",
+    "filePath": "Contares\\Parts\\Separators\\SRB_Betsu_retro.cfg"
+  },
+  {
+    "name": "SRB_Betsu_side",
+    "filePath": "Contares\\Parts\\Separators\\SRB_Betsu_side.cfg"
+  },
+  {
+    "name": "KUFE",
+    "filePath": "Contares\\Parts\\SKIDS\\KUFE.cfg"
+  },
+  {
+    "name": "C-7K-OK-A",
+    "filePath": "Contares\\Parts\\SOJUS\\C-7K-OK-A.cfg"
+  },
+  {
+    "name": "C-7K-OK-P",
+    "filePath": "Contares\\Parts\\SOJUS\\C-7K-OK-P.cfg"
+  },
+  {
+    "name": "IGLA-A",
+    "filePath": "Contares\\Parts\\SOJUS\\IGLA-A.cfg"
+  },
+  {
+    "name": "IGLA-P-T2",
+    "filePath": "Contares\\Parts\\SOJUS\\IGLA-P-T2.cfg"
+  },
+  {
+    "name": "C-IGLA-RECEIVER",
+    "filePath": "Contares\\Parts\\SOJUS\\IGLA-RECEIVER.cfg"
+  },
+  {
+    "name": "MR2-CA",
+    "filePath": "Contares\\Parts\\SOJUS\\MR2_Capsule.cfg"
+  },
+  {
+    "name": "MR2-HS",
+    "filePath": "Contares\\Parts\\SOJUS\\MR2_HS.cfg"
+  },
+  {
+    "name": "MR2-SM",
+    "filePath": "Contares\\Parts\\SOJUS\\MR2_SM.cfg"
+  },
+  {
+    "name": "SOJ-CA",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-CA.cfg"
+  },
+  {
+    "name": "SOJ-DE",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-DE.cfg"
+  },
+  {
+    "name": "SOJ-HA-06250",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-HA-06250.cfg"
+  },
+  {
+    "name": "SOJ-HA-09375",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-HA-09375.cfg"
+  },
+  {
+    "name": "SOJ-HA",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-HA.cfg"
+  },
+  {
+    "name": "SOJ-HS",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-HS.cfg"
+  },
+  {
+    "name": "SOJ-PRO",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-PRO.cfg"
+  },
+  {
+    "name": "SOJ-RCS",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-RC.cfg"
+  },
+  {
+    "name": "SOJ-SM",
+    "filePath": "Contares\\Parts\\SOJUS\\SOJ-SM.cfg"
+  },
+  {
+    "name": "C_SP_PT1",
+    "filePath": "Contares\\Parts\\SolarPanel\\C_SP_PT1.cfg"
+  },
+  {
+    "name": "C_SP_PT2",
+    "filePath": "Contares\\Parts\\SolarPanel\\C_SP_PT2.cfg"
+  },
+  {
+    "name": "C_SP_RT1",
+    "filePath": "Contares\\Parts\\SolarPanel\\C_SP_RT1.cfg"
+  },
+  {
+    "name": "KHI-3-SP",
+    "filePath": "Contares\\Parts\\SolarPanel\\KHI-3-SP.cfg"
+  },
+  {
+    "name": "KHI-5-SP",
+    "filePath": "Contares\\Parts\\SolarPanel\\KHI-5-SP.cfg"
+  },
+  {
+    "name": "UNION-SP-5",
+    "filePath": "Contares\\Parts\\SolarPanel\\UNION-SP-5.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_CM",
+    "filePath": "Contares\\Parts\\SpaceC\\C-DRACHEN2_CM.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_DN",
+    "filePath": "Contares\\Parts\\SpaceC\\C-DRACHEN2_DN.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_HS",
+    "filePath": "Contares\\Parts\\SpaceC\\C-DRACHEN2_HS.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_SM",
+    "filePath": "Contares\\Parts\\SpaceC\\C-DRACHEN2_SM.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_SML",
+    "filePath": "Contares\\Parts\\SpaceC\\C-DRACHEN2_SML.cfg"
+  },
+  {
+    "name": "C-FALKE-X-LEG",
+    "filePath": "Contares\\Parts\\SpaceC\\C-FALKE-X-LEG.cfg"
+  },
+  {
+    "name": "F-LFO-S1",
+    "filePath": "Contares\\Parts\\SpaceC\\F-LFO-S1.cfg"
+  },
+  {
+    "name": "F-LFO-S2",
+    "filePath": "Contares\\Parts\\SpaceC\\F-LFO-S2.cfg"
+  },
+  {
+    "name": "FalkeX-Nosecone",
+    "filePath": "Contares\\Parts\\SpaceC\\FalkeX-Nosecone.cfg"
+  },
+  {
+    "name": "RK-1-M1DSx9",
+    "filePath": "Contares\\Parts\\SpaceC\\RK-1-M1DSx9.cfg"
+  },
+  {
+    "name": "RK-1-M1DV",
+    "filePath": "Contares\\Parts\\SpaceC\\RK-1-M1DV.cfg"
+  },
+  {
+    "name": "SpaceC_GridFin",
+    "filePath": "Contares\\Parts\\SpaceC\\SpaceC_GridFin.cfg"
+  },
+  {
+    "name": "C-DE-trussOdock",
+    "filePath": "Contares\\Parts\\Station\\C-DE-trussOdock.cfg"
+  },
+  {
+    "name": "C-KAS-KISTE-RAD",
+    "filePath": "Contares\\Parts\\Station\\C-KAS-KISTE.cfg"
+  },
+  {
+    "name": "C22Cupola",
+    "filePath": "Contares\\Parts\\Station\\C22Cupola.cfg"
+  },
+  {
+    "name": "C22Lander",
+    "filePath": "Contares\\Parts\\Station\\C22Lander.cfg"
+  },
+  {
+    "name": "CHAB_TRUSS",
+    "filePath": "Contares\\Parts\\Station\\CHAB_TRUSS.cfg"
+  },
+  {
+    "name": "CLS1K",
+    "filePath": "Contares\\Parts\\Station\\CLS1K.cfg"
+  },
+  {
+    "name": "COLOMBO",
+    "filePath": "Contares\\Parts\\Station\\COLOMBO.cfg"
+  },
+  {
+    "name": "COLOMBO_oP",
+    "filePath": "Contares\\Parts\\Station\\COLOMBO_oP.cfg"
+  },
+  {
+    "name": "CV9-S2",
+    "filePath": "Contares\\Parts\\Station\\CV9-S2.cfg"
+  },
+  {
+    "name": "C_HabTunnel",
+    "filePath": "Contares\\Parts\\Station\\C_HabTunnel.cfg"
+  },
+  {
+    "name": "C_TRUSS_AKKU",
+    "filePath": "Contares\\Parts\\Station\\C_TRUSS_AKKU.cfg"
+  },
+  {
+    "name": "Node_1500",
+    "filePath": "Contares\\Parts\\Station\\Node_1500.cfg"
+  },
+  {
+    "name": "Truss-C6-1500",
+    "filePath": "Contares\\Parts\\Station\\Truss-C6-1500.cfg"
+  },
+  {
+    "name": "U_0312-0625",
+    "filePath": "Contares\\Parts\\Station\\U_0312-0625.cfg"
+  },
+  {
+    "name": "U_0312-0937",
+    "filePath": "Contares\\Parts\\Station\\U_0312-0937.cfg"
+  },
+  {
+    "name": "U_0625-1250",
+    "filePath": "Contares\\Parts\\Station\\U_0625-1250.cfg"
+  },
+  {
+    "name": "U_0937-1250",
+    "filePath": "Contares\\Parts\\Station\\U_0937-1250.cfg"
+  },
+  {
+    "name": "U_0937-1500",
+    "filePath": "Contares\\Parts\\Station\\U_0937-1500.cfg"
+  },
+  {
+    "name": "U_0937-1875",
+    "filePath": "Contares\\Parts\\Station\\U_0937-1875.cfg"
+  },
+  {
+    "name": "U_1250-1875",
+    "filePath": "Contares\\Parts\\Station\\U_1250-1875.cfg"
+  },
+  {
+    "name": "U_1500-1875",
+    "filePath": "Contares\\Parts\\Station\\U_1500-1875.cfg"
+  },
+  {
+    "name": "U_1500-2500",
+    "filePath": "Contares\\Parts\\Station\\U_1500-2500.cfg"
+  },
+  {
+    "name": "U_1875-2500",
+    "filePath": "Contares\\Parts\\Station\\U_1875-2500.cfg"
+  },
+  {
+    "name": "U_2500-3750",
+    "filePath": "Contares\\Parts\\Station\\U_2500-3750.cfg"
+  },
+  {
+    "name": "V9-OE-1",
+    "filePath": "Contares\\Parts\\Station\\V9-OE-1.cfg"
   },
   {
     "name": "Decoupler_1250t",
@@ -604,20 +2476,192 @@
     "filePath": "Contares\\Parts\\Structural\\T_Morgenrot\\T_Morgenrot.cfg"
   },
   {
+    "name": "KEIL_FIN_A",
+    "filePath": "Contares\\Parts\\TLV_ADV\\KEIL_FIN_A.cfg"
+  },
+  {
+    "name": "RK-Z-33",
+    "filePath": "Contares\\Parts\\UNION-1\\RK-Z-33.cfg"
+  },
+  {
+    "name": "Union-1_LFO1",
+    "filePath": "Contares\\Parts\\UNION-1\\Union-1_LFO1.cfg"
+  },
+  {
+    "name": "Union-1_LFO2",
+    "filePath": "Contares\\Parts\\UNION-1\\Union-1_LFO2.cfg"
+  },
+  {
+    "name": "Union-1_LFO3",
+    "filePath": "Contares\\Parts\\UNION-1\\Union-1_LFO3.cfg"
+  },
+  {
+    "name": "Union-1_SAS",
+    "filePath": "Contares\\Parts\\UNION-1\\Union-1_SAS.cfg"
+  },
+  {
+    "name": "Union-2-UpperCore",
+    "filePath": "Contares\\Parts\\UNION-1\\Union-2-UpperCore.cfg"
+  },
+  {
+    "name": "C_RAD_VOST",
+    "filePath": "Contares\\Parts\\UNION-2\\C_RAD_VOST.cfg"
+  },
+  {
+    "name": "FIN_SOVJUC",
+    "filePath": "Contares\\Parts\\UNION-2\\FIN_SOVJUC\\FIN_SOVJUC.cfg"
+  },
+  {
+    "name": "R7-Booster",
+    "filePath": "Contares\\Parts\\UNION-2\\R7-Booster.cfg"
+  },
+  {
+    "name": "R7-Core",
+    "filePath": "Contares\\Parts\\UNION-2\\R7-Core.cfg"
+  },
+  {
+    "name": "R7-upperCore",
+    "filePath": "Contares\\Parts\\UNION-2\\R7-upperCore.cfg"
+  },
+  {
+    "name": "RK-Z-0110",
+    "filePath": "Contares\\Parts\\UNION-2\\RK-Z-0110.cfg"
+  },
+  {
+    "name": "RK-Z-0146solo",
+    "filePath": "Contares\\Parts\\UNION-2\\RK-Z-0146solo.cfg"
+  },
+  {
+    "name": "RK-Z-107",
+    "filePath": "Contares\\Parts\\UNION-2\\RK-Z-107.cfg"
+  },
+  {
+    "name": "RK-Z-108",
+    "filePath": "Contares\\Parts\\UNION-2\\RK-Z-108.cfg"
+  },
+  {
+    "name": "RK-Z-S1-5400",
+    "filePath": "Contares\\Parts\\UNION-2\\RK-Z-S1-5400.cfg"
+  },
+  {
+    "name": "TLV_FIN_C",
+    "filePath": "Contares\\Parts\\UNION-2\\TLV_FIN_C.cfg"
+  },
+  {
+    "name": "UNION-TOUR",
+    "filePath": "Contares\\Parts\\UNION-2\\UNION-TOUR.cfg"
+  },
+  {
+    "name": "C_BUS_KOFFER",
+    "filePath": "Contares\\Parts\\UTIL\\BUS_Koffer\\BUS_Koffer.cfg"
+  },
+  {
+    "name": "BUS_TRUSS",
+    "filePath": "Contares\\Parts\\UTIL\\BUS_TRUSS\\BUS_TRUSS.cfg"
+  },
+  {
+    "name": "C35_Habitat",
+    "filePath": "Contares\\Parts\\UTIL\\C35-HABITAT\\C35_Habitat.cfg"
+  },
+  {
+    "name": "CBB_Wing",
+    "filePath": "Contares\\Parts\\UTIL\\CBB\\CBB_Wing.cfg"
+  },
+  {
+    "name": "CL1B",
+    "filePath": "Contares\\Parts\\UTIL\\CL1B\\CL1B.cfg"
+  },
+  {
+    "name": "C_RAD_LiIon_AKKU",
+    "filePath": "Contares\\Parts\\UTIL\\C_RAD_LiIon_AKKU\\C_RAD_LiIon_AKKU.cfg"
+  },
+  {
+    "name": "C_UEP",
+    "filePath": "Contares\\Parts\\UTIL\\C_UEP\\C_UEP.cfg"
+  },
+  {
+    "name": "C-MISEDO_3125",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\C-MISEDO_3125.cfg"
+  },
+  {
+    "name": "CIDAS_A9",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CIDAS_A9.cfg"
+  },
+  {
+    "name": "CIDAS_A9b",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CIDAS_A9b.cfg"
+  },
+  {
+    "name": "CPAS-F",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPAS-F.cfg"
+  },
+  {
+    "name": "CPAS-F6",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPAS-F6.cfg"
+  },
+  {
+    "name": "CPAS-F6w",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPAS-F6w.cfg"
+  },
+  {
+    "name": "CPAS-M",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPAS-M.cfg"
+  },
+  {
+    "name": "CPAS-M6",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPAS-M6.cfg"
+  },
+  {
+    "name": "CPAS-M6w",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPAS-M6w.cfg"
+  },
+  {
+    "name": "CPTK-9F",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPTK-9F.cfg"
+  },
+  {
+    "name": "CPTK-9M",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\CPTK-9M.cfg"
+  },
+  {
+    "name": "DM2_docking",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DM2_docking.cfg"
+  },
+  {
+    "name": "DN_0_03125",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_0_03125.cfg"
+  },
+  {
     "name": "DN_0_06250",
     "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_0_0625.cfg"
+  },
+  {
+    "name": "DN_0_0625b",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_0_0625b.cfg"
   },
   {
     "name": "DN_0_09375",
     "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_0_09375.cfg"
   },
   {
+    "name": "DN_0_09375b",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_0_09375b.cfg"
+  },
+  {
     "name": "DN_1_09375",
     "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_1_09375.cfg"
   },
   {
+    "name": "DN_1_09375b",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_1_09375b.cfg"
+  },
+  {
     "name": "DN_1_1250",
     "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_1_1250.cfg"
+  },
+  {
+    "name": "DN_1_1250b",
+    "filePath": "Contares\\Parts\\UTIL\\D-Nodes\\DN_1_1250b.cfg"
   },
   {
     "name": "D1875_SAS_BAT",
@@ -630,6 +2674,74 @@
   {
     "name": "K-Sensor",
     "filePath": "Contares\\Parts\\UTIL\\K-Sensor\\K-Sensor.cfg"
+  },
+  {
+    "name": "C-LEG-FLAT",
+    "filePath": "Contares\\Parts\\UTIL\\LEG-FLAT\\C-LEG-FLAT.cfg"
+  },
+  {
+    "name": "C-LEGLAD",
+    "filePath": "Contares\\Parts\\UTIL\\LEGLAD\\C-LEGLAD.cfg"
+  },
+  {
+    "name": "LTS-1-8",
+    "filePath": "Contares\\Parts\\UTIL\\LTS-1-8\\LTS-1-8.cfg"
+  },
+  {
+    "name": "C-DS-low",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\C-DS-low.cfg"
+  },
+  {
+    "name": "C-FS-09375",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\C-FS-09375.cfg"
+  },
+  {
+    "name": "C-FS-low",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\C-FS-low.cfg"
+  },
+  {
+    "name": "D12mSOLO",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\D12m_SOLO.cfg"
+  },
+  {
+    "name": "F20mSOLO",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F20m_SOLO.cfg"
+  },
+  {
+    "name": "F20mTRIO",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F20m_TRIO.cfg"
+  },
+  {
+    "name": "F35mSOLO",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F35m_SOLO.cfg"
+  },
+  {
+    "name": "F35mSOLOSTACK",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F35m_SOLOSTACK.cfg"
+  },
+  {
+    "name": "F35mSOLO125",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F35m_SOLOSTACK125.cfg"
+  },
+  {
+    "name": "F35mTRIPLE",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F35m_TRI.cfg"
+  },
+  {
+    "name": "F35mTRIPLES",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F35m_TRISTACK.cfg"
+  },
+  {
+    "name": "F35mTRIPLES125",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\F35m_TRISTACK125.cfg"
+  },
+  {
+    "name": "TearDrop-DS",
+    "filePath": "Contares\\Parts\\UTIL\\Parachutes\\TearDrop-DS.cfg"
+  },
+  {
+    "name": "Paraglider",
+    "filePath": "Contares\\Parts\\UTIL\\Paraglider\\Paraglider.cfg"
   },
   {
     "name": "POKEMON_CAM1",
@@ -650,6 +2762,18 @@
   {
     "name": "RadAlt",
     "filePath": "Contares\\Parts\\UTIL\\RadAlt\\RadAlt.cfg"
+  },
+  {
+    "name": "RadAtAll",
+    "filePath": "Contares\\Parts\\UTIL\\Radial\\RadAtAll.cfg"
+  },
+  {
+    "name": "tricube",
+    "filePath": "Contares\\Parts\\UTIL\\TRIBUS\\tricube.cfg"
+  },
+  {
+    "name": "UHC_CAP",
+    "filePath": "Contares\\Parts\\UTIL\\UHC_CAP\\UHC_CAP.cfg"
   },
   {
     "name": "UNIGRIFF_001",
@@ -720,12 +2844,128 @@
     "filePath": "Contares\\Parts\\UTIL\\U_ZARYA_SOLAR\\U_ZARYA_SOLAR.cfg"
   },
   {
+    "name": "WABE",
+    "filePath": "Contares\\Parts\\UTIL\\WABE\\WABE.cfg"
+  },
+  {
+    "name": "VEGA-E-S1_P080",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S1_P080.cfg"
+  },
+  {
+    "name": "VEGA-E-S1_P100",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S1_P100.cfg"
+  },
+  {
+    "name": "VEGA-E-S1_P120c",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S1_P120c.cfg"
+  },
+  {
+    "name": "VEGA-E-S2_Z23",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S2_Z23.cfg"
+  },
+  {
+    "name": "VEGA-E-S2_Z40",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S2_Z40.cfg"
+  },
+  {
+    "name": "VEGA-E-S3_VUS",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S3_VUS.cfg"
+  },
+  {
+    "name": "VEGA-E-S3_Z9",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E-S3_Z9.cfg"
+  },
+  {
+    "name": "VEGA-E_VUSdecu",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E_VUSdecu.cfg"
+  },
+  {
+    "name": "VEGA-E_Z23decu",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E_Z23decu.cfg"
+  },
+  {
+    "name": "VEGA-E_Z40decu",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA-E_Z40decu.cfg"
+  },
+  {
+    "name": "VEGA_AVUM",
+    "filePath": "Contares\\Parts\\VEGA\\VEGA_AVUM.cfg"
+  },
+  {
+    "name": "KRAFT_QuadAdapter",
+    "filePath": "Contares\\Parts\\YENISEI\\KRAFT_QuadAdapter.cfg"
+  },
+  {
+    "name": "Yenisei-5_LFO",
+    "filePath": "Contares\\Parts\\YENISEI\\Yenisei-5_LFO.cfg"
+  },
+  {
+    "name": "Yenisei-5_TRIAD",
+    "filePath": "Contares\\Parts\\YENISEI\\Yenisei-5_TRIAD.cfg"
+  },
+  {
+    "name": "Yenisei-5_TUG",
+    "filePath": "Contares\\Parts\\YENISEI\\Yenisei-5_TUG.cfg"
+  },
+  {
+    "name": "KERLOT-Y_Nosecone",
+    "filePath": "Contares\\Parts\\YENISEI\\ZENIT-Y_Nosecone.cfg"
+  },
+  {
+    "name": "11D428",
+    "filePath": "Contares\\Parts\\YNTR\\11D428.cfg"
+  },
+  {
+    "name": "Pokemon3",
+    "filePath": "Contares\\Parts\\YNTR\\Pokemon3.cfg"
+  },
+  {
+    "name": "VOLGA",
+    "filePath": "Contares\\Parts\\YNTR\\VOLGA.cfg"
+  },
+  {
+    "name": "YNTR_SP",
+    "filePath": "Contares\\Parts\\YNTR\\YNTR_SP.cfg"
+  },
+  {
+    "name": "ZIRP_L_1875",
+    "filePath": "Contares\\Parts\\ZIRP\\ZIRP_L _1875.cfg"
+  },
+  {
+    "name": "ZIRP_L",
+    "filePath": "Contares\\Parts\\ZIRP\\ZIRP_L.cfg"
+  },
+  {
+    "name": "ZIRP_S",
+    "filePath": "Contares\\Parts\\ZIRP\\ZIRP_S.cfg"
+  },
+  {
+    "name": "ModuleKrEjectPilot",
+    "filePath": "Contares\\Patches\\CKCEjectionSeats.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "Contares\\Patches\\Contares_ConnectedLivingSpace.cfg"
+  },
+  {
     "name": "ModuleKISInventory",
     "filePath": "Contares\\Patches\\CONTARES_KIS.cfg"
   },
   {
+    "name": "MechJebCore",
+    "filePath": "Contares\\Patches\\CONTARES_MechJeb_add.cfg"
+  },
+  {
     "name": "LifeSupportModule",
     "filePath": "Contares\\Patches\\CONTARES_TAC.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "Contares\\Patches\\CONTARES_TACLS.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\CST101_SM_plume.cfg"
   },
   {
     "name": "Hypergolic-Upper",
@@ -761,6 +3001,10 @@
   },
   {
     "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_A5_A6_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
     "filePath": "Contares\\Patches\\E_ALIYANA_PAL_plume.cfg"
   },
   {
@@ -772,12 +3016,36 @@
     "filePath": "Contares\\Patches\\E_ATV_Engine_4N_plume.cfg"
   },
   {
+    "name": "Kerolox-Lower-F1",
+    "filePath": "Contares\\Patches\\E_BA-2_E4100_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Contares\\Patches\\E_BA-2_E810_plume.cfg"
+  },
+  {
+    "name": "Alcolox-Lower-A6",
+    "filePath": "Contares\\Patches\\E_CA-1_E4N_plume.cfg"
+  },
+  {
     "name": "Alcolox-Lower-A6",
     "filePath": "Contares\\Patches\\E_CA-1_Engine_S1_plume.cfg"
   },
   {
     "name": "Hypergolic-Vernier",
     "filePath": "Contares\\Patches\\E_CA-1_Engine_S2_plume.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "Contares\\Patches\\E_CPII_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Contares\\Patches\\E_CX-20_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_C_Haas_S2_plume.cfg"
   },
   {
     "name": "Hydrolox-Upper",
@@ -792,6 +3060,14 @@
     "filePath": "Contares\\Patches\\E_HM-7_plume.cfg"
   },
   {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_K150_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Contares\\Patches\\E_KhiE_plume.cfg"
+  },
+  {
     "name": "Solid-Sepmotor",
     "filePath": "Contares\\Patches\\E_KhiKa_plume.cfg"
   },
@@ -804,7 +3080,11 @@
     "filePath": "Contares\\Patches\\E_KhiSm_plume.cfg"
   },
   {
-    "name": "Hydynelox-A7",
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_KREPIR_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
     "filePath": "Contares\\Patches\\E_Mono_Mamba_plume.cfg"
   },
   {
@@ -818,6 +3098,26 @@
   {
     "name": "Solid-Upper",
     "filePath": "Contares\\Patches\\E_Mu-V_S2_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_OTRAG_plume.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Contares\\Patches\\E_PINBOL_ESC_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\E_PINBOL_SM_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_P_BTG2S_ENGINE_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-OMS-White",
+    "filePath": "Contares\\Patches\\E_REXFF_plume.cfg"
   },
   {
     "name": "Hydrolox-Lower",
@@ -841,11 +3141,23 @@
   },
   {
     "name": "Kerolox-Lower",
+    "filePath": "Contares\\Patches\\E_RK-1-1B_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Upper",
+    "filePath": "Contares\\Patches\\E_RK-1-M1D_plume.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
     "filePath": "Contares\\Patches\\E_RK-Z_plume.cfg"
   },
   {
     "name": "Hypergolic-Upper",
     "filePath": "Contares\\Patches\\E_Rockot_S1_plume.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Contares\\Patches\\E_SRB_Betsu_plume.cfg"
   },
   {
     "name": "Hypergolic-Upper",
@@ -856,6 +3168,22 @@
     "filePath": "Contares\\Patches\\E_viking4_plume.cfg"
   },
   {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_ZARYA3_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_ZARYA_K3t_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_ZARYA_K4t_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Vernier",
+    "filePath": "Contares\\Patches\\E_ZARYA_plume.cfg"
+  },
+  {
     "name": "Hypergolic-Upper",
     "filePath": "Contares\\Patches\\E_ZIRP-KM_plume.cfg"
   },
@@ -864,16 +3192,44 @@
     "filePath": "Contares\\Patches\\E_ZIRP-M_plume.cfg"
   },
   {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\E_ZIRP-S_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "Contares\\Patches\\FEDERAZIJA_plume.cfg"
+  },
+  {
     "name": "Hypergolic-Vernier",
     "filePath": "Contares\\Patches\\K150_Engine_plume.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "Contares\\Patches\\Kappa_plume.cfg"
   },
   {
     "name": "Hypergolic-Upper",
     "filePath": "Contares\\Patches\\KhiE_plume.cfg"
   },
   {
+    "name": "Solid-Lower",
+    "filePath": "Contares\\Patches\\KSRO_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Lower",
+    "filePath": "Contares\\Patches\\NEUTRON_plume.cfg"
+  },
+  {
+    "name": "KzResizableFairingBaseRingSlim",
+    "filePath": "Contares\\Patches\\PROCEDURAL_FAIRINGS_patch.cfg"
+  },
+  {
     "name": "Hypergolic-Vernier",
     "filePath": "Contares\\Patches\\P_BTG2S_ENGINE_plume.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "Contares\\Patches\\SOJ-X_plume.cfg"
   },
   {
     "name": "Hypergolic-Vernier",
@@ -912,7 +3268,167 @@
     "filePath": "Contares\\Props\\ToolBox\\Prop_Tool_Box.cfg"
   },
   {
+    "name": "BTG2_Crew_A",
+    "filePath": "Contares\\Spaces\\BTG2_Crew_A\\BTG2_Crew_A.cfg"
+  },
+  {
+    "name": "C-DRACHEN2_Crew_A",
+    "filePath": "Contares\\Spaces\\C-DRACHEN2_Crew_A\\C-DRACHEN2_Crew_A.cfg"
+  },
+  {
+    "name": "C-ORION_Crew_A",
+    "filePath": "Contares\\Spaces\\C-ORION_Crew_A\\C-ORION_Crew_A.cfg"
+  },
+  {
+    "name": "C22Lander_Crew_A",
+    "filePath": "Contares\\Spaces\\C22Lander_Crew_A\\C22Lander_Crew_A.cfg"
+  },
+  {
+    "name": "CA-1_Crew_A",
+    "filePath": "Contares\\Spaces\\CA-1_Crew_A\\CA-1_Crew_A.cfg"
+  },
+  {
+    "name": "CD-Hermes_Crew_A",
+    "filePath": "Contares\\Spaces\\CD-Hermes_Crew_A\\CD-Hermes_Crew_A.cfg"
+  },
+  {
+    "name": "CKC-1_POD_Crew_A",
+    "filePath": "Contares\\Spaces\\CKC-1_POD_Crew_A\\CKC-1_POD_Crew_A.cfg"
+  },
+  {
+    "name": "CLS1K_Crew_A",
+    "filePath": "Contares\\Spaces\\CLS1K_Crew_A\\CLS1K_Crew_A.cfg"
+  },
+  {
+    "name": "CST101_Crew_A",
+    "filePath": "Contares\\Spaces\\CST101_Crew_A\\CST101_Crew_A.cfg"
+  },
+  {
+    "name": "CTV_Crew_A",
+    "filePath": "Contares\\Spaces\\CTV_Crew_A\\CTV_Crew_A.cfg"
+  },
+  {
+    "name": "CX-15_Crew_A",
+    "filePath": "Contares\\Spaces\\CX-15_Crew_A\\CX-15_Crew_A.cfg"
+  },
+  {
+    "name": "CX-20_Crew_A",
+    "filePath": "Contares\\Spaces\\CX-20_Crew_A\\CX-20_Crew_A.cfg"
+  },
+  {
+    "name": "DreamCrusherM_Crew_A",
+    "filePath": "Contares\\Spaces\\DreamCrusherM_Crew_A\\DreamCrusherM_Crew_A.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_3_Crew_A",
+    "filePath": "Contares\\Spaces\\FEDERAZIJA_Crew_3\\FEDERAZIJA_3_Crew_A.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_4_Crew_A",
+    "filePath": "Contares\\Spaces\\FEDERAZIJA_Crew_4\\FEDERAZIJA_4_Crew_A.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_6_Crew_A",
+    "filePath": "Contares\\Spaces\\FEDERAZIJA_Crew_6\\FEDERAZIJA_6_Crew_A.cfg"
+  },
+  {
+    "name": "FLOSS_Crew_A",
+    "filePath": "Contares\\Spaces\\FLOSS_Crew_A\\FLOSS_Crew_A.cfg"
+  },
+  {
+    "name": "HOPE_XL_Crew_A",
+    "filePath": "Contares\\Spaces\\HOPE_XL_Crew_A\\HOPE_XL_Crew_A.cfg"
+  },
+  {
+    "name": "HTV_POD_Crew_A",
+    "filePath": "Contares\\Spaces\\HTV_POD_Crew_A\\HTV_POD_Crew_A.cfg"
+  },
+  {
+    "name": "K150_Crew_A",
+    "filePath": "Contares\\Spaces\\K150_Crew_A\\K150_Crew_A.cfg"
+  },
+  {
+    "name": "KAAS_Crew_A",
+    "filePath": "Contares\\Spaces\\KAAS_Crew_A\\KAAS_Crew_A.cfg"
+  },
+  {
+    "name": "KhiG_6_Crew_A",
+    "filePath": "Contares\\Spaces\\KhiG_6_Crew_A\\KhiG_6_Crew_A.cfg"
+  },
+  {
+    "name": "KhiKa_Crew_A",
+    "filePath": "Contares\\Spaces\\KhiKa_Crew_A\\KhiKa_Crew_A.cfg"
+  },
+  {
+    "name": "KhiOm_Crew_A",
+    "filePath": "Contares\\Spaces\\KhiOm_Crew_A\\KhiOm_Crew_A.cfg"
+  },
+  {
+    "name": "KSRO_HSF_Crew_A",
+    "filePath": "Contares\\Spaces\\KSRO_HSF_Crew_A\\KSRO_HSF_Crew_A.cfg"
+  },
+  {
+    "name": "LPOD_Crew_A",
+    "filePath": "Contares\\Spaces\\LPOD_Crew_A\\LPOD_Crew_A.cfg"
+  },
+  {
+    "name": "Morgenrot_Crew_A",
+    "filePath": "Contares\\Spaces\\Morgenrot_Crew_A\\Morgenrot_Crew_A.cfg"
+  },
+  {
+    "name": "ORBITAL-1K-TUG_Crew_A",
+    "filePath": "Contares\\Spaces\\ORBITAL-1K-TUG_Crew_a\\ORBITAL-1K-TUG_Crew_A.cfg"
+  },
+  {
+    "name": "PINBOL_Crew_A",
+    "filePath": "Contares\\Spaces\\PINBOL_Crew_A\\PINBOL_Crew_A.cfg"
+  },
+  {
+    "name": "REX_M_Crew_A",
+    "filePath": "Contares\\Spaces\\REX_M_Crew_A\\REX_M_Crew_A.cfg"
+  },
+  {
+    "name": "SOJUS-K_Crew_A",
+    "filePath": "Contares\\Spaces\\SOJUS-K_Crew_A\\SOJUS-K_Crew_A.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_Crew_A",
+    "filePath": "Contares\\Spaces\\TKS_KAPSEL_Crew_A\\TKS_KAPSEL_Crew_A.cfg"
+  },
+  {
+    "name": "TKS_KONUS_Crew_A",
+    "filePath": "Contares\\Spaces\\TKS_KONUS_Crew_A\\TKS_KONUS_Crew_A.cfg"
+  },
+  {
     "name": "Tucana_Crew_A_Interior_Basic",
     "filePath": "Contares\\Spaces\\Tucana_Crew_A\\internal_basic.cfg"
+  },
+  {
+    "name": "UHCC_Crew_A",
+    "filePath": "Contares\\Spaces\\UHCC_Crew_A\\UHCC_Crew_A.cfg"
+  },
+  {
+    "name": "UHCD_Crew_A",
+    "filePath": "Contares\\Spaces\\UHCD_Crew_A\\UHCD_Crew_A.cfg"
+  },
+  {
+    "name": "UHCL_Crew_A",
+    "filePath": "Contares\\Spaces\\UHCL_Crew_A\\UHCL_Crew_A.cfg"
+  },
+  {
+    "name": "UHCR_Crew_A",
+    "filePath": "Contares\\Spaces\\UHCR_Crew_A\\KhiOm_Crew_A.cfg"
+  },
+  {
+    "name": "UIHC_Crew_A",
+    "filePath": "Contares\\Spaces\\UIHC_Crew_A\\UIHC_Crew_A.cfg"
+  },
+  {
+    "name": "UIHL_Crew_A",
+    "filePath": "Contares\\Spaces\\UIHL_Crew_A\\UIHL_Crew_A.cfg"
+  },
+  {
+    "name": "UNION-TOUR_Crew_A",
+    "filePath": "Contares\\Spaces\\UNION-TOUR_Crew_A\\UNION-TOUR_Crew_A.cfg"
   }
 ]

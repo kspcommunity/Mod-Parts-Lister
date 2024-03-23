@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Kenceladus",
+    "filePath": "Sakurn\\Eeloo.cfg"
+  },
+  {
+    "name": "Keptune",
+    "filePath": "Sakurn\\Keptune.cfg"
+  },
+  {
+    "name": "OblateHeight",
+    "filePath": "Sakurn\\Kerbin.cfg"
+  },
+  {
+    "name": "Kobos",
+    "filePath": "Sakurn\\Kobos.cfg"
+  },
+  {
+    "name": "Kuranus",
+    "filePath": "Sakurn\\Kuranus.cfg"
+  },
+  {
+    "name": "Skola",
+    "filePath": "Sakurn\\OPM.cfg"
+  },
+  {
+    "name": "Sakurn",
+    "filePath": "Sakurn\\Sakurn.cfg"
+  }
+]

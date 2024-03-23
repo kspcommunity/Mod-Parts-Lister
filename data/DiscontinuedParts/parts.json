@@ -1,0 +1,38 @@
+[
+  {
+    "name": "airScoopOrig",
+    "filePath": "DiscontinuedParts\\Parts\\airIntakeRadialXM-G50\\airIntakeRadialXM-G50.cfg"
+  },
+  {
+    "name": "CircularIntakeOrig",
+    "filePath": "DiscontinuedParts\\Parts\\CircularIntake\\circularIntake.cfg"
+  },
+  {
+    "name": "JetEngineOrig",
+    "filePath": "DiscontinuedParts\\Parts\\jetEngineBasic\\jetEngineBasic.cfg"
+  },
+  {
+    "name": "turboFanEngineOrig",
+    "filePath": "DiscontinuedParts\\Parts\\jetEngineTurbo\\jetEngineTurbo.cfg"
+  },
+  {
+    "name": "Mark1CockpitOrig",
+    "filePath": "DiscontinuedParts\\Parts\\mk1Cockpit\\mk1Cockpit.cfg"
+  },
+  {
+    "name": "Mark2CockpitOrig",
+    "filePath": "DiscontinuedParts\\Parts\\mk1InlineCockpit\\mk1InlineCockpit.cfg"
+  },
+  {
+    "name": "ramAirIntakeOrig",
+    "filePath": "DiscontinuedParts\\Parts\\ramAirIntake\\ramAirIntake.cfg"
+  },
+  {
+    "name": "smallHardpointOrig",
+    "filePath": "DiscontinuedParts\\Parts\\smallHardpoint\\smallHardpoint.cfg"
+  },
+  {
+    "name": "mk1CockpitInternalOrig",
+    "filePath": "DiscontinuedParts\\Spaces\\mk1CockpitInternal\\internal.cfg"
+  }
+]

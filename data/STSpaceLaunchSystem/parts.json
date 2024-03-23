@@ -1,0 +1,22 @@
+[
+  {
+    "name": "4-3Adapter",
+    "filePath": "STSpaceLaunchSystem\\MainCore\\4-3Adapter.cfg"
+  },
+  {
+    "name": "SLSIU",
+    "filePath": "STSpaceLaunchSystem\\MainCore\\InstrumentUnit.cfg"
+  },
+  {
+    "name": "SLSTMEAdapter",
+    "filePath": "STSpaceLaunchSystem\\MainCore\\MEadapt.cfg"
+  },
+  {
+    "name": "SLShortFT",
+    "filePath": "STSpaceLaunchSystem\\MainCore\\SLShortFT.cfg"
+  },
+  {
+    "name": "SLSLongFT",
+    "filePath": "STSpaceLaunchSystem\\MainCore\\SLSLongFT.cfg"
+  }
+]

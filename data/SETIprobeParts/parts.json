@@ -1,0 +1,86 @@
+[
+  {
+    "name": "setiHeatShield065",
+    "filePath": "SETIprobeParts\\Aero\\setiHeatShield065.cfg"
+  },
+  {
+    "name": "setiInflatableHeatShield250",
+    "filePath": "SETIprobeParts\\Aero\\setiInflatableHeatShield250.cfg"
+  },
+  {
+    "name": "setiMiniInlineRCS",
+    "filePath": "SETIprobeParts\\Control\\setiMiniInlineRCS.cfg"
+  },
+  {
+    "name": "setiMiniInlineRCSlinear",
+    "filePath": "SETIprobeParts\\Control\\setiMiniInlineRCSlinear.cfg"
+  },
+  {
+    "name": "setiMiniRCS",
+    "filePath": "SETIprobeParts\\Control\\setiMiniRCS.cfg"
+  },
+  {
+    "name": "setiMiniRCSlinear",
+    "filePath": "SETIprobeParts\\Control\\setiMiniRCSlinear.cfg"
+  },
+  {
+    "name": "setiLFOenginePomeranian",
+    "filePath": "SETIprobeParts\\Engine\\setiLFOenginePomeranian.cfg"
+  },
+  {
+    "name": "setiMiniSRB3",
+    "filePath": "SETIprobeParts\\Engine\\setiMiniSRB3.cfg"
+  },
+  {
+    "name": "setiMiniFuelTank3",
+    "filePath": "SETIprobeParts\\FuelTank\\setiMiniFuelTank3.cfg"
+  },
+  {
+    "name": "setiMiniRCStank8",
+    "filePath": "SETIprobeParts\\FuelTank\\setiMiniRCStank8.cfg"
+  },
+  {
+    "name": "setiProbeStack1",
+    "filePath": "SETIprobeParts\\Pods\\setiProbeStack1.cfg"
+  },
+  {
+    "name": "setiProbeStack2",
+    "filePath": "SETIprobeParts\\Pods\\setiProbeStack2.cfg"
+  },
+  {
+    "name": "setiMiniMaterialBay",
+    "filePath": "SETIprobeParts\\Science\\setiMiniMaterialBay.cfg"
+  },
+  {
+    "name": "Hydrogen",
+    "filePath": "SETIprobeParts\\SETI-ProbeParts-GeneralSettings.cfg"
+  },
+  {
+    "name": "setiDockingJrShielded",
+    "filePath": "SETIprobeParts\\Utility\\setiDockingJrShielded.cfg"
+  },
+  {
+    "name": "setiMiniAFC",
+    "filePath": "SETIprobeParts\\Utility\\setiMiniAFC.cfg"
+  },
+  {
+    "name": "setiMiniAGU",
+    "filePath": "SETIprobeParts\\Utility\\setiMiniAGU.cfg"
+  },
+  {
+    "name": "setiMiniBattery",
+    "filePath": "SETIprobeParts\\Utility\\setiMiniBattery.cfg"
+  },
+  {
+    "name": "setiMiniServiceBay",
+    "filePath": "SETIprobeParts\\Utility\\setiMiniServiceBay.cfg"
+  },
+  {
+    "name": "setiMiniSolarExt",
+    "filePath": "SETIprobeParts\\Utility\\setiMiniSolarExt.cfg"
+  },
+  {
+    "name": "setiMiniSolarRetr",
+    "filePath": "SETIprobeParts\\Utility\\setiMiniSolarRetr.cfg"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "newmk1inlineinternal",
+    "filePath": "J_JAR\\RPM_IVA_MK1InlineCockpit\\internal.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "J_JAR\\RPM_IVA_MK1InlineCockpit\\mk1inlinecockpit-patch.cfg"
+  }
+]

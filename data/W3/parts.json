@@ -1,0 +1,10 @@
+[
+  {
+    "name": "t10intake",
+    "filePath": "W3\\Parts\\Aero\\t10intake\\t10intake.cfg"
+  },
+  {
+    "name": "mk3hvc",
+    "filePath": "W3\\Parts\\Command\\HVC\\mk3hvc.cfg"
+  }
+]

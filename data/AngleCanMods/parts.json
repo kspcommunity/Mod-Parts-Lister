@@ -1,0 +1,310 @@
+[
+  {
+    "name": "AngleCan Kerbal Progression Society",
+    "filePath": "AngleCanMods\\ANGLECANAchievementTree\\AchievementTreeContracts-agent-contracttype.cfg"
+  },
+  {
+    "name": "ProgessionflagMoho",
+    "filePath": "AngleCanMods\\ANGLECANAchievementTree\\AchievementTreeContracts-flag.cfg"
+  },
+  {
+    "name": "ProgessioncrewedorbitJool",
+    "filePath": "AngleCanMods\\ANGLECANAchievementTree\\AchievementTreeContracts-gasbody.cfg"
+  },
+  {
+    "name": "ProgessioncrewedorbitKerbin",
+    "filePath": "AngleCanMods\\ANGLECANAchievementTree\\AchievementTreeContracts-homebody.cfg"
+  },
+  {
+    "name": "ProgessionlandedMoho",
+    "filePath": "AngleCanMods\\ANGLECANAchievementTree\\AchievementTreeContracts-landed.cfg"
+  },
+  {
+    "name": "ProgessionorbitKerbin",
+    "filePath": "AngleCanMods\\ANGLECANAchievementTree\\AchievementTreeContracts-orbit.cfg"
+  },
+  {
+    "name": "kOSProcessor\t   \t}\t}",
+    "filePath": "AngleCanMods\\ANGLECANPartTweaks\\AltNoParts4kOS.cfg"
+  },
+  {
+    "name": "avionicsL3",
+    "filePath": "AngleCanMods\\QUARTIXTechTree\\QUARTIXTechTree-AvionicsExperiment.cfg"
+  },
+  {
+    "name": "ModuleCargoPart",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SIMPLEXAssembly - CargoPartforAll.cfg"
+  },
+  {
+    "name": "ModuleInventoryPart",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SIMPLEXAssembly - KDVA.cfg"
+  },
+  {
+    "name": "Aero",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SIMPLEXAssembly - SandCastleConfigs.cfg"
+  },
+  {
+    "name": "SimplexPart_Cargo_4x250",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SimplexParts\\CargoParts.cfg"
+  },
+  {
+    "name": "SimplexPartSandcastleInventoryLarge",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SimplexParts\\SimplexPartAssemblyInventoryLarge.cfg"
+  },
+  {
+    "name": "SimplexPartSandcastleInventoryMedium",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SimplexParts\\SimplexPartAssemblyInventoryMedium.cfg"
+  },
+  {
+    "name": "SimplexPartSandcastleInventorySmall",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SimplexParts\\SimplexPartAssemblyInventorySmall.cfg"
+  },
+  {
+    "name": "SimplexPartSandcastlePrintshop",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SimplexParts\\SimplexPartPrintshop.cfg"
+  },
+  {
+    "name": "SimplexPartPrintshopINTERNAL",
+    "filePath": "AngleCanMods\\SIMPLEXAssembly\\SimplexParts\\SimplexPartPrintshopINTERNAL.cfg"
+  },
+  {
+    "name": "KloneBay",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SIMPLEXColony-MoarKerbals.cfg"
+  },
+  {
+    "name": "SIMPLEXColonyColonists",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SIMPLEXColony-Resources.cfg"
+  },
+  {
+    "name": "SimplexPart_ColonyArcology38",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_ColonyArcology38.cfg"
+  },
+  {
+    "name": "SimplexPart_ColonyNursery",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_ColonyNursery.cfg"
+  },
+  {
+    "name": "SimplexPart_ColonySpaceArcology54",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_ColonySpaceArcology54.cfg"
+  },
+  {
+    "name": "SimplexPart_ColonyTaxi_1",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_ColonyTaxi_Mk3.cfg"
+  },
+  {
+    "name": "SimplexPart_ColonyArcology38_Dual",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_Depreciated.cfg"
+  },
+  {
+    "name": "SimplexPartColonyArcology38Internal",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_Internal38ColonyArcology.cfg"
+  },
+  {
+    "name": "SimplexPartColonySpaceArcology54Internal",
+    "filePath": "AngleCanMods\\SIMPLEXColonies\\SimplexPart_Internal54ColonySpaceArcology.cfg"
+  },
+  {
+    "name": "VABandPartCount",
+    "filePath": "AngleCanMods\\SIMPLEXLiving\\KCTVABandPartCount.cfg"
+  },
+  {
+    "name": "Consumables",
+    "filePath": "AngleCanMods\\SIMPLEXLiving\\SIMPLEXLiving-KerbalismProfile.cfg"
+  },
+  {
+    "name": "SimplexPart_EMERGE",
+    "filePath": "AngleCanMods\\SIMPLEXPropulsion\\SimplexPartEMERGE.cfg"
+  },
+  {
+    "name": "SimplexPartPALOX-1",
+    "filePath": "AngleCanMods\\SIMPLEXPropulsion\\SimplexPartPALOX-1.cfg"
+  },
+  {
+    "name": "SimplexPartPALOX-2",
+    "filePath": "AngleCanMods\\SIMPLEXPropulsion\\SimplexPartPALOX-2.cfg"
+  },
+  {
+    "name": "PowderFuelTank",
+    "filePath": "AngleCanMods\\SIMPLEXPropulsion\\SimplexPartPowderFuelTank.cfg"
+  },
+  {
+    "name": "PowderFuel",
+    "filePath": "AngleCanMods\\SIMPLEXPropulsion\\SIMPLEXPropulsion - Resources.cfg"
+  },
+  {
+    "name": "tier1-liquidEngine2_v2",
+    "filePath": "AngleCanMods\\SIMPLEXPropulsion\\SIMPLEXPropulsion - Upgrades.cfg"
+  },
+  {
+    "name": "SimplexPart_nuke_125",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SimplexParts-nuke-125.cfg"
+  },
+  {
+    "name": "SimplexPart_nuke_250",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SimplexParts-nuke-250.cfg"
+  },
+  {
+    "name": "StockTanksCryo",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - CryoTanks B9PS.cfg"
+  },
+  {
+    "name": "CryoFuelOxidizer",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - CryoTanks.cfg"
+  },
+  {
+    "name": "Saturate",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - Definition.cfg"
+  },
+  {
+    "name": "MetalParts\t\t}\t}",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - EPLRecipies.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - ISRU ExtraplanetaryLaunchpads.cfg"
+  },
+  {
+    "name": "heavyISRU",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - ISRU.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - Mining.cfg"
+  },
+  {
+    "name": "NuclearFuel",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - NearFuture Electrical.cfg"
+  },
+  {
+    "name": "CryoFuel",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - SAFIREStyle KerbalAtomics CryoEngines.cfg"
+  },
+  {
+    "name": "LF",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - SAFIREStyle Rockets.cfg"
+  },
+  {
+    "name": "SCANresourceDisplay",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - SCANsat.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - SimplexNukes.cfg"
+  },
+  {
+    "name": "RareOreTinyTank",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - StockalikeMiningExtension.cfg"
+  },
+  {
+    "name": "SRHydOre",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - Tanks B9PartSwitch.cfg"
+  },
+  {
+    "name": "MetalParts\t}",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - Tanks KPBSELTanks.cfg"
+  },
+  {
+    "name": "SimplexOreLargeTank",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - Tanks SimpleFuelSwitch.cfg"
+  },
+  {
+    "name": "PowderFuelTank",
+    "filePath": "AngleCanMods\\SIMPLEXResources\\SIMPLEXResources - Tanks Stock.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussCrew_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrusses\\SimplexPart_TrussCrew_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussEmpty_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrusses\\SimplexPart_TrussEmpty_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussExtCrew_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrusses\\SimplexPart_TrussExtCrew_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussExt_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrusses\\SimplexPart_TrussExt_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussLFO_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrusses\\SimplexPart_TrussLFO_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussSupplies_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrusses\\SimplexPart_TrussSupplies_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussHubCrew2L_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussHubs\\SimplexPart_TrussHubCrew2L_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussHubCrew3_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussHubs\\SimplexPart_TrussHubCrew3_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussHubCrew4_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussHubs\\SimplexPart_TrussHubCrew4_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussHubCrew6_25",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussHubs\\SimplexPart_TrussHubCrew6_25.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussHubEmpty_10",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussHubs\\SimplexPart_TrussHubEmpty_10.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussConstructionCustomParts_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussConstructionCustomParts_15.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussConstructionMetalParts_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussConstructionMetalParts_15.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussCrew_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussCrew_15.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussEmpty_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussEmpty_15.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussLFO_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussLFO_15.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussOre_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussOre_15.cfg"
+  },
+  {
+    "name": "SimplexPart_TrussSupplies_15",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Structural\\StructuralTrussMedHubs\\SimplexPart_TrussSupplies_15.cfg"
+  },
+  {
+    "name": "SimplexPart_InlineParachute_0625",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Utility\\SimplexPart_InlineParachute_0625.cfg"
+  },
+  {
+    "name": "SimplexPart_InlineParachute_125",
+    "filePath": "AngleCanMods\\SIMPLEXStationParts\\Utility\\SimplexPart_InlineParachute_125.cfg"
+  },
+  {
+    "name": "avionicsL3",
+    "filePath": "AngleCanMods\\SIMPLEXTechTree\\SIMPLEXTechTree-AvionicsExperiment.cfg"
+  },
+  {
+    "name": "truss-hex-22",
+    "filePath": "AngleCanMods\\SIMPLEXTechTree\\SIMPLEXTechTree-ModParts.cfg"
+  },
+  {
+    "name": "avionicsL3",
+    "filePath": "AngleCanMods\\TETRIXTechTree\\TETRIXTechTree-AvionicsExperiment.cfg"
+  },
+  {
+    "name": "kOSProcessor\t   ",
+    "filePath": "AngleCanMods\\TETRIXTechTree\\TETRIXTechTree-ModParts.cfg"
+  }
+]

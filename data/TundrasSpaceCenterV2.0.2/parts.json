@@ -1,0 +1,86 @@
+[
+  {
+    "name": "TLC_05",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_05\\TLC_05.cfg"
+  },
+  {
+    "name": "TLC_06",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_05\\TLC_06.cfg"
+  },
+  {
+    "name": "TLC_5-6",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_05\\TLC_5-6.cfg"
+  },
+  {
+    "name": "TLC_14",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_14\\TLC_14.cfg"
+  },
+  {
+    "name": "TLC_17",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_17\\TLC_17.cfg"
+  },
+  {
+    "name": "TLC_19",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_19\\TLC-19.cfg"
+  },
+  {
+    "name": "TLC_34",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_34\\TLC_34.cfg"
+  },
+  {
+    "name": "TLC_36",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_36\\TLC_36.cfg"
+  },
+  {
+    "name": "TSC_39B",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_39\\TSC_39B.cfg"
+  },
+  {
+    "name": "KSC-40A",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_40\\KSC-40.cfg"
+  },
+  {
+    "name": "TLC_41",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_41\\TSC-41.cfg"
+  },
+  {
+    "name": "TLC_46",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_46\\TLC-46.cfg"
+  },
+  {
+    "name": "TE_Barge",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_Barge\\TE_Barge.cfg"
+  },
+  {
+    "name": "AdvancedTextures",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_MM_patch.cfg"
+  },
+  {
+    "name": "TLC Static Fire Horizontal Test Pad",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_Test\\TSC_TEST_01.cfg"
+  },
+  {
+    "name": "TLC Static Fire Vertical Test Pad",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_Test\\TSC_TEST_02.cfg"
+  },
+  {
+    "name": "Lightning Tower",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_TOWERS\\TSC_TOWERS.cfg"
+  },
+  {
+    "name": "TSC_TREE_BIG",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_TREES\\TSC_TREE_BIG.cfg"
+  },
+  {
+    "name": "TSC_TREE_LONG",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_TREES\\TSC_TREE_LONG.cfg"
+  },
+  {
+    "name": "TSC_TREE_SMALL",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Pads\\TSC_TREES\\TSC_TREE_SMALL.cfg"
+  },
+  {
+    "name": "TitanIIClamp",
+    "filePath": "TundrasSpaceCenterV2.0.2\\GameData\\TundraSpaceCenter\\Parts\\TITANII_CLAMP\\TitanIIClamp.cfg"
+  }
+]

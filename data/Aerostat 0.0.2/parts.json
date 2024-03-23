@@ -1,0 +1,126 @@
+[
+  {
+    "name": "KSIAerostat",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\MM_Tweakscale.cfg"
+  },
+  {
+    "name": "KSI-AB10",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\AB10.cfg"
+  },
+  {
+    "name": "KSI-AB20",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\AB20.cfg"
+  },
+  {
+    "name": "KSI-AB5",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\AB5.cfg"
+  },
+  {
+    "name": "KSI-ABE10",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ABE10.cfg"
+  },
+  {
+    "name": "KSI-ABE15",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ABE15.cfg"
+  },
+  {
+    "name": "KSI-ABE5",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ABE5.cfg"
+  },
+  {
+    "name": "KSI-ABF1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ABF1.cfg"
+  },
+  {
+    "name": "KSI-ABT",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ABT.cfg"
+  },
+  {
+    "name": "KSI-ABT15",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ABT10.cfg"
+  },
+  {
+    "name": "KSI-Cabin-2",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\Cabin_4m.cfg"
+  },
+  {
+    "name": "KSI-Cockpit-1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\Cockpit.cfg"
+  },
+  {
+    "name": "KSI-HPCyl12m",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\Cylinder12m.cfg"
+  },
+  {
+    "name": "KSI-HPCyl3m",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\Cylinder3m.cfg"
+  },
+  {
+    "name": "KSI-HPCyl6m",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\Cylinder6m.cfg"
+  },
+  {
+    "name": "KSI-DockStrut",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\DockStrut.cfg"
+  },
+  {
+    "name": "KSI-GondolaCargo-1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\GondolaCabin.cfg"
+  },
+  {
+    "name": "KSI-GondolaCargoBay-4m",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\GondolaCargoBay_4m.cfg"
+  },
+  {
+    "name": "KSI-GondolaCargo-2m",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\GondolaCargo_2m.cfg"
+  },
+  {
+    "name": "KSI-GondolaCargo-1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\GondolaCargo_4m.cfg"
+  },
+  {
+    "name": "KSI-GondolaCockpit-1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\GondolaCockpit.cfg"
+  },
+  {
+    "name": "KSI-GondolaTail-1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\GondolaTail.cfg"
+  },
+  {
+    "name": "KSI-PC1",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\ProbeCore.cfg"
+  },
+  {
+    "name": "KSI-RA10",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\RA10.cfg"
+  },
+  {
+    "name": "KSI-RA20",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\RA20.cfg"
+  },
+  {
+    "name": "KSI-RA5",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\RA5.cfg"
+  },
+  {
+    "name": "KSI-RAE10",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\RAE10.cfg"
+  },
+  {
+    "name": "KSI-RAE15",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\RAE15.cfg"
+  },
+  {
+    "name": "KSI-RAE5",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\RAE5.cfg"
+  },
+  {
+    "name": "KSI-HPSphere2m",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Parts\\Sphere2m.cfg"
+  },
+  {
+    "name": "LocalAtm",
+    "filePath": "Aerostat 0.0.2\\GameData\\Aerostat\\Resources.cfg"
+  }
+]

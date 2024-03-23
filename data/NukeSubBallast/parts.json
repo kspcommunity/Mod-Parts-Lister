@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BallastTank",
+    "filePath": "NukeSubBallast\\Parts\\BalastTank\\BallastTank.cfg"
+  },
+  {
+    "name": "BallastTankSmall",
+    "filePath": "NukeSubBallast\\Parts\\BallastTankSmall\\BallastTankSmall.cfg"
+  },
+  {
+    "name": "Marine Electric Propeller",
+    "filePath": "NukeSubBallast\\Parts\\MarineElectricPropeller\\MarineElectricPropeller.cfg"
+  },
+  {
+    "name": "PWR Nuclear Reactor",
+    "filePath": "NukeSubBallast\\Parts\\Reactor\\Reactor.cfg"
+  },
+  {
+    "name": "Thruster",
+    "filePath": "NukeSubBallast\\Parts\\Thruster\\Thruster.cfg"
+  },
+  {
+    "name": "Ballast",
+    "filePath": "NukeSubBallast\\Resources\\Resources.cfg"
+  }
+]

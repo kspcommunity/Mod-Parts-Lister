@@ -1,0 +1,58 @@
+[
+  {
+    "name": "G120XLGenerator",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Electrical\\G120XL_Generator\\part.cfg"
+  },
+  {
+    "name": "G60MGenerator",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Electrical\\G60M_Generator\\part.cfg"
+  },
+  {
+    "name": "MMIBattery",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Electrical\\MMI.S Battery\\part.cfg"
+  },
+  {
+    "name": "MMILargeBattery",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Electrical\\MMI.S Battery Large\\part.cfg"
+  },
+  {
+    "name": "HF1000HybridMediumEngine",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Engine\\HF1000_Hybrid\\part.cfg"
+  },
+  {
+    "name": "HF2500HybridMainEngine",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Engine\\HF2500_Hybrid\\part.cfg"
+  },
+  {
+    "name": "HF85RadialHybridEngine",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Engine\\HF85_Hybrid\\part.cfg"
+  },
+  {
+    "name": "IP10MediumIonEngine",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Engine\\IP10_IonEngine\\part.cfg"
+  },
+  {
+    "name": "IP15RadialIonEngine",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Engine\\IP15_IonEngine\\part.cfg"
+  },
+  {
+    "name": "IP20MediumIonEngine",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Engine\\IP20_Ionengine\\part.cfg"
+  },
+  {
+    "name": "X120MXenonTank",
+    "filePath": "Ion-Hybrid Pack\\Parts\\FuelTank\\X120_XenonTank\\Xenon_X120.cfg"
+  },
+  {
+    "name": "X240LXenonTank",
+    "filePath": "Ion-Hybrid Pack\\Parts\\FuelTank\\X240_XenonTank\\Xenon_X240.cfg"
+  },
+  {
+    "name": "X30XenonRadialTank",
+    "filePath": "Ion-Hybrid Pack\\Parts\\FuelTank\\X30_XenonTank\\part.cfg"
+  },
+  {
+    "name": "SideAdapter",
+    "filePath": "Ion-Hybrid Pack\\Parts\\Structural\\SideAdapter\\part.cfg"
+  }
+]

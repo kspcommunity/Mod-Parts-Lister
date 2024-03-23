@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VRNPlus1",
+    "filePath": "VernierPlus\\Parts\\VRNPlus1.cfg"
+  },
+  {
+    "name": "VRNPlus10",
+    "filePath": "VernierPlus\\Parts\\VRNPlus10.cfg"
+  },
+  {
+    "name": "VRNPlus100",
+    "filePath": "VernierPlus\\Parts\\VRNPlus100.cfg"
+  }
+]

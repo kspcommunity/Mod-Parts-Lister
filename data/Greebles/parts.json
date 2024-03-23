@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MK3_Cockpit_Int",
+    "filePath": "Greebles\\AyeLmao\\internal_MK3.cfg"
+  },
+  {
+    "name": "InternalCameraSwitch",
+    "filePath": "Greebles\\AyeLmao\\MMPatch.cfg"
+  }
+]

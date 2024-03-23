@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LL924_Engines",
+    "filePath": "LL924\\Engines\\part.cfg"
+  },
+  {
+    "name": "LL924Hull",
+    "filePath": "LL924\\Hull\\part.cfg"
+  },
+  {
+    "name": "LL924RepulsorDrives",
+    "filePath": "LL924\\Repulsors\\part.cfg"
+  }
+]

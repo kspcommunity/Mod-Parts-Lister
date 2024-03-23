@@ -1,0 +1,126 @@
+[
+  {
+    "name": "LiquidFuel",
+    "filePath": "MoS\\MAD\\Options\\MoS_MM_SpineFuel.cfg"
+  },
+  {
+    "name": "MoSCone1",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\MoSCone1.cfg"
+  },
+  {
+    "name": "MoSCone2",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\MoSCone2.cfg"
+  },
+  {
+    "name": "MoS_NoseIntake1",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\MoSNoseIntake1.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05Airbrake",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\RBSpine05Airbrake.cfg"
+  },
+  {
+    "name": "MoS_RBSpineAirbrake",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\RBSpineAirbrake.cfg"
+  },
+  {
+    "name": "MoS_SpineIntakeMid",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\SpineIntakeMid.cfg"
+  },
+  {
+    "name": "MoS_SpineIntakeSml",
+    "filePath": "MoS\\MAD\\Parts\\Aero\\SpineIntakeSmall.cfg"
+  },
+  {
+    "name": "IRT40Cockpit",
+    "filePath": "MoS\\MAD\\Parts\\Command\\IRT40.cfg"
+  },
+  {
+    "name": "Mark1BubbleCockpit",
+    "filePath": "MoS\\MAD\\Parts\\Command\\mk1BubbleCockpit.cfg"
+  },
+  {
+    "name": "Mark1RazorCockpit",
+    "filePath": "MoS\\MAD\\Parts\\Command\\mk1razorCockpit.cfg"
+  },
+  {
+    "name": "Mark1TandemBubbleCockpit",
+    "filePath": "MoS\\MAD\\Parts\\Command\\mk1TBubbleCockpit.cfg"
+  },
+  {
+    "name": "Mark1TandemRazorbackCockpit",
+    "filePath": "MoS\\MAD\\Parts\\Command\\mk1TRazorback.cfg"
+  },
+  {
+    "name": "IRT40_IVA",
+    "filePath": "MoS\\MAD\\Parts\\Internal\\IRT40_IVA.cfg"
+  },
+  {
+    "name": "Mk1Bubble_IVA",
+    "filePath": "MoS\\MAD\\Parts\\Internal\\Mk1Bubble_IVA.cfg"
+  },
+  {
+    "name": "Mk1TBubble_IVA",
+    "filePath": "MoS\\MAD\\Parts\\Internal\\Mk1TBubble_IVA.cfg"
+  },
+  {
+    "name": "Mk1TRazorback_IVA",
+    "filePath": "MoS\\MAD\\Parts\\Internal\\Mk1TRazorback_IVA.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05Long",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpine05Long.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05Long0Adapter",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpine05Long0Adapter.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05LongEnd",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpine05LongEnd.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05Short",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpine05Short.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05Short0Adapter",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpine05Short0Adapter.cfg"
+  },
+  {
+    "name": "MoS_RBSpine05ShortEnd",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpine05ShortEnd.cfg"
+  },
+  {
+    "name": "MoS_RBSpineLong",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpineLong.cfg"
+  },
+  {
+    "name": "MoS_RBSpineLongEnd",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpineLongEnd.cfg"
+  },
+  {
+    "name": "MoS_RBSpineShort",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpineShort.cfg"
+  },
+  {
+    "name": "MoS_RBSpineShortEnd",
+    "filePath": "MoS\\MAD\\Parts\\Structural\\RBSpineShortEnd.cfg"
+  },
+  {
+    "name": "MoS_TEST",
+    "filePath": "MoS\\MAD\\Parts\\TEST\\TEST.cfg"
+  },
+  {
+    "name": "TEST_INT",
+    "filePath": "MoS\\MAD\\Parts\\TEST\\TEST_INT.cfg"
+  },
+  {
+    "name": "MoS_SLadderQ1",
+    "filePath": "MoS\\MAD\\Parts\\Utility\\SLadderQ1.cfg"
+  },
+  {
+    "name": "MoS_SLadderS1",
+    "filePath": "MoS\\MAD\\Parts\\Utility\\SLadderS1.cfg"
+  }
+]

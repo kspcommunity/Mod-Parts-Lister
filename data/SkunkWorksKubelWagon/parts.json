@@ -1,0 +1,22 @@
+[
+  {
+    "name": "KubelwagenCanvasTop",
+    "filePath": "SkunkWorksKubelWagon\\KubelWagon\\KubelWagon\\Canvas\\part.cfg"
+  },
+  {
+    "name": "Kubelwagen_MG42",
+    "filePath": "SkunkWorksKubelWagon\\KubelWagon\\KubelWagon\\Gun\\part.cfg"
+  },
+  {
+    "name": "KubelwagenGunTripod",
+    "filePath": "SkunkWorksKubelWagon\\KubelWagon\\KubelWagon\\Gun\\Support\\part.cfg"
+  },
+  {
+    "name": "KubelwagenHull",
+    "filePath": "SkunkWorksKubelWagon\\KubelWagon\\KubelWagon\\Hull\\part.cfg"
+  },
+  {
+    "name": "KubelwagenWheel",
+    "filePath": "SkunkWorksKubelWagon\\KubelWagon\\KubelWagon\\Wheel\\part.cfg"
+  }
+]

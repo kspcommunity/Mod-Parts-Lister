@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Drop_almond",
+    "filePath": "Droplet\\Drop_almond\\Drop_almond.cfg"
+  },
+  {
+    "name": "Drop_slender",
+    "filePath": "Droplet\\Drop_slender\\Drop_slender.cfg"
+  },
+  {
+    "name": "Drop_standard",
+    "filePath": "Droplet\\Drop_standard\\Drop_standard.cfg"
+  },
+  {
+    "name": "Drop_thin",
+    "filePath": "Droplet\\Drop_thin\\Drop_thin.cfg"
+  },
+  {
+    "name": "水滴 Mk-04",
+    "filePath": "Droplet\\Localization\\drop_ch.cfg"
+  },
+  {
+    "name": "Droplet Mk-04",
+    "filePath": "Droplet\\Localization\\drop_en.cfg"
+  }
+]

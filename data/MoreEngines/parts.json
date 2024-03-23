@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MEAsh82",
+    "filePath": "MoreEngines\\Parts\\ASh82\\ASh82.cfg"
+  },
+  {
+    "name": "MJEClassicJetEngine",
+    "filePath": "MoreEngines\\Parts\\ClassicJetEngine\\ClassicJetEngine.cfg"
+  },
+  {
+    "name": "MEContraprop",
+    "filePath": "MoreEngines\\Parts\\Contraprop\\Contraprop.cfg"
+  },
+  {
+    "name": "F111Cockpit",
+    "filePath": "MoreEngines\\Parts\\F111\\F111.cfg"
+  },
+  {
+    "name": "MJEJ47",
+    "filePath": "MoreEngines\\Parts\\J47\\J47.cfg"
+  },
+  {
+    "name": "MJEVK1",
+    "filePath": "MoreEngines\\Parts\\NeneVK1\\NeneVK1.cfg"
+  },
+  {
+    "name": "MJEPulseJet",
+    "filePath": "MoreEngines\\Parts\\PulseJet\\PulseJet.cfg"
+  },
+  {
+    "name": "MJESmallRamjetEngine",
+    "filePath": "MoreEngines\\Parts\\Ramjet\\Ramjet.cfg"
+  },
+  {
+    "name": "MJETF34",
+    "filePath": "MoreEngines\\Parts\\TF34\\TF34.cfg"
+  },
+  {
+    "name": "Tu154Cockpit",
+    "filePath": "MoreEngines\\Parts\\Tu154\\Tu154.cfg"
+  },
+  {
+    "name": "F111",
+    "filePath": "MoreEngines\\Spaces\\F111\\internal.cfg"
+  },
+  {
+    "name": "Tu154",
+    "filePath": "MoreEngines\\Spaces\\Tu154\\internal.cfg"
+  }
+]

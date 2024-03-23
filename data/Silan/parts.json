@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Bobak",
+    "filePath": "Silan\\Configs\\Bobak.cfg"
+  },
+  {
+    "name": "Gene",
+    "filePath": "Silan\\Configs\\Gene.cfg"
+  },
+  {
+    "name": "Gus",
+    "filePath": "Silan\\Configs\\Gus.cfg"
+  },
+  {
+    "name": "Silan",
+    "filePath": "Silan\\Configs\\Silan.cfg"
+  },
+  {
+    "name": "Talin",
+    "filePath": "Silan\\Configs\\Talin.cfg"
+  },
+  {
+    "name": "Walt",
+    "filePath": "Silan\\Configs\\Walt.cfg"
+  },
+  {
+    "name": "Walt-Auroras",
+    "filePath": "Silan\\EVE\\Aurorae.cfg"
+  },
+  {
+    "name": "Silan-Clouds",
+    "filePath": "Silan\\EVE\\Clouds.cfg"
+  },
+  {
+    "name": "Gus",
+    "filePath": "Silan\\Scatterer\\Gus\\atmo.cfg"
+  },
+  {
+    "name": "Silan",
+    "filePath": "Silan\\Scatterer\\Silan\\atmo.cfg"
+  },
+  {
+    "name": "Talin",
+    "filePath": "Silan\\Scatterer\\Talin\\atmo.cfg"
+  }
+]

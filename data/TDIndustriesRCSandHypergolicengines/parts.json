@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Hypergolic Industries",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\agencies\\Agents.cfg"
+  },
+  {
+    "name": "BigPuffa",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\Engine\\HypergolicEngine.cfg"
+  },
+  {
+    "name": "ModuleEnginesRF",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\Engine\\StockAlike_Puffar_RF.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_1b",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS2Way\\rcsBlockHI-114.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_1b2",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS2Way2\\rcsBlockHI-114.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_1c",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS3Way1\\rcsBlockHI-114.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_1d",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS3Way2\\rcsBlockHI-114.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_05",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS4Block\\rcsBlockHI-0504.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_1",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS4Block\\rcsBlockHI-104.cfg"
+  },
+  {
+    "name": "HI_RCSBlock_2",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCS4Block\\rcsBlockHI-204.cfg"
+  },
+  {
+    "name": "HI_RCS_Mnt",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCSEngMount\\rcsBlockHI-204.cfg"
+  },
+  {
+    "name": "HI_RCS_2",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RCSFlush\\rcsBlockHI-204.cfg"
+  },
+  {
+    "name": "Hydrazine",
+    "filePath": "TDIndustriesRCSandHypergolicengines\\parts\\RF_Configs.cfg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "armourPanel1",
+    "filePath": "DC&CO\\Parts\\armourPanel1x1\\armourPanel1x1.cfg"
+  },
+  {
+    "name": "armourPanel2",
+    "filePath": "DC&CO\\Parts\\armourPanel2x2\\armourPanel2x2.cfg"
+  },
+  {
+    "name": "bdWarheadLargeish",
+    "filePath": "DC&CO\\Parts\\LargeishWarhead\\part.cfg"
+  },
+  {
+    "name": "OP_Engine_Jet_Turbojet",
+    "filePath": "DC&CO\\Parts\\OP_Jet\\Engine_Jet_Turbojet.cfg"
+  },
+  {
+    "name": "wheelMedmed",
+    "filePath": "DC&CO\\Parts\\roverWheelMed\\roverWheelTR-2L.cfg"
+  },
+  {
+    "name": "wheelMedslo",
+    "filePath": "DC&CO\\Parts\\roverWheelSlow\\roverWheelTR-2L.cfg"
+  },
+  {
+    "name": "fuelTank3-2",
+    "filePath": "DC&CO\\Parts\\ship_fuel_tank\\Ship_fuel_tank.cfg"
+  }
+]

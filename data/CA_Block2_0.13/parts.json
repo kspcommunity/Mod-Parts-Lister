@@ -1,0 +1,74 @@
+[
+  {
+    "name": "B2_canard",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_canard.cfg"
+  },
+  {
+    "name": "B2_cockpit",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_cockpit.cfg"
+  },
+  {
+    "name": "B2_cockpit_INT",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_cockpit_INT.cfg"
+  },
+  {
+    "name": "B2_delta",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_delta.cfg"
+  },
+  {
+    "name": "elevon25",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_elevon2.cfg"
+  },
+  {
+    "name": "B2_landingSkid",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_landingSkid.cfg"
+  },
+  {
+    "name": "B2_LESdecoupler",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_LESdecoupler.cfg"
+  },
+  {
+    "name": "B2_Rudder",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\B2_Rudder.cfg"
+  },
+  {
+    "name": "CA_decouplerLRB",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_decouplerLRB.cfg"
+  },
+  {
+    "name": "CA_heavySep",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_heavySep.cfg"
+  },
+  {
+    "name": "B2_LRB_adapter5m",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_LRB_adapter5m.cfg"
+  },
+  {
+    "name": "B2_LRB_adapterMulti",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_LRB_adapterMulti.cfg"
+  },
+  {
+    "name": "B2_LRB_engine",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_LRB_engine.cfg"
+  },
+  {
+    "name": "B2_LRB_long",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_LRB_long.cfg"
+  },
+  {
+    "name": "B2_LRB_mid",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_LRB_mid.cfg"
+  },
+  {
+    "name": "B2_LRB_nose",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_LRB_nose.cfg"
+  },
+  {
+    "name": "CA_STBE",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_STBE.cfg"
+  },
+  {
+    "name": "B2_LESengine",
+    "filePath": "CA_Block2_0.13\\Cormorant Aeronology\\Assets\\cormorant_Shuttle\\CA_STles.cfg"
+  }
+]

@@ -1,5 +1,57 @@
 [
   {
+    "name": "smokelaunch",
+    "filePath": "MP_Nazari\\launch_hotrockets.cfg"
+  },
+  {
+    "name": "flamethrust",
+    "filePath": "MP_Nazari\\nasa_hotrockets.cfg"
+  },
+  {
+    "name": "colornozzleblue",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzleblue.cfg"
+  },
+  {
+    "name": "colornozzlegreen",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzlegreen.cfg"
+  },
+  {
+    "name": "colornozzleorange",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzleorange.cfg"
+  },
+  {
+    "name": "colornozzlepink",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzlepink.cfg"
+  },
+  {
+    "name": "colornozzlepurple",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzlepurple.cfg"
+  },
+  {
+    "name": "colornozzlered",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzlered.cfg"
+  },
+  {
+    "name": "colornozzlewhite",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\colornozzlewhite.cfg"
+  },
+  {
+    "name": "fireworkcan",
+    "filePath": "MP_Nazari\\Parts\\fireworks_nazari\\fireworkcan.cfg"
+  },
+  {
+    "name": "GunPowder",
+    "filePath": "MP_Nazari\\Resources\\GunPowder.cfg"
+  },
+  {
+    "name": "flamethrust",
+    "filePath": "MP_Nazari\\squad_hotrockets.cfg"
+  },
+  {
+    "name": "flamethrust",
+    "filePath": "MP_Nazari\\srb_hotrockets.cfg"
+  },
+  {
     "name": "node0_start",
     "filePath": "MP_Nazari\\TraditionalTech_Nazari.cfg"
   }

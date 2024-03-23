@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lia",
+    "filePath": "Plod\\Lia.cfg"
+  },
+  {
+    "name": "Ninkle",
+    "filePath": "Plod\\Ninkle.cfg"
+  },
+  {
+    "name": "Oob",
+    "filePath": "Plod\\Oob.cfg"
+  },
+  {
+    "name": "Plod",
+    "filePath": "Plod\\Plod.cfg"
+  },
+  {
+    "name": "Tebos",
+    "filePath": "Plod\\Tebos.cfg"
+  }
+]

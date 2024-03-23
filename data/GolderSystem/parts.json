@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bitaji",
+    "filePath": "GolderSystem\\Bitaji.cfg"
+  },
+  {
+    "name": "Fernilee",
+    "filePath": "GolderSystem\\Fernilee.cfg"
+  },
+  {
+    "name": "Golder",
+    "filePath": "GolderSystem\\Golder.cfg"
+  },
+  {
+    "name": "Halcuser",
+    "filePath": "GolderSystem\\Halcuser.cfg"
+  },
+  {
+    "name": "Nateci",
+    "filePath": "GolderSystem\\Nateci.cfg"
+  },
+  {
+    "name": "Nicar",
+    "filePath": "GolderSystem\\Nicar.cfg"
+  },
+  {
+    "name": "Paor",
+    "filePath": "GolderSystem\\Paor.cfg"
+  },
+  {
+    "name": "Thiser",
+    "filePath": "GolderSystem\\Thiser.cfg"
+  },
+  {
+    "name": "Ulyess",
+    "filePath": "GolderSystem\\Ulyess.cfg"
+  }
+]

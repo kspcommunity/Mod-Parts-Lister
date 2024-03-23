@@ -1,0 +1,102 @@
+[
+  {
+    "name": "SLS_b1_SRB",
+    "filePath": "SpiceLaunchSystem\\parts\\5segmentBooster\\partBooster5seg.cfg"
+  },
+  {
+    "name": "SLS_DKSSRB",
+    "filePath": "SpiceLaunchSystem\\parts\\5segmentBooster\\partBoosterDK.cfg"
+  },
+  {
+    "name": "SLSdecoupler",
+    "filePath": "SpiceLaunchSystem\\parts\\5segmentBooster\\partDecoupler.cfg"
+  },
+  {
+    "name": "SLS_septratron1x",
+    "filePath": "SpiceLaunchSystem\\parts\\5segmentBooster\\partSeptratron1x.cfg"
+  },
+  {
+    "name": "SLS_septratron3x",
+    "filePath": "SpiceLaunchSystem\\parts\\5segmentBooster\\partSeptratron3x .cfg"
+  },
+  {
+    "name": "SLSnoseCone",
+    "filePath": "SpiceLaunchSystem\\parts\\5segmentBooster\\partSRBnosecone.cfg"
+  },
+  {
+    "name": "SLS_core_engineAdapter",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partEngineAdapter.cfg"
+  },
+  {
+    "name": "SLS_EUS",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partEUS.cfg"
+  },
+  {
+    "name": "SLS_EUS_interstage",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partEUSinsterstage.cfg"
+  },
+  {
+    "name": "SLS_core_interstage",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partInterstage.cfg"
+  },
+  {
+    "name": "SLS_core_interTank",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partIntertank.cfg"
+  },
+  {
+    "name": "SLS_core_hydrogenTank",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partLH.cfg"
+  },
+  {
+    "name": "SLS_core_oxygenTank",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partLox.cfg"
+  },
+  {
+    "name": "SLS_core_engineShroud",
+    "filePath": "SpiceLaunchSystem\\parts\\Core\\partShroud.cfg"
+  },
+  {
+    "name": "SLS_RL10",
+    "filePath": "SpiceLaunchSystem\\parts\\engines\\RL10\\part.cfg"
+  },
+  {
+    "name": "SLS_RS25",
+    "filePath": "SpiceLaunchSystem\\parts\\engines\\RS25\\part.cfg"
+  },
+  {
+    "name": "SLSF9adapter",
+    "filePath": "SpiceLaunchSystem\\parts\\misc\\f9adapter\\partF9Decoupler.cfg"
+  },
+  {
+    "name": "SLSF9noseCone",
+    "filePath": "SpiceLaunchSystem\\parts\\misc\\f9adapter\\partF9nosecone.cfg"
+  },
+  {
+    "name": "SLS_fairingL",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\fairings\\partFairingL.cfg"
+  },
+  {
+    "name": "SLS_fairingM",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\fairings\\partFairingM.cfg"
+  },
+  {
+    "name": "SLS_orionShroud",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\fairings\\partOrionShroud.cfg"
+  },
+  {
+    "name": "SLS_orionUSAfairing",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\fairings\\partOrionUSAfairing.cfg"
+  },
+  {
+    "name": "SLS_payloadAdapterL",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\payloadadapter\\partAdapterL.cfg"
+  },
+  {
+    "name": "SLS_orionUSAadapter",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\payloadadapter\\partOrionAdapter.cfg"
+  },
+  {
+    "name": "SLS_Oriondecoupler",
+    "filePath": "SpiceLaunchSystem\\parts\\payload\\payloadadapter\\partUSADecoupler.cfg"
+  }
+]

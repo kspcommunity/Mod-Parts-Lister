@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Boris",
+    "filePath": "BorisSystem\\Configs\\Boris.cfg"
+  },
+  {
+    "name": "Brag",
+    "filePath": "BorisSystem\\Configs\\Brag.cfg"
+  },
+  {
+    "name": "Bullwinkle",
+    "filePath": "BorisSystem\\Configs\\Bullwinkle.cfg"
+  },
+  {
+    "name": "Dudley",
+    "filePath": "BorisSystem\\Configs\\Dudley.cfg"
+  },
+  {
+    "name": "Fearless",
+    "filePath": "BorisSystem\\Configs\\Fearless.cfg"
+  },
+  {
+    "name": "Ingol",
+    "filePath": "BorisSystem\\Configs\\Ingol.cfg"
+  },
+  {
+    "name": "Munroe",
+    "filePath": "BorisSystem\\Configs\\Munroe.cfg"
+  },
+  {
+    "name": "Natasha",
+    "filePath": "BorisSystem\\Configs\\Natasha.cfg"
+  },
+  {
+    "name": "Peabody",
+    "filePath": "BorisSystem\\Configs\\Peabody.cfg"
+  },
+  {
+    "name": "Pyke",
+    "filePath": "BorisSystem\\Configs\\Pyke.cfg"
+  },
+  {
+    "name": "Rocky",
+    "filePath": "BorisSystem\\Configs\\Rocky.cfg"
+  },
+  {
+    "name": "Ryke",
+    "filePath": "BorisSystem\\Configs\\Ryke.cfg"
+  },
+  {
+    "name": "Saiyraes",
+    "filePath": "BorisSystem\\Configs\\Saiyraes.cfg"
+  },
+  {
+    "name": "Screwball",
+    "filePath": "BorisSystem\\Configs\\Screwball.cfg"
+  },
+  {
+    "name": "Wot",
+    "filePath": "BorisSystem\\Configs\\Wot.cfg"
+  },
+  {
+    "name": "Zuto",
+    "filePath": "BorisSystem\\Configs\\Zuto.cfg"
+  }
+]

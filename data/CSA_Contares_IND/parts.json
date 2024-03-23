@@ -1,0 +1,122 @@
+[
+  {
+    "name": "CONTARES-IND",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "KSRO-CUS-LFO",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-CUS-LFO.cfg"
+  },
+  {
+    "name": "KSRO-GSLV-Mk3_LFO",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-GSLV-Mk3_LFO.cfg"
+  },
+  {
+    "name": "KSRO-HLV-S2",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-HLV-S2.cfg"
+  },
+  {
+    "name": "KSRO-HSF-Capsule",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-HSF-Capsule.cfg"
+  },
+  {
+    "name": "KSRO-HSF-HS",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-HSF-HS.cfg"
+  },
+  {
+    "name": "KSRO-HSF-SM",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-HSF-SM.cfg"
+  },
+  {
+    "name": "KSRO-LH40",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-LH40.cfg"
+  },
+  {
+    "name": "KSRO-LH40FIN",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-LH40FIN.cfg"
+  },
+  {
+    "name": "KSRO-PS-1",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PS-1.cfg"
+  },
+  {
+    "name": "KSRO-PS-2",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PS-2.cfg"
+  },
+  {
+    "name": "KSRO-PS-2_VIKAS",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PS-2_VIKAS.cfg"
+  },
+  {
+    "name": "KSRO-PS-3",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PS-3.cfg"
+  },
+  {
+    "name": "KSRO-PS-4",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PS-4.cfg"
+  },
+  {
+    "name": "KSRO-PSOM-XL",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PSOM-XL.cfg"
+  },
+  {
+    "name": "KSRO-PSOM",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-PSOM.cfg"
+  },
+  {
+    "name": "KSRO-SITVC-RCS",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO-SITVC-RCS.cfg"
+  },
+  {
+    "name": "KSRO-HSF-Capsule-V2",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\KSRO_CM_V2.cfg"
+  },
+  {
+    "name": "RK-I-25",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\RK-I-25.cfg"
+  },
+  {
+    "name": "RK-I-CUS",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\RK-I-CUS.cfg"
+  },
+  {
+    "name": "RK-I-S200",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\RK-I-S200.cfg"
+  },
+  {
+    "name": "RK-I-V2x2",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\RK-I-V2x2.cfg"
+  },
+  {
+    "name": "RLV-TDK",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Parts\\KSRO\\RLV-TDK.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Patches\\Contares_IND_plume.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "KSRO_HSF_Crew_A",
+    "filePath": "CSA_Contares_IND\\GameData\\Contares_IND\\Spaces\\KSRO_HSF_Crew_A\\KSRO_HSF_Crew_A.cfg"
+  }
+]

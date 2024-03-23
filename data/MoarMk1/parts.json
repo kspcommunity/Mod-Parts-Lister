@@ -1,0 +1,82 @@
+[
+  {
+    "name": "engine100v",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Engines\\engine100v.cfg"
+  },
+  {
+    "name": "engine200v",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Engines\\engine200v.cfg"
+  },
+  {
+    "name": "engine400",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Engines\\engine400.cfg"
+  },
+  {
+    "name": "engine400v",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Engines\\engine400v.cfg"
+  },
+  {
+    "name": "engine800",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Engines\\engine800.cfg"
+  },
+  {
+    "name": "engine800v",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Engines\\engine800v.cfg"
+  },
+  {
+    "name": "lfoDoubleMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\lfoDouble.cfg"
+  },
+  {
+    "name": "lfoHalfMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\lfoHalf.cfg"
+  },
+  {
+    "name": "lfoQuadrupleMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\lfoQuadruple.cfg"
+  },
+  {
+    "name": "lfoStandardMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\lfoStandard.cfg"
+  },
+  {
+    "name": "lfQuadrupleMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\lfQuadruple.cfg"
+  },
+  {
+    "name": "lfStandardMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\lfStandard.cfg"
+  },
+  {
+    "name": "monoDoubleMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\monoDouble.cfg"
+  },
+  {
+    "name": "monoHalfMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\monoHalf.cfg"
+  },
+  {
+    "name": "monoQuarterMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\monoQuarter.cfg"
+  },
+  {
+    "name": "monoStandardMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\monoStandard.cfg"
+  },
+  {
+    "name": "strQuadrupleMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\strQuadruple.cfg"
+  },
+  {
+    "name": "strStandardMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\FuelTanks\\strStandard.cfg"
+  },
+  {
+    "name": "decouplerQuarterMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Structural\\decouplerQuarter.cfg"
+  },
+  {
+    "name": "separaterQuarterMk1",
+    "filePath": "MoarMk1\\GameData\\MoarMk1\\Parts\\Structural\\separaterQuarter.cfg"
+  }
+]

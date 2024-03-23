@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BulbModule",
+    "filePath": "AquilaEnterprises\\Bulb\\BulbConfig.cfg"
+  },
+  {
+    "name": "ModuleAnimateGenericConsumer",
+    "filePath": "AquilaEnterprises\\ElectricLights\\ModuleAnimateGeneric.cfg"
+  },
+  {
+    "name": "ModuleColorChangerConsumer",
+    "filePath": "AquilaEnterprises\\ElectricLights\\ModuleColorChanger.cfg"
+  }
+]

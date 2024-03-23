@@ -1,0 +1,66 @@
+[
+  {
+    "name": "antimatterEngine1",
+    "filePath": "LudicrousParts\\Engine\\antimatterEngineThreadRipper\\ThreadRipper.cfg"
+  },
+  {
+    "name": "engineHydrogen1",
+    "filePath": "LudicrousParts\\Engine\\h2Engine1\\h2Engine.cfg"
+  },
+  {
+    "name": "engineHydrogen2",
+    "filePath": "LudicrousParts\\Engine\\h2Engine2\\h2Engine.cfg"
+  },
+  {
+    "name": "antiTank001",
+    "filePath": "LudicrousParts\\FuelTank\\AntiTank01\\AntiTank01.cfg"
+  },
+  {
+    "name": "fuelTankHydrogen1",
+    "filePath": "LudicrousParts\\FuelTank\\H2Tank\\fuelTankH2.cfg"
+  },
+  {
+    "name": "fuelTankSize1Half1",
+    "filePath": "LudicrousParts\\FuelTank\\Size1_5Tanks\\NX1\\fuelTankNX100.cfg"
+  },
+  {
+    "name": "fuelTankSize1Half2",
+    "filePath": "LudicrousParts\\FuelTank\\Size1_5Tanks\\NX2\\fuelTankNX200.cfg"
+  },
+  {
+    "name": "fuelTankSize1Half3",
+    "filePath": "LudicrousParts\\FuelTank\\Size1_5Tanks\\NX4\\fuelTankNX400.cfg"
+  },
+  {
+    "name": "waterTank",
+    "filePath": "LudicrousParts\\FuelTank\\WaterTank\\WaterTank.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "LudicrousParts\\MMPatches\\H2EngineWaterfall.cfg"
+  },
+  {
+    "name": "LiquidTank",
+    "filePath": "LudicrousParts\\MMPatches\\LiquidContainers.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "LudicrousParts\\MMPatches\\Templates\\hydrolox-core-1.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "LudicrousParts\\MMPatches\\Templates\\hydrolox-lower-1.cfg"
+  },
+  {
+    "name": "AntiHydrogen",
+    "filePath": "LudicrousParts\\ResourcesGeneric.cfg"
+  },
+  {
+    "name": "glassPanel1",
+    "filePath": "LudicrousParts\\Structural\\glassPanel2x2\\structuralPanel1x1.cfg"
+  },
+  {
+    "name": "sunShield",
+    "filePath": "LudicrousParts\\Thermal\\SunShield\\Sunshield.cfg"
+  }
+]

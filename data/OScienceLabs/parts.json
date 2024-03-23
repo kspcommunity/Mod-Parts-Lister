@@ -1,0 +1,38 @@
+[
+  {
+    "name": "alphaSpectrometer",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\alphaSpectrometer\\alphaSpectrometer.cfg"
+  },
+  {
+    "name": "electroAnalyzer",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\electroStatic\\electroAnalyzer.cfg"
+  },
+  {
+    "name": "peeContainer",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\peeContainer\\peeContainer.cfg"
+  },
+  {
+    "name": "peeExperiment",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\peeExperiment\\peeExperiment.cfg"
+  },
+  {
+    "name": "radialScoop",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\radialScoop\\atmoExperiment.cfg"
+  },
+  {
+    "name": "radioDecay",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\radioDecay\\radioDecay.cfg"
+  },
+  {
+    "name": "scienceLab",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\scienceLab\\scienceLab.cfg"
+  },
+  {
+    "name": "sonicEmitter",
+    "filePath": "OScienceLabs\\OScience\\Parts\\Science\\sonicEmitter\\sonicEmitter.cfg"
+  },
+  {
+    "name": "KerbalPee",
+    "filePath": "OScienceLabs\\OScience\\Resources\\ResourcesGeneric.cfg"
+  }
+]

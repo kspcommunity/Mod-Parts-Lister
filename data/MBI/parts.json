@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Monkey Business Inc.",
+    "filePath": "MBI\\Agencies\\AgentsMBI.cfg"
+  },
+  {
+    "name": "adaptormk1001",
+    "filePath": "MBI\\MBIparts\\adaptorMk1001\\partadaptator.cfg"
+  },
+  {
+    "name": "adaptormk1voltcargo001",
+    "filePath": "MBI\\MBIparts\\adaptorMk1voltcargo001\\adaptatormk1cargo.cfg"
+  },
+  {
+    "name": "ringfueltankMk1-2ext002",
+    "filePath": "MBI\\MBIparts\\extmk1-2rework001\\part.cfg"
+  },
+  {
+    "name": "flatinterstage001",
+    "filePath": "MBI\\MBIparts\\flatinterstage001\\partflatinterstage.cfg"
+  },
+  {
+    "name": "ringfueltankMk1-2intrerework001",
+    "filePath": "MBI\\MBIparts\\intmk1-2rework001\\inthybrid001.cfg"
+  },
+  {
+    "name": "radialdecouplerseparator001",
+    "filePath": "MBI\\MBIparts\\radialdecouplerseparator001\\part.cfg"
+  },
+  {
+    "name": "ringcmdpodMk1001bis",
+    "filePath": "MBI\\MBIparts\\ringcmdpodMk1001\\ringcmdpodmk1.cfg"
+  },
+  {
+    "name": "ringfuelext001",
+    "filePath": "MBI\\MBIparts\\ringfueltankwhiteext001\\ringtankfuelextbetamulti001.cfg"
+  },
+  {
+    "name": "ringfuelextwhiteleg001",
+    "filePath": "MBI\\MBIparts\\ringfueltankwhiteextlegcargo001\\ringtankfuelextbetamultilander001.cfg"
+  },
+  {
+    "name": "ringfuelint001 ",
+    "filePath": "MBI\\MBIparts\\ringfueltankwhiteint001\\ringfueltankwhiteint001.cfg"
+  },
+  {
+    "name": "ringinlinepodMk1001",
+    "filePath": "MBI\\MBIparts\\ringinlinepodMk1001\\ringinlinepodMk1001.cfg"
+  },
+  {
+    "name": "ringlegs001",
+    "filePath": "MBI\\MBIparts\\ringleg001\\part.cfg"
+  },
+  {
+    "name": "ringlegadaptator001",
+    "filePath": "MBI\\MBIparts\\ringlegadaptator001\\part.cfg"
+  }
+]

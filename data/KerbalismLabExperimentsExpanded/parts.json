@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ADVASC.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ALSEP-2.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\AMS-02.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ASIM.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ASTERIA.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\BASM-4.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\BeaverCube.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\BTN-Neutron.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\CALET.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\CATS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ChemCam.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\CRISTA-1.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\CubeRRT.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\CXBN-2.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\DCT-APB1.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ECOSTRESS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\EGOMDOAF.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\GEDI.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\GLACE-2.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\GPAC-DFE.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\GV-SSPB.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\HaloSat.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\HPRGPE-2.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\IBATE-IWC.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ISSAC.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\IT-SPINS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JAGSAT.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-GSE.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-JEDI.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-JIRAM.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-MAG.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-MWR.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-UVS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\JUNO-WAVES.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\MastCam.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\MAXI.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\MEGCO.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\MILV-ELDAPB.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\NICER.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\ORZS-3.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\PK-3plus.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\Platan.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\PPME-1.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\PPSE-1.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\PWM-4.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\Qucopartex-22.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\RSA-CA.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SLAC-LCLS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SOCP-7.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SODI-Colloid.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SOLAR-FIELDS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SOLAR-ISOIS.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SOLAR-SWEAP.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SOLAR-WISPR.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SPOC.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\STP-H6-NIRAC.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\Strata-1.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SWAB-5.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\SWE-NEMO.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\Tanpopo.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\TAPAR-1.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\TPSMMO.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\Volny.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\Vsplesk.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismLabExperimentsExpanded\\xMeteor.cfg"
+  }
+]

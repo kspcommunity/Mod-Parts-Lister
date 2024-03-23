@@ -1,0 +1,38 @@
+[
+  {
+    "name": "kkrocketpad2",
+    "filePath": "SLSLC39B\\MissileRaw\\LaunchPad39.cfg"
+  },
+  {
+    "name": "Launch_Pad_39B",
+    "filePath": "SLSLC39B\\MissileRaw\\Launchpad39B.cfg"
+  },
+  {
+    "name": "LOxTank",
+    "filePath": "SLSLC39B\\MissileRaw\\MissileRaw.cfg"
+  },
+  {
+    "name": "FloodlightKSC",
+    "filePath": "SLSLC39B\\MobileTower\\MobileTower.cfg"
+  },
+  {
+    "name": "Sandbox",
+    "filePath": "SLSLC39B\\sandbox\\sandbox.cfg"
+  },
+  {
+    "name": "LOxTank",
+    "filePath": "SLSLC39B\\TankLOx\\LOX.cfg"
+  },
+  {
+    "name": "Fuel Pipe",
+    "filePath": "SLSLC39B\\TankLOx\\pipe.cfg"
+  },
+  {
+    "name": "Strut",
+    "filePath": "SLSLC39B\\TankLOx\\strut.cfg"
+  },
+  {
+    "name": "Water Tank",
+    "filePath": "SLSLC39B\\TankLOx\\water.cfg"
+  }
+]

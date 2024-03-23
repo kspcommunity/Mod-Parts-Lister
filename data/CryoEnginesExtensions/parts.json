@@ -1,0 +1,54 @@
+[
+  {
+    "name": "CEX_LHD_Hestia",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LHD_Hestia.cfg"
+  },
+  {
+    "name": "CEX_LHL_Aso",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LHL_Aso.cfg"
+  },
+  {
+    "name": "CEX_LHL_Datun",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LHL_Datun.cfg"
+  },
+  {
+    "name": "CEX_LHL_Karakuni",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LHL_Karakuni.cfg"
+  },
+  {
+    "name": "CEX_LHL_Kunlun",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LHL_Kunlun.cfg"
+  },
+  {
+    "name": "CEX_LMO_Owl",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LMO_Owl.cfg"
+  },
+  {
+    "name": "CEX_LMO_Shikra",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LMO_Shikra.cfg"
+  },
+  {
+    "name": "CEX_LMS_Achillo",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LMS_Achillo.cfg"
+  },
+  {
+    "name": "CEX_LMS_Carnotaurus",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LMS_Carnotaurus.cfg"
+  },
+  {
+    "name": "CEX_LMS_Therizino",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LMS_Therizino.cfg"
+  },
+  {
+    "name": "CEX_LMS_Yiqi",
+    "filePath": "CryoEnginesExtensions\\Parts\\Engine\\LMS_Yiqi.cfg"
+  },
+  {
+    "name": "Liquid_Light-Vacuum_1",
+    "filePath": "CryoEnginesExtensions\\Patches\\CEX_RSE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "CryoEnginesExtensions\\Patches\\CEX_Waterfall.cfg"
+  }
+]

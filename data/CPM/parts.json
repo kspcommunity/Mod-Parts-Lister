@@ -1,0 +1,26 @@
+[
+  {
+    "name": "2 Blorg",
+    "filePath": "CPM\\Blorg\\Blorg.cfg"
+  },
+  {
+    "name": "Adlai",
+    "filePath": "CPM\\MoveIke\\Adlai\\Adlai.cfg"
+  },
+  {
+    "name": "4 Ike",
+    "filePath": "CPM\\MoveIke\\Ike\\Ike.cfg"
+  },
+  {
+    "name": "1 Dres",
+    "filePath": "CPM\\Rename Dres\\DresRename.cfg"
+  },
+  {
+    "name": "10 Splork",
+    "filePath": "CPM\\Splork\\Splork.cfg"
+  },
+  {
+    "name": "Tafy",
+    "filePath": "CPM\\Tafy\\Tafy.cfg"
+  }
+]

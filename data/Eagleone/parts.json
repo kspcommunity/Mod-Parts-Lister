@@ -1,0 +1,74 @@
+[
+  {
+    "name": "EagleOneTransporterPod",
+    "filePath": "Eagleone\\Cockpit\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterMainEngines",
+    "filePath": "Eagleone\\Engines\\Drives\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterHeavyLifterEngines",
+    "filePath": "Eagleone\\Engines\\HLIFT\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterOverDriveEngines",
+    "filePath": "Eagleone\\Engines\\Overdrive\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterDockingClamp",
+    "filePath": "Eagleone\\MainFuselage\\DockingClamp\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterHull",
+    "filePath": "Eagleone\\MainFuselage\\part.cfg"
+  },
+  {
+    "name": "5ChannelRCSEagleOne",
+    "filePath": "Eagleone\\Misc\\5ChannelRCS\\part.cfg"
+  },
+  {
+    "name": "HawkInterceptorPod",
+    "filePath": "Eagleone\\Misc\\MKIX\\Cockpit\\part.cfg"
+  },
+  {
+    "name": "HawkInterceptorHull",
+    "filePath": "Eagleone\\Misc\\MKIX\\Fuselage\\part.cfg"
+  },
+  {
+    "name": "HawkMainEngines",
+    "filePath": "Eagleone\\Misc\\MKIX\\MainEngine\\part.cfg"
+  },
+  {
+    "name": "HawkInterceptorSideEngines",
+    "filePath": "Eagleone\\Misc\\MKIX\\SecondaryEngines\\part.cfg"
+  },
+  {
+    "name": "EagleOneLandingPlatform",
+    "filePath": "Eagleone\\Misc\\Platform\\part.cfg"
+  },
+  {
+    "name": "EagleOneRepairBay",
+    "filePath": "Eagleone\\Misc\\Repairbay\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterCranePod",
+    "filePath": "Eagleone\\ServicePods\\Crane\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterHeavyLiftPod",
+    "filePath": "Eagleone\\ServicePods\\HLIFT2\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporter_MedicalPod",
+    "filePath": "Eagleone\\ServicePods\\Medpod\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporter_BasicPod",
+    "filePath": "Eagleone\\ServicePods\\Passpod\\part.cfg"
+  },
+  {
+    "name": "EagleOneTransporterCargopodA",
+    "filePath": "Eagleone\\ServicePods\\Work\\part.cfg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chung Atomics, LTD.",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "USAFOrion3Engine",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Engines\\USAFOrion3Engine\\part.cfg"
+  },
+  {
+    "name": "USAFOrionEngine",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Engines\\USAFOrionEngine\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag08kt088mn",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMag0_8kt0_88mn\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag15kt400mn",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMag15kt400mn\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag1kt3_5mn",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMag1kt3_5mn\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag1_35kt10mn",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMag1_35kt10mn\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag1_9kt20mn",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMag1_9kt20mn\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag5kt80mn",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMag5kt80mn\\part.cfg"
+  },
+  {
+    "name": "USAFOrionTank",
+    "filePath": "USAF_Orion_Mod-1.0.23\\GameData\\USAFOrion\\Parts\\Magazines\\USAFOrionMagazine\\part.cfg"
+  }
+]

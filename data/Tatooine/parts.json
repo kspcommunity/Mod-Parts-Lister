@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Adriana",
+    "filePath": "Tatooine\\Adriana\\0-Adriana.cfg"
+  },
+  {
+    "name": "Charsiss",
+    "filePath": "Tatooine\\Adriana\\1-Charsiss.cfg"
+  },
+  {
+    "name": "Scalo",
+    "filePath": "Tatooine\\Adriana\\2-Scalo.cfg"
+  },
+  {
+    "name": "Derbon",
+    "filePath": "Tatooine\\Adriana\\3-Derbon.cfg"
+  },
+  {
+    "name": "Rohog",
+    "filePath": "Tatooine\\Adriana\\4-Rohog.cfg"
+  },
+  {
+    "name": "Ohann",
+    "filePath": "Tatooine\\Ohann\\0-Ohann.cfg"
+  },
+  {
+    "name": "Stitch",
+    "filePath": "Tatooine\\Ohann\\1-Stitch.cfg"
+  },
+  {
+    "name": "Nazad",
+    "filePath": "Tatooine\\Ohann\\2-Nazad.cfg"
+  },
+  {
+    "name": "Charso",
+    "filePath": "Tatooine\\Ohann\\2.1-Charso.cfg"
+  },
+  {
+    "name": "TatooI",
+    "filePath": "Tatooine\\Stars\\Tatoo1.cfg"
+  },
+  {
+    "name": "TatooII",
+    "filePath": "Tatooine\\Stars\\Tatoo2.cfg"
+  },
+  {
+    "name": "Ghomrassen",
+    "filePath": "Tatooine\\Tatooine\\1-Ghomrassen.cfg"
+  },
+  {
+    "name": "Guermessa",
+    "filePath": "Tatooine\\Tatooine\\2-Guermessa.cfg"
+  },
+  {
+    "name": "Chenini",
+    "filePath": "Tatooine\\Tatooine\\3-Chenini.cfg"
+  }
+]

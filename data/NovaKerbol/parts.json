@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ceves Alpha //Name your star please. 'Kerbol2' is just a placeholder name so this thing doesn't crash.",
+    "filePath": "NovaKerbol\\Configs\\CevesAlpha.cfg"
+  },
+  {
+    "name": "Lop",
+    "filePath": "NovaKerbol\\Configs\\Lop.cfg"
+  },
+  {
+    "name": "Vex",
+    "filePath": "NovaKerbol\\Configs\\Vex.cfg"
+  },
+  {
+    "name": "Zorp",
+    "filePath": "NovaKerbol\\Configs\\Zorp.cfg"
+  }
+]

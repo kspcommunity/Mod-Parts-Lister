@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFGenerator\\nuclear-recycler-25\\WhirlijigTransformer.cfg"
+  },
+  {
+    "name": "MWe",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFPropulsion\\EcToMWeConversion.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFReactors\\reactor-0625.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFReactors\\reactor-125.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFReactors\\reactor-25-2.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFReactors\\reactor-25.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "SimpleNuclearNearFuturePB\\SimpleNuclearNFReactors\\reactor-375.cfg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Kerbol",
+    "filePath": "ASSO\\Kopernicus_Files\\Kerbol System\\Kerbol\\Kerbol.cfg"
+  },
+  {
+    "name": "Furmal",
+    "filePath": "ASSO\\Kopernicus_Files\\Kerbol System\\Purl\\Furmal\\Furmal.cfg"
+  },
+  {
+    "name": "Purl",
+    "filePath": "ASSO\\Kopernicus_Files\\Kerbol System\\Purl\\Purl.cfg"
+  },
+  {
+    "name": "Verna",
+    "filePath": "ASSO\\Kopernicus_Files\\Kerbol System\\Verna\\Verna.cfg"
+  }
+]

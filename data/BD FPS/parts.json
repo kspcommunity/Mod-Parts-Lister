@@ -1,0 +1,110 @@
+[
+  {
+    "name": "PEW-SMS_44Magnum_Hand",
+    "filePath": "BD FPS\\Parts\\44Magnum\\SMS_44Magnum.cfg"
+  },
+  {
+    "name": "PEW-SMS_AK74Hand",
+    "filePath": "BD FPS\\Parts\\AK74\\SMS_AK74.cfg"
+  },
+  {
+    "name": "FPS_Ammo_rkt",
+    "filePath": "BD FPS\\Parts\\Ammo\\FPS Ammo - Rockets.cfg"
+  },
+  {
+    "name": "FPS_Ammo",
+    "filePath": "BD FPS\\Parts\\Ammo\\FPS Ammo.cfg"
+  },
+  {
+    "name": "FPS_MissFire",
+    "filePath": "BD FPS\\Parts\\Ammo\\FPSMissFire.cfg"
+  },
+  {
+    "name": "AT4Launchertrt",
+    "filePath": "BD FPS\\Parts\\AT4\\AT4_Launchertrt.cfg"
+  },
+  {
+    "name": "PEW-SMS_DesertEagle_Hand",
+    "filePath": "BD FPS\\Parts\\DesertEagle\\SMS_DesertEagle.cfg"
+  },
+  {
+    "name": "FPSDSR50",
+    "filePath": "BD FPS\\Parts\\DSR50\\FPS_DSR50.cfg"
+  },
+  {
+    "name": "FPS_Blaster",
+    "filePath": "BD FPS\\Parts\\E11Blaster\\FPS_Blaster_A.cfg"
+  },
+  {
+    "name": "FPS_AT4-2RocketLauncher",
+    "filePath": "BD FPS\\Parts\\FPS_AT4-2\\AT4-2.cfg"
+  },
+  {
+    "name": "MK1Phaser",
+    "filePath": "BD FPS\\Parts\\FPS_Mk1Phaser\\MK1Phaser.cfg"
+  },
+  {
+    "name": "FPS_SmokeGrenade",
+    "filePath": "BD FPS\\Parts\\FPS_SmokeGrenadeCM\\FPS_SmokeGrenade.cfg"
+  },
+  {
+    "name": "PEW-SMS_Glock_Hand",
+    "filePath": "BD FPS\\Parts\\Glock 17\\SMS_Glock.cfg"
+  },
+  {
+    "name": "bahaAGM-114_kis",
+    "filePath": "BD FPS\\Parts\\hellfireMissile\\hellfireMissile_FPS.cfg"
+  },
+  {
+    "name": "FPS_JavelinLauncherWR",
+    "filePath": "BD FPS\\Parts\\JavelinLauncher\\FPS_JavelinLauncherWR.cfg"
+  },
+  {
+    "name": "FPS_ChainGun_Hand",
+    "filePath": "BD FPS\\Parts\\M134Minigun\\SMS_ChainGun_FPS.cfg"
+  },
+  {
+    "name": "PEW-SMS_M16Hand",
+    "filePath": "BD FPS\\Parts\\M16\\SMS_M16.cfg"
+  },
+  {
+    "name": "PEW-SMS_M4A1Hand",
+    "filePath": "BD FPS\\Parts\\M4\\SMS_M4A1.cfg"
+  },
+  {
+    "name": "PEW-MilkorMGLHand",
+    "filePath": "BD FPS\\Parts\\Milkor_MGL\\MilkorMGL.cfg"
+  },
+  {
+    "name": "mrail_kis",
+    "filePath": "BD FPS\\Parts\\MissileRail\\structuralIBeam200_FPS.cfg"
+  },
+  {
+    "name": "PEW-mk19Hand",
+    "filePath": "BD FPS\\Parts\\Mk19Hand\\mk.19handheld.cfg"
+  },
+  {
+    "name": "PEW-SMS_SawnOffHand",
+    "filePath": "BD FPS\\Parts\\SawnOff\\SawnOff.cfg"
+  },
+  {
+    "name": "PEW-SMS_Skorpion_VZ_Hand",
+    "filePath": "BD FPS\\Parts\\Skorpion VZ\\Skorpion VZ.cfg"
+  },
+  {
+    "name": "bahaCamPod_kis",
+    "filePath": "BD FPS\\Parts\\targetingCam\\targetingCam_FPS.cfg"
+  },
+  {
+    "name": "ThompsonSMG",
+    "filePath": "BD FPS\\Parts\\ThompsonSMG\\ThompsonSMG.cfg"
+  },
+  {
+    "name": "PEW-SMS_KuziMk2Hand",
+    "filePath": "BD FPS\\Parts\\Uzi\\KuziMk2.cfg"
+  },
+  {
+    "name": "WWIIHelmet",
+    "filePath": "BD FPS\\Parts\\WWIIHelmet\\WWIIHelmet.cfg"
+  }
+]

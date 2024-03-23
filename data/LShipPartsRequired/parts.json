@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Festive Naval Engineering Co.",
+    "filePath": "LShipPartsRequired\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "Hangar",
+    "filePath": "LShipPartsRequired\\LBP_Hangar_MM.cfg"
+  },
+  {
+    "name": "FSengineSounds",
+    "filePath": "LShipPartsRequired\\LBP_tweakableComplete.cfg"
+  },
+  {
+    "name": "Festive Naval Engineering Co.",
+    "filePath": "LShipPartsRequired\\Localization\\localization-en-us.cfg"
+  },
+  {
+    "name": "AirVentShort",
+    "filePath": "LShipPartsRequired\\Parts\\AirVentShort\\AirVentShort.cfg"
+  },
+  {
+    "name": "AirVentTall",
+    "filePath": "LShipPartsRequired\\Parts\\AirVentTall\\AirVentTall.cfg"
+  },
+  {
+    "name": "ballasttankfmw",
+    "filePath": "LShipPartsRequired\\Parts\\BallastTank\\ballasttank.cfg"
+  },
+  {
+    "name": "BallastTankUniversal",
+    "filePath": "LShipPartsRequired\\Parts\\BallastTank2\\ballasttank2.cfg"
+  },
+  {
+    "name": "bridgesmall",
+    "filePath": "LShipPartsRequired\\Parts\\Bridge\\bridge.cfg"
+  },
+  {
+    "name": "BridgeLC2Upper",
+    "filePath": "LShipPartsRequired\\Parts\\BridgeLC2\\BridgeLC2.cfg"
+  },
+  {
+    "name": "DGBridge",
+    "filePath": "LShipPartsRequired\\Parts\\DGBridge\\DGBridge.cfg"
+  },
+  {
+    "name": "SmokeFunne11",
+    "filePath": "LShipPartsRequired\\Parts\\Funnels\\SmokeFunnel.cfg"
+  },
+  {
+    "name": "LBPmd2",
+    "filePath": "LShipPartsRequired\\Parts\\LBPmd2\\LBPmd2.cfg"
+  },
+  {
+    "name": "LBPsmBridge2",
+    "filePath": "LShipPartsRequired\\Parts\\LBPsmBridge2\\LBPsmBridge2.cfg"
+  },
+  {
+    "name": "LBPsmBridge3",
+    "filePath": "LShipPartsRequired\\Parts\\LBPsmBridge2\\LBPsmBridge3.cfg"
+  },
+  {
+    "name": "LowDragRudder",
+    "filePath": "LShipPartsRequired\\Parts\\LowDragRudder\\LDRudder.cfg"
+  },
+  {
+    "name": "LBPMdrive1",
+    "filePath": "LShipPartsRequired\\Parts\\MarineDrive1\\LBPMdrive1.cfg"
+  },
+  {
+    "name": "waterjet",
+    "filePath": "LShipPartsRequired\\Parts\\WaterJet\\waterjet.cfg"
+  },
+  {
+    "name": "SubmarineWaterJet",
+    "filePath": "LShipPartsRequired\\Parts\\WaterJet2\\SubmarineWaterJet.cfg"
+  },
+  {
+    "name": "waterjetcut",
+    "filePath": "LShipPartsRequired\\Parts\\WaterJet2\\waterjet2.cfg"
+  },
+  {
+    "name": "WaterPump",
+    "filePath": "LShipPartsRequired\\Parts\\WaterPump\\WaterPump.cfg"
+  },
+  {
+    "name": "BallastWater",
+    "filePath": "LShipPartsRequired\\SMM_GlobalResources.cfg"
+  },
+  {
+    "name": "DGBridgeInternal",
+    "filePath": "LShipPartsRequired\\Spaces\\DGBridgeInternal\\DGBridgeInternal.cfg"
+  },
+  {
+    "name": "LBPsmBridge2Internal",
+    "filePath": "LShipPartsRequired\\Spaces\\LBPsmBridge2Internal\\LBPsmBridge2Internal.cfg"
+  },
+  {
+    "name": "LBPsmBridge3Internal",
+    "filePath": "LShipPartsRequired\\Spaces\\LBPsmBridge3Internal\\LBPsmBridge3Internal.cfg"
+  },
+  {
+    "name": "LC2LowerInternal",
+    "filePath": "LShipPartsRequired\\Spaces\\LC2LowerInternal\\LC2LowerInternal.cfg"
+  },
+  {
+    "name": "LC2UpperInternal",
+    "filePath": "LShipPartsRequired\\Spaces\\LC2UpperInternal\\LC2UpperInternal.cfg"
+  }
+]

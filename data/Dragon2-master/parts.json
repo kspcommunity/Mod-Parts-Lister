@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KerbalizedDragon2",
+    "filePath": "Dragon2-master\\GameData\\JNH\\Parts\\dragon2\\KerbalizedDragon.cfg"
+  },
+  {
+    "name": "Kerbalizedv2_Trunk",
+    "filePath": "Dragon2-master\\GameData\\JNH\\Parts\\dragon2trunk\\Kerbalizedv2trunk.cfg"
+  },
+  {
+    "name": "DragonCockpit",
+    "filePath": "Dragon2-master\\GameData\\JNH\\Spaces\\DragonCockpit.cfg"
+  }
+]

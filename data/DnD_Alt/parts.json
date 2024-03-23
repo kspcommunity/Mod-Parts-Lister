@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Soyuz MS",
+    "filePath": "DnD_Alt\\DrakenexDC_LV_STS.cfg"
+  },
+  {
+    "name": "DrakenBlack",
+    "filePath": "DnD_Alt\\DrakenexDC_STS.cfg"
+  },
+  {
+    "name": "Black",
+    "filePath": "DnD_Alt\\DT_STS.cfg"
+  },
+  {
+    "name": "Tantares_Crew_SZ",
+    "filePath": "DnD_Alt\\Shenzhou.cfg"
+  },
+  {
+    "name": "aquila_crew_s2_s0p5_1_W",
+    "filePath": "DnD_Alt\\TKS\\TKS_White_Fairing.cfg"
+  },
+  {
+    "name": "DrakenBlack",
+    "filePath": "DnD_Alt\\VariantThemesDC.cfg"
+  }
+]

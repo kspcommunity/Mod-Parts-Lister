@@ -1,0 +1,50 @@
+[
+  {
+    "name": "KROMBUSH2HS",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUS2Project\\KROMBUS2HS\\RHS.cfg"
+  },
+  {
+    "name": "KME",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUS2Project\\KROMBUS2ME\\KME.cfg"
+  },
+  {
+    "name": "KROMBUS2MT",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUS2Project\\KROMBUS2MT\\KROMBUS2MT.cfg"
+  },
+  {
+    "name": "HSLC",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\HSLC\\HSLC.cfg"
+  },
+  {
+    "name": "KROMBUSExternalTank",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\KROMBUSExternalTank\\RET1.cfg"
+  },
+  {
+    "name": "KROMBUSFairings",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\KROMBUSFairing\\RF1.cfg"
+  },
+  {
+    "name": "KROMBUSHeatshield",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\KROMBUSHeatshield\\RHS-MK1.cfg"
+  },
+  {
+    "name": "KROMBUSMainEngine",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\KROMBUSMainEngine\\RME-MK1.cfg"
+  },
+  {
+    "name": "KROMBUSMainTank",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\KROMBUSMainTank\\RMT1.cfg"
+  },
+  {
+    "name": "AtomicTechKROMBUSEngine",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\KROMBUSServiceModuleEngine\\RSM1.cfg"
+  },
+  {
+    "name": "rcs1m",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\RCS1m\\rcs1m.cfg"
+  },
+  {
+    "name": "rcs2m",
+    "filePath": "The_KROMBUS_Project-0.2.2\\TheKROMBUSProject\\RCS2m\\rcs2m.cfg"
+  }
+]

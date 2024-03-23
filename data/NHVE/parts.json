@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kerbin-clouds1",
+    "filePath": "NHVE\\Clouds\\clouds.cfg"
+  },
+  {
+    "name": "Arin",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Arin\\atmo.cfg"
+  },
+  {
+    "name": "Duna",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Duna\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Eve\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Eve\\ocean.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Jool\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Kerbin\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Kerbin\\ocean.cfg"
+  },
+  {
+    "name": "Krios",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Krios\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Laythe\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Laythe\\ocean.cfg"
+  },
+  {
+    "name": "Moh",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Moh\\atmo.cfg"
+  },
+  {
+    "name": "Serran",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Serran\\atmo.cfg"
+  },
+  {
+    "name": "Sonnah",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Sonnah\\atmo.cfg"
+  },
+  {
+    "name": "Tidus",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Tidus\\atmo.cfg"
+  },
+  {
+    "name": "Tidus",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Tidus\\ocean.cfg"
+  },
+  {
+    "name": "Titanus",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Titanus\\atmo.cfg"
+  },
+  {
+    "name": "Vanor",
+    "filePath": "NHVE\\scatterer\\config\\Planets\\Vanor\\atmo.cfg"
+  }
+]

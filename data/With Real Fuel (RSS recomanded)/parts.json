@@ -1,0 +1,22 @@
+[
+  {
+    "name": "A6Booster",
+    "filePath": "With Real Fuel (RSS recomanded)\\GameData\\Ariane6\\booster\\Booster.cfg"
+  },
+  {
+    "name": "A6Fairing",
+    "filePath": "With Real Fuel (RSS recomanded)\\GameData\\Ariane6\\Fairing\\Fairing.cfg"
+  },
+  {
+    "name": "A6S1",
+    "filePath": "With Real Fuel (RSS recomanded)\\GameData\\Ariane6\\first_Stage\\FirstStage.cfg"
+  },
+  {
+    "name": "A9INTERSTAGE",
+    "filePath": "With Real Fuel (RSS recomanded)\\GameData\\Ariane6\\interstage\\interstage.cfg"
+  },
+  {
+    "name": "A9S2",
+    "filePath": "With Real Fuel (RSS recomanded)\\GameData\\Ariane6\\Second_Stage\\SecondStage.cfg"
+  }
+]

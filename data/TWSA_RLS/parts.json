@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Atlas1",
+    "filePath": "TWSA_RLS\\Bacon\\Atlas1.cfg"
+  },
+  {
+    "name": "Atlas2",
+    "filePath": "TWSA_RLS\\Bacon\\Atlas2.cfg"
+  },
+  {
+    "name": "Atlas3",
+    "filePath": "TWSA_RLS\\Bacon\\Atlas3.cfg"
+  },
+  {
+    "name": "KSCVAB7",
+    "filePath": "TWSA_RLS\\Bacon\\KSCVAB.cfg"
+  },
+  {
+    "name": "missilerowpad2",
+    "filePath": "TWSA_RLS\\Bacon\\MissileRowPad2.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\KSCmesh.cfg"
+  },
+  {
+    "name": "SLF",
+    "filePath": "TWSA_RLS\\KSC North\\KSCSLF.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\LC39Pad.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\MLP_Shuttle.cfg"
+  },
+  {
+    "name": "saturnMLP",
+    "filePath": "TWSA_RLS\\KSC North\\saturn.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\ShuttleTower.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\SLC41.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\Spawnmarker.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWSA_RLS\\KSC North\\STSMDD.cfg"
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "name": "ConversionModule",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size2Converter\\ConversionModule.cfg"
+  },
+  {
+    "name": "S2ConvInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size2Converter\\internal.cfg"
+  },
+  {
+    "name": "topAdapter2",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size2Converter\\topAdapter2.cfg"
+  },
+  {
+    "name": "ConversionModule3",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size3Converter\\ConversionModule3.cfg"
+  },
+  {
+    "name": "S3ConvInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size3Converter\\S3convint.cfg"
+  },
+  {
+    "name": "topAdapter3",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size3Converter\\topAdapter3.cfg"
+  },
+  {
+    "name": "ConversionModule4",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size4Converter\\ConversionModule4.cfg"
+  },
+  {
+    "name": "ConversionModuleShort4",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size4Converter\\ConversionModuleShort4.cfg"
+  },
+  {
+    "name": "S4ConvInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size4Converter\\internal.cfg"
+  },
+  {
+    "name": "S4ShortConvint",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size4Converter\\ShortInternal.cfg"
+  },
+  {
+    "name": "topInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size4Converter\\topInt.cfg"
+  },
+  {
+    "name": "topTest",
+    "filePath": "GRAPEFRUIT\\Parts\\Converters\\Size4Converter\\topTest.cfg"
+  },
+  {
+    "name": "module = Part",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2base.cfg"
+  },
+  {
+    "name": "MODEL",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2baseint.cfg"
+  },
+  {
+    "name": "S2cargo",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2cargo.cfg"
+  },
+  {
+    "name": "S2cargoint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2cargoint.cfg"
+  },
+  {
+    "name": "S2gym",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2gym.cfg"
+  },
+  {
+    "name": "S2gymint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2gymint.cfg"
+  },
+  {
+    "name": "S2lab",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2lab.cfg"
+  },
+  {
+    "name": "S2labint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2labint.cfg"
+  },
+  {
+    "name": "S2lounge",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2lounge.cfg"
+  },
+  {
+    "name": "S2loungeint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2loungeint.cfg"
+  },
+  {
+    "name": "S2messhall",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2messhall.cfg"
+  },
+  {
+    "name": "S2messhallint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2messhallint.cfg"
+  },
+  {
+    "name": "S2office",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2office.cfg"
+  },
+  {
+    "name": "S2officeint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2officeint.cfg"
+  },
+  {
+    "name": "S2quarters",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2quarters.cfg"
+  },
+  {
+    "name": "S2quartersint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size2Hab\\S2quartersint.cfg"
+  },
+  {
+    "name": "module = Part",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3base.cfg"
+  },
+  {
+    "name": "MODEL",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3baseint.cfg"
+  },
+  {
+    "name": "S3cargo",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3cargo.cfg"
+  },
+  {
+    "name": "S3cargoint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3cargoint.cfg"
+  },
+  {
+    "name": "S3dockint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3dockint.cfg"
+  },
+  {
+    "name": "S3gym",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3gym.cfg"
+  },
+  {
+    "name": "S3gymint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3gymint.cfg"
+  },
+  {
+    "name": "S3L1docking",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3L1docking.cfg"
+  },
+  {
+    "name": "S3lab",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3lab.cfg"
+  },
+  {
+    "name": "S3labint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3labint.cfg"
+  },
+  {
+    "name": "S3lounge",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3lounge.cfg"
+  },
+  {
+    "name": "S3loungeint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3loungeint.cfg"
+  },
+  {
+    "name": "S3MessHall",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3MessHall.cfg"
+  },
+  {
+    "name": "S3messHallint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3messhallint.cfg"
+  },
+  {
+    "name": "S3office",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3office.cfg"
+  },
+  {
+    "name": "S3officeint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3officeint.cfg"
+  },
+  {
+    "name": "s3Quarters",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3quarters.cfg"
+  },
+  {
+    "name": "s3quartersint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size3Hab\\S3quartersint.cfg"
+  },
+  {
+    "name": "S4cargoint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\cargoint.cfg"
+  },
+  {
+    "name": "S4coneint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\coneint.cfg"
+  },
+  {
+    "name": "S4dockint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\dockint.cfg"
+  },
+  {
+    "name": "S4gymint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\GymInt.cfg"
+  },
+  {
+    "name": "habS4L1int",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\habS4L1Int.cfg"
+  },
+  {
+    "name": "module = Part",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4base.cfg"
+  },
+  {
+    "name": "S4L4HBaseInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4HbaseInt.cfg"
+  },
+  {
+    "name": "S4L4HHab",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4Hhab.cfg"
+  },
+  {
+    "name": "S4L4HHabInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4Hhabint.cfg"
+  },
+  {
+    "name": "S4L4HLab",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4HLab.cfg"
+  },
+  {
+    "name": "S4L4HLabInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4HLabInt.cfg"
+  },
+  {
+    "name": "S4L4Hmulti",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4Hmulti.cfg"
+  },
+  {
+    "name": "S4L4Hmultiint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4HmultiInt.cfg"
+  },
+  {
+    "name": "S4L4MessHall",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4messHall.cfg"
+  },
+  {
+    "name": "S4L4messHallint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Horizontal\\S4L4messHallint.cfg"
+  },
+  {
+    "name": "S4Labint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\Labint.cfg"
+  },
+  {
+    "name": "S4loungeint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\LoungeInt.cfg"
+  },
+  {
+    "name": "S4MessHallint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\MessHallint.cfg"
+  },
+  {
+    "name": "S4officeint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\OfficeInt.cfg"
+  },
+  {
+    "name": "KSP/Bumped",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\panelsTex.cfg"
+  },
+  {
+    "name": "S4quartersint",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\quartersInt.cfg"
+  },
+  {
+    "name": "S4cargo",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4cargo.cfg"
+  },
+  {
+    "name": "S4cone",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4cone.cfg"
+  },
+  {
+    "name": "S4dockintHoriz",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4dockintHoriz.cfg"
+  },
+  {
+    "name": "S4gym",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4gym.cfg"
+  },
+  {
+    "name": "S4horizontaldock",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4horizontaldock.cfg"
+  },
+  {
+    "name": "S4L1docking",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4L1docking.cfg"
+  },
+  {
+    "name": "S4L1RingDock",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4L1RingDock.cfg"
+  },
+  {
+    "name": "S4ringInt",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4L1RingDockint.cfg"
+  },
+  {
+    "name": "S4lab",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4lab.cfg"
+  },
+  {
+    "name": "S4lounge",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4lounge.cfg"
+  },
+  {
+    "name": "S4MessHall",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4MessHall.cfg"
+  },
+  {
+    "name": "S4office",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4office.cfg"
+  },
+  {
+    "name": "S4quarters",
+    "filePath": "GRAPEFRUIT\\Parts\\Habs\\Size4Hab\\S4quarters.cfg"
+  },
+  {
+    "name": "airlockDivider",
+    "filePath": "GRAPEFRUIT\\Props\\airlockDivider.cfg"
+  },
+  {
+    "name": "BigConsole",
+    "filePath": "GRAPEFRUIT\\Props\\BigConsole.cfg"
+  },
+  {
+    "name": "CanvasHatch",
+    "filePath": "GRAPEFRUIT\\Props\\CanvasHatch.cfg"
+  },
+  {
+    "name": "collaps-a-stool",
+    "filePath": "GRAPEFRUIT\\Props\\collaps-a-stool.cfg"
+  },
+  {
+    "name": "collaps-a-table",
+    "filePath": "GRAPEFRUIT\\Props\\collaps-a-table.cfg"
+  },
+  {
+    "name": "coneFloors",
+    "filePath": "GRAPEFRUIT\\Props\\coneFloors.cfg"
+  },
+  {
+    "name": "couch",
+    "filePath": "GRAPEFRUIT\\Props\\couch.cfg"
+  },
+  {
+    "name": "Desk",
+    "filePath": "GRAPEFRUIT\\Props\\desk.cfg"
+  },
+  {
+    "name": "Desk2",
+    "filePath": "GRAPEFRUIT\\Props\\desk2.cfg"
+  },
+  {
+    "name": "hab_divider",
+    "filePath": "GRAPEFRUIT\\Props\\hab_divider.cfg"
+  },
+  {
+    "name": "hab_divider_door",
+    "filePath": "GRAPEFRUIT\\Props\\hab_divider_door.cfg"
+  },
+  {
+    "name": "Lamp",
+    "filePath": "GRAPEFRUIT\\Props\\lamp.cfg"
+  },
+  {
+    "name": "LessBigConsole",
+    "filePath": "GRAPEFRUIT\\Props\\LessBigConsole.cfg"
+  },
+  {
+    "name": "light_tube",
+    "filePath": "GRAPEFRUIT\\Props\\light_tube.cfg"
+  },
+  {
+    "name": "minicouch",
+    "filePath": "GRAPEFRUIT\\Props\\minicouch.cfg"
+  },
+  {
+    "name": "modularShelves",
+    "filePath": "GRAPEFRUIT\\Props\\modularShelves.cfg"
+  },
+  {
+    "name": "NF_COMP_LargeTVwindowBLOCK",
+    "filePath": "GRAPEFRUIT\\Props\\NF_COMP_LargeTVwindow.cfg"
+  },
+  {
+    "name": "NF_GYM_Bike_Seat",
+    "filePath": "GRAPEFRUIT\\Props\\NF_Gym_Bike_seat.cfg"
+  },
+  {
+    "name": "seatConvert",
+    "filePath": "GRAPEFRUIT\\Props\\seatConvert.cfg"
+  },
+  {
+    "name": "tension_exercise",
+    "filePath": "GRAPEFRUIT\\Props\\tension_exercise.cfg"
+  },
+  {
+    "name": "tension_exercise_broken",
+    "filePath": "GRAPEFRUIT\\Props\\tension_exercise_broken.cfg"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "atBasicSuitM",
+    "filePath": "AtomicTech\\ATIssuedSuits\\Suits.cfg"
+  },
+  {
+    "name": "KSAS",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\agencyKSAS.cfg"
+  },
+  {
+    "name": "AtomicTech Inc.",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\AT.cfg"
+  },
+  {
+    "name": "ColonyCo.",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\ColonyCo.cfg"
+  },
+  {
+    "name": "Guardian Squid Expeditions",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\GSE.cfg"
+  },
+  {
+    "name": "KonopropKorp",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\KonopropKorp.cfg"
+  },
+  {
+    "name": "Surveyllor LLC",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\Surveyllor.cfg"
+  },
+  {
+    "name": "Flour Tortilla League",
+    "filePath": "AtomicTech\\Atomic-Technologies-Incorporated\\Agencies\\tortillas.cfg"
+  },
+  {
+    "name": "liquidEngine3Classic",
+    "filePath": "AtomicTech\\AUP\\liquidEngineLV-909Classic\\liquidEngineLV-909Classic.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\AUP\\liquidEngineLV-909Classic\\SWF_LVL_Patch.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\AUP\\liquidEnginePoodleClassic\\Kouritsu_SWF.cfg"
+  },
+  {
+    "name": "cryoUpper",
+    "filePath": "AtomicTech\\AUP\\liquidEnginePoodleClassic\\liquidEnginePoodleClassic.cfg"
+  },
+  {
+    "name": "cryoUpperPlus",
+    "filePath": "AtomicTech\\AUP\\liquidEngineSkipperClassic\\skipperLiquidEngineClassic.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\AUP\\liquidEngineSkipperClassic\\SWF_Ol_Skipper.cfg"
+  },
+  {
+    "name": "AtomicRS88",
+    "filePath": "AtomicTech\\AUP\\OMSEngineClassic\\omsEngineClassic.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\AUP\\OMSEngineClassic\\OMS_Classic_SWF.cfg"
+  },
+  {
+    "name": "oriSer125",
+    "filePath": "AtomicTech\\AUP\\ServiceBayClassic\\ServiceBay_125Classic.cfg"
+  },
+  {
+    "name": "oriSer250",
+    "filePath": "AtomicTech\\AUP\\ServiceBayClassic\\ServiceBay_250Classic.cfg"
+  },
+  {
+    "name": "SkipperPlus",
+    "filePath": "AtomicTech\\AUP\\SkipperPlus.cfg"
+  },
+  {
+    "name": "starlinerEngine",
+    "filePath": "AtomicTech\\AUP\\StarlinerOMS.cfg"
+  },
+  {
+    "name": "AT_K2_IVA",
+    "filePath": "AtomicTech\\CMP\\CorvusIVA\\internal.cfg"
+  },
+  {
+    "name": "PrestockMK12",
+    "filePath": "AtomicTech\\CMP\\Mk1-2Alt\\ClassicaSan.cfg"
+  },
+  {
+    "name": "Mark1-2PodClassic",
+    "filePath": "AtomicTech\\CMP\\Mk1-2PodClassic\\ClassicaNi.cfg"
+  },
+  {
+    "name": "Mk1ARevived",
+    "filePath": "AtomicTech\\CMP\\Mk1-A\\Command_Pod\\GeminiPodTwo.cfg"
+  },
+  {
+    "name": "RevivedTaurusIVA",
+    "filePath": "AtomicTech\\CMP\\TaurusCockpit\\internal.cfg"
+  },
+  {
+    "name": "TaurusCockpitRPM_Atomic",
+    "filePath": "AtomicTech\\CMP\\TaurusCockpit\\internal_RPM.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "AtomicTech\\CMP\\TaurusCockpit\\taurus-patch.cfg"
+  },
+  {
+    "name": "SolidFuel",
+    "filePath": "AtomicTech\\CMP\\TaurusHCV\\DeployableEngines.cfg"
+  },
+  {
+    "name": "TaurusMKIV",
+    "filePath": "AtomicTech\\CMP\\TaurusHCV\\taurus.cfg"
+  },
+  {
+    "name": "China Aerospace and Technology Corporation",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCAgency\\CASC_Agent.cfg"
+  },
+  {
+    "name": "CZ1_Decoupler",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\Decoupler\\CZ1Decoupler.cfg"
+  },
+  {
+    "name": "CZ_ProbeCore0",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\DFH-1\\CZProbeCore0.cfg"
+  },
+  {
+    "name": "CZ1_SRB",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\PG-02\\CZ1EngineSolid.cfg"
+  },
+  {
+    "name": "CZ1_Tank1",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\Tank1\\CZ1Tank1.cfg"
+  },
+  {
+    "name": "CZ1_Tank2",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\Tank2\\CZ1Tank2.cfg"
+  },
+  {
+    "name": "CZ1_EngineAtm",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\YF-2\\CZ1EngineAtm.cfg"
+  },
+  {
+    "name": "CZ1_EngineVac",
+    "filePath": "AtomicTech\\CPartsRefurbished\\CASCParts\\YF-3\\CZ1EngineVac.cfg"
+  },
+  {
+    "name": "ATGreenhouse125M",
+    "filePath": "AtomicTech\\CRS\\radioactiveGreenhouse\\Parts\\ATGreenhouse125M.cfg"
+  },
+  {
+    "name": "ATGreenhouse1875M",
+    "filePath": "AtomicTech\\CRS\\radioactiveGreenhouse\\Parts\\ATGreenhouse1875M.cfg"
+  },
+  {
+    "name": "ATGreenhouse5M",
+    "filePath": "AtomicTech\\CRS\\radioactiveGreenhouse\\Parts\\ATGreenhouse5M.cfg"
+  },
+  {
+    "name": "PSAGreenhouse25",
+    "filePath": "AtomicTech\\CRS\\radioactiveGreenhouse\\Parts\\PSAGreenhouse25.cfg"
+  },
+  {
+    "name": "PSAGreenhouse375",
+    "filePath": "AtomicTech\\CRS\\radioactiveGreenhouse\\Parts\\PSAGreenhouse375M.cfg"
+  },
+  {
+    "name": "BeegSnacker",
+    "filePath": "AtomicTech\\CRS\\Snacker\\BigSnacker.cfg"
+  },
+  {
+    "name": "Snacker",
+    "filePath": "AtomicTech\\CRS\\Snacker\\BlueCirrusSnacker.cfg"
+  },
+  {
+    "name": "SnackerMini",
+    "filePath": "AtomicTech\\CRS\\Snacker\\MiniSnacker.cfg"
+  },
+  {
+    "name": "BiegMacks",
+    "filePath": "AtomicTech\\CRS\\snacksBox.cfg"
+  },
+  {
+    "name": "ATDryWorkshop",
+    "filePath": "AtomicTech\\DAL\\AtomicTechTokamaxLabPlus.cfg"
+  },
+  {
+    "name": "atmosphereDataCollection",
+    "filePath": "AtomicTech\\DAL\\BetterAtmosphereTool.cfg"
+  },
+  {
+    "name": "DelawareISRUBay",
+    "filePath": "AtomicTech\\DAL\\CapsuledyneHabitats\\ATISRUBay.cfg"
+  },
+  {
+    "name": "RoanokeCommandCentre",
+    "filePath": "AtomicTech\\DAL\\CapsuledyneHabitats\\TaurusHitchhiker.cfg"
+  },
+  {
+    "name": "TohokuScienceBay",
+    "filePath": "AtomicTech\\DAL\\CapsuledyneHabitats\\TaurusScienceBay.cfg"
+  },
+  {
+    "name": "ATTaurusHitchhiker",
+    "filePath": "AtomicTech\\DAL\\HitchhikerInternal\\internal.cfg"
+  },
+  {
+    "name": "ATTaurusScience",
+    "filePath": "AtomicTech\\DAL\\LabInternal\\internal.cfg"
+  },
+  {
+    "name": "MK1ScienceCabin",
+    "filePath": "AtomicTech\\DAL\\mk1CCScience.cfg"
+  },
+  {
+    "name": "Nuzketz_33",
+    "filePath": "AtomicTech\\EPL\\AtomicTechNK33Var\\NK33.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\EPL\\AtomicTechNK33Var\\NK33_SWF.cfg"
+  },
+  {
+    "name": "AT_Porkier",
+    "filePath": "AtomicTech\\EPL\\CR8_Rapier\\AEOLA.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "AtomicTech\\EPL\\CR8_Rapier\\AEOLA_SWF.cfg"
+  },
+  {
+    "name": "JetEngineElectro",
+    "filePath": "AtomicTech\\EPL\\ElectroJet.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\EPL\\liquidEngine2Classic\\Bebop_SWF.cfg"
+  },
+  {
+    "name": "LVT20",
+    "filePath": "AtomicTech\\EPL\\liquidEngine2Classic\\liquidEngine2Classic.cfg"
+  },
+  {
+    "name": "LVT10",
+    "filePath": "AtomicTech\\EPL\\liquidEngineClassic\\liquidEngineClassic.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\EPL\\liquidEngineClassic\\Rocksteady_SWF.cfg"
+  },
+  {
+    "name": "ME100V",
+    "filePath": "AtomicTech\\EPL\\MoarEngines\\engine100v.cfg"
+  },
+  {
+    "name": "ME200V",
+    "filePath": "AtomicTech\\EPL\\MoarEngines\\engine200v.cfg"
+  },
+  {
+    "name": "ME400",
+    "filePath": "AtomicTech\\EPL\\MoarEngines\\engine400.cfg"
+  },
+  {
+    "name": "ME400V",
+    "filePath": "AtomicTech\\EPL\\MoarEngines\\engine400v.cfg"
+  },
+  {
+    "name": "ME800",
+    "filePath": "AtomicTech\\EPL\\MoarEngines\\engine800.cfg"
+  },
+  {
+    "name": "ME800V",
+    "filePath": "AtomicTech\\EPL\\MoarEngines\\engine800v.cfg"
+  },
+  {
+    "name": "ATKER-HI",
+    "filePath": "AtomicTech\\KerbolarExplorationRegiment\\ATKER-HI.cfg"
+  },
+  {
+    "name": "ATKER-HIV",
+    "filePath": "AtomicTech\\KerbolarExplorationRegiment\\ATKER-HIV.cfg"
+  },
+  {
+    "name": "ATKER-V",
+    "filePath": "AtomicTech\\KerbolarExplorationRegiment\\ATKER-HV.cfg"
+  },
+  {
+    "name": "ATKER-HII",
+    "filePath": "AtomicTech\\KerbolarExplorationRegiment\\ATKER-II.cfg"
+  },
+  {
+    "name": "ATKER-HIII",
+    "filePath": "AtomicTech\\KerbolarExplorationRegiment\\ATKER-III.cfg"
+  },
+  {
+    "name": "BigKassMotor",
+    "filePath": "AtomicTech\\MISC\\BigKassSRB.cfg"
+  },
+  {
+    "name": "AtomicTech",
+    "filePath": "AtomicTech\\MISC\\KerbalizedNames\\AtomicTechKerbalizedNames.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "AtomicTech\\MISC\\stockishConfigs\\fuelHog.cfg"
+  },
+  {
+    "name": "ElectricCharge",
+    "filePath": "AtomicTech\\MISC\\stockishConfigs\\illectroEmergency.cfg"
+  },
+  {
+    "name": "TiangongTransciever",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_Antenna\\Antenna.cfg"
+  },
+  {
+    "name": "TiangongCommandModule",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_Command\\Command.cfg"
+  },
+  {
+    "name": "TiangongCrewModule",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_crew\\crew.cfg"
+  },
+  {
+    "name": "TiangongDockingPort",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_dockingPort\\dockingPort.cfg"
+  },
+  {
+    "name": "WinterFrost",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_Engine\\Engine.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_rcs\\GoldenBreezeRCS.cfg"
+  },
+  {
+    "name": "TiangongRCS",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_rcs\\TG_rcs.cfg"
+  },
+  {
+    "name": "TiangongSolarPanels",
+    "filePath": "AtomicTech\\MISC\\TiangongPartsRedux\\TG_SolarPanels\\SolarPanels.cfg"
+  },
+  {
+    "name": "airIon",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\aeroDawn.cfg"
+  },
+  {
+    "name": "smallAirTank",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\intakeAirTank.cfg"
+  },
+  {
+    "name": "nitroTankMini",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\miniNitroTank.cfg"
+  },
+  {
+    "name": "nitroVerner",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\nitroVernor.cfg"
+  },
+  {
+    "name": "LiqN",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\SecretLN2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\SWF_AeroDawn_Patch.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\SWF_RCS.cfg"
+  },
+  {
+    "name": "xenonTankAT",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\xenonTank_1p5.cfg"
+  },
+  {
+    "name": "LiqN",
+    "filePath": "AtomicTech\\MISC\\xenonOTron\\xenon_O_Tron.cfg"
+  },
+  {
+    "name": "SolarVAD375",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\Parts\\VXS100\\VAD375Orbital.cfg"
+  },
+  {
+    "name": "ThermalVAD375",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\Parts\\VXS100\\VAD375Orbital2.cfg"
+  },
+  {
+    "name": "ConductionUnit",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\PatchedParts\\ConductionUnit.cfg"
+  },
+  {
+    "name": "heatCollector",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\PatchedParts\\HeatCollector.cfg"
+  },
+  {
+    "name": "HeaterUnit",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\PatchedParts\\HeaterUnit.cfg"
+  },
+  {
+    "name": "solarFrame",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\PatchedParts\\SolarFrame.cfg"
+  },
+  {
+    "name": "HotLiquidFuel",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\Resources\\HotLiquidFuel.cfg"
+  },
+  {
+    "name": "HotWater",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\Resources\\HotWater.cfg"
+  },
+  {
+    "name": "ThermalEnergy",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\Resources\\ThermalEnergy.cfg"
+  },
+  {
+    "name": "WarmLiquidFuel",
+    "filePath": "AtomicTech\\MOTHS_Thermal\\Resources\\WarmLiquidFuel.cfg"
+  },
+  {
+    "name": "LKO-Medical-125",
+    "filePath": "AtomicTech\\RadioactiveRemedials\\Med125.cfg"
+  },
+  {
+    "name": "MedSupp",
+    "filePath": "AtomicTech\\RadioactiveRemedials\\RRLLC-Resources.cfg"
+  },
+  {
+    "name": "LKO-Sphere-125",
+    "filePath": "AtomicTech\\RadioactiveRemedials\\Sphere125.cfg"
+  },
+  {
+    "name": "LKO-Vitamin-125",
+    "filePath": "AtomicTech\\RadioactiveRemedials\\Vitam125.cfg"
+  },
+  {
+    "name": "barkerBeaconJr",
+    "filePath": "AtomicTech\\TREL\\BKN\\BKN.cfg"
+  },
+  {
+    "name": "barkerBeaconSr",
+    "filePath": "AtomicTech\\TREL\\BKN\\BKNBeeg.cfg"
+  },
+  {
+    "name": "taurusNuclearEngineAT",
+    "filePath": "AtomicTech\\TREL\\CapsuledyneNuke\\taurusNuclearEngine.cfg"
+  },
+  {
+    "name": "babyPluto",
+    "filePath": "AtomicTech\\TREL\\KANDL\\KANDL.cfg"
+  },
+  {
+    "name": "brotherPluto",
+    "filePath": "AtomicTech\\TREL\\KANDL\\KANDL_Sr.cfg"
+  },
+  {
+    "name": "NERVO_Kryptonite",
+    "filePath": "AtomicTech\\TREL\\KANDL\\NERVO_Kr.cfg"
+  },
+  {
+    "name": "nukeLANTR",
+    "filePath": "AtomicTech\\TREL\\LANTR\\LANTR.cfg"
+  },
+  {
+    "name": "ATTREL_LV2N",
+    "filePath": "AtomicTech\\TREL\\LVN_Clusters\\LV2N.cfg"
+  },
+  {
+    "name": "ATTREL_LV4N",
+    "filePath": "AtomicTech\\TREL\\LVN_Clusters\\LV4N.cfg"
+  },
+  {
+    "name": "GigachadNuke",
+    "filePath": "AtomicTech\\TREL\\MainsailNuke\\GIGACHAD.cfg"
+  },
+  {
+    "name": "mainsailNuke",
+    "filePath": "AtomicTech\\TREL\\MainsailNuke\\liquidEngineMainsailClassic.cfg"
+  },
+  {
+    "name": "ATnukeClassic",
+    "filePath": "AtomicTech\\TREL\\NervLVN.cfg"
+  },
+  {
+    "name": "KE-01",
+    "filePath": "AtomicTech\\TREL\\ReactorShop\\KE-01\\block.cfg"
+  },
+  {
+    "name": "KE-02",
+    "filePath": "AtomicTech\\TREL\\ReactorShop\\KE-01\\fridge.cfg"
+  },
+  {
+    "name": "KluAT",
+    "filePath": "AtomicTech\\TREL\\ReactorShop\\Klutonium.cfg"
+  },
+  {
+    "name": "KluAT",
+    "filePath": "AtomicTech\\TREL\\ReactorShop\\StockDrill.cfg"
+  },
+  {
+    "name": "NERVO_XE",
+    "filePath": "AtomicTech\\TREL\\RLA_Nerv\\NERVO_XE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\GIGACHAD_SWF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\KANDL_Sr_WF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\KANDL_WF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\LANTR_WF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\LBULB_Reg_WF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\LBULB_Smol_WF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\LV2N_SWF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\LV4N_SWF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\MainsailNuke_SWF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\NERVO_KE_WF.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "AtomicTech\\TREL\\WaterfallEffects\\NERVO_Kr_WF.cfg"
+  },
+  {
+    "name": "GlowSticky",
+    "filePath": "AtomicTech\\Unjunking\\SolidFuelCellRedux\\GlowSticky.cfg"
+  },
+  {
+    "name": "SRBCellRedux",
+    "filePath": "AtomicTech\\Unjunking\\SolidFuelCellRedux\\Krispy.cfg"
+  },
+  {
+    "name": "SRBCellReduxBig",
+    "filePath": "AtomicTech\\Unjunking\\SolidFuelCellRedux\\Krunchy.cfg"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "CONTARES-LEM",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "C-BOLA_S1",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\C-BOLA\\C-BOLA_S1.cfg"
+  },
+  {
+    "name": "C-BOLA_S2",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\C-BOLA\\C-BOLA_S2.cfg"
+  },
+  {
+    "name": "C22Lander",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\C22LanderCan\\C22Lander.cfg"
+  },
+  {
+    "name": "CandyBox",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\CandyBox\\CandyBox.cfg"
+  },
+  {
+    "name": "CEL-CABINE",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\CELOMEI\\CEL-CABINE.cfg"
+  },
+  {
+    "name": "CEL-DECU",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\CELOMEI\\CEL-DECU.cfg"
+  },
+  {
+    "name": "CEL-DESASC",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\CELOMEI\\CEL-DESASC.cfg"
+  },
+  {
+    "name": "CEL-LANDER",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\CELOMEI\\CEL-LANDER.cfg"
+  },
+  {
+    "name": "CLS1K",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\CLSK\\CLS1K.cfg"
+  },
+  {
+    "name": "DLMS_C",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\DLMS_C\\DLMS_C.cfg"
+  },
+  {
+    "name": "KOMPAKTLANDER-2",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\DUNA\\KOMPAKTLANDER-2.cfg"
+  },
+  {
+    "name": "KL1875_ENGINE",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\KL1875_LM\\KL1875_ENGINE.cfg"
+  },
+  {
+    "name": "KL1875_LADDER_csa",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\KL1875_LM\\KL1875_LADDER.cfg"
+  },
+  {
+    "name": "KL1875_LEG",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\KL1875_LM\\KL1875_LEG.cfg"
+  },
+  {
+    "name": "KL1875_LM",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\KL1875_LM\\KL1875_LM.cfg"
+  },
+  {
+    "name": "KL1875_SM_csa",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\KL1875_LM\\KL1875_SM.cfg"
+  },
+  {
+    "name": "KL1875_TANK",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Parts\\KL1875_LM\\KL1875_TANK.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Patches\\Contares_LEM_KIS.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Patches\\Contares_LEM_plume.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Patches\\Contares_LEM_TACLS.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "BOLA-S1_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\BOLA-S1_Crew_A\\BOLA-S1_Crew_A.cfg"
+  },
+  {
+    "name": "BOLA-S2_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\BOLA-S2_Crew_A\\BOLA-S2_Crew_A.cfg"
+  },
+  {
+    "name": "C22Lander_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\C22Lander_Crew_A\\C22Lander_Crew_A.cfg"
+  },
+  {
+    "name": "CEL-CABINE_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\CEL-CABINE_Crew_A\\CEL-CABINE_Crew_A.cfg"
+  },
+  {
+    "name": "CLS1K_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\CLS1K_Crew_A\\CLS1K_Crew_A.cfg"
+  },
+  {
+    "name": "DUNA_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\DUNA_Crew_A\\DUNA_Crew_A.cfg"
+  },
+  {
+    "name": "KL1875_LM_Crew_A",
+    "filePath": "CSA_Contares_LEM\\GameData\\Contares_LEM\\Spaces\\KL1875_LM_Crew_A\\KL1875_LM_Crew_A.cfg"
+  }
+]

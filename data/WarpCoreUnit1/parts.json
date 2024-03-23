@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Dilithium Crystal",
+    "filePath": "WarpCoreUnit1\\Resources.cfg"
+  },
+  {
+    "name": "WarpCoreUnit1",
+    "filePath": "WarpCoreUnit1\\WarpCoreUnit1.cfg"
+  }
+]

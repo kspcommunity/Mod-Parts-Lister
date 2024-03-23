@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Ariane",
+    "filePath": "TestingPlanet\\config\\Ariane.cfg"
+  },
+  {
+    "name": "Neelo",
+    "filePath": "TestingPlanet\\config\\Neelo.cfg"
+  }
+]

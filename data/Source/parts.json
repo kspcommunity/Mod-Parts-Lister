@@ -1,5 +1,85 @@
 [
   {
+    "name": "ModuleAlternatorReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Alternator.cfg"
+  },
+  {
+    "name": "ModuleBatteryReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Battery.cfg"
+  },
+  {
+    "name": "ModuleControlSurfaceReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\ControlSurface.cfg"
+  },
+  {
+    "name": "ModuleCoolantReliabilityCore",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Coolant.cfg"
+  },
+  {
+    "name": "ModuleEngineReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Engines.cfg"
+  },
+  {
+    "name": "ModuleEngineReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Engines_ion.cfg"
+  },
+  {
+    "name": "ModuleEngineReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Engines_jet.cfg"
+  },
+  {
+    "name": "ModuleGimbalReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Gimbal.cfg"
+  },
+  {
+    "name": "ModuleReliabilityInfo",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Information.cfg"
+  },
+  {
+    "name": "InspectionModule",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Inspection.cfg"
+  },
+  {
+    "name": "ModuleIntakeReliabilityCore",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Intakes.cfg"
+  },
+  {
+    "name": "ModuleLightsReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Lights.cfg"
+  },
+  {
+    "name": "ModuleRCSReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\RCS.cfg"
+  },
+  {
+    "name": "ModuleReactionWheelReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\ReactionWheel.cfg"
+  },
+  {
+    "name": "SpareParts",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\SpareParts.cfg"
+  },
+  {
+    "name": "ModuleTankReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\Tanks.cfg"
+  },
+  {
+    "name": "ModuleWheelMotorReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\WheelMotor.cfg"
+  },
+  {
+    "name": "ModuleWheelTireReliability",
+    "filePath": "Source\\DangIt\\Data\\ModuleManager\\WheelTire.cfg"
+  },
+  {
+    "name": "RadialBay",
+    "filePath": "Source\\DangIt\\Data\\Parts\\RadialBay\\part.cfg"
+  },
+  {
+    "name": "ModuleFARControlSurfaceReliability",
+    "filePath": "Source\\DangIt_FAR\\FARControlSurface.cfg"
+  },
+  {
     "name": "KModuleAnimateAirSpeed",
     "filePath": "Source\\KineTechAnimation\\Documentation\\KModuleAnimateAirSpeed.cfg"
   },

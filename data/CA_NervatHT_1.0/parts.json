@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Coatl Aerospace",
+    "filePath": "CA_NervatHT_1.0\\GameData\\Coatl Aerospace\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "CA_NervatHT_1.0\\GameData\\Coatl Aerospace\\Compatibility\\nervaht-RealPlume-by-VenomousRequiem.cfg"
+  },
+  {
+    "name": "nuclearHTEngine",
+    "filePath": "CA_NervatHT_1.0\\GameData\\Coatl Aerospace\\NERVA HT\\nuclearHT.cfg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "MSKWinglet",
+    "filePath": "KermanshahRocketry\\Parts\\Aero\\Winglet.cfg"
+  },
+  {
+    "name": "MSKBiologicalSample",
+    "filePath": "KermanshahRocketry\\Parts\\Command\\BiologicalSample\\BiologicalSample.cfg"
+  },
+  {
+    "name": "OmidCore",
+    "filePath": "KermanshahRocketry\\Parts\\Command\\Omid\\Omid.cfg"
+  },
+  {
+    "name": "MSK010",
+    "filePath": "KermanshahRocketry\\Parts\\Coupling\\MSK010\\MSK010.cfg"
+  },
+  {
+    "name": "MSKR27Engine",
+    "filePath": "KermanshahRocketry\\Parts\\Engines\\R27\\R27.cfg"
+  },
+  {
+    "name": "MSKS3Engine",
+    "filePath": "KermanshahRocketry\\Parts\\Engines\\S3\\S3.cfg"
+  },
+  {
+    "name": "MSK020",
+    "filePath": "KermanshahRocketry\\Parts\\FuelTanks\\MSK020\\MSK020.cfg"
+  },
+  {
+    "name": "MSK030",
+    "filePath": "KermanshahRocketry\\Parts\\FuelTanks\\MSK030\\MSK030.cfg"
+  },
+  {
+    "name": "MSK070",
+    "filePath": "KermanshahRocketry\\Parts\\FuelTanks\\MSK070\\MSK070.cfg"
+  },
+  {
+    "name": "MSK130",
+    "filePath": "KermanshahRocketry\\Parts\\FuelTanks\\MSK130\\MSK130.cfg"
+  },
+  {
+    "name": "MSKFairing",
+    "filePath": "KermanshahRocketry\\Parts\\Payload\\FairingBase\\FairingBase.cfg"
+  }
+]

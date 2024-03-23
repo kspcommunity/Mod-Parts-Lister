@@ -1,0 +1,222 @@
+[
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "ENERGIA\\For RSS\\RealismOverhaul-11.4.0\\GameData\\RealismOverhaul\\RO_SuggestedMods\\Alcentar_Energia\\ENERGIA.cfg"
+  },
+  {
+    "name": "Hydrolox-Lower",
+    "filePath": "ENERGIA\\For RSS\\RealismOverhaul-11.4.0\\GameData\\RealismOverhaul\\RO_SuggestedMods\\Alcentar_Energia\\RD0120.cfg"
+  },
+  {
+    "name": "Kerolox-Lower",
+    "filePath": "ENERGIA\\For RSS\\RealismOverhaul-11.4.0\\GameData\\RealismOverhaul\\RO_SuggestedMods\\Alcentar_Energia\\rd170engine.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "ENERGIA\\For RSS\\RealismOverhaul-11.4.0\\GameData\\RealismOverhaul\\RO_SuggestedMods\\Alcentar_Energia\\UpperStage.cfg"
+  },
+  {
+    "name": "BURAN_T",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Buran_T\\Buran_T.cfg"
+  },
+  {
+    "name": "105t_TESTING",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\105t.cfg"
+  },
+  {
+    "name": "Block_Z",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\BlockZ.cfg"
+  },
+  {
+    "name": "Energia_Central_Power_Units",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Central_Power_Units.cfg"
+  },
+  {
+    "name": "Energia_Central_Power_Units_Polyus",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Central_Power_Units_Polyus.cfg"
+  },
+  {
+    "name": "Energia_First_Stage",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\First_Stage.cfg"
+  },
+  {
+    "name": "LAUNCH_PAD",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\LAUNCH_PAD.cfg"
+  },
+  {
+    "name": "Energia_Left_Power_Units1",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Left_Power_Units.cfg"
+  },
+  {
+    "name": "Energia_RDTT1",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\RDTT1.cfg"
+  },
+  {
+    "name": "Energia_RDTT2",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\RDTT2.cfg"
+  },
+  {
+    "name": "Energia_RDTT3_left_Variant",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\RDTT3L.cfg"
+  },
+  {
+    "name": "Energia_RDTT3_right_Variant",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\RDTT3R.cfg"
+  },
+  {
+    "name": "Energia_RDTT4",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\RDTT4.cfg"
+  },
+  {
+    "name": "Energia_Right_Power_Units1",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Right_Power_Units.cfg"
+  },
+  {
+    "name": "EnergiaLH2Tank",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Second_StageLH2.cfg"
+  },
+  {
+    "name": "EnergiaLH2Tank6SL",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Second_StageLH2_6SL.cfg"
+  },
+  {
+    "name": "EnergiaLOXTank",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Second_StageLOX.cfg"
+  },
+  {
+    "name": "EnergiaLOXTank6SL",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Second_StageLOX_6SL.cfg"
+  },
+  {
+    "name": "Energia_Side_Power_Units",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Energia_Program\\Side_Power_Units.cfg"
+  },
+  {
+    "name": "dockingPort_Polyus",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\POLYUS\\dockingPort.cfg"
+  },
+  {
+    "name": "FGB_Polyus",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\POLYUS\\FGB.cfg"
+  },
+  {
+    "name": "POLYUS_FAIRING",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\POLYUS\\POLYUS_FAIRING.cfg"
+  },
+  {
+    "name": "POLYUS_SKIF_17F19DM",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\POLYUS\\POLYUS_SKIF_17F19DM.cfg"
+  },
+  {
+    "name": "FGB_SolarPanel",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\POLYUS\\POLYUS_SolarPanel.cfg"
+  },
+  {
+    "name": "Adapter_DM_BuranT",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_DMBT.cfg"
+  },
+  {
+    "name": "Adapter_DMDM",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_DMDM.cfg"
+  },
+  {
+    "name": "Adapter_DM_Smerch",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_DMSM.cfg"
+  },
+  {
+    "name": "Adapter_PlayloadDM",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_PlayloadDM.cfg"
+  },
+  {
+    "name": "Adapter_PlayloadDM2",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_PlayloadDM2.cfg"
+  },
+  {
+    "name": "Adapter_Smerch_DM",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_SMDM.cfg"
+  },
+  {
+    "name": "Adapter_SMPL",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\Adpt_SMPL.cfg"
+  },
+  {
+    "name": "DM2",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\DM.cfg"
+  },
+  {
+    "name": "SMERCH",
+    "filePath": "ENERGIA\\GameData\\Alcentar_Add-ons\\Upper_Stages\\SMERCH.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "ENERGIA\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "ModuleAnalysisResource",
+    "filePath": "ENERGIA\\GameData\\CommunityResourcePack\\AsteroidScannerSetup.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "ENERGIA\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "BURAN_BODY_FLAP",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_BODYFLAP.cfg"
+  },
+  {
+    "name": "BURAN_CABINE",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_CREW.cfg"
+  },
+  {
+    "name": "BURAN_ENGINE_MOUT",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_ENGINE_MOUT.cfg"
+  },
+  {
+    "name": "BURAN_ELEVON_L",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_EVELON_L.cfg"
+  },
+  {
+    "name": "BURAN_ELEVON_R",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_EVELON_R.cfg"
+  },
+  {
+    "name": "BURAN_FUSELASE",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_FUSELASE.cfg"
+  },
+  {
+    "name": "Buran_Tail",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_TAIL.cfg"
+  },
+  {
+    "name": "Buran_Tail_Control",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_TAIL_CONTROL.cfg"
+  },
+  {
+    "name": "BURAN_WING_L",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_WL.cfg"
+  },
+  {
+    "name": "BURAN_WING_R",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\BURAN_WR.cfg"
+  },
+  {
+    "name": "Buran_cockpit",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\INTERNAL\\internal_STOCK.cfg"
+  },
+  {
+    "name": "Energia2_Parashute",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\BURAN\\PARASHUTE.cfg"
+  },
+  {
+    "name": "Buran_BASE_DOCKINGPORT",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\DOCK_PORT2\\Base_DockPort.cfg"
+  },
+  {
+    "name": "Buran_DOCKING_PORT",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\DOCK_PORT2\\DockPort.cfg"
+  },
+  {
+    "name": "BURANFrontGear",
+    "filePath": "ENERGIA\\GameData\\DECQ_ENERGIA\\Gear\\GearFront.cfg"
+  }
+]

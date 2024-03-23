@@ -1,0 +1,62 @@
+[
+  {
+    "name": "radialGyro",
+    "filePath": "mousesmods\\Parts\\Command\\radialGyro\\radialGyro.cfg"
+  },
+  {
+    "name": "emdrivemk1",
+    "filePath": "mousesmods\\Parts\\Engines\\EmDrive.cfg"
+  },
+  {
+    "name": "emdrivemk2",
+    "filePath": "mousesmods\\Parts\\Engines\\EmDrive100kw.cfg"
+  },
+  {
+    "name": "EMRCS",
+    "filePath": "mousesmods\\Parts\\Engines\\emRCS.cfg"
+  },
+  {
+    "name": "ffmr",
+    "filePath": "mousesmods\\Parts\\Engines\\ffrtest.cfg"
+  },
+  {
+    "name": "mvpulsejet",
+    "filePath": "mousesmods\\Parts\\Engines\\mVpulsejet.cfg"
+  },
+  {
+    "name": "vpulsejet",
+    "filePath": "mousesmods\\Parts\\Engines\\Vpulsejet.cfg"
+  },
+  {
+    "name": "8pcring",
+    "filePath": "mousesmods\\Parts\\Structural\\ringrace8.cfg"
+  },
+  {
+    "name": "Size3conftank",
+    "filePath": "mousesmods\\Parts\\Tanks\\conf325tank.cfg"
+  },
+  {
+    "name": "Size3conftankcap",
+    "filePath": "mousesmods\\Parts\\Tanks\\conf325tankccap.cfg"
+  },
+  {
+    "name": "Size3conftankthru",
+    "filePath": "mousesmods\\Parts\\Tanks\\conf325tankTHRU.cfg"
+  },
+  {
+    "name": "325centrifuge",
+    "filePath": "mousesmods\\Parts\\Utility\\325centrifuge\\mousecentrifuge.cfg"
+  },
+  {
+    "name": "325centrifugep",
+    "filePath": "mousesmods\\Parts\\Utility\\325centrifuge\\mousecentrifugep.cfg"
+  },
+  {
+    "name": "phatch",
+    "filePath": "mousesmods\\Parts\\Utility\\325centrifuge\\phatch.cfg"
+  },
+  {
+    "name": "EMphotons",
+    "filePath": "mousesmods\\Resources.cfg"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Trails Manufacturing Incorporated",
+    "filePath": "TRAILSplus\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "TRAILSplus\\Compatibility\\RealPlumes\\BDB_TitanII_LR87.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "TRAILSplus\\Compatibility\\RealPlumes\\BDB_TitanII_LR91.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "TRAILSplus\\Compatibility\\RealPlumes\\BDB_Titan_AJ10.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "TRAILSplus\\Compatibility\\RealPlumes\\BDB_Titan_SRB5.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "TRAILSplus\\Compatibility\\RealPlumes\\MM_RealPlume-GeminiLES.cfg"
+  },
+  {
+    "name": "trails_dockingPort",
+    "filePath": "TRAILSplus\\Parts\\Agena\\DockingPortAgena.cfg"
+  },
+  {
+    "name": "trails_LR87_mod2",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_LR87_mod2.cfg"
+  },
+  {
+    "name": "trails_LR91_mod2",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_LR91_mod2.cfg"
+  },
+  {
+    "name": "trails_Titan2_1875mDecoupler",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan2_1875mDecoupler.cfg"
+  },
+  {
+    "name": "trails_Titan2_FuelTank1",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan2_FuelTank1.cfg"
+  },
+  {
+    "name": "trails_Titan2_FuelTank2",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan2_FuelTank2.cfg"
+  },
+  {
+    "name": "trails_Titan2_FuelTank3",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan2_FuelTank3.cfg"
+  },
+  {
+    "name": "trails_Titan2_FuelTank4",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan2_FuelTank4.cfg"
+  },
+  {
+    "name": "trails_Titan_SRB5seg",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan_SRB5seg.cfg"
+  },
+  {
+    "name": "trails_Titan_TranstageEngine",
+    "filePath": "TRAILSplus\\Parts\\BDB-Transplants\\bluedog_Titan_TranstageEngine.cfg"
+  },
+  {
+    "name": "Janus_Crew_A",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Crew_A.cfg"
+  },
+  {
+    "name": "Janus_Crew_B",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Crew_B.cfg"
+  },
+  {
+    "name": "Janus_Heatshield_B",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Heatshield_B.cfg"
+  },
+  {
+    "name": "JanusLES",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_LES.cfg"
+  },
+  {
+    "name": "Janus_Parachute_A",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Parachute_A.cfg"
+  },
+  {
+    "name": "Janus_Port_A",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Port_A.cfg"
+  },
+  {
+    "name": "Janus_RCS_A",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_RCS_A.cfg"
+  },
+  {
+    "name": "Janus_RCS_B",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_RCS_B.cfg"
+  },
+  {
+    "name": "Janus_Service_A",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Service_A.cfg"
+  },
+  {
+    "name": "Janus_Structure_A",
+    "filePath": "TRAILSplus\\Parts\\Gemini\\_Gemini_Structure_A.cfg"
+  },
+  {
+    "name": "stackSeparator15",
+    "filePath": "TRAILSplus\\Parts\\Stock-Resized\\decouplerSeparatorTR-15.cfg"
+  },
+  {
+    "name": "stackSeparator1875",
+    "filePath": "TRAILSplus\\Parts\\Stock-Resized\\decouplerSeparatorTR-1875.cfg"
+  },
+  {
+    "name": "fairingSize1-5",
+    "filePath": "TRAILSplus\\Parts\\Stock-Resized\\fairingSize1.5.cfg"
+  },
+  {
+    "name": "BDB_SRBNoseCone",
+    "filePath": "TRAILSplus\\Parts\\Stock-Resized\\SRBNose.cfg"
+  },
+  {
+    "name": "HeatShieldG",
+    "filePath": "TRAILSplus\\Parts\\Stock-Resized\\_Gemini_HeatShield_A.cfg"
+  },
+  {
+    "name": "Trails_Structure_A",
+    "filePath": "TRAILSplus\\Parts\\TantaresTransplants\\TKS\\Gemini_Structure_A.cfg"
+  },
+  {
+    "name": "Trails_Structure_B",
+    "filePath": "TRAILSplus\\Parts\\TantaresTransplants\\TKS\\Gemini_Structure_B.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "TRAILSplus\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "McDonnell_FlightSeat_Passenger",
+    "filePath": "TRAILSplus\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "McDonnell_FlightSeat_Piloted",
+    "filePath": "TRAILSplus\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "RoundHatch",
+    "filePath": "TRAILSplus\\Props\\Hatch\\Hatch_prop.cfg"
+  },
+  {
+    "name": "MonitorGeneric1",
+    "filePath": "TRAILSplus\\Props\\Monitor\\Monitor1.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "TRAILSplus\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "Crew_Gemini_A_Interior",
+    "filePath": "TRAILSplus\\Spaces\\Gemini_Crew_A_Interior.cfg"
+  },
+  {
+    "name": "Crew_Gemini_B_Interior",
+    "filePath": "TRAILSplus\\Spaces\\Gemini_Crew_B_Interior.cfg"
+  }
+]

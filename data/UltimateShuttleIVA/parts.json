@@ -1,0 +1,90 @@
+[
+  {
+    "name": "MAS_pb_empty",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS-emptybutton.cfg"
+  },
+  {
+    "name": "MAS_swRotary_Empty",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS-emptyrotary.cfg"
+  },
+  {
+    "name": "MAS_toggle_empty",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS-EMPTYSWTICH.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_R7_Camera",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Camera.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_E_Docking",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Docking.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_R2_Engine",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Engine.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_A_Launch",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Launch.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_C_Maneuver",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Maneuver.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_OFF",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Off.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_B_Orbit",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Orbit.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_D_Rendezvous",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Rendezvous.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_R1_Resource",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Resource.cfg"
+  },
+  {
+    "name": "MAS_ALCOR_CRT_Standby",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT1\\MAS_CRT_Standby.cfg"
+  },
+  {
+    "name": "RETRO_CRT",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\CRT_ColorDef.cfg"
+  },
+  {
+    "name": "MAS_CRT_Display",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_CRT_Display\\MAS_CRT_Display.cfg"
+  },
+  {
+    "name": "MAS_IP5x3_Status",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_IP5x3_Shuttle.cfg"
+  },
+  {
+    "name": "MAS_SmallPlate_Apsis",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_SmallPlate_Apsis.cfg"
+  },
+  {
+    "name": "MAS_SmallPlate_Orbit",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_SmallPlate_Orbit.cfg"
+  },
+  {
+    "name": "MAS_SmallPlate_Time",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_SmallPlate_Time.cfg"
+  },
+  {
+    "name": "MAS_toggle_FDAI2_Power_T2_G2_B2_S",
+    "filePath": "UltimateShuttleIVA\\Props\\MAS_toggle_FDAI2_Power_G.cfg"
+  },
+  {
+    "name": "Modern_Shuttle_IVA",
+    "filePath": "UltimateShuttleIVA\\Spaces\\Modern_Shuttle_IVA.cfg"
+  },
+  {
+    "name": "Retro_Shuttle_IVA",
+    "filePath": "UltimateShuttleIVA\\Spaces\\Retro_Shuttle_IVA.cfg"
+  }
+]

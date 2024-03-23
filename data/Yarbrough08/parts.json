@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mk1-1A2",
+    "filePath": "Yarbrough08\\Parts\\Mk1-1A2\\Mk1-1A2CommandPod.cfg"
+  },
+  {
+    "name": "2CPinternal",
+    "filePath": "Yarbrough08\\Parts\\Mk1-1A2\\Mk1-1A2Internal.cfg"
+  },
+  {
+    "name": "Mk1-1A2 HS",
+    "filePath": "Yarbrough08\\Parts\\Mk1-1A2\\Mk1-1A2_CP_HeatShield.cfg"
+  },
+  {
+    "name": "BuildEngineer",
+    "filePath": "Yarbrough08\\Parts\\Mk1-1A2\\Mk1-1A2_MechJebAndEngineer_MM.cfg"
+  },
+  {
+    "name": "PostIt",
+    "filePath": "Yarbrough08\\Props\\PostIt\\PostIt.cfg"
+  }
+]

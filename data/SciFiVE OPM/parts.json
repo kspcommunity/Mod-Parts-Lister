@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tekto-Atmo",
+    "filePath": "SciFiVE OPM\\Best Visuals\\Step 3\\ScifiVisualEnhancements\\Atmosphere\\OPM atmo.cfg"
+  },
+  {
+    "name": "Sarnus-Low",
+    "filePath": "SciFiVE OPM\\Best Visuals\\Step 3\\ScifiVisualEnhancements\\Atmosphere\\OPM clouds.cfg"
+  },
+  {
+    "name": "Thatmo-Surface-Dust",
+    "filePath": "SciFiVE OPM\\Best Visuals\\Step 3\\ScifiVisualEnhancements\\Atmosphere\\OPM dust.cfg"
+  },
+  {
+    "name": "Hale-Glow",
+    "filePath": "SciFiVE OPM\\Best Visuals\\Step 3\\ScifiVisualEnhancements\\Atmosphere\\OPM glow.cfg"
+  },
+  {
+    "name": "Tekto-Atmo",
+    "filePath": "SciFiVE OPM\\High Performance\\ScifiVisualEnhancements\\Atmosphere\\OPM atmo.cfg"
+  },
+  {
+    "name": "Sarnus-Low",
+    "filePath": "SciFiVE OPM\\High Performance\\ScifiVisualEnhancements\\Atmosphere\\OPM clouds.cfg"
+  },
+  {
+    "name": "Thatmo-Surface-Dust",
+    "filePath": "SciFiVE OPM\\High Performance\\ScifiVisualEnhancements\\Atmosphere\\OPM dust.cfg"
+  },
+  {
+    "name": "Hale-Glow",
+    "filePath": "SciFiVE OPM\\High Performance\\ScifiVisualEnhancements\\Atmosphere\\OPM glow.cfg"
+  },
+  {
+    "name": "Tekto-Atmo",
+    "filePath": "SciFiVE OPM\\More cloudlayers- recomended\\ScifiVisualEnhancements\\Atmosphere\\OPM atmo.cfg"
+  },
+  {
+    "name": "Sarnus-Low1",
+    "filePath": "SciFiVE OPM\\More cloudlayers- recomended\\ScifiVisualEnhancements\\Atmosphere\\OPM clouds.cfg"
+  },
+  {
+    "name": "Thatmo-Surface-Dust",
+    "filePath": "SciFiVE OPM\\More cloudlayers- recomended\\ScifiVisualEnhancements\\Atmosphere\\OPM dust.cfg"
+  },
+  {
+    "name": "Hale-Glow",
+    "filePath": "SciFiVE OPM\\More cloudlayers- recomended\\ScifiVisualEnhancements\\Atmosphere\\OPM glow.cfg"
+  }
+]

@@ -8,6 +8,54 @@
     "filePath": "RaptorAerospacial\\Ablator\\Heatshield67.cfg"
   },
   {
+    "name": "250adapTOR",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\250adapTOR.cfg"
+  },
+  {
+    "name": "330ablaTOR",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\330ablaTOR.cfg"
+  },
+  {
+    "name": "330separaTOR",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\330separaTOR.cfg"
+  },
+  {
+    "name": "375adapTOR",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\375adapTOR.cfg"
+  },
+  {
+    "name": "500adapTOR",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\500adapTOR.cfg"
+  },
+  {
+    "name": "CCPBatteryPack",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\CCPBatteryPack.cfg"
+  },
+  {
+    "name": "CCPGilly",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\CCPGilly.cfg"
+  },
+  {
+    "name": "CCPIke",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\CCPIke.cfg"
+  },
+  {
+    "name": "CCPMinmus",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\CCPMinmus.cfg"
+  },
+  {
+    "name": "CCPNoseCone",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\CCPNoseCone.cfg"
+  },
+  {
+    "name": "CCPRingSail",
+    "filePath": "RaptorAerospacial\\CommonCorePod\\CCPRingSail.cfg"
+  },
+  {
+    "name": "CCPIVA",
+    "filePath": "RaptorAerospacial\\Spaces\\CCPIVA\\CCPIVA.cfg"
+  },
+  {
     "name": "IVA_S100",
     "filePath": "RaptorAerospacial\\Spaces\\IVA_S100\\IVA_S100.cfg"
   },

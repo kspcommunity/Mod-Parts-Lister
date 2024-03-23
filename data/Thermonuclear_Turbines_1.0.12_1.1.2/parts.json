@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "ModuleAnalysisResource",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\CommunityResourcePack\\AsteroidScannerSetup.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "Eskandare Heavy Industries",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\Eskandare_Heavy_Industries\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "EHI_KUNAI",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\Eskandare_Heavy_Industries\\Thermonuclear\\Parts\\KUNAI\\kunai.cfg"
+  },
+  {
+    "name": "EHI_MASAMUNE",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\Eskandare_Heavy_Industries\\Thermonuclear\\Parts\\MASAMUNE\\masamune.cfg"
+  },
+  {
+    "name": "EHI_MURAMASA",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\Eskandare_Heavy_Industries\\Thermonuclear\\Parts\\MURAMASA\\MURAMASA.cfg"
+  },
+  {
+    "name": "EHI_NODACHI",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\Eskandare_Heavy_Industries\\Thermonuclear\\Parts\\NODACHI\\nodachi.cfg"
+  },
+  {
+    "name": "ModuleResourceIntake",
+    "filePath": "Thermonuclear_Turbines_1.0.12_1.1.2\\GameData\\Eskandare_Heavy_Industries\\Thermonuclear\\Patches\\ModuleManager_Thermal_Nuclear.cfg"
+  }
+]

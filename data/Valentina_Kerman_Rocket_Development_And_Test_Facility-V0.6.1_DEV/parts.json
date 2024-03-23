@@ -1,0 +1,550 @@
+[
+  {
+    "name": "GrasColorDemo",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\KKflagDemo\\AutoGrasDemo.cfg"
+  },
+  {
+    "name": "KKflagDemo",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\KKflagDemo\\KKflagDemo.cfg"
+  },
+  {
+    "name": "AdvTextureDemo",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\KKflagDemo\\TextureDemo.cfg"
+  },
+  {
+    "name": "kkaimpoint",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\aimpoint.cfg"
+  },
+  {
+    "name": "kkdisplacement",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\displacement.cfg"
+  },
+  {
+    "name": "kkfixed1500",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\fixed1500.cfg"
+  },
+  {
+    "name": "kkfixed500",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\fixed500.cfg"
+  },
+  {
+    "name": "kkkourseXX",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\kourseXX.cfg"
+  },
+  {
+    "name": "kkthreshold6",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\threshold6.cfg"
+  },
+  {
+    "name": "kkthreshold8",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\RunwayMarkings\\threshold8.cfg"
+  },
+  {
+    "name": "SoundCube",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\SoundCube\\SoundCube.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\UniversalSpawnPoint\\UniversalSpawnPoint.cfg"
+  },
+  {
+    "name": "KKSurfaceRound50x100",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\WaterSurfaces\\WaterSurfaceRound.cfg"
+  },
+  {
+    "name": "KKSurfaceSquare50x100",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\KerbalKonstructs\\FreeStatics\\WaterSurfaces\\WaterSurfaceSquare.cfg"
+  },
+  {
+    "name": "AdvancedTextures",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\OSS_MM_patch.cfg"
+  },
+  {
+    "name": "ControlTowerSmall",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Airport\\ControlTowerSmall\\ControlTowerSmall.cfg"
+  },
+  {
+    "name": "Heliport",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Airport\\Heliport\\Heliport.cfg"
+  },
+  {
+    "name": "LargeHangarsClosed",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Airport\\LargeHangarsClosed\\LargeHangarsClosed.cfg"
+  },
+  {
+    "name": "LargeHangarsOpen",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Airport\\LargeHangarsOpen\\LargeHangarsOpen.cfg"
+  },
+  {
+    "name": "SmallHangarsClosed",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Airport\\SmallHangarsClosed\\SmallHangarsClosed.cfg"
+  },
+  {
+    "name": "SmallHangarsOpen",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Airport\\SmallHangarsOpen\\SmallHangarsOpen.cfg"
+  },
+  {
+    "name": "S1Crawlerway208m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 208m\\S1Crawlerway208m.cfg"
+  },
+  {
+    "name": "S1Crawlerway416m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 416m\\S1Crawlerway416m.cfg"
+  },
+  {
+    "name": "S1Crawlerway52m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 52m\\S1Crawlerway52m.cfg"
+  },
+  {
+    "name": "S1Crawlerway84m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway 84m\\S1Crawlerway84m.cfg"
+  },
+  {
+    "name": "S1CrawlerwayCorner",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway Corner\\S1CrawlerwayCorner.cfg"
+  },
+  {
+    "name": "S1CrawlerwaySplitLeft",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway Split Left\\S1CrawlerwaySplitLeft.cfg"
+  },
+  {
+    "name": "S1CrawlerwaySplitRight",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size1\\S1 Crawlerway Split Right\\S1CrawlerwaySplitRight.cfg"
+  },
+  {
+    "name": "S2Crawlerway208m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 208m\\S2Crawlerway208m.cfg"
+  },
+  {
+    "name": "S2Crawlerway416m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 416m\\S2Crawlerway416m.cfg"
+  },
+  {
+    "name": "S2Crawlerway52m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 52m\\S2Crawlerway52m.cfg"
+  },
+  {
+    "name": "S2Crawlerway84m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway 84m\\S2Crawlerway84m.cfg"
+  },
+  {
+    "name": "S2CrawlerwayCorner",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 Crawlerway Corner\\S2CrawlerwayCorner.cfg"
+  },
+  {
+    "name": "S2CrawlerwaySplitLeft",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 CrawlerwaySplit Left\\S2CrawlerwaySplitLeft.cfg"
+  },
+  {
+    "name": "S2CrawlerwaySplitRight",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Crawlerway\\Size2\\S2 CrawlerwaySplit Right\\S2CrawlerwaySplitRight.cfg"
+  },
+  {
+    "name": "LandingZone1",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\LandingZones\\LandingZone1\\LandingZone1.cfg"
+  },
+  {
+    "name": "LandingZone2",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\LandingZones\\LandingZone2\\LandingZone2.cfg"
+  },
+  {
+    "name": "LandingZoneSmall",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\LandingZones\\LandingZoneSmall\\LandingZoneSmall.cfg"
+  },
+  {
+    "name": "AdministrationBuilding",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Large Tile\\AdministrationBuilding\\AdministrationBuilding.cfg"
+  },
+  {
+    "name": "PlumbrookResearchFacility",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Large Tile\\Plumbrook\\PlumbrookResearchFacility.cfg"
+  },
+  {
+    "name": "Tier4LaunchControlCentre",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Large Tile\\T4LCC\\Tier4LaunchControlCentre.cfg"
+  },
+  {
+    "name": "Tier4VerticalAssemblyBuilding",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Large Tile\\T4VAB\\Tier4VerticalAssemblyBuilding.cfg"
+  },
+  {
+    "name": "SMAB",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Medium+ Tile\\SMAB\\SMAB.cfg"
+  },
+  {
+    "name": "SMARF",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Medium+ Tile\\SMARF\\SMARF.cfg"
+  },
+  {
+    "name": "AtlasVIF",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\AtlasVIF\\AtlasVIF.cfg"
+  },
+  {
+    "name": "HorizontalIntegrationFacility",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Horizontal Integration Facility\\HorizontalIntegrationFacility.cfg"
+  },
+  {
+    "name": "observatory_complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Observatory complex\\Observatory complex.cfg"
+  },
+  {
+    "name": "Orbiter_Processing_Complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Orbiter Processing complex\\OrbiterProcessingComplex.cfg"
+  },
+  {
+    "name": "payload_intergration_complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Payload Intergration complex\\PayloadIntergrationcomplex.cfg"
+  },
+  {
+    "name": "radome_complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Radome complex\\Radomecomplex.cfg"
+  },
+  {
+    "name": "research_complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\Research complex\\Researchcomplex.cfg"
+  },
+  {
+    "name": "tracking_station_complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\TrackingStationComplex\\TrackingStationComplex.cfg"
+  },
+  {
+    "name": "transmitter_mast",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\MediumTile\\TransmitterMast\\TransmitterMast.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Misc\\UniversalSpawnPoint\\UniversalSpawnPoint.cfg"
+  },
+  {
+    "name": "Road208m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\208m\\Road208m.cfg"
+  },
+  {
+    "name": "Road416m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\416m\\Road416m.cfg"
+  },
+  {
+    "name": "Road52m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\52m\\Road52m.cfg"
+  },
+  {
+    "name": "Road84m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\84m\\Road84m.cfg"
+  },
+  {
+    "name": "RoadCorner",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadCorner\\RoadCorner.cfg"
+  },
+  {
+    "name": "RoadIntersection",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadIntersection\\RoadIntersection.cfg"
+  },
+  {
+    "name": "RoadTileAdapter",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadTileAdapter\\RoadTileAdapter.cfg"
+  },
+  {
+    "name": "RoadTJunction",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Roads\\RoadTJunction\\RoadTJunction.cfg"
+  },
+  {
+    "name": "Full_Dish_Complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\FullDishComplex\\FullDishComplex.cfg"
+  },
+  {
+    "name": "HexVehicleSpawn",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\HexVehicleSpawn\\HexVehicleSpawn.cfg"
+  },
+  {
+    "name": "Launch_Control_Centre",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\Launch Control Centre\\LaunchControlCentre.cfg"
+  },
+  {
+    "name": "Medium_Dish_Station",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\MediumDishComplex\\MediumDishComplex.cfg"
+  },
+  {
+    "name": "ObservatoryStandalone",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ObservatoryStandalone\\ObservatoryStandalone.cfg"
+  },
+  {
+    "name": "ResearchStationA",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationA\\ResearchStationA.cfg"
+  },
+  {
+    "name": "ResearchStationB",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationB\\ResearchStationB.cfg"
+  },
+  {
+    "name": "ResearchStationC",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationC\\ResearchStationC.cfg"
+  },
+  {
+    "name": "ResearchStationD",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationD\\ResearchStationD.cfg"
+  },
+  {
+    "name": "ResearchStationE",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationE\\ResearchStationE.cfg"
+  },
+  {
+    "name": "ResearchStationF",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationF\\ResearchStationF.cfg"
+  },
+  {
+    "name": "ResearchStationG",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\SmallTile\\ResearchStationG\\ResearchStationG.cfg"
+  },
+  {
+    "name": "CommDishStandaloneOutpost",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\CommDishStandaloneOutpost\\CommDishStandaloneOutpost.cfg"
+  },
+  {
+    "name": "fuel_depot_outpost",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\FuelDepotOutpost\\FuelDepotOutpost.cfg"
+  },
+  {
+    "name": "HelipadOutpost",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\HelipadOutpost\\HelipadOutpost.cfg"
+  },
+  {
+    "name": "MedVehicleSpawn",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\MedVehicleSpawn\\MedVehicleSpawn.cfg"
+  },
+  {
+    "name": "SmallRadomeOutpost",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\SmallRadomeOutpost\\SmallRadomeOutpost.cfg"
+  },
+  {
+    "name": "ThickEdgedTile",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\ThickEdgedTile\\ThickEdgedTile.cfg"
+  },
+  {
+    "name": "ThinEdgedTile",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\ThinEdgedTile\\ThinEdgedTile.cfg"
+  },
+  {
+    "name": "TransmitterOutpost",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\Triangle\\TransmitterOutpost\\TransmitterOutpost.cfg"
+  },
+  {
+    "name": "CellMastStandaloneA",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\CellMastStandaloneA\\CellMastStandaloneA.cfg"
+  },
+  {
+    "name": "CellMastStandaloneB",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\CellMastStandaloneB\\CellMastStandaloneB.cfg"
+  },
+  {
+    "name": "LOX_tank_standalone",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\LOX tank standalone\\LOX_tank_standalone.cfg"
+  },
+  {
+    "name": "Radome_Standalone",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\Radome Standalone\\Radome_Standalone.cfg"
+  },
+  {
+    "name": "SmallHelipad",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\SmallHelipad\\SmallHelipad.cfg"
+  },
+  {
+    "name": "SmallVehicleSpawn",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\SmallVehicleSpawn\\SmallVehicleSpawn.cfg"
+  },
+  {
+    "name": "Standalone_utility_building",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\Standalone utility building\\Standalone_utility_building.cfg"
+  },
+  {
+    "name": "StandaloneSmallCommDish",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\StandaloneSmallCommDish\\StandaloneSmallCommDish.cfg"
+  },
+  {
+    "name": "ThickEdgeSmallTile",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\ThickEdgeSmallTile\\ThickEdgeSmallTile.cfg"
+  },
+  {
+    "name": "ThinEdgeSmallTile",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\ThinEdgeSmallTile\\ThinEdgeSmallTile.cfg"
+  },
+  {
+    "name": "Watertower_Standalone",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\Watertower Standalone\\Watertower_Standalone.cfg"
+  },
+  {
+    "name": "WindTurbine",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\OSSNTR\\Statics\\TriangleSmall\\WindTurbine\\WindTurbine.cfg"
+  },
+  {
+    "name": "TLC_05",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_05\\TLC_05.cfg"
+  },
+  {
+    "name": "TLC_06",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_05\\TLC_06.cfg"
+  },
+  {
+    "name": "TLC_5-6",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_05\\TLC_5-6.cfg"
+  },
+  {
+    "name": "TLC_14",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_14\\TLC_14.cfg"
+  },
+  {
+    "name": "TLC_17",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_17\\TLC_17.cfg"
+  },
+  {
+    "name": "TLC_19",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_19\\TLC-19.cfg"
+  },
+  {
+    "name": "TLC_34",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_34\\TLC_34.cfg"
+  },
+  {
+    "name": "TLC_36",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_36\\TLC_36.cfg"
+  },
+  {
+    "name": "TSC_39B",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_39\\TSC_39B.cfg"
+  },
+  {
+    "name": "KSC-40A",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_40\\KSC-40.cfg"
+  },
+  {
+    "name": "TLC_41",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_41\\TSC-41.cfg"
+  },
+  {
+    "name": "TLC_46",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_46\\TLC-46.cfg"
+  },
+  {
+    "name": "TE_Barge",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_Barge\\TE_Barge.cfg"
+  },
+  {
+    "name": "AdvancedTextures",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_MM_patch.cfg"
+  },
+  {
+    "name": "TLC Static Fire Horizontal Test Pad",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_Test\\TSC_TEST_01.cfg"
+  },
+  {
+    "name": "TLC Static Fire Vertical Test Pad",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_Test\\TSC_TEST_02.cfg"
+  },
+  {
+    "name": "Lightning Tower",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_TOWERS\\TSC_TOWERS.cfg"
+  },
+  {
+    "name": "TSC_TREE_BIG",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_TREES\\TSC_TREE_BIG.cfg"
+  },
+  {
+    "name": "TSC_TREE_LONG",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_TREES\\TSC_TREE_LONG.cfg"
+  },
+  {
+    "name": "TSC_TREE_SMALL",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Pads\\TSC_TREES\\TSC_TREE_SMALL.cfg"
+  },
+  {
+    "name": "TitanIIClamp",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\TundraSpaceCenter\\Parts\\TITANII_CLAMP\\TitanIIClamp.cfg"
+  },
+  {
+    "name": "HelipadOutpost",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\HelipadOutpost.cfg"
+  },
+  {
+    "name": "HorizontalIntegrationFacility",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\HorizontalIntegrationFacility.cfg"
+  },
+  {
+    "name": "Launch_Control_Centre",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\Launch_Control_Centre.cfg"
+  },
+  {
+    "name": "Lightning Tower",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\Lightning Tower.cfg"
+  },
+  {
+    "name": "LOX_tank_standalone",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\LOX_tank_standalone.cfg"
+  },
+  {
+    "name": "MedVehicleSpawn",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\MedVehicleSpawn.cfg"
+  },
+  {
+    "name": "Orbiter_Processing_Complex",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\Orbiter_Processing_Complex.cfg"
+  },
+  {
+    "name": "ResearchStationC",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\ResearchStationC.cfg"
+  },
+  {
+    "name": "Road416m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\Road416m.cfg"
+  },
+  {
+    "name": "Road84m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\Road84m.cfg"
+  },
+  {
+    "name": "RoadCorner",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\RoadCorner.cfg"
+  },
+  {
+    "name": "RoadTJunction",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\RoadTJunction.cfg"
+  },
+  {
+    "name": "S1Crawlerway208m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\S1Crawlerway208m.cfg"
+  },
+  {
+    "name": "S1Crawlerway416m",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\S1Crawlerway416m.cfg"
+  },
+  {
+    "name": "S1CrawlerwayCorner",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\S1CrawlerwayCorner.cfg"
+  },
+  {
+    "name": "S1CrawlerwaySplitRight",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\S1CrawlerwaySplitRight.cfg"
+  },
+  {
+    "name": "ThinEdgedTile",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\ThinEdgedTile.cfg"
+  },
+  {
+    "name": "TLC Static Fire Horizontal Test Pad",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\TLC Static Fire Horizontal Test Pad.cfg"
+  },
+  {
+    "name": "TLC Static Fire Vertical Test Pad",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\TLC Static Fire Vertical Test Pad.cfg"
+  },
+  {
+    "name": "TSC_TREE_BIG",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\TSC_TREE_BIG.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\UniversalSpawnPoint.cfg"
+  },
+  {
+    "name": "Watertower_Standalone",
+    "filePath": "Valentina_Kerman_Rocket_Development_And_Test_Facility-V0.6.1_DEV\\Gamedata\\Valentina_Rocket_Development_and_Test_Facility\\Valentina RD&TF\\Watertower_Standalone.cfg"
+  }
+]

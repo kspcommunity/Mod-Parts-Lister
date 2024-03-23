@@ -1,0 +1,34 @@
+[
+  {
+    "name": "AUS51",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\AUS51\\AUS51.cfg"
+  },
+  {
+    "name": "SHSmallDecoupler",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\DecouplerSmall\\DecouplerSmall.cfg"
+  },
+  {
+    "name": "SHTinyDecoupler",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\DecouplerTiny\\DecouplerTiny.cfg"
+  },
+  {
+    "name": "SHFairing",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\Fairing\\Fairing.cfg"
+  },
+  {
+    "name": "SHFairing2",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\Fairing2\\Fairing.cfg"
+  },
+  {
+    "name": "FairingBaseSH",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\FairingBase\\FairingBase.cfg"
+  },
+  {
+    "name": "LK1",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\LK1\\LK1.cfg"
+  },
+  {
+    "name": "SH_Winglet",
+    "filePath": "RetrogradeLaunchSystems\\Parts\\Winglets\\Winglet.cfg"
+  }
+]

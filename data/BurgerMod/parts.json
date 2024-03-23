@@ -1,0 +1,46 @@
+[
+  {
+    "name": "BurgerBaconWing",
+    "filePath": "BurgerMod\\partBaconWing.cfg"
+  },
+  {
+    "name": "BurgerBaconWinglet",
+    "filePath": "BurgerMod\\partBaconWinglet.cfg"
+  },
+  {
+    "name": "BurgerBunBottom\t",
+    "filePath": "BurgerMod\\partBunBottom.cfg"
+  },
+  {
+    "name": "BurgerBunTop",
+    "filePath": "BurgerMod\\partBunTop.cfg"
+  },
+  {
+    "name": "BurgerCheese",
+    "filePath": "BurgerMod\\partCheese.cfg"
+  },
+  {
+    "name": "BurgerKetchup",
+    "filePath": "BurgerMod\\partKetchup.cfg"
+  },
+  {
+    "name": "BurgerLettuce",
+    "filePath": "BurgerMod\\partLettuce.cfg"
+  },
+  {
+    "name": "BurgerMeat",
+    "filePath": "BurgerMod\\partMeat.cfg"
+  },
+  {
+    "name": "BurgerOnion",
+    "filePath": "BurgerMod\\partOnion.cfg"
+  },
+  {
+    "name": "BurgerPickles",
+    "filePath": "BurgerMod\\partPickles.cfg"
+  },
+  {
+    "name": "BurgerTomato",
+    "filePath": "BurgerMod\\partTomato.cfg"
+  }
+]

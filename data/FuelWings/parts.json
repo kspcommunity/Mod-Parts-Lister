@@ -1,0 +1,10 @@
+[
+  {
+    "name": "basicFin",
+    "filePath": "FuelWings\\Parts\\Aero\\basicFin\\basicFin.cfg"
+  },
+  {
+    "name": "R8winglet",
+    "filePath": "FuelWings\\Parts\\Aero\\wing\\wingletAV-R8.cfg"
+  }
+]

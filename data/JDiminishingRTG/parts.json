@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ModuleDiminishingRTG",
+    "filePath": "JDiminishingRTG\\Parts\\NearFutureElectrical.cfg"
+  },
+  {
+    "name": "ModuleDiminishingRTG",
+    "filePath": "JDiminishingRTG\\Parts\\NearFutureSpacecraft.cfg"
+  },
+  {
+    "name": "ModuleDiminishingRTG",
+    "filePath": "JDiminishingRTG\\Parts\\RLA_Stockalike.cfg"
+  },
+  {
+    "name": "ModuleDiminishingRTG",
+    "filePath": "JDiminishingRTG\\Parts\\Squad.cfg"
+  },
+  {
+    "name": "Blutonium238 // MUST have matching name in RESOURCE_DEFINITION",
+    "filePath": "JDiminishingRTG\\RTGFuelConfigs.cfg"
+  },
+  {
+    "name": "Blutonium238",
+    "filePath": "JDiminishingRTG\\RTGResources.cfg"
+  }
+]

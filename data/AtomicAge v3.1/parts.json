@@ -1,0 +1,26 @@
+[
+  {
+    "name": "IntakeAtm",
+    "filePath": "AtomicAge v3.1\\GameData\\AtomicAge\\IntakeAtm.cfg"
+  },
+  {
+    "name": "nuclearEngineKANDL",
+    "filePath": "AtomicAge v3.1\\GameData\\AtomicAge\\Parts\\KANDL\\KANDL.cfg"
+  },
+  {
+    "name": "nuclearEngineLANTR",
+    "filePath": "AtomicAge v3.1\\GameData\\AtomicAge\\Parts\\LANTR\\LANTR.cfg"
+  },
+  {
+    "name": "nuclearEngineLightbulb",
+    "filePath": "AtomicAge v3.1\\GameData\\AtomicAge\\Parts\\Lightbulb\\LightBulb.cfg"
+  },
+  {
+    "name": "radiatorRadialLarge",
+    "filePath": "AtomicAge v3.1\\GameData\\AtomicAge\\Parts\\Radiators\\Radial.cfg"
+  },
+  {
+    "name": "NuclearJetEngine",
+    "filePath": "AtomicAge v3.1\\GameData\\AtomicAge\\Parts\\Turbojet\\TurboJet.cfg"
+  }
+]

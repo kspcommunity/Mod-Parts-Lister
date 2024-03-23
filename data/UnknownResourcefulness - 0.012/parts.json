@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "UnknownResourcefulness: Dynamic Command",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "AIBox",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Command\\AIBox\\AIBox.cfg"
+  },
+  {
+    "name": "AIBoxR",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Command\\AIBox\\AIBoxR.cfg"
+  },
+  {
+    "name": "AIBoxSlim",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Command\\AIBox\\AIBoxSlim.cfg"
+  },
+  {
+    "name": "ElectricDuctedFan044",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Engines\\ElectricDuctedFan0044\\ElectricDuctedFan0044.cfg"
+  },
+  {
+    "name": "UR100TurboJetFin",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Engines\\UR100TurboJetFin\\UR100TurboJetFin.cfg"
+  },
+  {
+    "name": "UR625MonopropellantPistonProp",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Engines\\UR625MonopropellantPistonProp\\UR625MonopropellantPistonProp.cfg"
+  },
+  {
+    "name": "OneSetLandingGear",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\LandingGear\\OneSetLandingGear\\OneSetLandingGear.cfg"
+  },
+  {
+    "name": "SinglePieceLandingGearRugged",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\LandingGear\\SinglePieceLandingGearRugged\\SinglePieceLandingGearRugged.cfg"
+  },
+  {
+    "name": "AMMG-303",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Weapons\\AMMG\\AMMG-303.cfg"
+  },
+  {
+    "name": "AMMG-9mm",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Weapons\\AMMG\\AMMG-9mm.cfg"
+  },
+  {
+    "name": "UR50SMNA",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Weapons\\UR50cal\\50calSurfaceMountNA\\50calSurfaceMountNA.cfg"
+  },
+  {
+    "name": "UR50SMWA",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Weapons\\UR50cal\\50calSurfaceMountWA\\50calSurfaceMountWA.cfg"
+  },
+  {
+    "name": "UR50WMNA",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Weapons\\UR50cal\\50calWingMountNA\\50calWingMountNA.cfg"
+  },
+  {
+    "name": "UR50WMWA",
+    "filePath": "UnknownResourcefulness - 0.012\\GameData\\UnknownResourcefulness\\Parts\\Weapons\\UR50cal\\50calWingMountWA\\50calWingMountWA.cfg"
+  }
+]

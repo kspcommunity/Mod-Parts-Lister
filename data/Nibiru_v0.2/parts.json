@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cherinkov",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Cherinkov.cfg"
+  },
+  {
+    "name": "Doeg",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Doeg.cfg"
+  },
+  {
+    "name": "Herculaes",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Herculaes.cfg"
+  },
+  {
+    "name": "Ideop",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Ideop.cfg"
+  },
+  {
+    "name": "Nibiru",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Nibiru.cfg"
+  },
+  {
+    "name": "Riatov",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Riatov.cfg"
+  },
+  {
+    "name": "Rigelus",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Rigelus.cfg"
+  },
+  {
+    "name": "Tanitus",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Tanitus.cfg"
+  },
+  {
+    "name": "Zenger",
+    "filePath": "Nibiru_v0.2\\Nibiru\\config\\kopernicusMods\\Zenger.cfg"
+  }
+]

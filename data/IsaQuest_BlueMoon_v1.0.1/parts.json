@@ -1,0 +1,34 @@
+[
+  {
+    "name": "BMMetallic",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\Extras\\PBR Materials (EXPERIMENTAL)\\IQ_BlueMoon\\Patches\\TU\\TU.cfg"
+  },
+  {
+    "name": "IQ_BE-7",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Parts\\BE7.cfg"
+  },
+  {
+    "name": "IQBM_Hab",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Parts\\Hab.cfg"
+  },
+  {
+    "name": "IQBM_IU",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Parts\\IU.cfg"
+  },
+  {
+    "name": "IQBM_Leg",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Parts\\Leg.cfg"
+  },
+  {
+    "name": "IQBM_Tank",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Parts\\Tank.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Patches\\Waterfall\\BE7.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "IsaQuest_BlueMoon_v1.0.1\\GameData\\IQ_BlueMoon\\Patches\\Waterfall\\RCS.cfg"
+  }
+]

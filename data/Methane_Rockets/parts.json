@@ -1,0 +1,30 @@
+[
+  {
+    "name": "25CME",
+    "filePath": "Methane_Rockets\\2.5m CME\\part.cfg"
+  },
+  {
+    "name": "25MT",
+    "filePath": "Methane_Rockets\\2.5m Long Methane Tank\\part.cfg"
+  },
+  {
+    "name": "25ELS",
+    "filePath": "Methane_Rockets\\2.5m Lower Stage Engine\\part.cfg"
+  },
+  {
+    "name": "25MTM",
+    "filePath": "Methane_Rockets\\2.5m Medium Methane Tank\\part.cfg"
+  },
+  {
+    "name": "25MTS",
+    "filePath": "Methane_Rockets\\2.5m Short Methane Tank\\part.cfg"
+  },
+  {
+    "name": "25EUS",
+    "filePath": "Methane_Rockets\\2.5m Upper Stage Engine\\part.cfg"
+  },
+  {
+    "name": "LiquidMethane",
+    "filePath": "Methane_Rockets\\methane.cfg"
+  }
+]

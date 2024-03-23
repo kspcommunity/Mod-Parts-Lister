@@ -1,0 +1,454 @@
+[
+  {
+    "name": "KerbalLiberationArmy",
+    "filePath": "KerbalField\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ADSM",
+    "filePath": "KerbalField\\BulletDefs\\KBF_Bullets.cfg"
+  },
+  {
+    "name": "Kerbal Liberation Army",
+    "filePath": "KerbalField\\Localization\\localization-en-us.cfg"
+  },
+  {
+    "name": "坎巴拉核平农具所",
+    "filePath": "KerbalField\\Localization\\localization-zh-cn.cfg"
+  },
+  {
+    "name": "KerbalLiberationArmy",
+    "filePath": "KerbalField\\MM-CommunityCategoryKit.cfg"
+  },
+  {
+    "name": "59-94",
+    "filePath": "KerbalField\\Parts\\CN\\59-94\\59D.cfg"
+  },
+  {
+    "name": "89Zjq",
+    "filePath": "KerbalField\\Parts\\CN\\89Zjq\\89Zjq.cfg"
+  },
+  {
+    "name": "HJ-10",
+    "filePath": "KerbalField\\Parts\\CN\\AKD10\\AKD10.cfg"
+  },
+  {
+    "name": "CH-100MM",
+    "filePath": "KerbalField\\Parts\\CN\\CH-100MM\\CH-100MM.cfg"
+  },
+  {
+    "name": "DF-17",
+    "filePath": "KerbalField\\Parts\\CN\\DF-17\\DF-17.cfg"
+  },
+  {
+    "name": "FT1250KG",
+    "filePath": "KerbalField\\Parts\\CN\\FT1\\250KG.cfg"
+  },
+  {
+    "name": "FT1500KG",
+    "filePath": "KerbalField\\Parts\\CN\\FT1\\500KG.cfg"
+  },
+  {
+    "name": "HHQ-10",
+    "filePath": "KerbalField\\Parts\\CN\\HHQ-10\\HHQ-10.cfg"
+  },
+  {
+    "name": "HHQ-10Launcher",
+    "filePath": "KerbalField\\Parts\\CN\\HHQ-10Launcher\\HHQ-10Launcher.cfg"
+  },
+  {
+    "name": "HJ-73A",
+    "filePath": "KerbalField\\Parts\\CN\\HJ-73A\\HJ-73A.cfg"
+  },
+  {
+    "name": "H/PJ-38",
+    "filePath": "KerbalField\\Parts\\CN\\HPJ-38\\HPJ-38.cfg"
+  },
+  {
+    "name": "HQ-19",
+    "filePath": "KerbalField\\Parts\\CN\\HQ-19\\HQ-19.cfg"
+  },
+  {
+    "name": "HQ-2",
+    "filePath": "KerbalField\\Parts\\CN\\HQ-2\\HQ-2.cfg"
+  },
+  {
+    "name": "HQ-2Launcher",
+    "filePath": "KerbalField\\Parts\\CN\\HQ-2Launcher\\HQ-2Launcher.cfg"
+  },
+  {
+    "name": "HQ-9",
+    "filePath": "KerbalField\\Parts\\CN\\HQ-9\\HQ-9.cfg"
+  },
+  {
+    "name": "KD20",
+    "filePath": "KerbalField\\Parts\\CN\\KD20\\KD20.cfg"
+  },
+  {
+    "name": "LD2000",
+    "filePath": "KerbalField\\Parts\\CN\\LD2000\\LD2000.cfg"
+  },
+  {
+    "name": "LS6",
+    "filePath": "KerbalField\\Parts\\CN\\LS6\\500KG.cfg"
+  },
+  {
+    "name": "LT-2",
+    "filePath": "KerbalField\\Parts\\CN\\LT-2\\part .cfg"
+  },
+  {
+    "name": "PGZ-07",
+    "filePath": "KerbalField\\Parts\\CN\\PGZ-07\\PGZ-07.cfg"
+  },
+  {
+    "name": "PL-10A",
+    "filePath": "KerbalField\\Parts\\CN\\PL-10\\PL-10.cfg"
+  },
+  {
+    "name": "PL-12",
+    "filePath": "KerbalField\\Parts\\CN\\PL-12\\PL12.cfg"
+  },
+  {
+    "name": "PL-15",
+    "filePath": "KerbalField\\Parts\\CN\\PL-15\\PL-15.cfg"
+  },
+  {
+    "name": "PL-8B",
+    "filePath": "KerbalField\\Parts\\CN\\PL-8\\PL8B.cfg"
+  },
+  {
+    "name": "PLZ05",
+    "filePath": "KerbalField\\Parts\\CN\\PLZ05\\PLZ05.cfg"
+  },
+  {
+    "name": "RADAR346B",
+    "filePath": "KerbalField\\Parts\\CN\\RADAR346B\\RADAR346B.cfg"
+  },
+  {
+    "name": "SY1",
+    "filePath": "KerbalField\\Parts\\CN\\SY1\\SY1.cfg"
+  },
+  {
+    "name": "TorpedoLauncher",
+    "filePath": "KerbalField\\Parts\\CN\\TorpedoLauncher\\TorpedoLauncher.cfg"
+  },
+  {
+    "name": "TY-90",
+    "filePath": "KerbalField\\Parts\\CN\\TY-90\\part.cfg"
+  },
+  {
+    "name": "YJ-83",
+    "filePath": "KerbalField\\Parts\\CN\\YJ-83\\YJ83.cfg"
+  },
+  {
+    "name": "YJ-83K",
+    "filePath": "KerbalField\\Parts\\CN\\YJ-83\\YJ83K.cfg"
+  },
+  {
+    "name": "YJ-91",
+    "filePath": "KerbalField\\Parts\\CN\\YJ-91\\YJ-91.cfg"
+  },
+  {
+    "name": "YJ-Launcher",
+    "filePath": "KerbalField\\Parts\\CN\\YJ-Launcher\\YJ-Launcher.cfg"
+  },
+  {
+    "name": "YJ12",
+    "filePath": "KerbalField\\Parts\\CN\\YJ12\\YJ12.cfg"
+  },
+  {
+    "name": "YJ18",
+    "filePath": "KerbalField\\Parts\\CN\\YJ18\\YJ18.cfg"
+  },
+  {
+    "name": "YJ9",
+    "filePath": "KerbalField\\Parts\\CN\\YJ9\\YJ9.cfg"
+  },
+  {
+    "name": "YU6",
+    "filePath": "KerbalField\\Parts\\CN\\YU6\\part .cfg"
+  },
+  {
+    "name": "YU-7",
+    "filePath": "KerbalField\\Parts\\CN\\YU7\\part .cfg"
+  },
+  {
+    "name": "ZBL09",
+    "filePath": "KerbalField\\Parts\\CN\\ZBL08\\ZBL08.cfg"
+  },
+  {
+    "name": "ZTZ15_Turret",
+    "filePath": "KerbalField\\Parts\\CN\\ZTZ-15\\ZTZ15_Turret.cfg"
+  },
+  {
+    "name": "99A2turret",
+    "filePath": "KerbalField\\Parts\\CN\\ZTZ-99A2\\99A2turret.cfg"
+  },
+  {
+    "name": "Bk27",
+    "filePath": "KerbalField\\Parts\\EU\\Bk27\\Bk27.cfg"
+  },
+  {
+    "name": "CROWS7.62",
+    "filePath": "KerbalField\\Parts\\EU\\CROWS762\\CROWS7.62.cfg"
+  },
+  {
+    "name": "FlareCannon",
+    "filePath": "KerbalField\\Parts\\EU\\FlareCannon\\FlareCannon.cfg"
+  },
+  {
+    "name": "HS404",
+    "filePath": "KerbalField\\Parts\\EU\\HS404\\HS404.cfg"
+  },
+  {
+    "name": "METEOR",
+    "filePath": "KerbalField\\Parts\\EU\\METEOR\\METEOR.cfg"
+  },
+  {
+    "name": "MG151",
+    "filePath": "KerbalField\\Parts\\EU\\MG151\\MG151.cfg"
+  },
+  {
+    "name": "MICA_IR",
+    "filePath": "KerbalField\\Parts\\EU\\MICA\\MICA.cfg"
+  },
+  {
+    "name": "MK103",
+    "filePath": "KerbalField\\Parts\\EU\\MK103\\MK103.cfg"
+  },
+  {
+    "name": "VickersMG",
+    "filePath": "KerbalField\\Parts\\EU\\VickersMG\\VickersMG.cfg"
+  },
+  {
+    "name": "AB76",
+    "filePath": "KerbalField\\Parts\\Others\\AB76\\AB76.cfg"
+  },
+  {
+    "name": "ADSXX",
+    "filePath": "KerbalField\\Parts\\Others\\ADS\\ADS.cfg"
+  },
+  {
+    "name": "FAB-5000",
+    "filePath": "KerbalField\\Parts\\Others\\FAB-5000\\FAB-5000.cfg"
+  },
+  {
+    "name": "LAD-X",
+    "filePath": "KerbalField\\Parts\\Others\\LAD-X\\LAD-X.cfg"
+  },
+  {
+    "name": "M50",
+    "filePath": "KerbalField\\Parts\\Others\\M50\\M50.cfg"
+  },
+  {
+    "name": "S21",
+    "filePath": "KerbalField\\Parts\\Others\\S21\\S21.cfg"
+  },
+  {
+    "name": "T3485",
+    "filePath": "KerbalField\\Parts\\Others\\T3485\\T3485.cfg"
+  },
+  {
+    "name": "ZIS2",
+    "filePath": "KerbalField\\Parts\\Others\\ZIS2\\ZIS2.cfg"
+  },
+  {
+    "name": "2S25turret",
+    "filePath": "KerbalField\\Parts\\RU\\2S25\\2S25turret.cfg"
+  },
+  {
+    "name": "9K114_AT6AX8",
+    "filePath": "KerbalField\\Parts\\RU\\9K114\\9K114 AT6AX8.cfg"
+  },
+  {
+    "name": "9K114-AT6A",
+    "filePath": "KerbalField\\Parts\\RU\\9K114\\9K114-AT6A.cfg"
+  },
+  {
+    "name": "9M114",
+    "filePath": "KerbalField\\Parts\\RU\\9K114\\9M114.cfg"
+  },
+  {
+    "name": "9M120",
+    "filePath": "KerbalField\\Parts\\RU\\9K114\\9M120.cfg"
+  },
+  {
+    "name": "9K121_TUBEX6",
+    "filePath": "KerbalField\\Parts\\RU\\9K121\\9K121.cfg"
+  },
+  {
+    "name": "9K121_TUBE",
+    "filePath": "KerbalField\\Parts\\RU\\9K121\\9K121_TUBE.cfg"
+  },
+  {
+    "name": "9M121",
+    "filePath": "KerbalField\\Parts\\RU\\9K121\\9M121.cfg"
+  },
+  {
+    "name": "AK176",
+    "filePath": "KerbalField\\Parts\\RU\\AK176MA\\AK176MA.cfg"
+  },
+  {
+    "name": "AK630",
+    "filePath": "KerbalField\\Parts\\RU\\AK630\\AK630.cfg"
+  },
+  {
+    "name": "D30",
+    "filePath": "KerbalField\\Parts\\RU\\D30\\D30.cfg"
+  },
+  {
+    "name": "GSH230",
+    "filePath": "KerbalField\\Parts\\RU\\GSH230\\GSH230.cfg"
+  },
+  {
+    "name": "GSH301",
+    "filePath": "KerbalField\\Parts\\RU\\GSH301\\301.cfg"
+  },
+  {
+    "name": "HeavyERA",
+    "filePath": "KerbalField\\Parts\\RU\\HeavyERA\\HeavyERA.cfg"
+  },
+  {
+    "name": "KH-41",
+    "filePath": "KerbalField\\Parts\\RU\\KH-41\\KH-41.cfg"
+  },
+  {
+    "name": "KORD",
+    "filePath": "KerbalField\\Parts\\RU\\KORD\\KORD.cfg"
+  },
+  {
+    "name": "NS37",
+    "filePath": "KerbalField\\Parts\\RU\\NS37\\NS37.cfg"
+  },
+  {
+    "name": "O120",
+    "filePath": "KerbalField\\Parts\\RU\\O120\\O120.cfg"
+  },
+  {
+    "name": "PSSM",
+    "filePath": "KerbalField\\Parts\\RU\\Plasma_Stealth_System_Module\\PSSM.cfg"
+  },
+  {
+    "name": "Rail176",
+    "filePath": "KerbalField\\Parts\\RU\\Rail176\\Rail176.cfg"
+  },
+  {
+    "name": "RVV-AE-PD",
+    "filePath": "KerbalField\\Parts\\RU\\RVV-AE-PD\\RVV-AE-PD.cfg"
+  },
+  {
+    "name": "ShVAK-E",
+    "filePath": "KerbalField\\Parts\\RU\\ShVAK-E\\ShVAK-E.cfg"
+  },
+  {
+    "name": "SS-26",
+    "filePath": "KerbalField\\Parts\\RU\\SS-26\\SS-26.cfg"
+  },
+  {
+    "name": "T14turret",
+    "filePath": "KerbalField\\Parts\\RU\\T14\\T14.cfg"
+  },
+  {
+    "name": "T62M1",
+    "filePath": "KerbalField\\Parts\\RU\\T62M1\\T62M1.cfg"
+  },
+  {
+    "name": "TU423",
+    "filePath": "KerbalField\\Parts\\RU\\TU423\\TU423.cfg"
+  },
+  {
+    "name": "UPK-23",
+    "filePath": "KerbalField\\Parts\\RU\\UPK-23\\UPK-23.cfg"
+  },
+  {
+    "name": "VA-111",
+    "filePath": "KerbalField\\Parts\\RU\\VA-111\\VA-111.cfg"
+  },
+  {
+    "name": "AESA",
+    "filePath": "KerbalField\\Parts\\US\\AESA\\AESA.cfg"
+  },
+  {
+    "name": "AIM-120D",
+    "filePath": "KerbalField\\Parts\\US\\AIM-120D\\AIM-120D.cfg"
+  },
+  {
+    "name": "AIM9X",
+    "filePath": "KerbalField\\Parts\\US\\AIM9X\\AIM9X.cfg"
+  },
+  {
+    "name": "BGM-154",
+    "filePath": "KerbalField\\Parts\\US\\BGM-154\\BGM-154.cfg"
+  },
+  {
+    "name": "CB90MissileLuncher",
+    "filePath": "KerbalField\\Parts\\US\\CB90MissileLauncher\\CB90MissileLauncher.cfg"
+  },
+  {
+    "name": "CROWS",
+    "filePath": "KerbalField\\Parts\\US\\CROWS\\CROWS.cfg"
+  },
+  {
+    "name": "CROWS-30MM",
+    "filePath": "KerbalField\\Parts\\US\\CROWS30\\CROWS30.cfg"
+  },
+  {
+    "name": "M2HB",
+    "filePath": "KerbalField\\Parts\\US\\M2HB\\M2HB.cfg"
+  },
+  {
+    "name": "TOW2B",
+    "filePath": "KerbalField\\Parts\\US\\TOW2B\\TOW2B.cfg"
+  },
+  {
+    "name": "TOWL2",
+    "filePath": "KerbalField\\Parts\\US\\TOWL2\\TOWL2.cfg"
+  },
+  {
+    "name": "KISAMMO",
+    "filePath": "KerbalField\\Resources\\Ammo.cfg"
+  },
+  {
+    "name": "BallastWater",
+    "filePath": "KerbalField\\Resources\\Resources.cfg"
+  },
+  {
+    "name": "PLZ05Structural",
+    "filePath": "KerbalField\\Structural\\CN\\PLZ05Structural\\PLZ05Structural.cfg"
+  },
+  {
+    "name": "99A2Structural",
+    "filePath": "KerbalField\\Structural\\CN\\ZTZ99A2\\99A2Structural.cfg"
+  },
+  {
+    "name": "ESS",
+    "filePath": "KerbalField\\Structural\\Other\\ESS\\ESS.cfg"
+  },
+  {
+    "name": "GLASSX_1x1",
+    "filePath": "KerbalField\\Structural\\Other\\GLASS\\GLASSX_1X1.cfg"
+  },
+  {
+    "name": "GLASSX_2x2",
+    "filePath": "KerbalField\\Structural\\Other\\GLASS\\GLASSX_2X2.cfg"
+  },
+  {
+    "name": "GLASS_1x1",
+    "filePath": "KerbalField\\Structural\\Other\\GLASS\\GLASS_1X1.cfg"
+  },
+  {
+    "name": "GLASS_2x2",
+    "filePath": "KerbalField\\Structural\\Other\\GLASS\\GLASS_2X2.cfg"
+  },
+  {
+    "name": "GS-1",
+    "filePath": "KerbalField\\Structural\\Other\\Gunsight\\GS-1.cfg"
+  },
+  {
+    "name": "WaterTank",
+    "filePath": "KerbalField\\Structural\\Other\\WaterTank\\WaterTank.cfg"
+  },
+  {
+    "name": "CB90BOAT",
+    "filePath": "KerbalField\\Structural\\US\\CB90BOAT\\CB90BOAT.cfg"
+  }
+]

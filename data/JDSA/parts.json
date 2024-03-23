@@ -1,0 +1,258 @@
+[
+  {
+    "name": "JDSAAirIonizer",
+    "filePath": "JDSA\\KSPMagnetoDrive\\AirIonizer\\AIon.cfg"
+  },
+  {
+    "name": "JDSAEC1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC1\\EC1.cfg"
+  },
+  {
+    "name": "JDSAEC10",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC10\\EC10.cfg"
+  },
+  {
+    "name": "JDSAEC11",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC11\\EC11.cfg"
+  },
+  {
+    "name": "JDSAEC12",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC12\\EC12.cfg"
+  },
+  {
+    "name": "JDSAEC13",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC13\\EC13.cfg"
+  },
+  {
+    "name": "JDSAEC2",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC2\\EC2.cfg"
+  },
+  {
+    "name": "JDSAEC3",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC3\\EC3.cfg"
+  },
+  {
+    "name": "TeeslaKaanon",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC6\\EC6.cfg"
+  },
+  {
+    "name": "JDSATY-N_E",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC7\\EC7.cfg"
+  },
+  {
+    "name": "JDSAEC8",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC8\\EC8.cfg"
+  },
+  {
+    "name": "JDSAEC9",
+    "filePath": "JDSA\\KSPMagnetoDrive\\EC9\\EC9.cfg"
+  },
+  {
+    "name": "JDSAEC4",
+    "filePath": "JDSA\\KSPMagnetoDrive\\ECSM\\EC4.cfg"
+  },
+  {
+    "name": "JDSAEC5",
+    "filePath": "JDSA\\KSPMagnetoDrive\\ECSM\\EC5.cfg"
+  },
+  {
+    "name": "JDSAInlineLiquidFuelCellsmall",
+    "filePath": "JDSA\\KSPMagnetoDrive\\MK1_InlineFuelCell\\InlineLiquidFuelCell-MK0.5.cfg"
+  },
+  {
+    "name": "JDSAInlineLiquidFuelCell",
+    "filePath": "JDSA\\KSPMagnetoDrive\\MK1_InlineFuelCell\\InlineLiquidFuelCell.cfg"
+  },
+  {
+    "name": "DriftRWheel1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\Dr1ftWheel.cfg"
+  },
+  {
+    "name": "JDSAMotoDelToro",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\FancyPizzaCutter.cfg"
+  },
+  {
+    "name": "JDSAGlassShield01",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\Glass.cfg"
+  },
+  {
+    "name": "JDSAGlassShield02",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\Glass2.cfg"
+  },
+  {
+    "name": "JDSAGripTire1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\JDSAHighGripTire01.cfg"
+  },
+  {
+    "name": "JDSALeadWeight01",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\JDSALeadWeight.cfg"
+  },
+  {
+    "name": "JDSALeadWeight02",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\JDSALeadWeight2.cfg"
+  },
+  {
+    "name": "JDSASteelBeam",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\JDSASteelBeam.cfg"
+  },
+  {
+    "name": "JDSAKERMT1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\KermtWheel.cfg"
+  },
+  {
+    "name": "JDSAMartianMesher1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\MartianMesher.cfg"
+  },
+  {
+    "name": "JDSAMotoFrame",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\MotoFrame1.cfg"
+  },
+  {
+    "name": "JDSAMotocycleFrame2",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\MotorcycleFrame.cfg"
+  },
+  {
+    "name": "JDSAMotorcycleShortWheel",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\MotorcycleShortWheel.cfg"
+  },
+  {
+    "name": "JDSANaviBall1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\NaviBall.cfg"
+  },
+  {
+    "name": "JDSANaviHovr1",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\NaviHovr.cfg"
+  },
+  {
+    "name": "JDSANuclearDiamondBattery",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\NuclearDiamondBattery.cfg"
+  },
+  {
+    "name": "JDSARoverChassis",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\RoverChassis.cfg"
+  },
+  {
+    "name": "JDSARoverChassisExtended",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\RoverChassisExtended.cfg"
+  },
+  {
+    "name": "JDSARoverECGen",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\RoverGenerator.cfg"
+  },
+  {
+    "name": "JDSARoverChassisWheelAdapter",
+    "filePath": "JDSA\\KSPMagnetoDrive\\PureMotoWheel\\WheelAdapter.cfg"
+  },
+  {
+    "name": "spACE",
+    "filePath": "JDSA\\KSPMagnetoDrive\\Resources\\AccelCounterEm.cfg"
+  },
+  {
+    "name": "JDSAMoistKeel",
+    "filePath": "JDSA\\MOISTUWT\\Ballast\\Keel.cfg"
+  },
+  {
+    "name": "JDSAMoistKeelMini",
+    "filePath": "JDSA\\MOISTUWT\\Ballast\\KeelMini.cfg"
+  },
+  {
+    "name": "JDSAMoistKeelmk2",
+    "filePath": "JDSA\\MOISTUWT\\Ballast\\KeelMK2.cfg"
+  },
+  {
+    "name": "JDSAMoistKeelmk3",
+    "filePath": "JDSA\\MOISTUWT\\Ballast\\KeelMK3.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "JDSA\\MOISTUWT\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "JDSA\\MOISTUWT\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "JDSA\\MOISTUWT\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "ConningTowerProbe",
+    "filePath": "JDSA\\MOISTUWT\\ConningTowerProbe\\ConningTowerProbe.cfg"
+  },
+  {
+    "name": "LiquidIntakeMK2-Powered",
+    "filePath": "JDSA\\MOISTUWT\\MOISTLQIntake\\LQ-Powered-MK2Intake.cfg"
+  },
+  {
+    "name": "LiquidIntake",
+    "filePath": "JDSA\\MOISTUWT\\MOISTLQIntake\\LQIntake.cfg"
+  },
+  {
+    "name": "LiquidIntakeMK2",
+    "filePath": "JDSA\\MOISTUWT\\MOISTLQIntake\\LQMK2Intake - Copy.cfg"
+  },
+  {
+    "name": "UWMT",
+    "filePath": "JDSA\\MOISTUWT\\MOISTWaterRCS\\UWMTB.cfg"
+  },
+  {
+    "name": "MOISTprop1",
+    "filePath": "JDSA\\MOISTUWT\\Props\\MProp1.cfg"
+  },
+  {
+    "name": "MOISTprop2",
+    "filePath": "JDSA\\MOISTUWT\\Props\\MProp2.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "JDSA\\MOISTUWT\\SinkEmAll\\CommonResources.cfg"
+  },
+  {
+    "name": "CompressedLiquids",
+    "filePath": "JDSA\\MOISTUWT\\SinkEmAll\\KerbalModuleBallast.cfg"
+  },
+  {
+    "name": "Liquids",
+    "filePath": "JDSA\\MOISTUWT\\SinkEmAll\\SinkEMAll_IntakeVersion_BallastOnly.cfg"
+  },
+  {
+    "name": "WaterJetVISHIP",
+    "filePath": "JDSA\\MOISTUWT\\WaterJets\\WaterJetHIOUT.cfg"
+  },
+  {
+    "name": "WaterJetMK2",
+    "filePath": "JDSA\\MOISTUWT\\WaterJets\\WaterJetLarge.cfg"
+  },
+  {
+    "name": "WaterJetMKStrange",
+    "filePath": "JDSA\\MOISTUWT\\WaterJets\\WaterJetOddSize.cfg"
+  },
+  {
+    "name": "WaterJetTiny",
+    "filePath": "JDSA\\MOISTUWT\\WaterJets\\WaterJetSmall.cfg"
+  },
+  {
+    "name": "WaterJetVI",
+    "filePath": "JDSA\\MOISTUWT\\WaterJets\\WaterJet_VI.cfg"
+  },
+  {
+    "name": "nx-Big",
+    "filePath": "JDSA\\ProsimianProductions\\Parts\\nx01\\nx-bg.cfg"
+  },
+  {
+    "name": "nx-01",
+    "filePath": "JDSA\\ProsimianProductions\\Parts\\nx01\\nx-sm.cfg"
+  },
+  {
+    "name": "nx-wing",
+    "filePath": "JDSA\\ProsimianProductions\\Parts\\nx01\\nx-wing.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "JDSA\\ProsimianProductions\\Parts\\pp-tweakscale.cfg"
+  },
+  {
+    "name": "pp_white",
+    "filePath": "JDSA\\ProsimianProductions\\VariantThemes.cfg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kerbal Academy",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\Agent\\KerbalAcademy.cfg"
+  },
+  {
+    "name": "Kerbal Academy",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\Agent\\KerbalAcademyAgency.cfg"
+  },
+  {
+    "name": "KerbalAcademy",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademy.cfg"
+  },
+  {
+    "name": "KerbalAcademyAdvancedPiloting",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyAdvancedPiloting.cfg"
+  },
+  {
+    "name": "KerbalAcademyBootCamp",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyBootCamp.cfg"
+  },
+  {
+    "name": "KerbalAcademyEngineering101",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyEngineering101.cfg"
+  },
+  {
+    "name": "KerbalAcademyEngineeringSchool",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyEngineeringSchool.cfg"
+  },
+  {
+    "name": "KerbalAcademyFieldScience",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyFieldScience.cfg"
+  },
+  {
+    "name": "KerbalAcademyFlightSchool",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyFlightSchool.cfg"
+  },
+  {
+    "name": "KerbalAcademyScientificPrinciples",
+    "filePath": "Kerbal Academy Contract Pack (v1.2.1)\\ContractPacks\\KerbalAcademy\\KerbalAcademyScientificPrinciples.cfg"
+  }
+]

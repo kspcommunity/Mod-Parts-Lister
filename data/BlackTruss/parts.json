@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BlackTruss",
+    "filePath": "BlackTruss\\GameData\\BlackTruss\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "trussAdapter",
+    "filePath": "BlackTruss\\GameData\\BlackTruss\\Parts\\trussGirderAdapter\\trussGirderAdapter.cfg"
+  },
+  {
+    "name": "trussAdapter",
+    "filePath": "BlackTruss\\GameData\\BlackTruss\\Parts\\trussGirderL\\trussGirderAdapter\\trussGirderAdapter.cfg"
+  },
+  {
+    "name": "trussPiece1x",
+    "filePath": "BlackTruss\\GameData\\BlackTruss\\Parts\\trussGirderL\\trussGirderL.cfg"
+  },
+  {
+    "name": "trussPiece3x",
+    "filePath": "BlackTruss\\GameData\\BlackTruss\\Parts\\trussGirderXL\\trussGirderXL.cfg"
+  }
+]

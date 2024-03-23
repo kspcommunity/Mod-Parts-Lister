@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vulkan",
+    "filePath": "Vulkan\\Vulkan.cfg"
+  },
+  {
+    "name": "Ikaro",
+    "filePath": "Vulkan\\Vulkanoids\\Ikaro.cfg"
+  },
+  {
+    "name": "Vulkie",
+    "filePath": "Vulkan\\Vulkie.cfg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PT17LeftElevator",
+    "filePath": "SkunkWorks\\PT17\\Controls\\LE\\part.cfg"
+  },
+  {
+    "name": "PT17RightElevator",
+    "filePath": "SkunkWorks\\PT17\\Controls\\RE\\part.cfg"
+  },
+  {
+    "name": "PT17Rudder",
+    "filePath": "SkunkWorks\\PT17\\Controls\\Rudder\\part.cfg"
+  },
+  {
+    "name": "PT17Engine",
+    "filePath": "SkunkWorks\\PT17\\Engine\\part.cfg"
+  },
+  {
+    "name": "PT17_Stearman",
+    "filePath": "SkunkWorks\\PT17\\Fuselage\\part.cfg"
+  },
+  {
+    "name": "PT17LeftWheel",
+    "filePath": "SkunkWorks\\PT17\\Gear\\Left\\part.cfg"
+  },
+  {
+    "name": "PT17RightWheel",
+    "filePath": "SkunkWorks\\PT17\\Gear\\Right\\part.cfg"
+  },
+  {
+    "name": "PT17TailWheel",
+    "filePath": "SkunkWorks\\PT17\\Gear\\Tail\\part.cfg"
+  },
+  {
+    "name": "PT17_LeftWing",
+    "filePath": "SkunkWorks\\PT17\\Wings\\LW\\part.cfg"
+  },
+  {
+    "name": "PT17_MidWing",
+    "filePath": "SkunkWorks\\PT17\\Wings\\Mid\\part.cfg"
+  },
+  {
+    "name": "PT17_RightWing",
+    "filePath": "SkunkWorks\\PT17\\Wings\\RW\\part.cfg"
+  }
+]

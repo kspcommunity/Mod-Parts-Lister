@@ -1,0 +1,50 @@
+[
+  {
+    "name": "JoolianCommBox",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianBoomTanks\\partC1.cfg"
+  },
+  {
+    "name": "JoolianBoomTank1",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianBoomTanks\\partX1.cfg"
+  },
+  {
+    "name": "JoolianBoomTank2",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianBoomTanks\\partX2.cfg"
+  },
+  {
+    "name": "JoolianBoomTank3",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianBoomTanks\\partX3.cfg"
+  },
+  {
+    "name": "joolianCommTower",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianCommTower\\part.cfg"
+  },
+  {
+    "name": "JoolianEngine",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianEngine\\part.cfg"
+  },
+  {
+    "name": "JoolianMainTank",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianMainTank\\part.cfg"
+  },
+  {
+    "name": "joolianMonolith",
+    "filePath": "JoolianDiscovery\\Parts\\joolianMonolith\\part.cfg"
+  },
+  {
+    "name": "JoolianDiscPod",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianPod\\part.cfg"
+  },
+  {
+    "name": "JoolianPodIVA",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianPodIVA\\internal.cfg"
+  },
+  {
+    "name": "JoolianSystems",
+    "filePath": "JoolianDiscovery\\Parts\\JoolianSystems\\part.cfg"
+  },
+  {
+    "name": "JoolianKALcore",
+    "filePath": "JoolianDiscovery\\Parts\\KAL\\KAL.cfg"
+  }
+]

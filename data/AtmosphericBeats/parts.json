@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mars-dust-scattered",
+    "filePath": "AtmosphericBeats\\EVE\\clouds.cfg"
+  },
+  {
+    "name": "lightning-Earth",
+    "filePath": "AtmosphericBeats\\EVE\\lightning.cfg"
+  },
+  {
+    "name": "rain-Earth",
+    "filePath": "AtmosphericBeats\\EVE\\particleFields.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "AtmosphericBeats\\Scatterer\\Earth_Atmosphere.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "AtmosphericBeats\\Scatterer\\Earth_Ocean.cfg"
+  },
+  {
+    "name": "Mars",
+    "filePath": "AtmosphericBeats\\Scatterer\\Mars_Atmosphere.cfg"
+  },
+  {
+    "name": "Titan",
+    "filePath": "AtmosphericBeats\\Scatterer\\Titan_Ocean.cfg"
+  },
+  {
+    "name": "Venus",
+    "filePath": "AtmosphericBeats\\Scatterer\\Venus_Atmosphere.cfg"
+  }
+]

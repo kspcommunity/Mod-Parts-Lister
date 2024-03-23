@@ -1,0 +1,66 @@
+[
+  {
+    "name": "fuel_depot_outpost",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\fuel_depot_outpost-instances.cfg"
+  },
+  {
+    "name": "ksidedocks1",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\ksidedocks1-instances.cfg"
+  },
+  {
+    "name": "ksidelighthouse",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\ksidelighthouse-instances.cfg"
+  },
+  {
+    "name": "ksidelighthousesmall",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\ksidelighthousesmall-instances.cfg"
+  },
+  {
+    "name": "ksidemarinaquay",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\ksidemarinaquay-instances.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\KSR_HD1-instances.cfg"
+  },
+  {
+    "name": "ksverybigbridge",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\ksverybigbridge-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Gatun\\UniversalSpawnPoint-instances.cfg"
+  },
+  {
+    "name": "fuel_depot_outpost",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\fuel_depot_outpost-instances.cfg"
+  },
+  {
+    "name": "ksidedocks1",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\ksidedocks1-instances.cfg"
+  },
+  {
+    "name": "ksidelighthouse",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\ksidelighthouse-instances.cfg"
+  },
+  {
+    "name": "ksidelighthousesmall",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\ksidelighthousesmall-instances.cfg"
+  },
+  {
+    "name": "ksidemarinaquay",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\ksidemarinaquay-instances.cfg"
+  },
+  {
+    "name": "KSR_HD1",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\KSR_HD1-instances.cfg"
+  },
+  {
+    "name": "ksverybigbridge",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\ksverybigbridge-instances.cfg"
+  },
+  {
+    "name": "UniversalSpawnPoint",
+    "filePath": "PanoceanCanal-1.0.1\\GameData\\PanoceanCanal\\Miraflores\\UniversalSpawnPoint-instances.cfg"
+  }
+]

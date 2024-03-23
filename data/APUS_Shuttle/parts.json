@@ -1,0 +1,234 @@
+[
+  {
+    "name": "APUScockpit1",
+    "filePath": "APUS_Shuttle\\Parts\\Crew\\Cabin1\\Cabin1.cfg"
+  },
+  {
+    "name": "APUScockpit2",
+    "filePath": "APUS_Shuttle\\Parts\\Crew\\Cabin2\\Cabin2.cfg"
+  },
+  {
+    "name": "APUScrew1",
+    "filePath": "APUS_Shuttle\\Parts\\Crew\\Crew1\\Crew1.cfg"
+  },
+  {
+    "name": "APUScrew2",
+    "filePath": "APUS_Shuttle\\Parts\\Crew\\Crew1\\Crew2.cfg"
+  },
+  {
+    "name": "APUSentrance1",
+    "filePath": "APUS_Shuttle\\Parts\\Crew\\Crew1\\Exit1.cfg"
+  },
+  {
+    "name": "nesdMS-Eng150",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\Eng1\\eng150.cfg"
+  },
+  {
+    "name": "nesdMSrcs-2B",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-2B.cfg"
+  },
+  {
+    "name": "nesdMSrcs-2F",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-2F.cfg"
+  },
+  {
+    "name": "nesdMSrcs-2S",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-2S.cfg"
+  },
+  {
+    "name": "nesdMSrcs-3B",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-3B.cfg"
+  },
+  {
+    "name": "nesdMSrcs-45",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-45.cfg"
+  },
+  {
+    "name": "nesdMSrcs-BC",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-BCap.cfg"
+  },
+  {
+    "name": "nesdMSrcs-FC",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-FCap.cfg"
+  },
+  {
+    "name": "nesdMSrcs-tn1",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-Tank1.cfg"
+  },
+  {
+    "name": "nesdMSrcs-tn2",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-Tank2.cfg"
+  },
+  {
+    "name": "nesdMSrcs-tn3",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-Tank3.cfg"
+  },
+  {
+    "name": "nesdMSrcs-U",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-U.cfg"
+  },
+  {
+    "name": "nesdMSrcs-U2S",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\RCS1\\RCS-U2S.cfg"
+  },
+  {
+    "name": "APUSsrb4",
+    "filePath": "APUS_Shuttle\\Parts\\Engines\\SRB1\\SRB4.cfg"
+  },
+  {
+    "name": "APUSnoseLF",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Nose1\\NoseLF.cfg"
+  },
+  {
+    "name": "APUSnoseLFO",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Nose1\\NoseLFO.cfg"
+  },
+  {
+    "name": "APUSnoseMP",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Nose1\\NoseMP.cfg"
+  },
+  {
+    "name": "nesdMSnose37LF",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Nose2\\NoseK37LF.cfg"
+  },
+  {
+    "name": "nesdMSnose37LF0",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Nose2\\NoseK37LFO.cfg"
+  },
+  {
+    "name": "nesdMSnose37MP",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Nose2\\NoseK37MP.cfg"
+  },
+  {
+    "name": "APUStankB1",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\Bat1.cfg"
+  },
+  {
+    "name": "APUStankLF1",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LF1.cfg"
+  },
+  {
+    "name": "APUStankLF2",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LF2.cfg"
+  },
+  {
+    "name": "APUStankLF3",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LF3.cfg"
+  },
+  {
+    "name": "APUStankLF4",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LF4.cfg"
+  },
+  {
+    "name": "APUStankLF5",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LF5.cfg"
+  },
+  {
+    "name": "APUStankLFO1",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LFO1.cfg"
+  },
+  {
+    "name": "APUStankLFO2",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LFO2.cfg"
+  },
+  {
+    "name": "APUStankLFO3",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LFO3.cfg"
+  },
+  {
+    "name": "APUStankLFO4",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LFO4.cfg"
+  },
+  {
+    "name": "APUStankLFO5",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\LFO5.cfg"
+  },
+  {
+    "name": "APUStankMP1",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\MP1.cfg"
+  },
+  {
+    "name": "APUStankMP2",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\MP2.cfg"
+  },
+  {
+    "name": "APUStankMP3",
+    "filePath": "APUS_Shuttle\\Parts\\Fuel\\Tanks1\\MP3.cfg"
+  },
+  {
+    "name": "APUStailplate1",
+    "filePath": "APUS_Shuttle\\Parts\\Misc\\Cap1\\Cap1.cfg"
+  },
+  {
+    "name": "nesdMS-Cone25",
+    "filePath": "APUS_Shuttle\\Parts\\Misc\\Cone25\\Cone25.cfg"
+  },
+  {
+    "name": "nesdMSdock1",
+    "filePath": "APUS_Shuttle\\Parts\\Misc\\Dock1\\Dock1.cfg"
+  },
+  {
+    "name": "GearSmall-APUSmod",
+    "filePath": "APUS_Shuttle\\Parts\\Misc\\StockWheelsMod\\GearMedium.cfg"
+  },
+  {
+    "name": "APUStailK37",
+    "filePath": "APUS_Shuttle\\Parts\\Misc\\Tail1\\TailK37.cfg"
+  },
+  {
+    "name": "APUStail2",
+    "filePath": "APUS_Shuttle\\Parts\\Misc\\Tail2\\Btail.cfg"
+  },
+  {
+    "name": "APUScargo1",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Cargo1.cfg"
+  },
+  {
+    "name": "APUScargo2",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Cargo2.cfg"
+  },
+  {
+    "name": "APUScargo3",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Cargo3.cfg"
+  },
+  {
+    "name": "APUScargo4",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Cargo4.cfg"
+  },
+  {
+    "name": "APUShull1",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Hull1.cfg"
+  },
+  {
+    "name": "APUShull2",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Hull2.cfg"
+  },
+  {
+    "name": "APUShull3",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Hull3.cfg"
+  },
+  {
+    "name": "APUShull4",
+    "filePath": "APUS_Shuttle\\Parts\\Payload\\Cargo1\\Hull4.cfg"
+  },
+  {
+    "name": "nesdMScabInt1",
+    "filePath": "APUS_Shuttle\\Spaces\\Cabin1\\internal.cfg"
+  },
+  {
+    "name": "nesdMScabInt2",
+    "filePath": "APUS_Shuttle\\Spaces\\Cabin2\\internal.cfg"
+  },
+  {
+    "name": "nesdMScrewInt1",
+    "filePath": "APUS_Shuttle\\Spaces\\Crew1\\internal.cfg"
+  },
+  {
+    "name": "nesdMScrewInt2",
+    "filePath": "APUS_Shuttle\\Spaces\\Crew2\\internal.cfg"
+  },
+  {
+    "name": "nesdMSdockInt1",
+    "filePath": "APUS_Shuttle\\Spaces\\Dock1\\internal.cfg"
+  }
+]

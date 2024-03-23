@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\KSCmesh.cfg"
+  },
+  {
+    "name": "SLF",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\KSCSLF.cfg"
+  },
+  {
+    "name": "saturnMLP",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\LC14MSS.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\LC14pad.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\LC14tower.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\LC39Pad.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\LC5MSS.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\LC5pad.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\MLP_Shuttle.cfg"
+  },
+  {
+    "name": "saturnMLP",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\saturn.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\ShuttleTower.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\SLC41.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\Spawnmarker.cfg"
+  },
+  {
+    "name": "Spawnmarker",
+    "filePath": "TWRLS(STOCK)\\CCAFS\\STSMDD.cfg"
+  }
+]

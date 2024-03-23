@@ -1,0 +1,590 @@
+[
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Benjee10\\BOLE-Booster.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Benjee10\\BOLE-Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Benjee10\\SLS SRB-Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\BetterSRBs\\lance.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\BetterSRBs\\ram.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\AJ260 Inline\\aj260 Inline.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\AJ260 Radial\\aj260 Radial.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\AJ60\\aj60.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Algol\\Algol inline.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Algol\\Algol Radial.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Algol\\Algol Short.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Castors\\Castor1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Castors\\Castor2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Castors\\Castor4.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Castors\\Castor4XL.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Early SRBS\\BE3.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Early SRBS\\P11 Subsat.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Early SRBS\\Pioneer1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Early SRBS\\SergeantX1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Early SRBS\\SergeantX11.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Early SRBS\\SergeantX3.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\GEM40\\gem40.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\GEM40-Inline\\gem40_inline.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\GEM46\\gem46.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\GEM60\\gem60.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\GEM60-XL\\gem60xl.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Interstages\\Radial\\Agena Interstage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Interstages\\Radial\\Agena-thor interstage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Interstages\\Radial\\DeltaIV nosecone Sep.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Interstages\\Radial\\DeltaIV Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\IUS&TOS\\Orbus21.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\IUS&TOS\\Orbus6.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Other\\Keyhole 9 Retropack.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Other\\Keyhole Retropack.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Other\\Retropack apollo.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Other\\Titan II Velocity trim.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Other\\Venusprobe.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Peacekeeper\\Castor120.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Peacekeeper\\Castor30.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Peacekeeper\\Castor30XL.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Peacekeeper\\SR119.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Peacekeeper\\SR120.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\AARDV Truss.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\Centaur truss.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\Saturn IB interstage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\Saturn SIV  retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\SaturnV IC Retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\SaturnV ID Retro .cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Saturn Interstages\\SaturnV IVB interstage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Agena Ullage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\AtlasVRetro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\GeminiBadaptor.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Generic linear separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Generic Radial Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Mercury Posigrade.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Mercury Retrograde.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Pioneer Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Saturn Booster Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Saturn1Retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\SaturnIIUllage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\SaturnIVBUllage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Titan I retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Titan II retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Titan Nosecone.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Titan Separator.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Sep motors\\Vanguard Retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Soltan\\soltan.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\SRMU\\SMRU A.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\SRMU\\SMRU B.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star13.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star13E gemini.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star17.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star20.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star31.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star37BV.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star37FMV.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\Star series\\Star48BV.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Bluedog_Design_Bureau\\UA120X\\UA120X.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey 220g.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey 220XL.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey 3200.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey Bruno 100.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey S1 Retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey S2 Retro.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Chrayol_Design_org\\Dhruveey S2 Ullage.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\CRE\\Blackforest Rook .cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\CRE\\Blackforest Stonechat.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\CRE\\Bluelagoon Gosling.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\CRE\\Bluelagoon Waxwing.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\GemstoneLV\\H1SRB.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\H2\\H2_srb.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Ariane 5 6 SRBS\\Ariane5SRB.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Ariane 5 6 SRBS\\P120C.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Ariane 5 6 SRBS\\P120E.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Diamond\\P03.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Diamond\\P064.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Diamond\\P10.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Diamond\\P16.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Diamond\\P4.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Diamond\\P6.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\L3S\\PAP.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Other\\Topaze Booster.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Sepatrons\\Goblin.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Sepatrons\\Leprechaun.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Sepatrons\\Lillputian.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Sepatrons\\Pushotron.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Vega\\P35.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Vega\\P40.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\KNES\\Vega\\P80.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\PhotonCorp\\NoseCone.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\PhotonCorp\\PhotonSRB1seg copy 2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\PhotonCorp\\PhotonSRB2 seg copy 3.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\PhotonCorp\\PhotonSRB3 seg copy.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\PhotonCorp\\PhotonSRB4 seg.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\PhotonCorp\\PhotonSRB5seg.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\bacc.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\Clydesdale.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\flea.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\hammer.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\kickback.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\mite.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\pollux.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\sepratron.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\shrimp.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\restock\\thoroughbred.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\bacc.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\Clydesdale.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\flea.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\hammer.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\kickback.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\mite.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\pollux.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\sepratron.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\shrimp.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\stock\\thoroughbred.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Tantares\\Nesting jet Long.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Configs\\Tantares\\Nesting jet Short.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Lower-SmokeLow]:HAS[~processed[*]]/plumeIdentifier$-smoke",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Realplume\\Solid-Lower-Smoke copy 2.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Lower-SmokeHigh]:HAS[~processed[*]]/plumeIdentifier$-smoke",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Realplume\\Solid-Lower-Smoke copy 3.cfg"
+  },
+  {
+    "name": "#$/PLUME[Solid-Lower-Smokemed]:HAS[~processed[*]]/plumeIdentifier$-smoke",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Realplume\\Solid-Lower-Smoke copy.cfg"
+  },
+  {
+    "name": "plumeGlow",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-Booster.cfg"
+  },
+  {
+    "name": "sparkout",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-Burnout.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-Core.cfg"
+  },
+  {
+    "name": "plumeGlow",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-SeaLevelPlume copy 2.cfg"
+  },
+  {
+    "name": "gaseous exhaust",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-Sepatron.cfg"
+  },
+  {
+    "name": "smoke",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-Smoke .cfg"
+  },
+  {
+    "name": "mainPlume",
+    "filePath": "Solid-Waterfall-Effects-SWE-2.4\\SWE\\Templates\\Waterfall\\SWE-VacPlume.cfg"
+  }
+]

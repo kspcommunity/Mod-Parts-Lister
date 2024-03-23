@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ipi_spaceTug_2xEngineMount",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_2xEngineMount.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_4xEngineMount",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_4xEngineMount.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_antennaKit",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_antennaKit.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_crewModule",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_crewModule.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_intelligenceModule",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_intelligenceModule.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_largePropellantTank",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_largePropellantTank.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_manipulatorModule",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_manipulatorModule.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_mediumPropellantTank",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_mediumPropellantTank.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_navigationLight_blue",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_navigationLight_blue.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_navigationLight_green",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_navigationLight_green.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_navigationLight_red",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_navigationLight_red.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_navigationLight_white",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_navigationLight_white.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_navigationLight_yellow",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_navigationLight_yellow.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_radiatorKit",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_radiatorKit.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_RCSblock",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_RCSblock.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_RCSmodule",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_RCSmodule.cfg"
+  },
+  {
+    "name": "ipi_spaceTug_RCSpropellantModule",
+    "filePath": "IntegratedPhoenixIndustries\\Parts\\SpaceTug\\ipi_spaceTug_RCSpropellantModule.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "IntegratedPhoenixIndustries\\Patches\\BluedogDesignBureau.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "IntegratedPhoenixIndustries\\Patches\\ConnectedLivingSpace.cfg"
+  },
+  {
+    "name": "SoilRecycler",
+    "filePath": "IntegratedPhoenixIndustries\\Patches\\Snacks!.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "IntegratedPhoenixIndustries\\Patches\\USILifeSupport.cfg"
+  }
+]

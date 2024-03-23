@@ -1,0 +1,10 @@
+[
+  {
+    "name": "KK_ASOG",
+    "filePath": "ASOG\\Parts\\KKStatics\\KK_ASOG.cfg"
+  },
+  {
+    "name": "ASOG",
+    "filePath": "ASOG\\Parts\\part.cfg"
+  }
+]

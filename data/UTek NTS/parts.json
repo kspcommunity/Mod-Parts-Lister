@@ -1,0 +1,214 @@
+[
+  {
+    "name": "UTekNTS",
+    "filePath": "UTek NTS\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "AntiReactor1",
+    "filePath": "UTek NTS\\Parts\\Electrical\\AntiReactor1\\AntiReactor1.cfg"
+  },
+  {
+    "name": "LHFusionReactor1",
+    "filePath": "UTek NTS\\Parts\\Electrical\\FusionReactorHP\\Reactor2.cfg"
+  },
+  {
+    "name": "LPFusionReactor1",
+    "filePath": "UTek NTS\\Parts\\Electrical\\FusionReactorLP\\Tokamak1.cfg"
+  },
+  {
+    "name": "LPFusionReactor2",
+    "filePath": "UTek NTS\\Parts\\Electrical\\SmallFusionReactor\\Reactor3.cfg"
+  },
+  {
+    "name": "XNA1",
+    "filePath": "UTek NTS\\Parts\\Engines\\Antimatter engine\\engine.cfg"
+  },
+  {
+    "name": "EtrFusion4",
+    "filePath": "UTek NTS\\Parts\\Engines\\BH engine\\engine.cfg"
+  },
+  {
+    "name": "EtrFusion2",
+    "filePath": "UTek NTS\\Parts\\Engines\\DHe engine\\engine.cfg"
+  },
+  {
+    "name": "EtrFusion1",
+    "filePath": "UTek NTS\\Parts\\Engines\\DT engine\\engine.cfg"
+  },
+  {
+    "name": "EtrFusion3",
+    "filePath": "UTek NTS\\Parts\\Engines\\LiH engine\\engine.cfg"
+  },
+  {
+    "name": "ThermoJet1",
+    "filePath": "UTek NTS\\Parts\\Engines\\ThermoJet 1\\engine1.cfg"
+  },
+  {
+    "name": "Vasimr1",
+    "filePath": "UTek NTS\\Parts\\Engines\\Vasimr1\\engine.cfg"
+  },
+  {
+    "name": "Vasimr2",
+    "filePath": "UTek NTS\\Parts\\Engines\\Vasimr2\\engine.cfg"
+  },
+  {
+    "name": "BHTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\BH Tank\\h--htank.cfg"
+  },
+  {
+    "name": "DHe3Tank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\DHe Tank\\DHe3 Tank 1.cfg"
+  },
+  {
+    "name": "DTTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\DT Tank\\DT Tank1.cfg"
+  },
+  {
+    "name": "Li7HTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\LiH Tank\\LiH Tank1.cfg"
+  },
+  {
+    "name": "BoronTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank 1 B\\BoronTank1.cfg"
+  },
+  {
+    "name": "CompAirTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank 1 CP\\CompAirTank1.cfg"
+  },
+  {
+    "name": "AntimatterTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 -H\\AntiTank1.cfg"
+  },
+  {
+    "name": "DeuteriumTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 D\\DeutTank1.cfg"
+  },
+  {
+    "name": "HydrogenTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 H\\HTank1.cfg"
+  },
+  {
+    "name": "Helium3Tank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 He3\\He3Tank1.cfg"
+  },
+  {
+    "name": "Helium4Tank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 He4\\He4Tank1.cfg"
+  },
+  {
+    "name": "LithiumTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 Li\\LiTank1.cfg"
+  },
+  {
+    "name": "TritiumTank1",
+    "filePath": "UTek NTS\\Parts\\Tanks\\1.25\\Tank1 T\\TriTank1.cfg"
+  },
+  {
+    "name": "Helium3Tank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\3He 1\\He3Tank2.cfg"
+  },
+  {
+    "name": "Helium3Tank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\3He 2\\He3Tank2.cfg"
+  },
+  {
+    "name": "Helium3Tank2",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\3He 3\\He3Tank2.cfg"
+  },
+  {
+    "name": "Helium4Tank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\4HE 1\\He4Tank2.cfg"
+  },
+  {
+    "name": "Helium4Tank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\4HE 2\\He4Tank2.cfg"
+  },
+  {
+    "name": "Helium4Tank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\4HE 3\\He4Tank2.cfg"
+  },
+  {
+    "name": "BoronTank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\B 1\\BoronTank2.cfg"
+  },
+  {
+    "name": "BoronTank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\B 2\\BoronTank 2.cfg"
+  },
+  {
+    "name": "BoronTank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\B 3\\BoronTank2.cfg"
+  },
+  {
+    "name": "CompAirTank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\CP 1\\BoronTank2.cfg"
+  },
+  {
+    "name": "CompAirTank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\CP 2\\BoronTank 2.cfg"
+  },
+  {
+    "name": "CompAirTank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\CP 3\\BoronTank2.cfg"
+  },
+  {
+    "name": "DeuteriumTank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\D 1\\DeutTank2.cfg"
+  },
+  {
+    "name": "DeuteriumTank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\D 2\\DeutTank2.cfg"
+  },
+  {
+    "name": "DeuteriumTank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\D 3\\DeutTank2.cfg"
+  },
+  {
+    "name": "HydrogenTank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\H 1\\HydrogenTank2.cfg"
+  },
+  {
+    "name": "HydrogenTank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\H 2\\HydrogenTank2.cfg"
+  },
+  {
+    "name": "HydrogenTank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\H 3\\HydrogenTank2.cfg"
+  },
+  {
+    "name": "LithiumTank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\Li 1\\LiTank2.cfg"
+  },
+  {
+    "name": "LithiumTank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\Li 2\\LiTank2.cfg"
+  },
+  {
+    "name": "LithiumTank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\Li 3\\LiTank2.cfg"
+  },
+  {
+    "name": "TritiumTank21",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\T 1\\TriTank2.cfg"
+  },
+  {
+    "name": "TritiumTank22",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\T 2\\TriTank2.cfg"
+  },
+  {
+    "name": "TritiumTank23",
+    "filePath": "UTek NTS\\Parts\\Tanks\\2.5\\T 3\\TriTank2.cfg"
+  },
+  {
+    "name": "Compressor1",
+    "filePath": "UTek NTS\\Parts\\Utility\\Compressor1\\compressor.cfg"
+  },
+  {
+    "name": "Compressor2",
+    "filePath": "UTek NTS\\Parts\\Utility\\Compressor2\\compressor.cfg"
+  },
+  {
+    "name": "DeuteriumFuel ",
+    "filePath": "UTek NTS\\Resources\\Resources.cfg"
+  }
+]

@@ -4,6 +4,18 @@
     "filePath": "Rareden\\ArtOfReentry\\Agencies\\Agents.cfg"
   },
   {
+    "name": "Heat resistant structural pannel",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\1x1_pannel\\part.cfg"
+  },
+  {
+    "name": "3.75m HeatShield",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\3.7m_hs\\part.cfg"
+  },
+  {
+    "name": "6.5m_Heatshield",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\6m_HS\\part.cfg"
+  },
+  {
     "name": "aor-heatshield-375",
     "filePath": "Rareden\\ArtOfReentry\\Parts\\heatshield-375.cfg"
   },
@@ -18,6 +30,14 @@
   {
     "name": "aor-heatshield-huygens-250",
     "filePath": "Rareden\\ArtOfReentry\\Parts\\heatshield-huygens-250.cfg"
+  },
+  {
+    "name": "1.25 huygens Heatshield",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\HuygensHS\\part.cfg"
+  },
+  {
+    "name": "2.5 huygens Heatshield",
+    "filePath": "Rareden\\ArtOfReentry\\Parts\\HuygensHs 2.5m\\part.cfg"
   },
   {
     "name": "aor-panel-1x1",

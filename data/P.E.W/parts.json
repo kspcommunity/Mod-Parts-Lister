@@ -1,0 +1,150 @@
+[
+  {
+    "name": "PEW9M120Ataka",
+    "filePath": "P.E.W\\Parts\\9M120-Ataka\\part.cfg"
+  },
+  {
+    "name": "PEW9M311",
+    "filePath": "P.E.W\\Parts\\9M311\\part.cfg"
+  },
+  {
+    "name": "PEWM-9M55",
+    "filePath": "P.E.W\\Parts\\9M55\\9M55.cfg"
+  },
+  {
+    "name": "PEW9M96E2",
+    "filePath": "P.E.W\\Parts\\9M96E2\\part.cfg"
+  },
+  {
+    "name": "PEWADM-160A",
+    "filePath": "P.E.W\\Parts\\ADM-160A\\part.cfg"
+  },
+  {
+    "name": "PEWAGM-84SLAMER",
+    "filePath": "P.E.W\\Parts\\AGM-84SLAM-ER\\SLAM-ER.cfg"
+  },
+  {
+    "name": "PEWAIM-26",
+    "filePath": "P.E.W\\Parts\\AIM-26\\AIM-26.cfg"
+  },
+  {
+    "name": "PEWAIM54",
+    "filePath": "P.E.W\\Parts\\AIM-54\\part.cfg"
+  },
+  {
+    "name": "PEW-ANAWW13",
+    "filePath": "P.E.W\\Parts\\ANAWW13\\RadarPod.cfg"
+  },
+  {
+    "name": "PEWBG109",
+    "filePath": "P.E.W\\Parts\\BGM-109\\BGM-109.cfg"
+  },
+  {
+    "name": "PEW-BLU-82",
+    "filePath": "P.E.W\\Parts\\BLU-82\\part.cfg"
+  },
+  {
+    "name": "PEW-BMP2",
+    "filePath": "P.E.W\\Parts\\BMP2\\BMP2Turret.cfg"
+  },
+  {
+    "name": "PEW-Bradley",
+    "filePath": "P.E.W\\Parts\\Bradley\\BradleyTurret.cfg"
+  },
+  {
+    "name": "PEWGBU53A",
+    "filePath": "P.E.W\\Parts\\GBU-53A\\GBU-53A.cfg"
+  },
+  {
+    "name": "PEW-GBU-57/A",
+    "filePath": "P.E.W\\Parts\\GBU-57A\\part.cfg"
+  },
+  {
+    "name": "PEWKH-29",
+    "filePath": "P.E.W\\Parts\\KH-29\\part.cfg"
+  },
+  {
+    "name": "PEWKh-31p",
+    "filePath": "P.E.W\\Parts\\Kh-31p\\Kh-31p.cfg"
+  },
+  {
+    "name": "PEWKH-35",
+    "filePath": "P.E.W\\Parts\\KH-35\\part.cfg"
+  },
+  {
+    "name": "PEWKH-38",
+    "filePath": "P.E.W\\Parts\\Kh-38\\part.cfg"
+  },
+  {
+    "name": "PEWM-31",
+    "filePath": "P.E.W\\Parts\\M-31\\M31.cfg"
+  },
+  {
+    "name": "PEW-mk19",
+    "filePath": "P.E.W\\Parts\\mk.19Mount\\mk.19.cfg"
+  },
+  {
+    "name": "PEWMIM-14Nike",
+    "filePath": "P.E.W\\Parts\\Nike\\part.cfg"
+  },
+  {
+    "name": "PEWP-800-Oniks",
+    "filePath": "P.E.W\\Parts\\P-800\\part.cfg"
+  },
+  {
+    "name": "PEWPenguin",
+    "filePath": "P.E.W\\Parts\\Penguin\\Penguin.cfg"
+  },
+  {
+    "name": "PEWPhalanx",
+    "filePath": "P.E.W\\Parts\\Phalanx\\Phalanx.cfg"
+  },
+  {
+    "name": "PEW-R-27",
+    "filePath": "P.E.W\\Parts\\R-27\\R-27.cfg"
+  },
+  {
+    "name": "PEWAIR-37",
+    "filePath": "P.E.W\\Parts\\R-37\\part.cfg"
+  },
+  {
+    "name": "PEW-R-73",
+    "filePath": "P.E.W\\Parts\\R-73\\R-73.cfg"
+  },
+  {
+    "name": "PEWR-77",
+    "filePath": "P.E.W\\Parts\\R-77\\part.cfg"
+  },
+  {
+    "name": "PEWRGM-84",
+    "filePath": "P.E.W\\Parts\\RGM-84\\part.cfg"
+  },
+  {
+    "name": "PEWRIM-116",
+    "filePath": "P.E.W\\Parts\\RIM-116\\part.cfg"
+  },
+  {
+    "name": "PEWRIM-162ESSM",
+    "filePath": "P.E.W\\Parts\\RIM-162ESSM\\RIM162.cfg"
+  },
+  {
+    "name": "PEWRIM-174",
+    "filePath": "P.E.W\\Parts\\RIM-174\\part.cfg"
+  },
+  {
+    "name": "PEWDropTank",
+    "filePath": "P.E.W\\Parts\\SargentFletcherDropTank\\DropTank.cfg"
+  },
+  {
+    "name": "PEWstinger",
+    "filePath": "P.E.W\\Parts\\Stinger\\stinger.cfg"
+  },
+  {
+    "name": "PEW-T90MS",
+    "filePath": "P.E.W\\Parts\\T90MSTurret\\T90MS.cfg"
+  },
+  {
+    "name": "PEWTunguska",
+    "filePath": "P.E.W\\Parts\\Tunguska\\Tunguska.cfg"
+  }
+]

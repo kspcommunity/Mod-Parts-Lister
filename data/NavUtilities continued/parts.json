@@ -1,0 +1,26 @@
+[
+  {
+    "name": "KSF_NAV_HSI",
+    "filePath": "NavUtilities continued\\MFD\\addToASETMfd.cfg"
+  },
+  {
+    "name": "KSF_NAV_HSI",
+    "filePath": "NavUtilities continued\\MFD\\addToHyomotoRPM.cfg"
+  },
+  {
+    "name": "KSF_NAV_HSI",
+    "filePath": "NavUtilities continued\\MFD\\addToKSO.cfg"
+  },
+  {
+    "name": "KSF_NAV_HSI",
+    "filePath": "NavUtilities continued\\MFD\\addToKSOSuper25.cfg"
+  },
+  {
+    "name": "KSF_NAV_HSI",
+    "filePath": "NavUtilities continued\\MFD\\addToRPM018.cfg"
+  },
+  {
+    "name": "analogHSI",
+    "filePath": "NavUtilities continued\\Props\\prop.cfg"
+  }
+]

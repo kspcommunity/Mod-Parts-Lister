@@ -1,0 +1,70 @@
+[
+  {
+    "name": "compactFlyAssistant",
+    "filePath": "VM\\Parts\\CompactFlyAssistant\\CompactFlyAssistant.cfg"
+  },
+  {
+    "name": "VMFactory",
+    "filePath": "VM\\Parts\\Factories\\VMFactory.cfg"
+  },
+  {
+    "name": "VMExhaustL",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMExhaustL.cfg"
+  },
+  {
+    "name": "VMExhaustM",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMExhaustM.cfg"
+  },
+  {
+    "name": "VMExhaustN",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMExhaustN.cfg"
+  },
+  {
+    "name": "VMExhaustS",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMExhaustS.cfg"
+  },
+  {
+    "name": "VMRcsBlock",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMrcsBlock.cfg"
+  },
+  {
+    "name": "VMRcsLinear",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMrcsLinear.cfg"
+  },
+  {
+    "name": "VMReactorL",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMReactorL.cfg"
+  },
+  {
+    "name": "VMReactorM",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMReactorM.cfg"
+  },
+  {
+    "name": "VMReactorS",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VMReactorS.cfg"
+  },
+  {
+    "name": "VmSolarSail",
+    "filePath": "VM\\Parts\\PropulsionSystem\\VmSolarSail.cfg"
+  },
+  {
+    "name": "VMEF",
+    "filePath": "VM\\Parts\\Storage\\VMFuelTankTypes.cfg"
+  },
+  {
+    "name": "VmModularTankL",
+    "filePath": "VM\\Parts\\Storage\\VMModularTankL.cfg"
+  },
+  {
+    "name": "VmModularTankM",
+    "filePath": "VM\\Parts\\Storage\\VMModularTankM.cfg"
+  },
+  {
+    "name": "VmModularTankS",
+    "filePath": "VM\\Parts\\Storage\\VMModularTankS.cfg"
+  },
+  {
+    "name": "ExoticFuel",
+    "filePath": "VM\\ResourceConfigs\\VMResources.cfg"
+  }
+]

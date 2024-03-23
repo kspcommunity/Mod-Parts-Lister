@@ -1,0 +1,10 @@
+[
+  {
+    "name": "KeslaC1Int",
+    "filePath": "KeslaC1\\internal.cfg"
+  },
+  {
+    "name": "KeslaC1",
+    "filePath": "KeslaC1\\KeslaC1.cfg"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AblatorTank",
+    "filePath": "Ablator tank\\Parts\\FuelTank\\AblatorStorage\\Extra Ablator.cfg"
+  },
+  {
+    "name": "AblatorPaste",
+    "filePath": "Ablator tank\\Rescources\\AblatorPaste.cfg"
+  },
+  {
+    "name": "AblatorSetter",
+    "filePath": "Ablator tank\\Rescources\\AblatorSetter.cfg"
+  }
+]

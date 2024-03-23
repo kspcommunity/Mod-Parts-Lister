@@ -1,0 +1,50 @@
+[
+  {
+    "name": "JNSQ KSRGAP",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Agencies.cfg"
+  },
+  {
+    "name": "JKSRGAP01-LetsStartAnAirline",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\01 - LetsStartAnAirline.cfg"
+  },
+  {
+    "name": "JKSRGAP02-LandingRights",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\02 - LandingRights.cfg"
+  },
+  {
+    "name": "JKSRGAP03-CommercialFlights1",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\03 - CommercialFlights1.cfg"
+  },
+  {
+    "name": "JKSRGAP04-CommercialFlights2",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\04 - CommercialFlights2.cfg"
+  },
+  {
+    "name": "JKSRGAP05-CommercialFlights3",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\05 - CommercialFlights3.cfg"
+  },
+  {
+    "name": "JKSRGAP06-CommercialMultiFlights1",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\06 - CommercialMultiFlights1.cfg"
+  },
+  {
+    "name": "JKSRGAP07-CommercialMultiFlights2",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\07 - CommercialMultiFlights2.cfg"
+  },
+  {
+    "name": "JKSRGAP08-CommercialMultiFlights3",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\08 - CommercialMultiFlights3.cfg"
+  },
+  {
+    "name": "JKSRGAP09-Cargo-Flights",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Flights\\09 - CargoRetrievalFlights.cfg"
+  },
+  {
+    "name": "JKSRGAP",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Groups.cfg"
+  },
+  {
+    "name": "KSC ILS 09",
+    "filePath": "JNSQ-KSRGAP-1.0.1\\GameData\\ContractPacks\\JNSQ-KSRGAP\\Patches\\KramaxAutoPilotFlightPlans.cfg"
+  }
+]

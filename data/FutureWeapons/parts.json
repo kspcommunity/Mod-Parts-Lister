@@ -1,0 +1,50 @@
+[
+  {
+    "name": "wraithforgeDorsalTurbolaser",
+    "filePath": "FutureWeapons\\Parts\\Dorsal Turbolaser Turret\\Dorsal Turbolaser Turret.cfg"
+  },
+  {
+    "name": "ionCannon",
+    "filePath": "FutureWeapons\\Parts\\IonCannon\\ion.cfg"
+  },
+  {
+    "name": "LightLaser",
+    "filePath": "FutureWeapons\\Parts\\LightLaser\\X-1.cfg"
+  },
+  {
+    "name": "m50Dragon",
+    "filePath": "FutureWeapons\\Parts\\m50Dragon\\m50Dragon.cfg"
+  },
+  {
+    "name": "wraithforgeOldRepublicDefenceTurret",
+    "filePath": "FutureWeapons\\Parts\\Old Republic Defence Turret\\Old Republic Defence Turret.cfg"
+  },
+  {
+    "name": "powerSystem",
+    "filePath": "FutureWeapons\\Parts\\PowerSystem\\powerSystem.cfg"
+  },
+  {
+    "name": "scoutCannon",
+    "filePath": "FutureWeapons\\Parts\\ScoutCannon\\scout.cfg"
+  },
+  {
+    "name": "tieTurret",
+    "filePath": "FutureWeapons\\Parts\\TIE\\TIE.cfg"
+  },
+  {
+    "name": "turboLaser",
+    "filePath": "FutureWeapons\\Parts\\TurboLaser\\TurboLaser.cfg"
+  },
+  {
+    "name": "x-8",
+    "filePath": "FutureWeapons\\Parts\\X-8\\x8.cfg"
+  },
+  {
+    "name": "SM_X10LaserCannon",
+    "filePath": "FutureWeapons\\Parts\\X10LaserCannon\\SM_X10LaserCannon.cfg"
+  },
+  {
+    "name": "Power",
+    "filePath": "FutureWeapons\\Resources\\Power.cfg"
+  }
+]

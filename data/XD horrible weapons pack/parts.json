@@ -1,0 +1,186 @@
+[
+  {
+    "name": "XDHeavyAim120",
+    "filePath": "XD horrible weapons pack\\Parts\\aim-120 heavy\\amraam.cfg"
+  },
+  {
+    "name": "XDAntimatterbomb",
+    "filePath": "XD horrible weapons pack\\Parts\\Anti-matter bomb\\jdam.cfg"
+  },
+  {
+    "name": "XDAntiRad",
+    "filePath": "XD horrible weapons pack\\Parts\\Anti-rad missile\\harm.cfg"
+  },
+  {
+    "name": "GoalKeeperXDFlakTurret",
+    "filePath": "XD horrible weapons pack\\Parts\\Better flak turret\\flak turret.cfg"
+  },
+  {
+    "name": "GoalKeeperXDFlak",
+    "filePath": "XD horrible weapons pack\\Parts\\Better goalkeeper turret\\GoalKeeperBDAcMk1.cfg"
+  },
+  {
+    "name": "spacenuclearWarheadBig",
+    "filePath": "XD horrible weapons pack\\Parts\\Big warhead\\detachable part.cfg"
+  },
+  {
+    "name": "conventionalcircularWarhead",
+    "filePath": "XD horrible weapons pack\\Parts\\Big warhead\\not nuke circular part small.cfg"
+  },
+  {
+    "name": "conventionalcircularWarheadBig",
+    "filePath": "XD horrible weapons pack\\Parts\\Big warhead\\not nuke circular part.cfg"
+  },
+  {
+    "name": "conventionalWarheadBig",
+    "filePath": "XD horrible weapons pack\\Parts\\Big warhead\\not nuke part.cfg"
+  },
+  {
+    "name": "nuclearWarheadBig",
+    "filePath": "XD horrible weapons pack\\Parts\\Big warhead\\part.cfg"
+  },
+  {
+    "name": "XDbomberCILSTurret",
+    "filePath": "XD horrible weapons pack\\Parts\\Bomber CIWS\\50cal.cfg"
+  },
+  {
+    "name": "GoalKeeperXDBurstFlakTurret",
+    "filePath": "XD horrible weapons pack\\Parts\\Burst flak gun\\flak turret.cfg"
+  },
+  {
+    "name": "XDCILSTurret",
+    "filePath": "XD horrible weapons pack\\Parts\\CILS\\50cal.cfg"
+  },
+  {
+    "name": "XDCIRCULARRADOME",
+    "filePath": "XD horrible weapons pack\\Parts\\circular radar\\radome1inline.cfg"
+  },
+  {
+    "name": "XDClusterBomb",
+    "filePath": "XD horrible weapons pack\\Parts\\Cluster bomb\\clusterBomb.cfg"
+  },
+  {
+    "name": "GoalKeeperXD",
+    "filePath": "XD horrible weapons pack\\Parts\\death ray anti air turret\\GoalKeeperBDAcMk1.cfg"
+  },
+  {
+    "name": "deathray",
+    "filePath": "XD horrible weapons pack\\Parts\\death ray gun\\death ray gun.cfg"
+  },
+  {
+    "name": "bahaAgm86BEMP",
+    "filePath": "XD horrible weapons pack\\Parts\\EMP cruise missile\\AGM86-17 EMP.cfg"
+  },
+  {
+    "name": "XDRBS-15CruiseEMP",
+    "filePath": "XD horrible weapons pack\\Parts\\EMP cruise missile\\rbs15-17 EMP.cfg"
+  },
+  {
+    "name": "smallnuclearengine",
+    "filePath": "XD horrible weapons pack\\Parts\\engine\\ionEngine small.cfg"
+  },
+  {
+    "name": "electricengine",
+    "filePath": "XD horrible weapons pack\\Parts\\engine\\ionEngine.cfg"
+  },
+  {
+    "name": "turboFanXD",
+    "filePath": "XD horrible weapons pack\\Parts\\engine\\jetEngineBig.cfg"
+  },
+  {
+    "name": "lightengine",
+    "filePath": "XD horrible weapons pack\\Parts\\engine\\light engine.cfg"
+  },
+  {
+    "name": "bahaABLlarge",
+    "filePath": "XD horrible weapons pack\\Parts\\laser\\ABL.cfg"
+  },
+  {
+    "name": "LRAntiShipCruise",
+    "filePath": "XD horrible weapons pack\\Parts\\LR anti-ship cruise missile\\LRAS Missile.cfg"
+  },
+  {
+    "name": "XDJdamMk83Big",
+    "filePath": "XD horrible weapons pack\\Parts\\LR GPS bomb\\jdam.cfg"
+  },
+  {
+    "name": "XDM102Howitzer",
+    "filePath": "XD horrible weapons pack\\Parts\\m88Howitzer\\m88.cfg"
+  },
+  {
+    "name": "XDJdamMk83",
+    "filePath": "XD horrible weapons pack\\Parts\\Mini bomb\\jdam.cfg"
+  },
+  {
+    "name": "XDNuclearMissile",
+    "filePath": "XD horrible weapons pack\\Parts\\Nuclear missile\\maverickMissile.cfg"
+  },
+  {
+    "name": "XDRBS-15CruiseNuke",
+    "filePath": "XD horrible weapons pack\\Parts\\Nuclear missile\\rbs15-17 nuke.cfg"
+  },
+  {
+    "name": "XDOPAim9",
+    "filePath": "XD horrible weapons pack\\Parts\\OP Aim-9\\sidewinder.cfg"
+  },
+  {
+    "name": "XDrailgun",
+    "filePath": "XD horrible weapons pack\\Parts\\railgun\\m1Abrams.cfg"
+  },
+  {
+    "name": "XDReloadableRail",
+    "filePath": "XD horrible weapons pack\\Parts\\reloadable rail\\reloadable rail.cfg"
+  },
+  {
+    "name": "XDH69AreaTurret",
+    "filePath": "XD horrible weapons pack\\Parts\\rockets\\h69areaturret.cfg"
+  },
+  {
+    "name": "XDH69Launcher",
+    "filePath": "XD horrible weapons pack\\Parts\\rockets\\h69Launcher.cfg"
+  },
+  {
+    "name": "XDH69Turret",
+    "filePath": "XD horrible weapons pack\\Parts\\rockets\\h69turret.cfg"
+  },
+  {
+    "name": "XDrtg",
+    "filePath": "XD horrible weapons pack\\Parts\\RTG\\RTG.cfg"
+  },
+  {
+    "name": "bdWarheadEMP",
+    "filePath": "XD horrible weapons pack\\Parts\\small emp warhead\\part.cfg"
+  },
+  {
+    "name": "XDAGM-65",
+    "filePath": "XD horrible weapons pack\\Parts\\Standoff agm\\maverickMissile.cfg"
+  },
+  {
+    "name": "StingRaybigTorpedo",
+    "filePath": "XD horrible weapons pack\\Parts\\StingRay big\\StingRay big Torpedo.cfg"
+  },
+  {
+    "name": "XDmissileTurret",
+    "filePath": "XD horrible weapons pack\\Parts\\STS radar\\STS radar.cfg"
+  },
+  {
+    "name": "bahaCamPodlargeFOV",
+    "filePath": "XD horrible weapons pack\\Parts\\targetting cam\\targetingCam.cfg"
+  },
+  {
+    "name": "PrimitiveTorpedo",
+    "filePath": "XD horrible weapons pack\\Parts\\Unguided torpedo\\Dumb Torpedo.cfg"
+  },
+  {
+    "name": "XDairlinerTailFin",
+    "filePath": "XD horrible weapons pack\\Parts\\Wings\\TailFin.cfg"
+  },
+  {
+    "name": "XDwingletmini",
+    "filePath": "XD horrible weapons pack\\Parts\\Wings\\wingletDeltaDeluxe.cfg"
+  },
+  {
+    "name": "Hydra69Rocket",
+    "filePath": "XD horrible weapons pack\\Resource\\XD ammo.cfg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "BREAD-main\\BREAD\\Compatibility\\BE4.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "BREAD-main\\BREAD\\Compatibility\\gem63xl.cfg"
+  },
+  {
+    "name": "Solid-Lower",
+    "filePath": "BREAD-main\\BREAD\\Compatibility\\RealPlumePatch.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "BREAD-main\\BREAD\\Compatibility\\VulcanBE4.cfg"
+  },
+  {
+    "name": "V_PA_BE-4",
+    "filePath": "BREAD-main\\BREAD\\Parts\\BE-4\\V_PA_BE-4.cfg"
+  },
+  {
+    "name": "CentaurVMount",
+    "filePath": "BREAD-main\\BREAD\\Parts\\CentaurMount\\CentaurVMount.cfg"
+  },
+  {
+    "name": "CentaurVTank",
+    "filePath": "BREAD-main\\BREAD\\Parts\\CentaurV\\CentaurVTank.cfg"
+  },
+  {
+    "name": "VulcanFairing",
+    "filePath": "BREAD-main\\BREAD\\Parts\\SAF_Fairing\\bluedog_DeltaIV_DCSS_fairingBase_SAF.cfg"
+  },
+  {
+    "name": "Vulcan_GEM63XL",
+    "filePath": "BREAD-main\\BREAD\\Parts\\VulcanBooster\\Vulcan_GEM63XL.cfg"
+  },
+  {
+    "name": "VulcanInterstage",
+    "filePath": "BREAD-main\\BREAD\\Parts\\VulcanInterstage\\VulcanInterstage.cfg"
+  },
+  {
+    "name": "VulcanInterstageAdapter",
+    "filePath": "BREAD-main\\BREAD\\Parts\\VulcanInterstage\\VulcanInterstageAdapter.cfg"
+  },
+  {
+    "name": "VulcanCoreEngineMount",
+    "filePath": "BREAD-main\\BREAD\\Parts\\VulcanMount\\VulcanCoreEngineMount.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "BREAD-main\\BREAD\\Parts\\VulcanTank\\Paint\\VulcanPaint.cfg"
+  },
+  {
+    "name": "VulcanCoreTank",
+    "filePath": "BREAD-main\\BREAD\\Parts\\VulcanTank\\VulcanCoreTank.cfg"
+  },
+  {
+    "name": "Bruno's Rocket Emporium And Designs",
+    "filePath": "BREAD-main\\BREAD\\Patches\\CCK\\Category_CCK.cfg"
+  }
+]

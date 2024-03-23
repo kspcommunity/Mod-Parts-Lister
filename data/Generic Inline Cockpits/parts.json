@@ -1,0 +1,34 @@
+[
+  {
+    "name": "N5 Aerodynamics and Space",
+    "filePath": "Generic Inline Cockpits\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "Mk1-625cm",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk1-625cm\\Mk1-625cm.cfg"
+  },
+  {
+    "name": "Mk1Long",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk1Long\\Mk1Long.cfg"
+  },
+  {
+    "name": "Mk1Short",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk1Short\\Mk1Short.cfg"
+  },
+  {
+    "name": "Mk2-Mk1Long",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk2-Mk1Long\\Mk2Long.cfg"
+  },
+  {
+    "name": "Mk2Long",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk2Long\\Mk2Long.cfg"
+  },
+  {
+    "name": "Mk2Short",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk2Short\\Mk2Short.cfg"
+  },
+  {
+    "name": "Mk3Lancaster",
+    "filePath": "Generic Inline Cockpits\\Parts\\Mk3Lancaster\\Mk3Lancaster.cfg"
+  }
+]

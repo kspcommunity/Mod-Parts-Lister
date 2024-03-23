@@ -1,0 +1,454 @@
+[
+  {
+    "name": "ThermalPower",
+    "filePath": "Mk3Expansion-1.6.1.4\\Extras\\Mk3Expansion\\Patches\\M3X_NTJ_decay.cfg"
+  },
+  {
+    "name": "MultiModeEngine",
+    "filePath": "Mk3Expansion-1.6.1.4\\Extras\\Mk3Expansion\\Patches\\M3X_SievertFuelSwap.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\B9PartSwitch\\B9PartSwitch-TweakScale.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\B9PartSwitch\\DefaultTankTypes.cfg"
+  },
+  {
+    "name": "ModuleB9PartInfo",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\B9PartSwitch\\PartInfo.cfg"
+  },
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "Apoapsis Industries",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "M3X_AirbrakeA",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSAirbrakes\\Airbrake.cfg"
+  },
+  {
+    "name": "M3X_AirbrakeB",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSAirbrakes\\Airbrake2.cfg"
+  },
+  {
+    "name": "M3X_ElevonA",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\elevonA.cfg"
+  },
+  {
+    "name": "M3X_ElevonB",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\elevonB.cfg"
+  },
+  {
+    "name": "M3X_ElevonC",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\elevonC.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentA",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentA.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentB",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentB.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentC",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentC.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentD",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentD.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentE",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentE.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentF",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentF.cfg"
+  },
+  {
+    "name": "M3X_WingSegmentG",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\BigSWings\\SegmentG.cfg"
+  },
+  {
+    "name": "M3X_EndChine",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Chines\\End.cfg"
+  },
+  {
+    "name": "M3X_LongChine",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Chines\\Long.cfg"
+  },
+  {
+    "name": "M3X_RCSChineSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Chines\\RCS.cfg"
+  },
+  {
+    "name": "M3X_RCSChineCap",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Chines\\RCSCap.cfg"
+  },
+  {
+    "name": "M3X_ShortChine",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Chines\\Short.cfg"
+  },
+  {
+    "name": "M3X_SubsonicIntake",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Jetliner_Intake\\part.cfg"
+  },
+  {
+    "name": "M3X_Precooler",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Precooler\\part.cfg"
+  },
+  {
+    "name": "M3X_RampIntake",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\RampIntake\\part.cfg"
+  },
+  {
+    "name": "M3X_ConeIntake",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Aero\\Shockcone\\part.cfg"
+  },
+  {
+    "name": "M3X_CyclopsCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Command\\Cyclops\\part.cfg"
+  },
+  {
+    "name": "M3XDroneCore",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Command\\Drone\\part.cfg"
+  },
+  {
+    "name": "M3X_InlineCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Command\\Inline\\part.cfg"
+  },
+  {
+    "name": "M3X_ShovelCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Command\\Shovel\\mk3CockpitShuttle.cfg"
+  },
+  {
+    "name": "M3X_AugmentedRocket",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\AugmentedRocket\\part.cfg"
+  },
+  {
+    "name": "M3X_CLEAVER",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\CLEAVER\\part.cfg"
+  },
+  {
+    "name": "M3X_ConcentricAerospike",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\ConcentricAerospike\\part.cfg"
+  },
+  {
+    "name": "M3X_Hades",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\Hades\\part.cfg"
+  },
+  {
+    "name": "M3X_Heavyprop",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\HeavyProp\\part.cfg"
+  },
+  {
+    "name": "M3X_IonEngine",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\ionEngine\\part.cfg"
+  },
+  {
+    "name": "M3X_Turbofan",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\Legacy\\Turbofan\\part.cfg"
+  },
+  {
+    "name": "M3X_Linearaerospike",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\LinearAerospike\\part.cfg"
+  },
+  {
+    "name": "mk3_OMSystem",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\OMS\\omsEngine.cfg"
+  },
+  {
+    "name": "M3X_NuclearJet",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\Sievert\\part.cfg"
+  },
+  {
+    "name": "M3X_SRBLong",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\SolidBooster\\Long.cfg"
+  },
+  {
+    "name": "M3X_HeavySRB",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\SolidBooster\\part.cfg"
+  },
+  {
+    "name": "M3X_SRB",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\SolidBooster\\Standard.cfg"
+  },
+  {
+    "name": "M3X_XLTurbofan",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\Turbofan\\part.cfg"
+  },
+  {
+    "name": "M3X_TurboJet",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\TurboRamJet\\part.cfg"
+  },
+  {
+    "name": "M3X_HeavyVTOL",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Engines\\VTOL\\Part.cfg"
+  },
+  {
+    "name": "M3X_Size2Bicoupler",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\Bicoupler\\part.cfg"
+  },
+  {
+    "name": "M3X_hypersonicnosecone",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\HSNC\\part.cfg"
+  },
+  {
+    "name": "M3X_InverterAdaptermk2",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\InvertedAdapter\\part.cfg"
+  },
+  {
+    "name": "M3X_size1adapter",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\mk3size1adapter\\part.cfg"
+  },
+  {
+    "name": "M3X_Quadcoupler",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\Quadcoupler\\part.cfg"
+  },
+  {
+    "name": "M3X_serviceBay",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\ServiceBay\\part.cfg"
+  },
+  {
+    "name": "M3X_UST",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\ServiceTank\\part.cfg"
+  },
+  {
+    "name": "M3X_ShortAdapter",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\ShortAdapter\\part.cfg"
+  },
+  {
+    "name": "M3X_nosecap",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\SSNC\\part.cfg"
+  },
+  {
+    "name": "M3X_Tricoupler",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\Tricoupler\\part.cfg"
+  },
+  {
+    "name": "M3X_Mk2Tricoupler",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\FuelTank\\TricouplerMk2\\part.cfg"
+  },
+  {
+    "name": "M3Xdecoupler",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\Decoupler\\part.cfg"
+  },
+  {
+    "name": "M3X_Endplate",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\Endplate\\part.cfg"
+  },
+  {
+    "name": "M3X_AdapterSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\cargoadapter.cfg"
+  },
+  {
+    "name": "M3X_RCSCap",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\CRCS.cfg"
+  },
+  {
+    "name": "M3X_CrewSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\Crew.cfg"
+  },
+  {
+    "name": "M3X_EndSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\End.cfg"
+  },
+  {
+    "name": "M3X_IntakeSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\Intake.cfg"
+  },
+  {
+    "name": "M3X_LongSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\Long.cfg"
+  },
+  {
+    "name": "M3X_AttachSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\Node.cfg"
+  },
+  {
+    "name": "M3X_RCSSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\RCS.cfg"
+  },
+  {
+    "name": "M3X_ShortSegment",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\FuselageExtension\\Short.cfg"
+  },
+  {
+    "name": "M3X_LHub",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\Hubs\\LHub.cfg"
+  },
+  {
+    "name": "M3X_THub",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\Hubs\\THub.cfg"
+  },
+  {
+    "name": "M3X_XHub",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\Hubs\\XHub.cfg"
+  },
+  {
+    "name": "M3X_OMSShoulder",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\OMS_shoulder\\part.cfg"
+  },
+  {
+    "name": "M3X_RadialMount",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\RadialMount\\Radial.cfg"
+  },
+  {
+    "name": "M3X_LTube",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\StructuralTube\\LHub.cfg"
+  },
+  {
+    "name": "M3X_StructuralTube",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\StructuralTube\\part.cfg"
+  },
+  {
+    "name": "M3X_Ttube",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\StructuralTube\\THub.cfg"
+  },
+  {
+    "name": "M3X_Xtube",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Structural\\StructuralTube\\XHub.cfg"
+  },
+  {
+    "name": "M3X_AligningDockingPort",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\AlignedDockingPort\\part.cfg"
+  },
+  {
+    "name": "M3X_cargoContainer",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\CargoTank\\part.cfg"
+  },
+  {
+    "name": "M3X_InlineDockingPort",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\DockingPorts\\inline.cfg"
+  },
+  {
+    "name": "M3X_StackDockingPort",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\DockingPorts\\stack.cfg"
+  },
+  {
+    "name": "M3X_HeavyRCS",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\HeavyRCS\\part.cfg"
+  },
+  {
+    "name": "M3X_Mk2AdapterRamp",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\Ramps\\Adapter.cfg"
+  },
+  {
+    "name": "M3X_FlatRamp",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\Ramps\\FlatRamp.cfg"
+  },
+  {
+    "name": "M3X_Mk2LongAdapterRamp",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\Ramps\\LAdapterRamp.cfg"
+  },
+  {
+    "name": "M3X_NoseRamp",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\Ramps\\ramp.cfg"
+  },
+  {
+    "name": "M3X_Reactor",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\Reactor\\part.cfg"
+  },
+  {
+    "name": "M3X_SAS",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\SAS\\part.cfg"
+  },
+  {
+    "name": "M3X_SciLab",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Parts\\Utility\\SciLab\\part.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_AtmIntake.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_CLS.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_DRE.cfg"
+  },
+  {
+    "name": "FARWingAerodynamicModel",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_FAR_Compatibility.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_FuelTankSwitch.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_KA.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_MFT.cfg"
+  },
+  {
+    "name": "ModuleUpdateOverride",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_NFE_Functionality.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_RPM.cfg"
+  },
+  {
+    "name": "ModuleSystemHeat",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_SystemHeat.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\M3X_USILS.cfg"
+  },
+  {
+    "name": "ExWorkshop",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\Mk3_EPL.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Patches\\Mk3_USILS.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Resources\\TankTypes.cfg"
+  },
+  {
+    "name": "M3XLabInternal",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Spaces\\CrewedLab\\Internal.cfg"
+  },
+  {
+    "name": "CyclopsInternal",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Spaces\\Cyclops\\Internal.cfg"
+  },
+  {
+    "name": "Mk3InlineCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Spaces\\Mk3Inline\\internal.cfg"
+  },
+  {
+    "name": "RPM_Mk3InlineCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Spaces\\Mk3Inline\\RPM_internal.cfg"
+  },
+  {
+    "name": "ShovelCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Spaces\\Shovel\\internal.cfg"
+  },
+  {
+    "name": "RPM_ShovelCockpit",
+    "filePath": "Mk3Expansion-1.6.1.4\\GameData\\Mk3Expansion\\Spaces\\Shovel\\RPM_internal.cfg"
+  }
+]

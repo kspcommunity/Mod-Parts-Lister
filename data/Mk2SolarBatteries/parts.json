@@ -1,0 +1,10 @@
+[
+  {
+    "name": "mk2SolarBattery1k",
+    "filePath": "Mk2SolarBatteries\\Parts\\SolarBattery1k\\mk2SolarBattery1k.cfg"
+  },
+  {
+    "name": "mk2SolarBattery2k",
+    "filePath": "Mk2SolarBatteries\\Parts\\SolarBattery2k\\mk2SolarBattery2k.cfg"
+  }
+]

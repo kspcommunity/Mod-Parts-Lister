@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ocean",
+    "filePath": "APRIL-1\\KopernicusFiles\\3_Laythe\\3_Laythe.cfg"
+  },
+  {
+    "name": "Jester",
+    "filePath": "APRIL-1\\KopernicusFiles\\5_JesterFool\\0_Jester.cfg"
+  },
+  {
+    "name": "Fool",
+    "filePath": "APRIL-1\\KopernicusFiles\\5_JesterFool\\1_Fool.cfg"
+  },
+  {
+    "name": "APRIL-1/Lights/Textures/cube",
+    "filePath": "APRIL-1\\Lights\\cityLights.cfg"
+  }
+]

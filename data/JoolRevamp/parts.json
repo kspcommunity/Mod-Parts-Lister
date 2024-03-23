@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Aditel",
+    "filePath": "JoolRevamp\\Config\\Aditel.cfg"
+  },
+  {
+    "name": "JoolC",
+    "filePath": "JoolRevamp\\Config\\Jool.cfg"
+  }
+]

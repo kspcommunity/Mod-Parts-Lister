@@ -1,0 +1,26 @@
+[
+  {
+    "name": "griddedPlume1",
+    "filePath": "SillyPhotonDrives\\Compatibility\\antimatter photon waterfall.cfg"
+  },
+  {
+    "name": "griddedPlume1",
+    "filePath": "SillyPhotonDrives\\Compatibility\\photon drives waterfall.cfg"
+  },
+  {
+    "name": "spd_Photon_125",
+    "filePath": "SillyPhotonDrives\\Parts\\Engine\\spd_Photon_125.cfg"
+  },
+  {
+    "name": "spd_Photon_5",
+    "filePath": "SillyPhotonDrives\\Parts\\Engine\\spd_Photon_5.cfg"
+  },
+  {
+    "name": "spd_Photon_625",
+    "filePath": "SillyPhotonDrives\\Parts\\Engine\\spd_Photon_625.cfg"
+  },
+  {
+    "name": "spd_radiation_pressure",
+    "filePath": "SillyPhotonDrives\\Resources\\spd_radiation_pressure.cfg"
+  }
+]

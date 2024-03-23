@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SpaceShip²Yard Enterprises",
+    "filePath": "SpaceDock-0.2.2\\GameData\\SpaceDock\\Agencies\\SpaceShipShipYardEnterprises.cfg"
+  },
+  {
+    "name": "miniDock",
+    "filePath": "SpaceDock-0.2.2\\GameData\\SpaceDock\\Parts\\MiniDock\\MiniDock.cfg"
+  },
+  {
+    "name": "microDock",
+    "filePath": "SpaceDock-0.2.2\\GameData\\SpaceDock\\Parts\\SpaceDock_MicroDock\\MicroDock.cfg"
+  },
+  {
+    "name": "nanoDock",
+    "filePath": "SpaceDock-0.2.2\\GameData\\SpaceDock\\Parts\\SpaceDock_NanoDock\\NanoDock.cfg"
+  },
+  {
+    "name": "ModuleControllableEmissive",
+    "filePath": "SpaceDock-0.2.2\\GameData\\SpaceDock\\Patches\\IndLightsPatch.cfg"
+  }
+]

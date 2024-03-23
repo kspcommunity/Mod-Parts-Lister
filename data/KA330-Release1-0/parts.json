@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ka330-interior",
+    "filePath": "KA330-Release1-0\\GameData\\Kerbalow\\KA330\\internal.cfg"
+  },
+  {
+    "name": "KA330exterior",
+    "filePath": "KA330-Release1-0\\GameData\\Kerbalow\\KA330\\KA330.cfg"
+  },
+  {
+    "name": "KA330-Radiators",
+    "filePath": "KA330-Release1-0\\GameData\\Kerbalow\\KA330\\Radiators\\KA330-radiators.cfg"
+  },
+  {
+    "name": "KA330-SolarPanels",
+    "filePath": "KA330-Release1-0\\GameData\\Kerbalow\\KA330\\SolarPanels\\KA330-SolarPanels.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "KA330-Release1-0\\Optional Patches\\KA330-ConnectedLivingSpace.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "KA330-Release1-0\\Optional Patches\\KA330-KerbalInventorySystem.cfg"
+  },
+  {
+    "name": "Snacks",
+    "filePath": "KA330-Release1-0\\Optional Patches\\KA330-Snacks.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "KA330-Release1-0\\Optional Patches\\KA330-TACLS.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "KA330-Release1-0\\Optional Patches\\KA330-USILifeSupport.cfg"
+  },
+  {
+    "name": "KA330Windows",
+    "filePath": "KA330-Release1-0\\Optional Patches\\Reflective\\KA330-Reflections-MainBody.cfg"
+  },
+  {
+    "name": "KA330Radiators",
+    "filePath": "KA330-Release1-0\\Optional Patches\\Reflective\\KA330-Reflections-Radiators.cfg"
+  },
+  {
+    "name": "KA330SolarPanels",
+    "filePath": "KA330-Release1-0\\Optional Patches\\Reflective\\KA330-Reflections-SolarPanels.cfg"
+  }
+]

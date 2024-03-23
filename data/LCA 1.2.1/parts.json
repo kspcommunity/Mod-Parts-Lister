@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Lateral cargo arrangement Corporation",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "BA_RCS",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\BA_RCS.cfg"
+  },
+  {
+    "name": "BlockA_Cap",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Block_A_cap.cfg"
+  },
+  {
+    "name": "BlockA_CapSecondVariant",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Block_A_cap2Variant.cfg"
+  },
+  {
+    "name": "EM_Adapter",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\EM_Adapter.cfg"
+  },
+  {
+    "name": "EM_Fairing",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\EM_Fairing.cfg"
+  },
+  {
+    "name": "E_Adapter375",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\E_Adapter375.cfg"
+  },
+  {
+    "name": "Fairing_Ring_Adapter",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Fairing_Ring_Adapter.cfg"
+  },
+  {
+    "name": "Kenergia_CapRD0120",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_CapRD0120.cfg"
+  },
+  {
+    "name": "Kenergia_E100",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_E100.cfg"
+  },
+  {
+    "name": "Kenergia_E200",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_E200.cfg"
+  },
+  {
+    "name": "Kenergia_E300M",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_E300M.cfg"
+  },
+  {
+    "name": "Kenergia_E600",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_E600.cfg"
+  },
+  {
+    "name": "Kenergia_EngineSegment",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_EngineSegment.cfg"
+  },
+  {
+    "name": "Kenergia_InterStage",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_InterStage.cfg"
+  },
+  {
+    "name": "Kenergia_TopCap",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Kenergia_TopCap.cfg"
+  },
+  {
+    "name": "PowerSuspensionUnits",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\PowerSuspensionUnits.cfg"
+  },
+  {
+    "name": "Kenergia_RD0120",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RD0120.cfg"
+  },
+  {
+    "name": "Kenergia_RD171",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RD171.cfg"
+  },
+  {
+    "name": "RDTT_Separat_motor",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RDTT.cfg"
+  },
+  {
+    "name": "RDTT_Central_separat_motor",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RDTT1.cfg"
+  },
+  {
+    "name": "RSB_Base",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RSB_BASE.cfg"
+  },
+  {
+    "name": "RSB_CHUTE",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RSB_CHUTE.cfg"
+  },
+  {
+    "name": "RSB_ControlSystem",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RSB_CSystem.cfg"
+  },
+  {
+    "name": "RSB_LEG_Left",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RSB_LEG_LEFT_SEGMENT.cfg"
+  },
+  {
+    "name": "RSB_LEG_Right",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\RSB_LEG_RIGHT_SEGMENT.cfg"
+  },
+  {
+    "name": "Z_TankDecoupler",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zdecoupler.cfg"
+  },
+  {
+    "name": "E_Zenit2Stage",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zenit_2Stage.cfg"
+  },
+  {
+    "name": "Zenit_Fairing",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zenit_Fairing.cfg"
+  },
+  {
+    "name": "E_ZenitS100",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zenit_S100.cfg"
+  },
+  {
+    "name": "E_ZenitS200",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zenit_S200.cfg"
+  },
+  {
+    "name": "E_Zenit",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zenit_Stage.cfg"
+  },
+  {
+    "name": "E_Zenit1stStage",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Zenit_Stage1stStage.cfg"
+  },
+  {
+    "name": "Z_RD120",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia\\Z_RD120.cfg"
+  },
+  {
+    "name": "MdV_E_EnergiaBoosterDecoupler",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\Energia_BoosterDecoupler.cfg"
+  },
+  {
+    "name": "ETank150",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETank150.cfg"
+  },
+  {
+    "name": "ETank200INT",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETank200INT.cfg"
+  },
+  {
+    "name": "ETank150TOPCAP",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETank300.cfg"
+  },
+  {
+    "name": "ETank400",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETank400.cfg"
+  },
+  {
+    "name": "ETank50",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETank50.cfg"
+  },
+  {
+    "name": "ETank800",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETank800.cfg"
+  },
+  {
+    "name": "ETbotSeparat",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETbotsep.cfg"
+  },
+  {
+    "name": "ETtopSeparat",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ETtopsep.cfg"
+  },
+  {
+    "name": "ET_Adapter375",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ET_Adapter375.cfg"
+  },
+  {
+    "name": "ET_DECOUPLER",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ET_DECOUPLER.cfg"
+  },
+  {
+    "name": "ET_payload_container",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\ET_payload_container.cfg"
+  },
+  {
+    "name": "SSRB1",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\SSRB.cfg"
+  },
+  {
+    "name": "SSRB_fIVE_SEGMENT",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\SSRB5sgm.cfg"
+  },
+  {
+    "name": "SSRB_Adapter25",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\SSRB_Adapter25.cfg"
+  },
+  {
+    "name": "SSRB_CHUTE",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\SSRB_CHUTE.cfg"
+  },
+  {
+    "name": "SSRB_DECOUPLER",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\ET\\SSRB_DECOUPLER.cfg"
+  },
+  {
+    "name": "Kuran_Aeronose",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\KURAN\\CockpitAeroNose.cfg"
+  },
+  {
+    "name": "SSME_RS25",
+    "filePath": "LCA 1.2.1\\GameData\\LCA\\SSME\\SSME.cfg"
+  }
+]

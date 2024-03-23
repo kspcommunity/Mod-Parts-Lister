@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Life",
+    "filePath": "SimpleLife\\Life.cfg"
+  },
+  {
+    "name": "ColonyHabitat",
+    "filePath": "SimpleLife\\Parts\\Habitats\\ColonyHabitat\\ColonyHabitat.cfg"
+  },
+  {
+    "name": "RLSStorage750",
+    "filePath": "SimpleLife\\Parts\\LifeSupportContainers\\Large\\LSStorage1000.cfg"
+  },
+  {
+    "name": "LSStorage300",
+    "filePath": "SimpleLife\\Parts\\LifeSupportContainers\\Medium\\LSStorage300.cfg"
+  },
+  {
+    "name": "LSStorage80R",
+    "filePath": "SimpleLife\\Parts\\LifeSupportContainers\\Radial\\LSStorage80R.cfg"
+  },
+  {
+    "name": "LSStorage80",
+    "filePath": "SimpleLife\\Parts\\LifeSupportContainers\\Small\\LSStorage80.cfg"
+  },
+  {
+    "name": "Fertilizer",
+    "filePath": "SimpleLife\\Parts\\LifeSupportConverters\\mk2LanderCabin.cfg"
+  },
+  {
+    "name": "Fertilizer",
+    "filePath": "SimpleLife\\Parts\\LifeSupportConverters\\mk3CockpitShuttle.cfg"
+  },
+  {
+    "name": "Recycler",
+    "filePath": "SimpleLife\\Parts\\LifeSupportConverters\\Recycler\\Recycler.cfg"
+  },
+  {
+    "name": "Regenerator",
+    "filePath": "SimpleLife\\Parts\\LifeSupportConverters\\Regenerator\\Regenerator.cfg"
+  },
+  {
+    "name": "KerbalRecruiter",
+    "filePath": "SimpleLife\\Parts\\Training\\Trainer.cfg"
+  },
+  {
+    "name": "ModuleLifeSupport",
+    "filePath": "SimpleLife\\Settings\\AddLife.cfg"
+  },
+  {
+    "name": "Supplies",
+    "filePath": "SimpleLife\\Settings\\AllCommandPodSupplies.cfg"
+  }
+]

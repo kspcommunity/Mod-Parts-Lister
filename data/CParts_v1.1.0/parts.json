@@ -1,0 +1,94 @@
+[
+  {
+    "name": "CParts_SpinningMotor",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Configs\\PartSpinningMotor.cfg"
+  },
+  {
+    "name": "CZProbeCore0",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\DFH-1\\CZProbeCore0.cfg"
+  },
+  {
+    "name": "CParts_GF-02Engine",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\Engines\\GF-02Engine\\GF-02.cfg"
+  },
+  {
+    "name": "CParts_S0VernierEngine",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\Engines\\S0VernierEngine\\S0VernierEngine.cfg"
+  },
+  {
+    "name": "CParts_YF-1Engine",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\Engines\\YF-1Engine\\YF-1Engine.cfg"
+  },
+  {
+    "name": "CParts_YF-1Engine_0625",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\Engines\\YF-1Engine\\YF-1Engine_0625.cfg"
+  },
+  {
+    "name": "CParts_YF-3Engine",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\Engines\\YF-3Engine\\YF-3Engine.cfg"
+  },
+  {
+    "name": "CParts_S1TL1",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\S1Tanks\\S1TL1.cfg"
+  },
+  {
+    "name": "CParts_S1TL2",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\S1Tanks\\S1TL2.cfg"
+  },
+  {
+    "name": "CParts_S1TL3",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\S1Tanks\\S1TL3.cfg"
+  },
+  {
+    "name": "CParts_S1TL4",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\S1Tanks\\S1TL4.cfg"
+  },
+  {
+    "name": "CParts_S1TrussDecoupler",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\S1TrussDecoupler\\S1Decoupler.cfg"
+  },
+  {
+    "name": "CParts_YF2Base",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\YF-2Base\\YF-2Base.cfg"
+  },
+  {
+    "name": "CZ1Decoupler",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\zDeprecated\\Decoupler\\CZ1Decoupler.cfg"
+  },
+  {
+    "name": "CZ1EngineSolid",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\zDeprecated\\PG-02\\CZ1EngineSolid.cfg"
+  },
+  {
+    "name": "CZ1Tank1",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\zDeprecated\\Tank1\\CZ1Tank1.cfg"
+  },
+  {
+    "name": "CZ1Tank2",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\zDeprecated\\Tank2\\CZ1Tank2.cfg"
+  },
+  {
+    "name": "CZ1EngineAtm",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\zDeprecated\\YF-2\\CZ1EngineAtm.cfg"
+  },
+  {
+    "name": "CZ1EngineVac",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Parts\\zDeprecated\\YF-3\\CZ1EngineVac.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Templates\\shrimp-waterfall-CParts.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Templates\\stock-kerolox-core-CParts.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Templates\\waterfall-kerolox-lower-1-SWE-CParts.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "CParts_v1.1.0\\GameData\\CParts\\Templates\\waterfall-kerolox-lower-4-SWE-CParts.cfg"
+  }
+]

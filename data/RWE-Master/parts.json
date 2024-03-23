@@ -1,0 +1,686 @@
+[
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\BobcatRWE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\CheetahRWE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\GoliathRWE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\JunoRWE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\MEMLanderRWE.cfg"
+  },
+  {
+    "name": "soundDry1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\PantherRWE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\RapierRWE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\ReliantRWE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\SwivelRWE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\ThudRWE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\VenierRWE.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\WheesleyRWE.cfg"
+  },
+  {
+    "name": "soundspool",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\WhiplashRWE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Engine Configurations\\WolfhoundRWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\BDB_kerolox_lower_4_SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\waterfall-kerolox-lower-1-SWE.cfg"
+  },
+  {
+    "name": "innerGlow",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\waterfall-kerolox-lower-2-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\waterfall-kerolox-lower-4-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\waterfall-kerolox-lower-5-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\waterfall-kerolox-lower-5-twinboar-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\BDB\\waterfall-kerolox-lower-RD170-1-SWE.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-1.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-2.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-mammoth.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-rhino.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-hypergolic-core.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-kerolox-core-twinboar.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-kerolox-core.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core-2.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core-rapier.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-nuclear-core.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-rapier-core.cfg"
+  },
+  {
+    "name": "fullCore",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-rcs-core-3-full.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Engine Bell Cores\\stock-rcs-core-3.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Lights\\stock-floodlight-1.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Lights\\stock-ledstrip-1.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Lights\\stock-spotlight-1.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Lights\\stock-spotlight-2.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Lights\\stock-spotlight-3.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Lights\\stock-spotlight-4.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-Aerozine50-lower-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-aerozine50-upper-1.cfg"
+  },
+  {
+    "name": "spikeFlameInner",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-aerospike.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-generator.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-1.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-2.cfg"
+  },
+  {
+    "name": "mainPlume",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-Stratzenblitz.cfg"
+  },
+  {
+    "name": "shock0",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-2.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-3.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerolox-generator-twinboar.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerolox-generator.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerolox-sustainer.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerolox-vernier.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerozine-afterburner-2.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerozine-afterburner.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerozine-turbofan-1.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-kerozine-turbofan-2.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-methalox-lower-1.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-methalox-lower-2-rapier.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-methalox-lower-2.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-methalox-upper-2.cfg"
+  },
+  {
+    "name": "Plume",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-methane-jet-2.cfg"
+  },
+  {
+    "name": "BackFlame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-methane_jet.cfg"
+  },
+  {
+    "name": "coreFlame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-nuclear-upper-1.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-nuclear-upper-2.cfg"
+  },
+  {
+    "name": "Jet",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-rcs-jet-1.cfg"
+  },
+  {
+    "name": "Jet",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-rcs-jet-2.cfg"
+  },
+  {
+    "name": "light",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-rcs-jet-3.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-rcs-kerolox-1.cfg"
+  },
+  {
+    "name": "centerSource",
+    "filePath": "RWE-Master\\RestockWaterfallExpansion\\Templates\\Stock\\Plumes\\stock-xenon-ion.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Engine Configurations\\Nerv.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Engine Configurations\\Rhino.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Engine Configurations\\Skiff.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Engine Configurations\\Vector.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\BDB_kerolox_lower_4_SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-1-SWE.cfg"
+  },
+  {
+    "name": "innerGlow",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-2-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-4-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-5-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-5-twinboar-SWE.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\BDB\\waterfall-kerolox-lower-RD170-1-SWE.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-1.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-2.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-3.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-mammoth.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hydrolox-core-rhino-legacy.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-hypergolic-core.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-kerolox-core-twinboar.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-kerolox-core.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core-2.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core-rapier.cfg"
+  },
+  {
+    "name": "Core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-methalox-core.cfg"
+  },
+  {
+    "name": "core1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-nuclear-core.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-rapier-core.cfg"
+  },
+  {
+    "name": "fullCore",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-rcs-core-3-full.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Engine Bell Cores\\stock-rcs-core-3.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-floodlight-1.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-gearlight.cfg"
+  },
+  {
+    "name": "flare",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-ledstrip-1.cfg"
+  },
+  {
+    "name": "lightFx",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-1.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-2.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-3.cfg"
+  },
+  {
+    "name": "1lightFx",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Lights\\stock-spotlight-4.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-Aerozine50-lower-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-aerozine50-upper-1.cfg"
+  },
+  {
+    "name": "spikeFlameInner",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-aerospike.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-generator.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-1.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-2.cfg"
+  },
+  {
+    "name": "mainPlume",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-lower-Stratzenblitz.cfg"
+  },
+  {
+    "name": "shock0",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-1-legacy.cfg"
+  },
+  {
+    "name": "shock",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-1.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-2.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-hydrolox-upper-3.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-generator-twinboar.cfg"
+  },
+  {
+    "name": "flame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-generator.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-sustainer.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerolox-vernier.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-afterburner-2.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-afterburner.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-turbofan-1.cfg"
+  },
+  {
+    "name": "refraction",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-kerozine-turbofan-2.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methalox-lower-1.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methalox-lower-2-rapier.cfg"
+  },
+  {
+    "name": "Cones",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methalox-lower-2.cfg"
+  },
+  {
+    "name": "outerShock1",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methalox-upper-2.cfg"
+  },
+  {
+    "name": "Plume",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methane-jet-2.cfg"
+  },
+  {
+    "name": "BackFlame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-methane_jet.cfg"
+  },
+  {
+    "name": "coreFlame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-nuclear-upper-1.cfg"
+  },
+  {
+    "name": "Core",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-nuclear-upper-2.cfg"
+  },
+  {
+    "name": "Jet",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-jet-1.cfg"
+  },
+  {
+    "name": "Jet",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-jet-2.cfg"
+  },
+  {
+    "name": "light",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-jet-3.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-rcs-kerolox-1.cfg"
+  },
+  {
+    "name": "centerSource",
+    "filePath": "RWE-Master\\StockWaterfallEffects\\Templates\\Stock\\Plumes\\stock-xenon-ion.cfg"
+  },
+  {
+    "name": "turbo",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusBoar.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusCaravel.cfg"
+  },
+  {
+    "name": "turbo",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusCherenkov.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusCorgi.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusGalleon.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusPug.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusRCS.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusSchnauzer.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusTorch.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusTrashPanda.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusUrsa.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\RestockPlus\\RestockPlusValiant.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\engineLargeSkipper_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\ionEngine.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\LiquidEngineKE-1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineMainsail.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineMini_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEnginePoodle.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineReliant.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\LiquidEngineRK-7.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\LiquidEngineRV-1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineSwivel.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineTerrier.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineTwinBoar.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\liquidEngineTwinBoar_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\microEngine_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\omsEngine.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\radialEngineMini_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\Size3EngineCluster.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\smallRadialEngine_v2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\spotLight1.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\spotLight2.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\SquadLights.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "RWE-Master\\WaterfallRestock\\Patches\\Squad\\SquadRCS.cfg"
+  }
+]

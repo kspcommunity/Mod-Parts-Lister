@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tycho Orbital Shipyards Co.",
+    "filePath": "TOS\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "tosPDC",
+    "filePath": "TOS\\Parts\\PDC\\tosPDC.cfg"
+  },
+  {
+    "name": "PdcAmmo",
+    "filePath": "TOS\\Resources\\Ammo.cfg"
+  }
+]

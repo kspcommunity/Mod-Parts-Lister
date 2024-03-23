@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ktinga_Class_Cruiser_AftTorpedoTube",
+    "filePath": "D7M\\ATT\\part.cfg"
+  },
+  {
+    "name": "Ktinga_Class_Cruiser_BowTorpedoTube",
+    "filePath": "D7M\\BTT\\part.cfg"
+  },
+  {
+    "name": "Ktinga_Class_Cruiser",
+    "filePath": "D7M\\part.cfg"
+  }
+]

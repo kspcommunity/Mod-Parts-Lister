@@ -1,0 +1,30 @@
+[
+  {
+    "name": "AstrophageEngine",
+    "filePath": "project hail kary\\engines\\AstrophageEngine\\AstrophageEngine.cfg.cfg"
+  },
+  {
+    "name": "MiniAstrophageEngine",
+    "filePath": "project hail kary\\engines\\MiniAstrophageEngine\\mini astrophage engine.cfg"
+  },
+  {
+    "name": "vernierAstrophageEngine",
+    "filePath": "project hail kary\\engines\\vernorAstrophageEngine.cfg"
+  },
+  {
+    "name": "1.25mAstrophageTank",
+    "filePath": "project hail kary\\fuel tanks\\1.25m astrophage tank\\1.25m Astrophage Tank.cfg"
+  },
+  {
+    "name": "astrophageTank",
+    "filePath": "project hail kary\\fuel tanks\\mini astrophage tank\\Mini Astrophage Tank.cfg"
+  },
+  {
+    "name": "Size3MediumTankAstrophage",
+    "filePath": "project hail kary\\fuel tanks\\size 3 astrophage tank.cfg"
+  },
+  {
+    "name": "Astrophage",
+    "filePath": "project hail kary\\Resources\\Astrophage.cfg"
+  }
+]

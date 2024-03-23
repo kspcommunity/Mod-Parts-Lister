@@ -1,0 +1,50 @@
+[
+  {
+    "name": "He3Plasma",
+    "filePath": "DSPP\\Parts\\He3Plasma.cfg"
+  },
+  {
+    "name": "ManateeCap",
+    "filePath": "DSPP\\Parts\\ManateeCap.cfg"
+  },
+  {
+    "name": "ManateeCargoBay",
+    "filePath": "DSPP\\Parts\\ManateeCargoBay.cfg"
+  },
+  {
+    "name": "ManateeCargoDeck",
+    "filePath": "DSPP\\Parts\\ManateeCargoDeck.cfg"
+  },
+  {
+    "name": "ManateeCommandDeck",
+    "filePath": "DSPP\\Parts\\ManateeCommandDeck.cfg"
+  },
+  {
+    "name": "ManateeFuelTank",
+    "filePath": "DSPP\\Parts\\ManateeFuelTank.cfg"
+  },
+  {
+    "name": "ManateeMainSail",
+    "filePath": "DSPP\\Parts\\ManateeMainSail.cfg"
+  },
+  {
+    "name": "ManateePlasmaTank",
+    "filePath": "DSPP\\Parts\\ManateePlasmaTank.cfg"
+  },
+  {
+    "name": "ManateeReactorCore",
+    "filePath": "DSPP\\Parts\\ManateeReactorCore.cfg"
+  },
+  {
+    "name": "ManateeSicenceDeck",
+    "filePath": "DSPP\\Parts\\ManateeSicenceDeck.cfg"
+  },
+  {
+    "name": "ManateeThruster",
+    "filePath": "DSPP\\Parts\\ManateeThruster.cfg"
+  },
+  {
+    "name": "ManateeThrusterMK2",
+    "filePath": "DSPP\\Parts\\ManateeThrusterMK2.cfg"
+  }
+]

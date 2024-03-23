@@ -1,0 +1,42 @@
+[
+  {
+    "name": "EXPRcs",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP linearRCS\\EXPlinearRCS.cfg"
+  },
+  {
+    "name": "EXPmk3CargoBayL",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP mk1CargoBay\\EXPlong.cfg"
+  },
+  {
+    "name": "EXPmk3CargoBayM",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP mk1CargoBay\\EXPmedium.cfg"
+  },
+  {
+    "name": "EXPmk3CargoRamp",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP mk1CargoBay\\EXPramp.cfg"
+  },
+  {
+    "name": "EXPmk3CargoBayS",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP mk1CargoBay\\EXPshort.cfg"
+  },
+  {
+    "name": "EXP Plasma Thruster",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP Plasma drive\\EXP Plasma drive.cfg"
+  },
+  {
+    "name": "EXPrtg",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP RTG\\EXP RTG.cfg"
+  },
+  {
+    "name": "EXPSAS",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP SAS\\EXPSAS.cfg"
+  },
+  {
+    "name": "EXPthruster",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXP Thruster\\EXP Thruster.cfg"
+  },
+  {
+    "name": "EXPScram",
+    "filePath": "Foxparts V1.1\\GameData\\foxparts\\EXPScram\\EXPscram.cfg"
+  }
+]

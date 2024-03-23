@@ -1,0 +1,250 @@
+[
+  {
+    "name": "ammoCan.556mm",
+    "filePath": "MTW\\Parts\\Ammo Can 5.56mm\\5.56.cfg"
+  },
+  {
+    "name": "ammoCan50Caliber",
+    "filePath": "MTW\\Parts\\Ammo Can 50 Caliber\\50cal.cfg"
+  },
+  {
+    "name": "ammoCan7.62mm",
+    "filePath": "MTW\\Parts\\Ammo Can 7.62mm\\7.62.cfg"
+  },
+  {
+    "name": "ammoCan90mm",
+    "filePath": "MTW\\Parts\\Ammo Can 90 mm\\90mm.cfg"
+  },
+  {
+    "name": "AN/SPY",
+    "filePath": "MTW\\Parts\\AN-SPY\\AN-SPY.cfg"
+  },
+  {
+    "name": "AN/SPYSmall",
+    "filePath": "MTW\\Parts\\AN-SPY Small\\AN-SPY.cfg"
+  },
+  {
+    "name": "mtaAWACSRadar",
+    "filePath": "MTW\\Parts\\AWACS Radar\\awacs.cfg"
+  },
+  {
+    "name": "mtwCM-100",
+    "filePath": "MTW\\Parts\\CM-100\\CM-100.cfg"
+  },
+  {
+    "name": "mtaCountermeasurePod",
+    "filePath": "MTW\\Parts\\Countermeasure Pod\\CountermeasurePod.cfg"
+  },
+  {
+    "name": "mtaDropTank",
+    "filePath": "MTW\\Parts\\Drop Tank\\dropTank.cfg"
+  },
+  {
+    "name": "GPSB-1000",
+    "filePath": "MTW\\Parts\\GPSB-1000\\GPSB-1000.cfg"
+  },
+  {
+    "name": "GPSB-250",
+    "filePath": "MTW\\Parts\\GPSB-250\\GPSB-250.cfg"
+  },
+  {
+    "name": "GPSB-500",
+    "filePath": "MTW\\Parts\\GPSB-500\\GPSB-500.cfg"
+  },
+  {
+    "name": "mtaGPSNB-300",
+    "filePath": "MTW\\Parts\\GPSNB-300\\GPSNB-300.cfg"
+  },
+  {
+    "name": "mtaGPSNB-500",
+    "filePath": "MTW\\Parts\\GPSNB-500\\GPSNB-500.cfg"
+  },
+  {
+    "name": "mtaGPSNB-800",
+    "filePath": "MTW\\Parts\\GPSNB-800\\GPSNB-800.cfg"
+  },
+  {
+    "name": "mtwHardpoint1ForwardOffset",
+    "filePath": "MTW\\Parts\\Hardpoint 1 Forward Offset\\Hardpoint.cfg"
+  },
+  {
+    "name": "mtwHardpoint1Straight",
+    "filePath": "MTW\\Parts\\Hardpoint 1 Straight\\Hardpoint1.cfg"
+  },
+  {
+    "name": "mtwHardpoint2+1",
+    "filePath": "MTW\\Parts\\Hardpoint 2+1\\Hardpoint2.cfg"
+  },
+  {
+    "name": "mtwHardpoint3",
+    "filePath": "MTW\\Parts\\Hardpoint 3\\Hardpoint3.cfg"
+  },
+  {
+    "name": "mtwHardpoint4+1",
+    "filePath": "MTW\\Parts\\Hardpoint 4+1\\Hardpoint4.cfg"
+  },
+  {
+    "name": "mtaHawkeyeRadar",
+    "filePath": "MTW\\Parts\\Hawkeye Radar\\hawkeye.cfg"
+  },
+  {
+    "name": "MTW-IR-100",
+    "filePath": "MTW\\Parts\\IR-100\\IR-100.cfg"
+  },
+  {
+    "name": "mtaJammingPod",
+    "filePath": "MTW\\Parts\\Jamming Pod\\ECM Pod.cfg"
+  },
+  {
+    "name": "mtwM249",
+    "filePath": "MTW\\Parts\\M-249\\M249.cfg"
+  },
+  {
+    "name": "mtwM249FullShield",
+    "filePath": "MTW\\Parts\\M-249 Full Shield\\M249.cfg"
+  },
+  {
+    "name": "mtwM249SmallShield",
+    "filePath": "MTW\\Parts\\M-249 Small Shield\\M249.cfg"
+  },
+  {
+    "name": "mtwM2",
+    "filePath": "MTW\\Parts\\M2\\m2.cfg"
+  },
+  {
+    "name": "mtwM2TurretFullShield",
+    "filePath": "MTW\\Parts\\M2 turret full shield\\m2.cfg"
+  },
+  {
+    "name": "mtwM2TurretSmallShield",
+    "filePath": "MTW\\Parts\\M2 turret small shield\\m2.cfg"
+  },
+  {
+    "name": "mtwM240B",
+    "filePath": "MTW\\Parts\\M240\\m240.cfg"
+  },
+  {
+    "name": "mtwM240BTurret",
+    "filePath": "MTW\\Parts\\M240 turret full shield\\m240.cfg"
+  },
+  {
+    "name": "mtwM240BTurretSmallShield",
+    "filePath": "MTW\\Parts\\M240 Turret Small Shield\\m240.cfg"
+  },
+  {
+    "name": "MTAMIRV",
+    "filePath": "MTW\\Parts\\MIRV\\MIRV.cfg"
+  },
+  {
+    "name": "mtwJammingBox",
+    "filePath": "MTW\\Parts\\MTW Electronic Jamming Box\\ECM Pod.cfg"
+  },
+  {
+    "name": "MTWMk45",
+    "filePath": "MTW\\Parts\\MTW Mk45\\Mk45.cfg"
+  },
+  {
+    "name": "mtwHMMWVurret",
+    "filePath": "MTW\\Parts\\MTW Turret\\mtwTurret.cfg"
+  },
+  {
+    "name": "NavalMagazine",
+    "filePath": "MTW\\Parts\\Naval Magazine\\NavalMagazine.cfg"
+  },
+  {
+    "name": "navalGun",
+    "filePath": "MTW\\Parts\\Naval Turret\\naval gun.cfg"
+  },
+  {
+    "name": "ng-a-100",
+    "filePath": "MTW\\Parts\\NG-A-100\\ng-a-100.cfg"
+  },
+  {
+    "name": "ng-B-10",
+    "filePath": "MTW\\Parts\\NG-B-10\\NG-B-10.cfg"
+  },
+  {
+    "name": "ng-b-100",
+    "filePath": "MTW\\Parts\\NG-B-100\\NG-B-100.cfg"
+  },
+  {
+    "name": "ng-B-200",
+    "filePath": "MTW\\Parts\\NG-B-200\\NG-B-200.cfg"
+  },
+  {
+    "name": "ng-c-100",
+    "filePath": "MTW\\Parts\\NG-C-100\\NG-C-100.cfg"
+  },
+  {
+    "name": "NG-C-200",
+    "filePath": "MTW\\Parts\\NG-C-200\\NG-C-200.cfg"
+  },
+  {
+    "name": "NR-100D",
+    "filePath": "MTW\\Parts\\NR-100D\\NR-100D.cfg"
+  },
+  {
+    "name": "NR-100L",
+    "filePath": "MTW\\Parts\\NR-100L\\NR-100L.cfg"
+  },
+  {
+    "name": "NRD-200",
+    "filePath": "MTW\\Parts\\NR-200D\\NRD-200.cfg"
+  },
+  {
+    "name": "NR-50",
+    "filePath": "MTW\\Parts\\NR-50\\NR-50.cfg"
+  },
+  {
+    "name": "pantherTank",
+    "filePath": "MTW\\Parts\\Panther Tank\\Panther Tank.cfg"
+  },
+  {
+    "name": "pintleMount",
+    "filePath": "MTW\\Parts\\Pintle Mount\\pintle.cfg"
+  },
+  {
+    "name": "MTW-R-100",
+    "filePath": "MTW\\Parts\\R-100\\MTW-R100.cfg"
+  },
+  {
+    "name": "mtaRadarPod",
+    "filePath": "MTW\\Parts\\Radar Pod\\RadarPod.cfg"
+  },
+  {
+    "name": "MTWScorpionTank",
+    "filePath": "MTW\\Parts\\ScorpionTank\\scorpion.cfg"
+  },
+  {
+    "name": "mtwTargetingPod",
+    "filePath": "MTW\\Parts\\Targeting Pod\\mtaTargetingPod.cfg"
+  },
+  {
+    "name": "UGB-100",
+    "filePath": "MTW\\Parts\\UGB-100\\UGB-100.cfg"
+  },
+  {
+    "name": "MTW-UGB-100-Mount",
+    "filePath": "MTW\\Parts\\UGB-100-Mount\\UGB-100 Mount.cfg"
+  },
+  {
+    "name": "UGB-1000",
+    "filePath": "MTW\\Parts\\UGB-1000\\UGB-1000.cfg"
+  },
+  {
+    "name": "UGB-250",
+    "filePath": "MTW\\Parts\\UGB-250\\UGB-250.cfg"
+  },
+  {
+    "name": "UGB-500",
+    "filePath": "MTW\\Parts\\UGB-500\\UGB-500.cfg"
+  },
+  {
+    "name": "wedgetailRadar",
+    "filePath": "MTW\\Parts\\Wedgetail\\wedgetailRadar.cfg"
+  },
+  {
+    "name": "7.62Ammo",
+    "filePath": "MTW\\Resources\\Ammo.cfg"
+  }
+]

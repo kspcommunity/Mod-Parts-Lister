@@ -1,6 +1,222 @@
 [
   {
+    "name": "duna625BalloonHP",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\heavyPayload0625.cfg"
+  },
+  {
+    "name": "duna125BalloonHP",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\heavyPayload125.cfg"
+  },
+  {
+    "name": "duna25BalloonHP",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\heavyPayload25.cfg"
+  },
+  {
+    "name": "duna375BalloonHP",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\heavyPayload375.cfg"
+  },
+  {
+    "name": "duna625BalloonHA",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\highAltitude0625.cfg"
+  },
+  {
+    "name": "duna125BalloonHA",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\highAltitude125.cfg"
+  },
+  {
+    "name": "duna25BalloonHA",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\highAltitude25.cfg"
+  },
+  {
+    "name": "duna375BalloonHA",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\highAltitude375.cfg"
+  },
+  {
+    "name": "duna625BalloonS",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\standard0625.cfg"
+  },
+  {
+    "name": "duna125BalloonS",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\standard125.cfg"
+  },
+  {
+    "name": "duna25BalloonS",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\standard25.cfg"
+  },
+  {
+    "name": "duna375BalloonS",
+    "filePath": "KerBalloons\\Parts\\DunaBalloons\\standard375.cfg"
+  },
+  {
+    "name": "eve625BalloonHP",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\heavyPayload0625.cfg"
+  },
+  {
+    "name": "eve125BalloonHP",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\heavyPayload125.cfg"
+  },
+  {
+    "name": "eve25BalloonHP",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\heavyPayload25.cfg"
+  },
+  {
+    "name": "eve375BalloonHP",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\heavyPayload375.cfg"
+  },
+  {
+    "name": "eve625BalloonHA",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\highAltitude0625.cfg"
+  },
+  {
+    "name": "eve125BalloonHA",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\highAltitude125.cfg"
+  },
+  {
+    "name": "eve25BalloonHA",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\highAltitude25.cfg"
+  },
+  {
+    "name": "eve375BalloonHA",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\highAltitude375.cfg"
+  },
+  {
+    "name": "eve625BalloonS",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\standard0625.cfg"
+  },
+  {
+    "name": "eve125BalloonS",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\standard125.cfg"
+  },
+  {
+    "name": "eve25BalloonS",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\standard25.cfg"
+  },
+  {
+    "name": "eve375BalloonS",
+    "filePath": "KerBalloons\\Parts\\EveBalloons\\standard375.cfg"
+  },
+  {
     "name": "KB5",
     "filePath": "KerBalloons\\Parts\\KB5\\part.cfg"
+  },
+  {
+    "name": "kerbin625BalloonHP",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\heavyPayload0625.cfg"
+  },
+  {
+    "name": "kerbin125BalloonHP",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\heavyPayload125.cfg"
+  },
+  {
+    "name": "kerbin25BalloonHP",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\heavyPayload25.cfg"
+  },
+  {
+    "name": "kerbin375BalloonHP",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\heavyPayload375.cfg"
+  },
+  {
+    "name": "kerbin625BalloonHA",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\highAltitude0625.cfg"
+  },
+  {
+    "name": "kerbin125BalloonHA",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\highAltitude125.cfg"
+  },
+  {
+    "name": "kerbin25BalloonHA",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\highAltitude25.cfg"
+  },
+  {
+    "name": "kerbin375BalloonHA",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\highAltitude375.cfg"
+  },
+  {
+    "name": "kerbin625BalloonS",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\standard0625.cfg"
+  },
+  {
+    "name": "kerbin125BalloonS",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\standard125.cfg"
+  },
+  {
+    "name": "kerbin25BalloonS",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\standard25.cfg"
+  },
+  {
+    "name": "kerbin375BalloonS",
+    "filePath": "KerBalloons\\Parts\\KerbinBalloons\\standard375.cfg"
+  },
+  {
+    "name": "laythe625BalloonHP",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\heavyPayload0625.cfg"
+  },
+  {
+    "name": "laythe125BalloonHP",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\heavyPayload125.cfg"
+  },
+  {
+    "name": "laythe25BalloonHP",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\heavyPayload25.cfg"
+  },
+  {
+    "name": "laythe375BalloonHP",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\heavyPayload375.cfg"
+  },
+  {
+    "name": "laythe625BalloonHA",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\highAltitude0625.cfg"
+  },
+  {
+    "name": "laythe125BalloonHA",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\highAltitude125.cfg"
+  },
+  {
+    "name": "laythe25BalloonHA",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\highAltitude25.cfg"
+  },
+  {
+    "name": "laythe375BalloonHA",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\highAltitude375.cfg"
+  },
+  {
+    "name": "laythe625BalloonS",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\standard0625.cfg"
+  },
+  {
+    "name": "laythe125BalloonS",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\standard125.cfg"
+  },
+  {
+    "name": "laythe25BalloonS",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\standard25.cfg"
+  },
+  {
+    "name": "laythe375BalloonS",
+    "filePath": "KerBalloons\\Parts\\LaytheBalloons\\standard375.cfg"
+  },
+  {
+    "name": "KBChute0625",
+    "filePath": "KerBalloons\\Parts\\Parachutes\\chute0625.cfg"
+  },
+  {
+    "name": "KBChute125",
+    "filePath": "KerBalloons\\Parts\\Parachutes\\chute125.cfg"
+  },
+  {
+    "name": "KBChute25",
+    "filePath": "KerBalloons\\Parts\\Parachutes\\chute25.cfg"
+  },
+  {
+    "name": "KBChute375",
+    "filePath": "KerBalloons\\Parts\\Parachutes\\chute375.cfg"
+  },
+  {
+    "name": "ServiceBay_0625",
+    "filePath": "KerBalloons\\Parts\\ServiceBays\\ServiceBay_0625.cfg"
+  },
+  {
+    "name": "ServiceBay_375",
+    "filePath": "KerBalloons\\Parts\\ServiceBays\\ServiceBay_375.cfg"
   }
 ]

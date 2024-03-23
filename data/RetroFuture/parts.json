@@ -1,0 +1,594 @@
+[
+  {
+    "name": "1mSharpCone",
+    "filePath": "RetroFuture\\Aero\\1mSharpCone\\1mSharpCone.cfg"
+  },
+  {
+    "name": "rF625Intake",
+    "filePath": "RetroFuture\\Aero\\625Intake\\625Intake.cfg"
+  },
+  {
+    "name": "rectAirbrake",
+    "filePath": "RetroFuture\\Aero\\airbrake\\airbrake.cfg"
+  },
+  {
+    "name": "rFCircIntake",
+    "filePath": "RetroFuture\\Aero\\circularIntake\\rFCircIntake.cfg"
+  },
+  {
+    "name": "noseConeLong",
+    "filePath": "RetroFuture\\Aero\\noseCone\\rectCone.cfg"
+  },
+  {
+    "name": "rectNoseIntake",
+    "filePath": "RetroFuture\\Aero\\noseIntake\\rectNoseIntake.cfg"
+  },
+  {
+    "name": "rFpCtrlSrf",
+    "filePath": "RetroFuture\\Aero\\pWings\\rFpCtrlSrf.cfg"
+  },
+  {
+    "name": "rFpSurface",
+    "filePath": "RetroFuture\\Aero\\pWings\\rFpSurface.cfg"
+  },
+  {
+    "name": "rFpWing1",
+    "filePath": "RetroFuture\\Aero\\pWings\\rFpWing.cfg"
+  },
+  {
+    "name": "rFpWingtip",
+    "filePath": "RetroFuture\\Aero\\pWings\\rFpWingtip.cfg"
+  },
+  {
+    "name": "rectIntake",
+    "filePath": "RetroFuture\\Aero\\radialIntake\\rectIntake.cfg"
+  },
+  {
+    "name": "rectWingBase",
+    "filePath": "RetroFuture\\Aero\\slimIntake\\rectWingBase.cfg"
+  },
+  {
+    "name": "splitCtrlSrf",
+    "filePath": "RetroFuture\\Aero\\splitCtrlSurface\\splitCtrlSrf.cfg"
+  },
+  {
+    "name": "rectSpoiler",
+    "filePath": "RetroFuture\\Aero\\spoiler\\spoiler.cfg"
+  },
+  {
+    "name": "structBoom",
+    "filePath": "RetroFuture\\Aero\\tailBoom\\structBoom.cfg"
+  },
+  {
+    "name": "rectCkPit",
+    "filePath": "RetroFuture\\Command\\2m1xCockpit\\rectCkPit.cfg"
+  },
+  {
+    "name": "rectFlyPit",
+    "filePath": "RetroFuture\\Command\\2mFlyCockpit\\rectFlyPit.cfg"
+  },
+  {
+    "name": "3m2xPit",
+    "filePath": "RetroFuture\\Command\\3m2xCockpit\\3m2xPit.cfg"
+  },
+  {
+    "name": "rf625RCSAS",
+    "filePath": "RetroFuture\\Command\\625RCSAS\\625RCSAS.cfg"
+  },
+  {
+    "name": "med2mPodA",
+    "filePath": "RetroFuture\\Command\\med2mPodA\\med2mPodA.cfg"
+  },
+  {
+    "name": "med2mPodB",
+    "filePath": "RetroFuture\\Command\\med2mPodB\\med2mPodB.cfg"
+  },
+  {
+    "name": "med2mSAS",
+    "filePath": "RetroFuture\\Command\\med2mSAS\\med2mSAS.cfg"
+  },
+  {
+    "name": "analogHSI",
+    "filePath": "RetroFuture\\Command\\props\\analogHSI.cfg"
+  },
+  {
+    "name": "reflectSight",
+    "filePath": "RetroFuture\\Command\\props\\reflectSight.cfg"
+  },
+  {
+    "name": "rfAltimeter",
+    "filePath": "RetroFuture\\Command\\props\\rfAltimeter.cfg"
+  },
+  {
+    "name": "rfIndicatorPanel",
+    "filePath": "RetroFuture\\Command\\props\\rfIndicators.cfg"
+  },
+  {
+    "name": "rfNavball",
+    "filePath": "RetroFuture\\Command\\props\\rfNavball.cfg"
+  },
+  {
+    "name": "rfRadarALT",
+    "filePath": "RetroFuture\\Command\\props\\rfRadarALT.cfg"
+  },
+  {
+    "name": "rfThrottle",
+    "filePath": "RetroFuture\\Command\\props\\rfThrottle.cfg"
+  },
+  {
+    "name": "rfVSI",
+    "filePath": "RetroFuture\\Command\\props\\rfVSI.cfg"
+  },
+  {
+    "name": "AltOdometer",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\altOdometer.cfg"
+  },
+  {
+    "name": "velocityPanel",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\displayPanel.cfg"
+  },
+  {
+    "name": "flightOdoA",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\flightIOdometersA.cfg"
+  },
+  {
+    "name": "flightOdoB",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\flightOdometersB.cfg"
+  },
+  {
+    "name": "fltRecorder",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\fltRecorder.cfg"
+  },
+  {
+    "name": "flyPitRearView",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\flyPitRearView.cfg"
+  },
+  {
+    "name": "orbitOdometer",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\orbitOdometers.cfg"
+  },
+  {
+    "name": "rearViewMirror",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rearViewMirror.cfg"
+  },
+  {
+    "name": "resOdometer",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\resOdometers.cfg"
+  },
+  {
+    "name": "rfAdvControlStick",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfAdvStick.cfg"
+  },
+  {
+    "name": "rfAdvThrottle",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfAdvThrottle.cfg"
+  },
+  {
+    "name": "rfButtonSwitch",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfButtonSwitch.cfg"
+  },
+  {
+    "name": "rfCtrlStick",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfCtrlStick.cfg"
+  },
+  {
+    "name": "rfFlipSwitch",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfFlipSwitch.cfg"
+  },
+  {
+    "name": "rfIndicatorsRPM",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfIndicatorsRPM.cfg"
+  },
+  {
+    "name": "rfKeyBoard",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfKeyBoard.cfg"
+  },
+  {
+    "name": "RFBasicMFD",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfMFD40x20.cfg"
+  },
+  {
+    "name": "rfNavballRPM",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfNavballRPM.cfg"
+  },
+  {
+    "name": "rfNavBox",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfNavBox.cfg"
+  },
+  {
+    "name": "rfRockerSwitch",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfRockerSwitch.cfg"
+  },
+  {
+    "name": "rfSwitchGuard",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\rfSwitchGuard.cfg"
+  },
+  {
+    "name": "JSIStockSquareButtonLight",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\SquareButtons.cfg"
+  },
+  {
+    "name": "UnIVAHUD",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\UnIVAHUD.cfg"
+  },
+  {
+    "name": "UnIVAHUDAlt",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\UnIVAHUDAlt.cfg"
+  },
+  {
+    "name": "UnIVAMFD",
+    "filePath": "RetroFuture\\Command\\props\\RPMProps\\UnIVAMFD.cfg"
+  },
+  {
+    "name": "UnIVADisplay",
+    "filePath": "RetroFuture\\Command\\props\\UnIVADisplay\\UniVADisplay.cfg"
+  },
+  {
+    "name": "whiskeyCompass",
+    "filePath": "RetroFuture\\Command\\props\\wCompass.cfg"
+  },
+  {
+    "name": "rectASAS",
+    "filePath": "RetroFuture\\Command\\rectSAS\\rectSAS.cfg"
+  },
+  {
+    "name": "rfProbeCoreSmall",
+    "filePath": "RetroFuture\\Command\\rfProbeCoreSmall\\rfProbeSmall.cfg"
+  },
+  {
+    "name": "rfProbeCoreSmallB",
+    "filePath": "RetroFuture\\Command\\rfProbeCoreSmall\\rfProbeSmallB.cfg"
+  },
+  {
+    "name": "3m2xPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\3m2xPitIVA.cfg"
+  },
+  {
+    "name": "med2mPodAIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\med2mPodAIVA.cfg"
+  },
+  {
+    "name": "med2mPodBIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\med2mPodBIVA.cfg"
+  },
+  {
+    "name": "rectCkPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\rectCkPitIVA.cfg"
+  },
+  {
+    "name": "rectFlyPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\rectFlyPitIVA.cfg"
+  },
+  {
+    "name": "RPM3m2xPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\RPM3m2xPitIVA.cfg"
+  },
+  {
+    "name": "RPMrectCkPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\RPMrectCkPitIVA.cfg"
+  },
+  {
+    "name": "RPMrectFlyPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\RPMrectFlyPitIVA.cfg"
+  },
+  {
+    "name": "RPMsurfCanopyIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\RPMsurfCanopyIVA.cfg"
+  },
+  {
+    "name": "RPMsurfCkPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\RPMsurfCkPitIVA.cfg"
+  },
+  {
+    "name": "UnIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\RPMUnIVA.cfg"
+  },
+  {
+    "name": "surfCanopyIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\surfCanopyIVA.cfg"
+  },
+  {
+    "name": "surfCkPitIVA",
+    "filePath": "RetroFuture\\Command\\spaces\\surfCkPitIVA.cfg"
+  },
+  {
+    "name": "surfCanopy",
+    "filePath": "RetroFuture\\Command\\surfCanopy\\surfCanopy.cfg"
+  },
+  {
+    "name": "surfCkPit",
+    "filePath": "RetroFuture\\Command\\surfCockpit\\surfCkPit.cfg"
+  },
+  {
+    "name": "mkX31Pit",
+    "filePath": "RetroFuture\\Command\\x31Cockpit\\mkX31Pit.cfg"
+  },
+  {
+    "name": "rF625AtmoJet",
+    "filePath": "RetroFuture\\Engines\\625AtmoJet\\625AtmoJet.cfg"
+  },
+  {
+    "name": "rfAeroSpike",
+    "filePath": "RetroFuture\\Engines\\AeroSpike\\AeroSpike.cfg"
+  },
+  {
+    "name": "v12BrickTop",
+    "filePath": "RetroFuture\\Engines\\bricktop\\v12BrickTop.cfg"
+  },
+  {
+    "name": "ED125",
+    "filePath": "RetroFuture\\Engines\\ED125\\ED125.cfg"
+  },
+  {
+    "name": "ED250",
+    "filePath": "RetroFuture\\Engines\\ED250\\ED250.cfg"
+  },
+  {
+    "name": "ED399",
+    "filePath": "RetroFuture\\Engines\\ED399\\ED399.cfg"
+  },
+  {
+    "name": "ED051",
+    "filePath": "RetroFuture\\Engines\\ED625\\ED625.cfg"
+  },
+  {
+    "name": "fartJet",
+    "filePath": "RetroFuture\\Engines\\fartJet\\fartJet.cfg"
+  },
+  {
+    "name": "jeyTew",
+    "filePath": "RetroFuture\\Engines\\jeyTew\\jeyTew.cfg"
+  },
+  {
+    "name": "kumoJet",
+    "filePath": "RetroFuture\\Engines\\kumoJet\\kumoJet.cfg"
+  },
+  {
+    "name": "ax16leBaron",
+    "filePath": "RetroFuture\\Engines\\leBaron\\ax16LeBaron.cfg"
+  },
+  {
+    "name": "rfLinearSpike",
+    "filePath": "RetroFuture\\Engines\\LinearSpike\\LinearSpike.cfg"
+  },
+  {
+    "name": "rfLinearSpikeAdv",
+    "filePath": "RetroFuture\\Engines\\LinearSpike\\LinearSpikeSmokeScreen.cfg"
+  },
+  {
+    "name": "v12Mislyn",
+    "filePath": "RetroFuture\\Engines\\mislyn\\mislyn.cfg"
+  },
+  {
+    "name": "noseMountUHB",
+    "filePath": "RetroFuture\\Engines\\noseMountUHB\\noseMount.cfg"
+  },
+  {
+    "name": "noseMountKa",
+    "filePath": "RetroFuture\\Engines\\noseMountUHB\\noseMountKa.cfg"
+  },
+  {
+    "name": "pdtacJet",
+    "filePath": "RetroFuture\\Engines\\pdtacJet\\pdtacJet.cfg"
+  },
+  {
+    "name": "PWR185p",
+    "filePath": "RetroFuture\\Engines\\pwr185p\\pwr185p.cfg"
+  },
+  {
+    "name": "PWR210",
+    "filePath": "RetroFuture\\Engines\\pwr210\\pwr210.cfg"
+  },
+  {
+    "name": "r10Bear",
+    "filePath": "RetroFuture\\Engines\\r10Bear\\r10Bear.cfg"
+  },
+  {
+    "name": "rfRadialSpike",
+    "filePath": "RetroFuture\\Engines\\RadialSpike\\radialSpike.cfg"
+  },
+  {
+    "name": "sankerJet",
+    "filePath": "RetroFuture\\Engines\\sankerRamjet\\sankerRamjet.cfg"
+  },
+  {
+    "name": "tailMountUHB",
+    "filePath": "RetroFuture\\Engines\\tailMountUHB\\tailMount.cfg"
+  },
+  {
+    "name": "tailMountKa",
+    "filePath": "RetroFuture\\Engines\\tailMountUHB\\tailMountKa.cfg"
+  },
+  {
+    "name": "triankaMkD",
+    "filePath": "RetroFuture\\Engines\\triankaMkD\\triankaMkD.cfg"
+  },
+  {
+    "name": "vtolKento",
+    "filePath": "RetroFuture\\Engines\\vtolKento\\vtolKentoBasic.cfg"
+  },
+  {
+    "name": "vtolKodachi",
+    "filePath": "RetroFuture\\Engines\\vtolKodachi\\vtolKodachiBasic.cfg"
+  },
+  {
+    "name": "vtolShoto",
+    "filePath": "RetroFuture\\Engines\\vtolShoto\\vtolShotoBasic.cfg"
+  },
+  {
+    "name": "vtolTanto",
+    "filePath": "RetroFuture\\Engines\\vtolTanto\\vtolTantoBasic.cfg"
+  },
+  {
+    "name": "1mBicouplerSmall",
+    "filePath": "RetroFuture\\Fuel\\1mBicouplerSmall\\1mBicouplerSmall.cfg"
+  },
+  {
+    "name": "rect1mAdptr",
+    "filePath": "RetroFuture\\Fuel\\1mRectAdapter\\rect1mAdptr.cfg"
+  },
+  {
+    "name": "rect1m",
+    "filePath": "RetroFuture\\Fuel\\1mRectTank\\rect1m.cfg"
+  },
+  {
+    "name": "2mHoodAdpter",
+    "filePath": "RetroFuture\\Fuel\\2mHoodAdapter\\2mHoodAdapter.cfg"
+  },
+  {
+    "name": "rect2mTpr",
+    "filePath": "RetroFuture\\Fuel\\2mRectAdapter\\rect2mTpr.cfg"
+  },
+  {
+    "name": "rect2m",
+    "filePath": "RetroFuture\\Fuel\\2mRectTank\\rect2m.cfg"
+  },
+  {
+    "name": "rect4M",
+    "filePath": "RetroFuture\\Fuel\\4mRectTank\\rect4m.cfg"
+  },
+  {
+    "name": "rect4mTpr",
+    "filePath": "RetroFuture\\Fuel\\4mRectTaperTank\\rect4mTpr.cfg"
+  },
+  {
+    "name": "med2mAdapter",
+    "filePath": "RetroFuture\\Fuel\\med2mAdapter\\med2mAdapter.cfg"
+  },
+  {
+    "name": "med2mTankLong",
+    "filePath": "RetroFuture\\Fuel\\med2mTankLong\\med2mTankLong.cfg"
+  },
+  {
+    "name": "med2mTankShort",
+    "filePath": "RetroFuture\\Fuel\\med2mTankShort\\med2mTankShort.cfg"
+  },
+  {
+    "name": "wingMountA",
+    "filePath": "RetroFuture\\Fuel\\wingMountA\\wingMountA.cfg"
+  },
+  {
+    "name": "wingMountB",
+    "filePath": "RetroFuture\\Fuel\\wingMountB\\wingMountB.cfg"
+  },
+  {
+    "name": "MissileFire",
+    "filePath": "RetroFuture\\Patches\\RF_BDArmoryPatch.cfg"
+  },
+  {
+    "name": "ModuleHeatShield",
+    "filePath": "RetroFuture\\Patches\\RF_DRCPatch.cfg"
+  },
+  {
+    "name": "InternalCameraTargetHelper }",
+    "filePath": "RetroFuture\\Patches\\RF_InternalRPMPatch.cfg"
+  },
+  {
+    "name": "FlightEngineer",
+    "filePath": "RetroFuture\\Patches\\RF_KERPatch.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "RetroFuture\\Patches\\RF_MFTPatch.cfg"
+  },
+  {
+    "name": "UnIVA",
+    "filePath": "RetroFuture\\Patches\\RF_ProbeControlRoom.cfg"
+  },
+  {
+    "name": "RPM3m2xPitIVA",
+    "filePath": "RetroFuture\\Patches\\RF_RPMPatch.cfg"
+  },
+  {
+    "name": "TweakScale",
+    "filePath": "RetroFuture\\Patches\\RF_TweakScale.cfg"
+  },
+  {
+    "name": "med25mAdapter",
+    "filePath": "RetroFuture\\Structural\\med25mAdapter\\med25mAdapter.cfg"
+  },
+  {
+    "name": "med2mCargoBottom",
+    "filePath": "RetroFuture\\Structural\\med2mCargoBottom\\med2mCargoBottom.cfg"
+  },
+  {
+    "name": "med2mCargoBottomShort",
+    "filePath": "RetroFuture\\Structural\\med2mCargoBottomHalf\\med2mCargoBottomHalf.cfg"
+  },
+  {
+    "name": "med2mCargoSideOpen",
+    "filePath": "RetroFuture\\Structural\\med2mCargoSideOpen\\med2mCargoSideOpen.cfg"
+  },
+  {
+    "name": "med2mCargoTopOpen",
+    "filePath": "RetroFuture\\Structural\\med2mCargoTopOpen\\med2mCargoTopOpen.cfg"
+  },
+  {
+    "name": "med2mTailA",
+    "filePath": "RetroFuture\\Structural\\med2mTailA\\med2mTailA.cfg"
+  },
+  {
+    "name": "med2mTailB",
+    "filePath": "RetroFuture\\Structural\\med2mTailB\\med2mTailB.cfg"
+  },
+  {
+    "name": "med2mPETA",
+    "filePath": "RetroFuture\\Structural\\med2mThrustAug\\med2mThrustAug.cfg"
+  },
+  {
+    "name": "med2mUtility",
+    "filePath": "RetroFuture\\Structural\\med2mUtilityLong\\med2mUtility.cfg"
+  },
+  {
+    "name": "med2mUtilityShort",
+    "filePath": "RetroFuture\\Structural\\med2mUtilityShort\\med2mUtilityShort.cfg"
+  },
+  {
+    "name": "RF2mCargoBay",
+    "filePath": "RetroFuture\\Structural\\rect2mCargo\\rect2mCargo.cfg"
+  },
+  {
+    "name": "surfAdapter",
+    "filePath": "RetroFuture\\Structural\\surfaceAdapter\\surfaceAdapter.cfg"
+  },
+  {
+    "name": "30mmGundola",
+    "filePath": "RetroFuture\\Utility\\30mmGundola\\30mmGundola.cfg"
+  },
+  {
+    "name": "extCameraPod",
+    "filePath": "RetroFuture\\Utility\\extCameraPod\\extCameraPod.cfg"
+  },
+  {
+    "name": "extRPMCam",
+    "filePath": "RetroFuture\\Utility\\extRPMCam\\extRPMCam.cfg"
+  },
+  {
+    "name": "landingFrame",
+    "filePath": "RetroFuture\\Utility\\landingFrame\\landingFrame.cfg"
+  },
+  {
+    "name": "RFlateralPort",
+    "filePath": "RetroFuture\\Utility\\lateralDockingPort\\lateralPort.cfg"
+  },
+  {
+    "name": "med2mCrew",
+    "filePath": "RetroFuture\\Utility\\med2mCrew\\med2mCrew.cfg"
+  },
+  {
+    "name": "med2mSciLab",
+    "filePath": "RetroFuture\\Utility\\med2mSciLab\\med2mSciLab.cfg"
+  },
+  {
+    "name": "miniCameraBoom",
+    "filePath": "RetroFuture\\Utility\\miniCameraBoom\\miniCameraBoom.cfg"
+  },
+  {
+    "name": "theNose4x",
+    "filePath": "RetroFuture\\Utility\\noseGun4x\\theNose.cfg"
+  },
+  {
+    "name": "surfPortJr",
+    "filePath": "RetroFuture\\Utility\\surfPortJr\\surfPortJr.cfg"
+  }
+]

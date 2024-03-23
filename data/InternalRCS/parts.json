@@ -1,0 +1,158 @@
+[
+  {
+    "name": "nesdIRlf1eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngLF1.cfg"
+  },
+  {
+    "name": "nesdIRlf2eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngLF2.cfg"
+  },
+  {
+    "name": "nesdIRlf3eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngLF3.cfg"
+  },
+  {
+    "name": "nesdIRlf4eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngLF4.cfg"
+  },
+  {
+    "name": "nesdIRlf5eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngLF5.cfg"
+  },
+  {
+    "name": "nesdIRmp1eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngMp1.cfg"
+  },
+  {
+    "name": "nesdIRmp2eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngMp2.cfg"
+  },
+  {
+    "name": "nesdIRmp3eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngMp3.cfg"
+  },
+  {
+    "name": "nesdIRmp4eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngMp4.cfg"
+  },
+  {
+    "name": "nesdIRmp5eng",
+    "filePath": "InternalRCS\\Parts\\RCS1\\EngMp5.cfg"
+  },
+  {
+    "name": "nesdIR-GM",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsGM.cfg"
+  },
+  {
+    "name": "nesdIRlf1rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsLF1.cfg"
+  },
+  {
+    "name": "nesdIRlf2rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsLF2.cfg"
+  },
+  {
+    "name": "nesdIRlf3rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsLF3.cfg"
+  },
+  {
+    "name": "nesdIRlf4rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsLF4.cfg"
+  },
+  {
+    "name": "nesdIRlf5rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsLF5.cfg"
+  },
+  {
+    "name": "nesdIRmp1rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsMp1.cfg"
+  },
+  {
+    "name": "nesdIRmp2rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsMp2.cfg"
+  },
+  {
+    "name": "nesdIRmp3rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsMp3.cfg"
+  },
+  {
+    "name": "nesdIRmp4rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsMp4.cfg"
+  },
+  {
+    "name": "nesdIRmp5rcs",
+    "filePath": "InternalRCS\\Parts\\RCS1\\RcsMp5.cfg"
+  },
+  {
+    "name": "nesdIntRcsDec",
+    "filePath": "InternalRCS\\Parts\\RCS2\\Dec.cfg"
+  },
+  {
+    "name": "nesdIntRcsSep",
+    "filePath": "InternalRCS\\Parts\\RCS2\\SE-PR.cfg"
+  },
+  {
+    "name": "nesdIR_OT06",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT06.cfg"
+  },
+  {
+    "name": "nesdIR_OT12",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT12.cfg"
+  },
+  {
+    "name": "nesdIR_OT12m",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT12m.cfg"
+  },
+  {
+    "name": "nesdIR_OT18",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT18.cfg"
+  },
+  {
+    "name": "nesdIR_OT25",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT25.cfg"
+  },
+  {
+    "name": "nesdIR_OT37",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT37.cfg"
+  },
+  {
+    "name": "nesdIR_OT50",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOT50.cfg"
+  },
+  {
+    "name": "nesdIR_OTL",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOTL.cfg"
+  },
+  {
+    "name": "nesdIR_OTLm",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOTLm.cfg"
+  },
+  {
+    "name": "nesdIR_OTR",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOTR.cfg"
+  },
+  {
+    "name": "nesdIR_OTRm",
+    "filePath": "InternalRCS\\Parts\\RCS3\\RcsOTRm.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "InternalRCS\\Patches\\InternalRCS-WF.cfg"
+  },
+  {
+    "name": "ModuleDepthMask",
+    "filePath": "InternalRCS\\Patches\\IntRCS_DepthMask.cfg"
+  },
+  {
+    "name": "ModuleRestockDepthMask",
+    "filePath": "InternalRCS\\Patches\\IntRCS_DepthMaskRestock.cfg"
+  },
+  {
+    "name": "fx1",
+    "filePath": "InternalRCS\\Patches\\IntRCS_RestockFX.cfg"
+  },
+  {
+    "name": "plume",
+    "filePath": "InternalRCS\\Templates\\waterfall-methalox-rcs-jet-1.cfg"
+  }
+]

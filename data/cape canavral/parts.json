@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Fossil_Mechazilla_Arms",
+    "filePath": "cape canavral\\Fossil_Mechazilla_Arms.cfg"
+  },
+  {
+    "name": "HorizontalIntegrationFacility",
+    "filePath": "cape canavral\\HorizontalIntegrationFacility.cfg"
+  },
+  {
+    "name": "KSC-40A",
+    "filePath": "cape canavral\\KSC-40A.cfg"
+  },
+  {
+    "name": "KSC_Administration_level_3",
+    "filePath": "cape canavral\\KSC_Administration_level_3.cfg"
+  },
+  {
+    "name": "KSC_FuelTanks",
+    "filePath": "cape canavral\\KSC_FuelTanks.cfg"
+  },
+  {
+    "name": "KSC_MissionControl_level_2",
+    "filePath": "cape canavral\\KSC_MissionControl_level_2.cfg"
+  },
+  {
+    "name": "KSC_ResearchAndDevelopment_level_2",
+    "filePath": "cape canavral\\KSC_ResearchAndDevelopment_level_2.cfg"
+  },
+  {
+    "name": "KSC_Runway_level_2",
+    "filePath": "cape canavral\\KSC_Runway_level_2.cfg"
+  },
+  {
+    "name": "KSC_SpaceplaneHangar_level_3",
+    "filePath": "cape canavral\\KSC_SpaceplaneHangar_level_3.cfg"
+  },
+  {
+    "name": "KSC_VAB_AC_level_1",
+    "filePath": "cape canavral\\KSC_VAB_AC_level_1.cfg"
+  },
+  {
+    "name": "LandingZone1",
+    "filePath": "cape canavral\\LandingZone1.cfg"
+  },
+  {
+    "name": "LandingZone2",
+    "filePath": "cape canavral\\LandingZone2.cfg"
+  },
+  {
+    "name": "observatory_complex",
+    "filePath": "cape canavral\\observatory_complex.cfg"
+  },
+  {
+    "name": "Orbiter_Processing_Complex",
+    "filePath": "cape canavral\\Orbiter_Processing_Complex.cfg"
+  },
+  {
+    "name": "Road208m",
+    "filePath": "cape canavral\\Road208m.cfg"
+  },
+  {
+    "name": "RoadCorner",
+    "filePath": "cape canavral\\RoadCorner.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Base_Static",
+    "filePath": "cape canavral\\SLE_SS_OLIT_Base_Static.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Core_Static",
+    "filePath": "cape canavral\\SLE_SS_OLIT_Core_Static.cfg"
+  },
+  {
+    "name": "SLE_SS_OLIT_Top_Static",
+    "filePath": "cape canavral\\SLE_SS_OLIT_Top_Static.cfg"
+  },
+  {
+    "name": "SLE_SS_OLP_Static",
+    "filePath": "cape canavral\\SLE_SS_OLP_Static.cfg"
+  },
+  {
+    "name": "SMARF",
+    "filePath": "cape canavral\\SMARF.cfg"
+  },
+  {
+    "name": "Tier4VerticalAssemblyBuilding",
+    "filePath": "cape canavral\\Tier4VerticalAssemblyBuilding.cfg"
+  },
+  {
+    "name": "TLC_05",
+    "filePath": "cape canavral\\TLC_05.cfg"
+  },
+  {
+    "name": "TLC_14",
+    "filePath": "cape canavral\\TLC_14.cfg"
+  },
+  {
+    "name": "TLC_17",
+    "filePath": "cape canavral\\TLC_17.cfg"
+  },
+  {
+    "name": "TLC_19",
+    "filePath": "cape canavral\\TLC_19.cfg"
+  },
+  {
+    "name": "TLC_41",
+    "filePath": "cape canavral\\TLC_41.cfg"
+  },
+  {
+    "name": "TSC_39B",
+    "filePath": "cape canavral\\TSC_39B.cfg"
+  }
+]

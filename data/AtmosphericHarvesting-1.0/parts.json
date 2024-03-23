@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ModuleAsteroidResource",
+    "filePath": "AtmosphericHarvesting-1.0\\GameData\\CommunityResourcePack\\Asteroid.cfg"
+  },
+  {
+    "name": "Hydrates",
+    "filePath": "AtmosphericHarvesting-1.0\\GameData\\CommunityResourcePack\\CommonResources.cfg"
+  },
+  {
+    "name": "ModuleResourceScanner",
+    "filePath": "AtmosphericHarvesting-1.0\\GameData\\CommunityResourcePack\\SurfaceScanner.cfg"
+  },
+  {
+    "name": "MOXIE",
+    "filePath": "AtmosphericHarvesting-1.0\\GameData\\MelantuAtmoHarvest\\Parts\\MOXIE\\MOXIE.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "AtmosphericHarvesting-1.0\\GameData\\MelantuAtmoHarvest\\Patches\\ModdedISRUModes.cfg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Duna",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Duna\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Eve\\atmo.cfg"
+  },
+  {
+    "name": "Eve",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Eve\\ocean.cfg"
+  },
+  {
+    "name": "Jool",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Jool\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Kerbin\\atmo.cfg"
+  },
+  {
+    "name": "Kerbin",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Kerbin\\ocean.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Laythe\\atmo.cfg"
+  },
+  {
+    "name": "Laythe",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\Planets\\Laythe\\ocean.cfg"
+  },
+  {
+    "name": "Integrated",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Extra_(Not_modified)\\Gamedata\\Scatterer\\Spectra_Scatterer\\qualityPresets.cfg"
+  },
+  {
+    "name": "MohoAblationOuter",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Gamedata\\Spectra\\Spectra_EVE\\EVE_Main.cfg"
+  },
+  {
+    "name": "EveAtmoPurpleStock",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Gamedata\\Spectra\\Spectra_EVE\\EVE_Stock.cfg"
+  },
+  {
+    "name": "eveBands",
+    "filePath": "Spectra-VolumetricClouds-Aurora\\Gamedata\\Spectra\\Spectra_EVE\\textures\\textures.cfg"
+  }
+]

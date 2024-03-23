@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Charged-GEN2warpengine",
+    "filePath": "HyperDriveMod\\Charge-engine.cfg"
+  },
+  {
+    "name": "CondensedIonFuelTank",
+    "filePath": "HyperDriveMod\\Condensed Ion Fuel Tank.cfg"
+  },
+  {
+    "name": "GEN2CondensedIonEngine",
+    "filePath": "HyperDriveMod\\CondensedIon Engine!.cfg"
+  },
+  {
+    "name": "Gen2HyperEngine",
+    "filePath": "HyperDriveMod\\Gen 2 warp engine.cfg"
+  },
+  {
+    "name": "Hyperdrive inline",
+    "filePath": "HyperDriveMod\\Hyperdrive inline.cfg"
+  },
+  {
+    "name": "ION REACTOR",
+    "filePath": "HyperDriveMod\\Hyperdrive Reactor.cfg"
+  },
+  {
+    "name": "HYPERDRIVE",
+    "filePath": "HyperDriveMod\\HYPERDRIVE.cfg"
+  },
+  {
+    "name": "IONBlock",
+    "filePath": "HyperDriveMod\\Ion Block.cfg"
+  },
+  {
+    "name": "Hyperfuel",
+    "filePath": "HyperDriveMod\\Ion Tank.cfg"
+  },
+  {
+    "name": "CrysDrill",
+    "filePath": "HyperDriveMod\\MiniDrill.cfg"
+  },
+  {
+    "name": "Ion",
+    "filePath": "HyperDriveMod\\Resources.cfg"
+  }
+]

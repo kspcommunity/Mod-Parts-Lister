@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ecoFairingBase",
+    "filePath": "EcoRocket\\Parts\\ecoFairing\\ecoFairingBase.cfg"
+  },
+  {
+    "name": "ecoFirstStage",
+    "filePath": "EcoRocket\\Parts\\ecoFirstStage\\ecoFirstStage.cfg"
+  },
+  {
+    "name": "EkoRokket First Stage Main Engine",
+    "filePath": "EcoRocket\\Parts\\ecoFirstStageEngine\\ecoFirstEngine.cfg"
+  },
+  {
+    "name": "EkoRokket First Stage Landing Engine",
+    "filePath": "EcoRocket\\Parts\\ecoLandEngine\\ecoLandEngine.cfg"
+  },
+  {
+    "name": "ecoMainFin",
+    "filePath": "EcoRocket\\Parts\\ecoMainFin\\ecoMainFin.cfg"
+  },
+  {
+    "name": "EkoRokket Second Stage Engine",
+    "filePath": "EcoRocket\\Parts\\ecoSecondEngine\\ecoSecondEngine.cfg"
+  },
+  {
+    "name": "ecoSecondStage",
+    "filePath": "EcoRocket\\Parts\\ecoSecondStage\\ecoSecondStage.cfg"
+  },
+  {
+    "name": "ecoThirdEngine",
+    "filePath": "EcoRocket\\Parts\\ecoThirdEngine\\ecoThirdEngine.cfg"
+  },
+  {
+    "name": "ecoThirdStage",
+    "filePath": "EcoRocket\\Parts\\ecoThirdStage\\ecoThirdStage.cfg"
+  },
+  {
+    "name": "ecoUpperFin",
+    "filePath": "EcoRocket\\Parts\\ecoUpperFin\\ecoUpperFin.cfg"
+  },
+  {
+    "name": "HeatedWater",
+    "filePath": "EcoRocket\\Resources\\CustomResources.cfg"
+  },
+  {
+    "name": "spikeFlameInner",
+    "filePath": "EcoRocket\\Templates\\steamEngine.cfg"
+  }
+]

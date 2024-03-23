@@ -1,0 +1,474 @@
+[
+  {
+    "name": "ARC_Fighter",
+    "filePath": "Skunk_Works\\ARC\\SHIP\\part.cfg"
+  },
+  {
+    "name": "Awing_Engines",
+    "filePath": "Skunk_Works\\Awing\\Engines\\part.cfg"
+  },
+  {
+    "name": "AWINGHULL",
+    "filePath": "Skunk_Works\\Awing\\Hull\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Ant1",
+    "filePath": "Skunk_Works\\BAYT1300\\ANT1\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Ant2",
+    "filePath": "Skunk_Works\\BAYT1300\\ANT2\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300AUxLG",
+    "filePath": "Skunk_Works\\BAYT1300\\AuxLG\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Beak",
+    "filePath": "Skunk_Works\\BAYT1300\\Beak\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300CargoBay",
+    "filePath": "Skunk_Works\\BAYT1300\\CargoBay\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit1",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit1\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit2",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit2\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit3",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit3\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit4",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit4\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit5",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit5\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit6",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit6\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Cockpit7",
+    "filePath": "Skunk_Works\\BAYT1300\\Cockpit7\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300CockpitLH",
+    "filePath": "Skunk_Works\\BAYT1300\\CockpitLH\\part.cfg"
+  },
+  {
+    "name": "ConcealedDropGunYT1300",
+    "filePath": "Skunk_Works\\BAYT1300\\DropGun\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Engine1",
+    "filePath": "Skunk_Works\\BAYT1300\\Engine1\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Engine2",
+    "filePath": "Skunk_Works\\BAYT1300\\Engine2\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Engine3",
+    "filePath": "Skunk_Works\\BAYT1300\\Engine3\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Engine4",
+    "filePath": "Skunk_Works\\BAYT1300\\Engine4\\part.cfg"
+  },
+  {
+    "name": "YT1300MainDrives",
+    "filePath": "Skunk_Works\\BAYT1300\\Engines\\part.cfg"
+  },
+  {
+    "name": "CEC_Escape_Pod_MK1",
+    "filePath": "Skunk_Works\\BAYT1300\\EscapePod\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300CargoBayFore",
+    "filePath": "Skunk_Works\\BAYT1300\\FCargo\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300FREIGHT",
+    "filePath": "Skunk_Works\\BAYT1300\\Freight\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300HullBasic",
+    "filePath": "Skunk_Works\\BAYT1300\\Hull1\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300missilebox",
+    "filePath": "Skunk_Works\\BAYT1300\\MissileBox\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Ant3",
+    "filePath": "Skunk_Works\\BAYT1300\\RadarRH\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Ant2RH",
+    "filePath": "Skunk_Works\\BAYT1300\\RadarRH2\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Docking1",
+    "filePath": "Skunk_Works\\BAYT1300\\Ramp1\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Docking2",
+    "filePath": "Skunk_Works\\BAYT1300\\Ramp2\\part.cfg"
+  },
+  {
+    "name": "YT1300RepulsorDrives",
+    "filePath": "Skunk_Works\\BAYT1300\\Repulsors\\part.cfg"
+  },
+  {
+    "name": "YT1300ReverseDrives",
+    "filePath": "Skunk_Works\\BAYT1300\\ReverseThrust\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300Test",
+    "filePath": "Skunk_Works\\BAYT1300\\TEST\\part.cfg"
+  },
+  {
+    "name": "YT1300QuadTurret",
+    "filePath": "Skunk_Works\\BAYT1300\\TurretAssembly\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300UTPOD1",
+    "filePath": "Skunk_Works\\BAYT1300\\UTLPOD1\\part.cfg"
+  },
+  {
+    "name": "BuildAYt1300UTPOD2",
+    "filePath": "Skunk_Works\\BAYT1300\\UTLPOD2\\part.cfg"
+  },
+  {
+    "name": "BTL_Engines",
+    "filePath": "Skunk_Works\\BTL\\Engines\\part.cfg"
+  },
+  {
+    "name": "BTL-4",
+    "filePath": "Skunk_Works\\BTL\\Hull\\part.cfg"
+  },
+  {
+    "name": "BwingBomberHull",
+    "filePath": "Skunk_Works\\Bwing\\EHull\\part.cfg"
+  },
+  {
+    "name": "BwingBomberPod",
+    "filePath": "Skunk_Works\\Bwing\\Pod\\part.cfg"
+  },
+  {
+    "name": "CE1401_Counsulars_Ship_Engines",
+    "filePath": "Skunk_Works\\CE1401\\Engines\\part.cfg"
+  },
+  {
+    "name": "CE1401_Counsulars_Ship_Hull",
+    "filePath": "Skunk_Works\\CE1401\\Hull\\part.cfg"
+  },
+  {
+    "name": "CE90_Corvette_Engines",
+    "filePath": "Skunk_Works\\CE90\\Engines\\part.cfg"
+  },
+  {
+    "name": "CE90_Corvette_Hull",
+    "filePath": "Skunk_Works\\CE90\\Hull\\part.cfg"
+  },
+  {
+    "name": "Firespray",
+    "filePath": "Skunk_Works\\Firespray\\Hull\\part.cfg"
+  },
+  {
+    "name": "Federation_Type_F_Shuttle",
+    "filePath": "Skunk_Works\\Gallileo7\\part.cfg"
+  },
+  {
+    "name": "Jedi_StarFighter_Hull",
+    "filePath": "Skunk_Works\\JSF\\Hull\\part.cfg"
+  },
+  {
+    "name": "Republic_Assault_Ship",
+    "filePath": "Skunk_Works\\RAS\\Hull\\part.cfg"
+  },
+  {
+    "name": "YT1300_Hull_RebelYell",
+    "filePath": "Skunk_Works\\RebelYell\\Hull\\RebelYell\\part.cfg"
+  },
+  {
+    "name": "YT1300_Lifepod",
+    "filePath": "Skunk_Works\\RebelYell\\Lifepod\\part.cfg"
+  },
+  {
+    "name": "YT1300_MD_RebelYell",
+    "filePath": "Skunk_Works\\RebelYell\\MainDrives\\RebelYell\\part.cfg"
+  },
+  {
+    "name": "YT1300_VTOL",
+    "filePath": "Skunk_Works\\RebelYell\\MainGear\\part.cfg"
+  },
+  {
+    "name": "KlingonDrydockHull",
+    "filePath": "Skunk_Works\\StarTrek\\Drydock\\KDD\\part.cfg"
+  },
+  {
+    "name": "DrydockHull",
+    "filePath": "Skunk_Works\\StarTrek\\Drydock\\part.cfg"
+  },
+  {
+    "name": "WorkerbeeRepulsors",
+    "filePath": "Skunk_Works\\StarTrek\\Drydock\\WorkerBee\\Drives\\part.cfg"
+  },
+  {
+    "name": "WorkerbeeHull",
+    "filePath": "Skunk_Works\\StarTrek\\Drydock\\WorkerBee\\Hull\\part.cfg"
+  },
+  {
+    "name": "ExcelsiorClassbattleshipArizona",
+    "filePath": "Skunk_Works\\StarTrek\\Excelsior\\part.cfg"
+  },
+  {
+    "name": "MirandaClassCruiserNIMITZ",
+    "filePath": "Skunk_Works\\StarTrek\\NIMITZ\\part.cfg"
+  },
+  {
+    "name": "Federation_Type_Condor",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Condor\\part.cfg"
+  },
+  {
+    "name": "FederationType5ShuttleEngines",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Federation\\Type5\\Yorktown\\Engines\\part.cfg"
+  },
+  {
+    "name": "FederationType5ShuttleHull",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Federation\\Type5\\Yorktown\\Hull\\part.cfg"
+  },
+  {
+    "name": "FederationType5ShuttleRepulsors",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Federation\\Type5\\Yorktown\\Repulsors\\part.cfg"
+  },
+  {
+    "name": "KlingonShuttleEngines",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\KlingonShuttlecraft\\Engines\\part.cfg"
+  },
+  {
+    "name": "KlingonShuttleHull",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\KlingonShuttlecraft\\Hull\\part.cfg"
+  },
+  {
+    "name": "KlingonShuttleRepulsors",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\KlingonShuttlecraft\\Repulsors\\part.cfg"
+  },
+  {
+    "name": "RomulanShuttleEngines",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Romulan\\Engines\\part.cfg"
+  },
+  {
+    "name": "RomulanShuttleHull",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Romulan\\Hull\\part.cfg"
+  },
+  {
+    "name": "RomulanShuttleRepulsors",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\Romulan\\Repulsors\\part.cfg"
+  },
+  {
+    "name": "Travelpod_Dockingport_Hullmount",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\TravelPod\\DockingPort\\HullMount\\part.cfg"
+  },
+  {
+    "name": "Travelpod_Dockingport",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\TravelPod\\DockingPort\\part.cfg"
+  },
+  {
+    "name": "Travel_Pod_5",
+    "filePath": "Skunk_Works\\StarTrek\\Shuttle\\TravelPod\\part.cfg"
+  },
+  {
+    "name": "KDYISDMB",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\ISDMB\\part.cfg"
+  },
+  {
+    "name": "KlingonPhotonmk1",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\KPT1\\KlingonMK2.cfg"
+  },
+  {
+    "name": "FederationPhaserBankMK2",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\MK2FPH\\FPHMK2.cfg"
+  },
+  {
+    "name": "KlingonDisruptorMK2",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\MK2KLINDRPT\\KlingonMK2.cfg"
+  },
+  {
+    "name": "RomulanDisruptorMK2",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\MK2RDSRPT\\RomulanMK2.cfg"
+  },
+  {
+    "name": "HeavyTurboLaser",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\WeaponTurret_Blank\\part.cfg"
+  },
+  {
+    "name": "HeavyTurboLaser",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\WeaponTurret_Imperial_HTL\\part.cfg"
+  },
+  {
+    "name": "MediumTurboLaser",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\WeaponTurret_Imperial_MTL\\part.cfg"
+  },
+  {
+    "name": "Alliance_MediumTurboLaser",
+    "filePath": "Skunk_Works\\StarTrekWeapons\\WeaponTurret_RA_MTB\\part.cfg"
+  },
+  {
+    "name": "CR_90_Corvette_Engines",
+    "filePath": "Skunk_Works\\StarWars\\Cr90Corvette\\Engines\\part.cfg"
+  },
+  {
+    "name": "Cr90Hull",
+    "filePath": "Skunk_Works\\StarWars\\Cr90Corvette\\Hull\\part.cfg"
+  },
+  {
+    "name": "CEC_Escape_Pod_MK3",
+    "filePath": "Skunk_Works\\StarWars\\Cr90Corvette\\LifepodMK3\\part.cfg"
+  },
+  {
+    "name": "Cr90SmallQuadTurret",
+    "filePath": "Skunk_Works\\StarWars\\Cr90Corvette\\QuadGunTurret\\part.cfg"
+  },
+  {
+    "name": "Cr90RepulsorDrives",
+    "filePath": "Skunk_Works\\StarWars\\Cr90Corvette\\Repulsors\\part.cfg"
+  },
+  {
+    "name": "Cr90Turret",
+    "filePath": "Skunk_Works\\StarWars\\Cr90Corvette\\Turret\\part.cfg"
+  },
+  {
+    "name": "KDYISDMB",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\ISDMB\\part.cfg"
+  },
+  {
+    "name": "KlingonPhotonmk1",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\KPT1\\KlingonMK2.cfg"
+  },
+  {
+    "name": "FederationPhaserBankMK2",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\MK2FPH\\FPHMK2.cfg"
+  },
+  {
+    "name": "KlingonDisruptorMK2",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\MK2KLINDRPT\\KlingonMK2.cfg"
+  },
+  {
+    "name": "RomulanDisruptorMK2",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\MK2RDSRPT\\RomulanMK2.cfg"
+  },
+  {
+    "name": "RomulanDisrupterBankMK2",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\RDBmk2\\RDBmk2.cfg"
+  },
+  {
+    "name": "HeavyTurboLaser",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\WeaponTurret_Blank\\part.cfg"
+  },
+  {
+    "name": "HeavyTurboLaser",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\WeaponTurret_Imperial_HTL\\part.cfg"
+  },
+  {
+    "name": "MediumTurboLaser",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\WeaponTurret_Imperial_MTL\\part.cfg"
+  },
+  {
+    "name": "Alliance_MediumTurboLaser",
+    "filePath": "Skunk_Works\\StarWars\\StarTrekWeapons\\WeaponTurret_RA_MTB\\part.cfg"
+  },
+  {
+    "name": "ConcealedDropGunYT1300",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\DropGun\\part.cfg"
+  },
+  {
+    "name": "YT1300MainDrives",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\Engines\\part.cfg"
+  },
+  {
+    "name": "CEC_Escape_Pod_MK1",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\EscapePod\\part.cfg"
+  },
+  {
+    "name": "YT1300Hull",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\HULL\\part.cfg"
+  },
+  {
+    "name": "YT1300RepulsorDrives",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\Repulsors\\part.cfg"
+  },
+  {
+    "name": "YT1300ReverseDrives",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\ReverseThrust\\part.cfg"
+  },
+  {
+    "name": "YT1300QuadTurret",
+    "filePath": "Skunk_Works\\StarWars\\YT1300SLF\\TurretAssembly\\part.cfg"
+  },
+  {
+    "name": "Strike_FighterEngines",
+    "filePath": "Skunk_Works\\StrikeFighter\\Engine\\part.cfg"
+  },
+  {
+    "name": "Strike_FighterHull",
+    "filePath": "Skunk_Works\\StrikeFighter\\Hull\\part.cfg"
+  },
+  {
+    "name": "Strike_FighterRepulsors",
+    "filePath": "Skunk_Works\\StrikeFighter\\Repulsor\\part.cfg"
+  },
+  {
+    "name": "T65B_Icom_Fighter",
+    "filePath": "Skunk_Works\\T65B\\Hull\\part.cfg"
+  },
+  {
+    "name": "T65B_Icom_Fighter_Wings",
+    "filePath": "Skunk_Works\\T65B\\Wings\\part.cfg"
+  },
+  {
+    "name": "TIE_Fighter",
+    "filePath": "Skunk_Works\\TIE\\Hull\\part.cfg"
+  },
+  {
+    "name": "TIE_MD",
+    "filePath": "Skunk_Works\\TIE\\MD\\part.cfg"
+  },
+  {
+    "name": "VCX100Phantom",
+    "filePath": "Skunk_Works\\VCX100\\Phantom\\part.cfg"
+  },
+  {
+    "name": "VCX100TheGhost",
+    "filePath": "Skunk_Works\\VCX100\\TheGhost\\part.cfg"
+  },
+  {
+    "name": "X37LandSpeederHull",
+    "filePath": "Skunk_Works\\X37\\Hull\\part.cfg"
+  },
+  {
+    "name": "YT1300_Lifepod",
+    "filePath": "Skunk_Works\\YT1300\\Lifepod\\part.cfg"
+  },
+  {
+    "name": "YT1300_MD",
+    "filePath": "Skunk_Works\\YT1300\\MainDrives\\Millenium_Falcon\\part.cfg"
+  },
+  {
+    "name": "YT1300_VTOL",
+    "filePath": "Skunk_Works\\YT1300\\MainGear\\part.cfg"
+  },
+  {
+    "name": "YT1300_Hull",
+    "filePath": "Skunk_Works\\YT1300\\MainHull\\Millenium_Falcon\\part.cfg"
+  }
+]

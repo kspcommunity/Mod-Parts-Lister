@@ -1,0 +1,10 @@
+[
+  {
+    "name": "LeviathanHull",
+    "filePath": "LeviathanClass\\Parts\\Command\\LeviathanHull.cfg"
+  },
+  {
+    "name": "Liquids",
+    "filePath": "LeviathanClass\\Resources.cfg"
+  }
+]

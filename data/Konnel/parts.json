@@ -1,0 +1,82 @@
+[
+  {
+    "name": "A_KonnelADI",
+    "filePath": "Konnel\\ADI\\adi.cfg"
+  },
+  {
+    "name": "AdvFCSTurret50",
+    "filePath": "Konnel\\AdvFCSTurret\\FCSTurret.cfg"
+  },
+  {
+    "name": "agmGolf",
+    "filePath": "Konnel\\agmgolf\\agmkilo.cfg"
+  },
+  {
+    "name": "A_KonnelbackupADI",
+    "filePath": "Konnel\\BackupADI\\backupADI.cfg"
+  },
+  {
+    "name": "twinBMGkrowning",
+    "filePath": "Konnel\\bmgtwinHB\\bmgtwinHB.cfg"
+  },
+  {
+    "name": "bordKanonepol",
+    "filePath": "Konnel\\bordkanone\\bordkanone.cfg"
+  },
+  {
+    "name": "konnel52",
+    "filePath": "Konnel\\cockpit\\k52.cfg"
+  },
+  {
+    "name": "gau12uequalizer",
+    "filePath": "Konnel\\GAU12U\\gau12u.cfg"
+  },
+  {
+    "name": "GBU12",
+    "filePath": "Konnel\\GBU12\\gbu12.cfg"
+  },
+  {
+    "name": "GBU16_Kartheon",
+    "filePath": "Konnel\\GBU16\\gbu16pavewayii.cfg"
+  },
+  {
+    "name": "GBU31V3B_Kartheon",
+    "filePath": "Konnel\\GBU31V3B\\31V3B.cfg"
+  },
+  {
+    "name": "heli50bmg",
+    "filePath": "Konnel\\heliBMG\\50bmg.cfg"
+  },
+  {
+    "name": "krowningBMG",
+    "filePath": "Konnel\\ManPortableMG\\manportbmg.cfg"
+  },
+  {
+    "name": "quad50bmg",
+    "filePath": "Konnel\\MultiMannedBMG\\MultiBMG.cfg"
+  },
+  {
+    "name": "AIM54C",
+    "filePath": "Konnel\\pheonix\\pheonix.cfg"
+  },
+  {
+    "name": "APKWSrocket",
+    "filePath": "Konnel\\Resources\\Resources.cfg"
+  },
+  {
+    "name": "k52int",
+    "filePath": "Konnel\\spaces\\k52int.cfg"
+  },
+  {
+    "name": "stukaGearpol",
+    "filePath": "Konnel\\stukaGear\\stukaGear.cfg"
+  },
+  {
+    "name": "krowningtruckTurret",
+    "filePath": "Konnel\\truckBMG\\truckBMG.cfg"
+  },
+  {
+    "name": "waistGunnerMGpol",
+    "filePath": "Konnel\\waistGunnerMG\\waistGunnerMG.cfg"
+  }
+]

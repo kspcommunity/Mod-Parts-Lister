@@ -1,0 +1,242 @@
+[
+  {
+    "name": "def // do not change this!",
+    "filePath": "NKD\\BulletDefs\\NKD_Bullets.cfg"
+  },
+  {
+    "name": "harp12kBomb",
+    "filePath": "NKD\\parts\\12k Bomb\\12k Bomb.cfg"
+  },
+  {
+    "name": "harpAAD",
+    "filePath": "NKD\\parts\\AAD\\AAD.cfg"
+  },
+  {
+    "name": "agm158",
+    "filePath": "NKD\\parts\\AGM 158\\agm158.cfg"
+  },
+  {
+    "name": "harpAK230",
+    "filePath": "NKD\\parts\\AK-230\\ak230.cfg"
+  },
+  {
+    "name": "harpB61Nuke340",
+    "filePath": "NKD\\parts\\B-61 Nuke\\B61.cfg"
+  },
+  {
+    "name": "b83Nuke",
+    "filePath": "NKD\\parts\\B-83 Nuclear\\B83Bomb.cfg"
+  },
+  {
+    "name": "harpCastleBravo",
+    "filePath": "NKD\\parts\\Castle Bravo\\Castle Bravo.cfg"
+  },
+  {
+    "name": "harpChaffBox",
+    "filePath": "NKD\\parts\\Chaff Refill Box\\chaffBox.cfg"
+  },
+  {
+    "name": "chaparralTurret",
+    "filePath": "NKD\\parts\\Chaparral Turret\\chaparralTurret.cfg"
+  },
+  {
+    "name": "davyCrockettLauncher",
+    "filePath": "NKD\\parts\\Davy Crockett Launcher\\davyCrockettLauncher.cfg"
+  },
+  {
+    "name": "harpDavyCrockett",
+    "filePath": "NKD\\parts\\Davy Crockett Warhead\\davyCrockettWarhead.cfg"
+  },
+  {
+    "name": "harpExocet",
+    "filePath": "NKD\\parts\\Exocet\\exocet.cfg"
+  },
+  {
+    "name": "FAB-100Bomb",
+    "filePath": "NKD\\parts\\FAB100\\FAB-100bomb.cfg"
+  },
+  {
+    "name": "FAB-250Bomb",
+    "filePath": "NKD\\parts\\FAB250\\FAB-250bomb.cfg"
+  },
+  {
+    "name": "FAB-5000Bomb",
+    "filePath": "NKD\\parts\\FAB5000\\FAB-5000bomb.cfg"
+  },
+  {
+    "name": "harpFlareBox",
+    "filePath": "NKD\\parts\\Flare Refill Box\\flareBox.cfg"
+  },
+  {
+    "name": "foabBomb",
+    "filePath": "NKD\\parts\\FOAB\\FOABBomb.cfg"
+  },
+  {
+    "name": "GBU39",
+    "filePath": "NKD\\parts\\GBU-39\\GBU39.cfg"
+  },
+  {
+    "name": "GBU44",
+    "filePath": "NKD\\parts\\GBU-44\\GBU44.cfg"
+  },
+  {
+    "name": "harpGenie",
+    "filePath": "NKD\\parts\\Genie Nuclear\\genieMissile.cfg"
+  },
+  {
+    "name": "harpGSHTurret",
+    "filePath": "NKD\\parts\\GSH 23 Turret\\GSH 23.cfg"
+  },
+  {
+    "name": "k12Cloudmaker",
+    "filePath": "NKD\\parts\\K-12 Cloudmaker\\k12Bomb.cfg"
+  },
+  {
+    "name": "harpKarl",
+    "filePath": "NKD\\parts\\Karl\\karl.cfg"
+  },
+  {
+    "name": "harpKompensator",
+    "filePath": "NKD\\parts\\Kompensator\\Kompensator.cfg"
+  },
+  {
+    "name": "harpKV2",
+    "filePath": "NKD\\parts\\KV-2 Turret\\KV2.cfg"
+  },
+  {
+    "name": "harpLAVADTurret",
+    "filePath": "NKD\\parts\\LAV AD Turret\\LAVADTurret.cfg"
+  },
+  {
+    "name": "harpLAV25",
+    "filePath": "NKD\\parts\\LAV-25 Turret\\LAV25.cfg"
+  },
+  {
+    "name": "harpM1Howitzer",
+    "filePath": "NKD\\parts\\M1 Howitzer\\M1.cfg"
+  },
+  {
+    "name": "harpM198Howitzer",
+    "filePath": "NKD\\parts\\M198\\M198.cfg"
+  },
+  {
+    "name": "harpM26",
+    "filePath": "NKD\\parts\\M26 Rocket\\M26.cfg"
+  },
+  {
+    "name": "harpM30",
+    "filePath": "NKD\\parts\\M30 Rocket\\M30.cfg"
+  },
+  {
+    "name": "harpMGMCap",
+    "filePath": "NKD\\parts\\MGM Cap\\MGMCap.cfg"
+  },
+  {
+    "name": "harpMGMTube",
+    "filePath": "NKD\\parts\\MGM Tube\\MGMTube.cfg"
+  },
+  {
+    "name": "harpMGM",
+    "filePath": "NKD\\parts\\MGM-140\\MGM140.cfg"
+  },
+  {
+    "name": "paveWayIV",
+    "filePath": "NKD\\parts\\Mk4 Paveway\\pavewayBomb.cfg"
+  },
+  {
+    "name": "harpMk45",
+    "filePath": "NKD\\parts\\Mk45 Gun\\mk45.cfg"
+  },
+  {
+    "name": "launcherMLRSTurret",
+    "filePath": "NKD\\parts\\MLRS\\launcherMLRS.cfg"
+  },
+  {
+    "name": "moabBomb",
+    "filePath": "NKD\\parts\\MOAB\\MOABBomb.cfg"
+  },
+  {
+    "name": "harpGSH301Pod",
+    "filePath": "NKD\\parts\\Modular30mm\\GSH 301.cfg"
+  },
+  {
+    "name": "harpGSHPod",
+    "filePath": "NKD\\parts\\ModularGSh\\GSH 23.cfg"
+  },
+  {
+    "name": "harpM129Pod",
+    "filePath": "NKD\\parts\\ModularM129\\M129.cfg"
+  },
+  {
+    "name": "harpPod",
+    "filePath": "NKD\\parts\\ModularPod\\Pod.cfg"
+  },
+  {
+    "name": "harpVulcanPod",
+    "filePath": "NKD\\parts\\ModularVulcan\\Vulcan.cfg"
+  },
+  {
+    "name": "harpAtomAnnie",
+    "filePath": "NKD\\parts\\Nuclear Valentina\\nuclearVal.cfg"
+  },
+  {
+    "name": "harpAtomAnnieR",
+    "filePath": "NKD\\parts\\Nuclear Valentina Radial\\nuclearValR.cfg"
+  },
+  {
+    "name": "harpOhka",
+    "filePath": "NKD\\parts\\Ohka\\ohka.cfg"
+  },
+  {
+    "name": "harpPaladinTurret",
+    "filePath": "NKD\\parts\\Paladin\\paladinTurret.cfg"
+  },
+  {
+    "name": "harpRailgun",
+    "filePath": "NKD\\parts\\Railgun\\railgun.cfg"
+  },
+  {
+    "name": "harpRailgunR",
+    "filePath": "NKD\\parts\\Railgun Radial\\railgunR.cfg"
+  },
+  {
+    "name": "harpRocketTube",
+    "filePath": "NKD\\parts\\Rocket tube\\rocketTube.cfg"
+  },
+  {
+    "name": "scudLauncher",
+    "filePath": "NKD\\parts\\Scud Launcher\\scudLauncher.cfg"
+  },
+  {
+    "name": "harpScud",
+    "filePath": "NKD\\parts\\Scud Missile\\Scud.cfg"
+  },
+  {
+    "name": "harpScudNuclear",
+    "filePath": "NKD\\parts\\Scud Nuclear\\ScudNuclear.cfg"
+  },
+  {
+    "name": "harpBahaCmPod",
+    "filePath": "NKD\\parts\\Slim Flare Dispenser\\slimFlare.cfg"
+  },
+  {
+    "name": "harpStinger",
+    "filePath": "NKD\\parts\\Stinger\\stinger.cfg"
+  },
+  {
+    "name": "thermoMIRV",
+    "filePath": "NKD\\parts\\Thermonuclear MIRV\\MIRVBomb.cfg"
+  },
+  {
+    "name": "harpTomahawkConv",
+    "filePath": "NKD\\parts\\Tomohawk Conventional\\tomohawkMissile.cfg"
+  },
+  {
+    "name": "tsarBomba",
+    "filePath": "NKD\\parts\\Tsar Bomba\\tsarBomba.cfg"
+  },
+  {
+    "name": "harpV1",
+    "filePath": "NKD\\parts\\V-1\\V1.cfg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "adaptorCarrier",
+    "filePath": "OrbitalTug\\adaptor\\adaptorCarrier.cfg"
+  },
+  {
+    "name": "fwdAdaptor",
+    "filePath": "OrbitalTug\\adaptor\\fwdAdaptor.cfg"
+  },
+  {
+    "name": "OrbitalGrapplerJR",
+    "filePath": "OrbitalTug\\adaptor\\grapplerJR.cfg"
+  },
+  {
+    "name": "OrbitalTugCore",
+    "filePath": "OrbitalTug\\core\\OrbitalTugCore.cfg"
+  },
+  {
+    "name": "DronePod",
+    "filePath": "OrbitalTug\\drone\\DronePod.cfg"
+  },
+  {
+    "name": "engineOnArm",
+    "filePath": "OrbitalTug\\engine\\extendEngine.cfg"
+  },
+  {
+    "name": "helperDrone",
+    "filePath": "OrbitalTug\\helper\\helperDrone.cfg"
+  },
+  {
+    "name": "OrbitalTugIVA",
+    "filePath": "OrbitalTug\\pod\\internal\\orbitTugIVA.cfg"
+  },
+  {
+    "name": "OrbitalTugPod",
+    "filePath": "OrbitalTug\\pod\\OrbitalTugPod.cfg"
+  }
+]

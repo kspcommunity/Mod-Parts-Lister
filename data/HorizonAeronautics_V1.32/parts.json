@@ -1,0 +1,106 @@
+[
+  {
+    "name": "HA3SLPayloadFairing",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Aero\\HA3SLPayloadFairing\\part.cfg"
+  },
+  {
+    "name": "HA3SLPayloadFairingLong",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Aero\\HA3SLPayloadFairingLong\\part.cfg"
+  },
+  {
+    "name": "HA3SLPayloadFairingXL",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Aero\\HA3SLPayloadFairingXL\\part.cfg"
+  },
+  {
+    "name": "pf_tech_fairing04m",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Aero\\HorizonAeronautics_PF\\common.cfg"
+  },
+  {
+    "name": "HorizonAeronautics_PF_Side",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Aero\\HorizonAeronautics_PF\\side2.cfg"
+  },
+  {
+    "name": "HA3SLSAS",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Command\\HA3SLSAS\\part.cfg"
+  },
+  {
+    "name": "HA3SLRD120",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Engine\\HA3SLRD120\\part.cfg"
+  },
+  {
+    "name": "HA3SLRD171",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Engine\\HA3SLRD171\\part.cfg"
+  },
+  {
+    "name": "HA3SLRD58M",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Engine\\HA3SLRD58M\\part.cfg"
+  },
+  {
+    "name": "HA3SLRetroRocket",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Engine\\HA3SLRetroRocket\\part.cfg"
+  },
+  {
+    "name": "HA3SLRP2FuelTank2-1",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\FuelTank\\HA3SLStage1FuelTank\\part.cfg"
+  },
+  {
+    "name": "HA3SLStage2FuelTank",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\FuelTank\\HA3SLStage2FuelTank\\part.cfg"
+  },
+  {
+    "name": "HA3SLPayloadDecoupler",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Structural\\HA3SLPayloadDecoupler\\part.cfg"
+  },
+  {
+    "name": "HA3SLPayloadDecoupler_PF",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Structural\\HA3SLPayloadDecoupler\\part2.cfg"
+  },
+  {
+    "name": "HA3SLStage1Decoupler",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Structural\\HA3SLStage1Decoupler\\part.cfg"
+  },
+  {
+    "name": "HA3SLCenterDecoupler",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Structural\\HA3SLStage2Decoupler\\part.cfg"
+  },
+  {
+    "name": "HA3SLStageShroud",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\HorizonAeronautics\\Parts\\Structural\\HA3SLStage3Shroud\\part.cfg"
+  },
+  {
+    "name": "KzInterstageAdapter2",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\adapter2.cfg"
+  },
+  {
+    "name": "KzResizableFairingBase",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\base.cfg"
+  },
+  {
+    "name": "KzResizableFairingBaseRing",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\baseRing.cfg"
+  },
+  {
+    "name": "pf_tech_fairing04m",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\common.cfg"
+  },
+  {
+    "name": "KzProcFairingFuselage1",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\fuselage1.cfg"
+  },
+  {
+    "name": "KzProcFairingFuselage2",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\fuselage2.cfg"
+  },
+  {
+    "name": "KzThrustPlate",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\plate.cfg"
+  },
+  {
+    "name": "KzProcFairingSide1",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\side1.cfg"
+  },
+  {
+    "name": "KzProcFairingSide2",
+    "filePath": "HorizonAeronautics_V1.32\\GameData\\ProceduralFairings\\side2.cfg"
+  }
+]

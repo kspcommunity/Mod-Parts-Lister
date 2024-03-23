@@ -1,0 +1,254 @@
+[
+  {
+    "name": "def // do not change this!",
+    "filePath": "MNWS_WEAPON\\BulletDefs\\Johnny_Bullets.cfg"
+  },
+  {
+    "name": "3X",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3X.cfg"
+  },
+  {
+    "name": "3X120",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3X120.cfg"
+  },
+  {
+    "name": "3X2",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3X2.cfg"
+  },
+  {
+    "name": "3X6L",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3X6L.cfg"
+  },
+  {
+    "name": "3XL",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3XL.cfg"
+  },
+  {
+    "name": "3XLASER",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3XLASER.cfg"
+  },
+  {
+    "name": "3XR",
+    "filePath": "MNWS_WEAPON\\Part\\3X\\3XR.cfg"
+  },
+  {
+    "name": "AAMS",
+    "filePath": "MNWS_WEAPON\\Part\\AAMS\\AAMS.cfg"
+  },
+  {
+    "name": "AAMSL",
+    "filePath": "MNWS_WEAPON\\Part\\AAMS\\AAMSL.cfg"
+  },
+  {
+    "name": "AAMSLM",
+    "filePath": "MNWS_WEAPON\\Part\\AAMS\\AAMSLM.cfg"
+  },
+  {
+    "name": "AAMSR",
+    "filePath": "MNWS_WEAPON\\Part\\AAMS\\AAMSR.cfg"
+  },
+  {
+    "name": "AGM2588",
+    "filePath": "MNWS_WEAPON\\Part\\AGM2588\\AGM2588.cfg"
+  },
+  {
+    "name": "TEST",
+    "filePath": "MNWS_WEAPON\\Part\\AGM2588\\test2.cfg"
+  },
+  {
+    "name": "AGM46",
+    "filePath": "MNWS_WEAPON\\Part\\AGM46\\AGM46.cfg"
+  },
+  {
+    "name": "AGM84",
+    "filePath": "MNWS_WEAPON\\Part\\AGM84\\AGM84.cfg"
+  },
+  {
+    "name": "AGM84BS",
+    "filePath": "MNWS_WEAPON\\Part\\AGM84\\AGM84BS.cfg"
+  },
+  {
+    "name": "AVLS11",
+    "filePath": "MNWS_WEAPON\\Part\\AVLS\\AVLS11.cfg"
+  },
+  {
+    "name": "AVLS22",
+    "filePath": "MNWS_WEAPON\\Part\\AVLS\\AVLS22.cfg"
+  },
+  {
+    "name": "AVLS33",
+    "filePath": "MNWS_WEAPON\\Part\\AVLS\\AVLS33.cfg"
+  },
+  {
+    "name": "AVLSX1",
+    "filePath": "MNWS_WEAPON\\Part\\AVLSX\\AVLSX1.cfg"
+  },
+  {
+    "name": "AVLSX2",
+    "filePath": "MNWS_WEAPON\\Part\\AVLSX\\AVLSX2.cfg"
+  },
+  {
+    "name": "AVLSX3",
+    "filePath": "MNWS_WEAPON\\Part\\AVLSX\\AVLSX3.cfg"
+  },
+  {
+    "name": "BMM",
+    "filePath": "MNWS_WEAPON\\Part\\BMM\\BMM.cfg"
+  },
+  {
+    "name": "CUDA",
+    "filePath": "MNWS_WEAPON\\Part\\CUDA\\CUDA.cfg"
+  },
+  {
+    "name": "HHQX",
+    "filePath": "MNWS_WEAPON\\Part\\CUDA\\HHQX.cfg"
+  },
+  {
+    "name": "GBBM",
+    "filePath": "MNWS_WEAPON\\Part\\GBBM\\GBBM.cfg"
+  },
+  {
+    "name": "HHQ16C",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ16C\\HHQ16C.cfg"
+  },
+  {
+    "name": "HHQ16CPBR",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ16C\\HHQ16CPBR\\HHQ16CPBR.cfg"
+  },
+  {
+    "name": "HHQ16CPBR",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ16C\\HHQ16CPBR\\test3.cfg"
+  },
+  {
+    "name": "HHQ17",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ17\\HHQ17.cfg"
+  },
+  {
+    "name": "HHQ17",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ17\\test13.cfg"
+  },
+  {
+    "name": "HHQ19",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ19\\HHQ19.cfg"
+  },
+  {
+    "name": "HHQ19RCS",
+    "filePath": "MNWS_WEAPON\\Part\\HHQ19\\HHQ19RCS.cfg"
+  },
+  {
+    "name": "HHQXL",
+    "filePath": "MNWS_WEAPON\\Part\\HHQXL\\HHQXL.cfg"
+  },
+  {
+    "name": "HHQXL2",
+    "filePath": "MNWS_WEAPON\\Part\\HHQXL\\HHQXL2.cfg"
+  },
+  {
+    "name": "HHQXX",
+    "filePath": "MNWS_WEAPON\\Part\\HHQXL\\HHQXX.cfg"
+  },
+  {
+    "name": "LLauncher",
+    "filePath": "MNWS_WEAPON\\Part\\LLauncher\\LLauncher.cfg"
+  },
+  {
+    "name": "LRASM-A",
+    "filePath": "MNWS_WEAPON\\Part\\LRASM\\LRASM-A.cfg"
+  },
+  {
+    "name": "LRASM-AS",
+    "filePath": "MNWS_WEAPON\\Part\\LRASM\\LRASM-AS.cfg"
+  },
+  {
+    "name": "LRASM-B",
+    "filePath": "MNWS_WEAPON\\Part\\LRASM\\LRASM-B.cfg"
+  },
+  {
+    "name": "LRASM-BS",
+    "filePath": "MNWS_WEAPON\\Part\\LRASM\\LRASM-BS.cfg"
+  },
+  {
+    "name": "MK48 Torpedo ",
+    "filePath": "MNWS_WEAPON\\Part\\MK48\\MK48.cfg"
+  },
+  {
+    "name": "MK56 Torpedo",
+    "filePath": "MNWS_WEAPON\\Part\\MK56\\MK56.cfg"
+  },
+  {
+    "name": "YUXX",
+    "filePath": "MNWS_WEAPON\\Part\\MK56L\\YUXX.cfg"
+  },
+  {
+    "name": "MK58 Torpedo",
+    "filePath": "MNWS_WEAPON\\Part\\MK58\\MK58.cfg"
+  },
+  {
+    "name": "MK58L",
+    "filePath": "MNWS_WEAPON\\Part\\MK58L\\MK58L.cfg"
+  },
+  {
+    "name": "R276 Launcher",
+    "filePath": "MNWS_WEAPON\\Part\\R276\\R276Launcher.cfg"
+  },
+  {
+    "name": "RR120",
+    "filePath": "MNWS_WEAPON\\Part\\RR120\\RR120.cfg"
+  },
+  {
+    "name": "RR121",
+    "filePath": "MNWS_WEAPON\\Part\\RR120\\RR121.cfg"
+  },
+  {
+    "name": "SAAM",
+    "filePath": "MNWS_WEAPON\\Part\\SAAM\\SAAM.cfg"
+  },
+  {
+    "name": "SAS",
+    "filePath": "MNWS_WEAPON\\Part\\SAS\\SAS.cfg"
+  },
+  {
+    "name": "SDB28",
+    "filePath": "MNWS_WEAPON\\Part\\SDB28\\SDB28.cfg"
+  },
+  {
+    "name": "SM_AADRM",
+    "filePath": "MNWS_WEAPON\\Part\\SM_AADRM\\SM_AADRM.cfg"
+  },
+  {
+    "name": "SM_KKV",
+    "filePath": "MNWS_WEAPON\\Part\\SM_KKV\\SM_KKV.cfg"
+  },
+  {
+    "name": "SM_KV11",
+    "filePath": "MNWS_WEAPON\\Part\\SM_KV11\\SM_KV11.cfg"
+  },
+  {
+    "name": "SM_LREW",
+    "filePath": "MNWS_WEAPON\\Part\\SM_LREW\\SM_LREW.cfg"
+  },
+  {
+    "name": "SM_RAADRM",
+    "filePath": "MNWS_WEAPON\\Part\\SM_RAADRM\\SM_RAADRM.cfg"
+  },
+  {
+    "name": "SM_SADRM",
+    "filePath": "MNWS_WEAPON\\Part\\SM_SADRM\\SM_SADRM.cfg"
+  },
+  {
+    "name": "SM_SRADRM",
+    "filePath": "MNWS_WEAPON\\Part\\SM_SRADRM\\SM_SRADRM.cfg"
+  },
+  {
+    "name": "X51A",
+    "filePath": "MNWS_WEAPON\\Part\\X51A\\X51A.cfg"
+  },
+  {
+    "name": "35mmAAMS",
+    "filePath": "MNWS_WEAPON\\Resources\\Johnny_Ammo.cfg"
+  },
+  {
+    "name": "BallastWater",
+    "filePath": "MNWS_WEAPON\\Resources\\Jresource.cfg"
+  }
+]

@@ -1,0 +1,1090 @@
+[
+  {
+    "name": "CONTARES-RUS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "RK-BLOCK-L-DECU",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\BLOCK-L\\RK-BLOCK-L-DECU.cfg"
+  },
+  {
+    "name": "RK-BLOCK-L",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\BLOCK-L\\RK-BLOCK-L.cfg"
+  },
+  {
+    "name": "Cosmos3_S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Cosmos3\\Cosmos3_S1.cfg"
+  },
+  {
+    "name": "Cosmos3_S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Cosmos3\\Cosmos3_S2.cfg"
+  },
+  {
+    "name": "RK-Z-216",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Cosmos3\\RK-Z-216.cfg"
+  },
+  {
+    "name": "RK-Z-S5_23",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Cosmos3\\RK-Z-S5_23.cfg"
+  },
+  {
+    "name": "ALMAZ-FRONT",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\ALMAZ-FRONT.cfg"
+  },
+  {
+    "name": "ALMAZ-HECK",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\ALMAZ-HECK.cfg"
+  },
+  {
+    "name": "BBBPrTANK",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\BBBPrTANK.cfg"
+  },
+  {
+    "name": "BBBPrTANKx2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\BBBPrTANKx2.cfg"
+  },
+  {
+    "name": "CADA_09-12",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\CADA_09-12.cfg"
+  },
+  {
+    "name": "CWANT",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\CWANT.cfg"
+  },
+  {
+    "name": "FGB_LANG",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\FGB_LANG.cfg"
+  },
+  {
+    "name": "GABUN-2a",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\GABUN-2a.cfg"
+  },
+  {
+    "name": "KALJUT_NODA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KALJUT_NODA.cfg"
+  },
+  {
+    "name": "KALJUT_NODC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KALJUT_NODC.cfg"
+  },
+  {
+    "name": "KALJUT_NODE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KALJUT_NODE.cfg"
+  },
+  {
+    "name": "KALJUT_RUMA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KALJUT_RUMA.cfg"
+  },
+  {
+    "name": "KIR_AIRLOCK",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_AIRLOCK.cfg"
+  },
+  {
+    "name": "KIR_BACK_6",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_BACK_6.cfg"
+  },
+  {
+    "name": "KIR_BACK_9",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_BACK_9.cfg"
+  },
+  {
+    "name": "KIR_FRONT",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_FRONT.cfg"
+  },
+  {
+    "name": "KIR_FRONT_6solo",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_FRONT_6solo.cfg"
+  },
+  {
+    "name": "KIR_FRONT_solo",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_FRONT_solo.cfg"
+  },
+  {
+    "name": "KIR_INTER",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_INTER.cfg"
+  },
+  {
+    "name": "KIR_MAIN",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KIR_MAIN.cfg"
+  },
+  {
+    "name": "KPA_kurz",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KPA_kurz.cfg"
+  },
+  {
+    "name": "KPA_lang",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\KPA_lang.cfg"
+  },
+  {
+    "name": "PRIRODA_CAM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\PRIRODA_CAM.cfg"
+  },
+  {
+    "name": "SOFORA_TRUSS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\SOFORA_TRUSS.cfg"
+  },
+  {
+    "name": "TKS_CWANT2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_CWANT2.cfg"
+  },
+  {
+    "name": "TKS_ESC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_ESC.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KAPSEL.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_DC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KAPSEL_DC.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_DO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KAPSEL_DO.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_HS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KAPSEL_HS.cfg"
+  },
+  {
+    "name": "TKS_KONUS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KONUS.cfg"
+  },
+  {
+    "name": "TKS_KONUS_1500",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KONUS_1500.cfg"
+  },
+  {
+    "name": "TKS_KRYSTALL",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_KRYSTALL.cfg"
+  },
+  {
+    "name": "TKS_MIDDLE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_MIDDLE.cfg"
+  },
+  {
+    "name": "TKS_MIDDLE_1500",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_MIDDLE_1500.cfg"
+  },
+  {
+    "name": "TKS_MONO_duo",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_MONO_duo.cfg"
+  },
+  {
+    "name": "TKS_MONO_duo2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_MONO_duo2.cfg"
+  },
+  {
+    "name": "TKS_MONO_solo",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_MONO_solo.cfg"
+  },
+  {
+    "name": "TKS_PRIRODA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_PRIRODA.cfg"
+  },
+  {
+    "name": "TKS_RCS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_RCS.cfg"
+  },
+  {
+    "name": "TKS_RCS_F",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_RCS_F.cfg"
+  },
+  {
+    "name": "TKS_SPECTR",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_SPECTR.cfg"
+  },
+  {
+    "name": "TKS_TANK_Typ_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\TKS_TANK_Typ_A.cfg"
+  },
+  {
+    "name": "U_HAB-INF_1250_2500",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\U_HAB-INF_1250_2500\\U_HAB-INF_1250_2500.cfg"
+  },
+  {
+    "name": "ZAR_rad",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\DOS\\ZAR_rad.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_3",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\FEDERAZIJA_3.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_4",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\FEDERAZIJA_4.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_6",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\FEDERAZIJA_6.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_C",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\FEDERAZIJA_C.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_LES",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\FEDERAZIJA_LES.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\FEDERAZIJA_SM.cfg"
+  },
+  {
+    "name": "PPTS_DECRCS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\PPTS_DECRCS.cfg"
+  },
+  {
+    "name": "PPTS_HEATSHIELD",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FEDERAZIJA\\PPTS_HEATSHIELD.cfg"
+  },
+  {
+    "name": "DECUS1500",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\DECUS1500.cfg"
+  },
+  {
+    "name": "RK-Z-0124m_1500",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\RK-Z-0124m_1500.cfg"
+  },
+  {
+    "name": "RK-Z-0124_1250",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\RK-Z-0124_1250.cfg"
+  },
+  {
+    "name": "RK-Z-0124_1875",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\RK-Z-0124_1875.cfg"
+  },
+  {
+    "name": "RK-Z-0146",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\RK-Z-0146.cfg"
+  },
+  {
+    "name": "RK-Z-0162",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\RK-Z-0162.cfg"
+  },
+  {
+    "name": "S5_Nosecone",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\S5_Nosecone.cfg"
+  },
+  {
+    "name": "S5_S1_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\S5_S1_LFO.cfg"
+  },
+  {
+    "name": "S5_S3_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FENIKS\\S5_S3_LFO.cfg"
+  },
+  {
+    "name": "CPA_long",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FLOSS\\CPA_long.cfg"
+  },
+  {
+    "name": "FLOSS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FLOSS\\FLOSS.cfg"
+  },
+  {
+    "name": "FLOSS_RAD",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\FLOSS\\FLOSS_RAD.cfg"
+  },
+  {
+    "name": "KARAVELLE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KARAVELLE\\KARAVELLE.cfg"
+  },
+  {
+    "name": "DMSLB",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\DMSLB.cfg"
+  },
+  {
+    "name": "E_RK-Z-120",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\E_RK-Z-120.cfg"
+  },
+  {
+    "name": "E_RK-Z-171",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\E_RK-Z-171.cfg"
+  },
+  {
+    "name": "RK-Z-180",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\E_RK-Z-180.cfg"
+  },
+  {
+    "name": "KERLOT-S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\KERLOT_S1.cfg"
+  },
+  {
+    "name": "KERLOT_S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\KERLOT_S2.cfg"
+  },
+  {
+    "name": "SUNKAR_S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\SUNKAR_S1.cfg"
+  },
+  {
+    "name": "SUNKAR_S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\SUNKAR_S2.cfg"
+  },
+  {
+    "name": "YENISEI_RAD",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KERLOT\\YENISEI_RAD.cfg"
+  },
+  {
+    "name": "KRAFT1S1a",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KRAFT\\KRAFT_1S1a.cfg"
+  },
+  {
+    "name": "KRAFT1S1b",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KRAFT\\KRAFT_1S1b.cfg"
+  },
+  {
+    "name": "KRAFT1S1e",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KRAFT\\KRAFT_1S1e.cfg"
+  },
+  {
+    "name": "KRAFT1S1n",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KRAFT\\KRAFT_1S1n.cfg"
+  },
+  {
+    "name": "KRAFT_M_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KRAFT\\KRAFT_M_LFO.cfg"
+  },
+  {
+    "name": "KERLOT-M_Nosecone",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KRAFT\\ZENIT-Y_Nosecone.cfg"
+  },
+  {
+    "name": "KREPIR_PBV",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KREPIR\\KREPIR_PBV.cfg"
+  },
+  {
+    "name": "KREPIR_PBV_KR",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KREPIR\\KREPIR_PBV_KR.cfg"
+  },
+  {
+    "name": "KREPIR_S1_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KREPIR\\KREPIR_S1_LFO.cfg"
+  },
+  {
+    "name": "KREPIR_S2_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KREPIR\\KREPIR_S2_LFO.cfg"
+  },
+  {
+    "name": "RK-Z-0255",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KREPIR\\RK-Z-0255.cfg"
+  },
+  {
+    "name": "RK-Z-264",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\KREPIR\\RK-Z-264.cfg"
+  },
+  {
+    "name": "LVL_Lander",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\LVL-LC\\LVL_Lander.cfg"
+  },
+  {
+    "name": "MIJ_Engine",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\MIJ\\MIJ_Engine.cfg"
+  },
+  {
+    "name": "N2-B1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\N2-B1.cfg"
+  },
+  {
+    "name": "N2-S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\N2-S1.cfg"
+  },
+  {
+    "name": "N2-S1s",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\N2-S1s.cfg"
+  },
+  {
+    "name": "N2-S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\N2-S2.cfg"
+  },
+  {
+    "name": "N2-S2s",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\N2-S2s.cfg"
+  },
+  {
+    "name": "RK-Z-33x4",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\RK-Z-33x4.cfg"
+  },
+  {
+    "name": "RK-Z-43x2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\N2\\RK-Z-43x2.cfg"
+  },
+  {
+    "name": "CSA-RIP-TANK",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\CSA-RIP-TANK.cfg"
+  },
+  {
+    "name": "NEUTRON-L_S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\NEUTRON-L_S1.cfg"
+  },
+  {
+    "name": "NEUTRON_DC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\NEUTRON_DC.cfg"
+  },
+  {
+    "name": "NEUTRON_S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\NEUTRON_S1.cfg"
+  },
+  {
+    "name": "NEUTRON_S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\NEUTRON_S2.cfg"
+  },
+  {
+    "name": "NEUTRON_S2_kurz",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\NEUTRON_S2_kurz.cfg"
+  },
+  {
+    "name": "NEUTRON_S3",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\NEUTRON_S3.cfg"
+  },
+  {
+    "name": "RK-Z-0210-0211",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\RK-Z-0210-0211.cfg"
+  },
+  {
+    "name": "RK-Z-0212",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\NEUTRON\\RK-Z-0212.cfg"
+  },
+  {
+    "name": "NODE_DECKEL_6a",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Nodes\\Deckel.cfg"
+  },
+  {
+    "name": "NODE_6a",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Nodes\\NODE_6a.cfg"
+  },
+  {
+    "name": "PRICHAL_D6",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\Nodes\\PRICHA_D6.cfg"
+  },
+  {
+    "name": "C-TUG-DECOUPLER",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ORBITAL-1K-TUG\\C-TUG-DECOUPLER.cfg"
+  },
+  {
+    "name": "ORBITAL-1K-TUG",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ORBITAL-1K-TUG\\ORBITAL-1K-TUG.cfg"
+  },
+  {
+    "name": "ORBITAL-2K-TUG",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ORBITAL-1K-TUG\\ORBITAL-2K-TUG.cfg"
+  },
+  {
+    "name": "PCS_SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PCS\\PCS_SM.cfg"
+  },
+  {
+    "name": "PCS_ST",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PCS\\PCS_ST.cfg"
+  },
+  {
+    "name": "CAD_1500-1250",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PINBOL\\CAD_1500-1250.cfg"
+  },
+  {
+    "name": "CAD_1500-1875",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PINBOL\\CAD_1500-1875.cfg"
+  },
+  {
+    "name": "CAD_1500-2500",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PINBOL\\CAD_1500-2500.cfg"
+  },
+  {
+    "name": "PINBOL",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PINBOL\\PINBOL_body.cfg"
+  },
+  {
+    "name": "PINBOL_ESC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PINBOL\\PINBOL_ESC.cfg"
+  },
+  {
+    "name": "PINBOL_SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PINBOL\\PINBOL_SM.cfg"
+  },
+  {
+    "name": "C-POLJUS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\POL\\C-POLJUS.cfg"
+  },
+  {
+    "name": "C-KURS_NP",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\KURS_NP.cfg"
+  },
+  {
+    "name": "PTK_NP_CM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTK_NP_CM.cfg"
+  },
+  {
+    "name": "PTK_NP_DE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTK_NP_DE.cfg"
+  },
+  {
+    "name": "PTK_NP_HS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTK_NP_HS.cfg"
+  },
+  {
+    "name": "PTK_NP_LEG",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTK_NP_LEG.cfg"
+  },
+  {
+    "name": "PTK_NP_SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTK_NP_SM.cfg"
+  },
+  {
+    "name": "PTK_NP_T2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTK_NP_T2.cfg"
+  },
+  {
+    "name": "PTSL_CM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTSL_CM.cfg"
+  },
+  {
+    "name": "PTSL_DE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTSL_DE.cfg"
+  },
+  {
+    "name": "PTSL_HS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTSL_HS.cfg"
+  },
+  {
+    "name": "PTSL_OM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\PTSL_OM.cfg"
+  },
+  {
+    "name": "RUS_DISH_001",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\RUS_DISH_001.cfg"
+  },
+  {
+    "name": "RUS_KURS_2_001",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\RUS_KURS_2_001.cfg"
+  },
+  {
+    "name": "RUS_RCS_PTSNP",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\PTK_NP\\RUS_RCS_PTSNP.cfg"
+  },
+  {
+    "name": "CST-1250x1p2m",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\CST-1250x1p2m.cfg"
+  },
+  {
+    "name": "CST-1250x6m",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\CST-1250x6m.cfg"
+  },
+  {
+    "name": "R6_Booster_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\R6_Booster_LFO.cfg"
+  },
+  {
+    "name": "R6_Core_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\R6_Core_LFO.cfg"
+  },
+  {
+    "name": "RK-Z-011",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\RK-Z-011.cfg"
+  },
+  {
+    "name": "RK-Z-105",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\RK-Z-105.cfg"
+  },
+  {
+    "name": "RK-Z-105a",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\RK-Z-105a.cfg"
+  },
+  {
+    "name": "RK-Z-106",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\RK-Z-106.cfg"
+  },
+  {
+    "name": "RK-Z-RO5",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\R6\\RK-Z-RO5.cfg"
+  },
+  {
+    "name": "RIVER-100_18to37",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\ANGARA-100_18to37.cfg"
+  },
+  {
+    "name": "RIVER-100_NOSECONE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\ANGARA-100_NOSECONE.cfg"
+  },
+  {
+    "name": "Fin_RIVER",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\FIN_RIVER\\Fin_RIVER.cfg"
+  },
+  {
+    "name": "KVTK-LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\KVTK\\KVTK-LFO.cfg"
+  },
+  {
+    "name": "KVTK-SAS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\KVTK\\KVTK-SAS.cfg"
+  },
+  {
+    "name": "KVTK-short",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\KVTK\\KVTK-short.cfg"
+  },
+  {
+    "name": "RIVER_URM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\RIVER_URM.cfg"
+  },
+  {
+    "name": "RK-Z-0124_1500d",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\RK-Z-0124_1500d.cfg"
+  },
+  {
+    "name": "RK-Z-191",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\RK-Z-191.cfg"
+  },
+  {
+    "name": "T_1875_L12m",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\T_1875_L12m\\T_1875_L12m.cfg"
+  },
+  {
+    "name": "T_D150_L12m",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\T_D150_L12m.cfg"
+  },
+  {
+    "name": "T_D1875_L2m",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RIVER\\T_D1875_L2m\\T_D1875_L2m.cfg"
+  },
+  {
+    "name": "RK-SLB2-XL",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RK-SLB2\\RK-SLB2-XL.cfg"
+  },
+  {
+    "name": "RK-SLB2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RK-SLB2\\RK-SLB2.cfg"
+  },
+  {
+    "name": "RLA-120_DECU",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_DECU.cfg"
+  },
+  {
+    "name": "RLA-120_DECUS3",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_DECUS3.cfg"
+  },
+  {
+    "name": "RLA-120_NOSE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_NOSE.cfg"
+  },
+  {
+    "name": "RLA-120-S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_S1.cfg"
+  },
+  {
+    "name": "E_RK-Z-1200",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_S1E.cfg"
+  },
+  {
+    "name": "RLA-120-S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_S2.cfg"
+  },
+  {
+    "name": "E_RK-Z-300",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_S2E.cfg"
+  },
+  {
+    "name": "RLA-120-S3",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RLA\\RLA-120_S3.cfg"
+  },
+  {
+    "name": "RK-Z-0233",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ROCKOT\\RK-Z-0233.cfg"
+  },
+  {
+    "name": "RK-Z-0235",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ROCKOT\\RK-Z-0235.cfg"
+  },
+  {
+    "name": "ROCKOT_S1_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ROCKOT\\ROCKOT_S1_LFO.cfg"
+  },
+  {
+    "name": "ROCKOT_S2_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ROCKOT\\ROCKOT_S2_LFO.cfg"
+  },
+  {
+    "name": "RK-Z-0120",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RUMMS\\RK-Z-0120.cfg"
+  },
+  {
+    "name": "RK-Z-0120_1250",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\RUMMS\\RK-Z-0120_1250.cfg"
+  },
+  {
+    "name": "SLB3_XL",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SLB3_XL\\SLB3_XL.cfg"
+  },
+  {
+    "name": "C-7K-OK-A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\C-7K-OK-A.cfg"
+  },
+  {
+    "name": "C-7K-OK-P",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\C-7K-OK-P.cfg"
+  },
+  {
+    "name": "C-IGLA-aktiv",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\C-IGLA-aktiv.cfg"
+  },
+  {
+    "name": "C-IGLA-passiv",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\C-IGLA-passiv.cfg"
+  },
+  {
+    "name": "IGLA-A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\IGLA-A.cfg"
+  },
+  {
+    "name": "IGLA-P-T2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\IGLA-P-T2.cfg"
+  },
+  {
+    "name": "C-IGLA-RECEIVER",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\IGLA-RECEIVER.cfg"
+  },
+  {
+    "name": "SOJ-CA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-CA.cfg"
+  },
+  {
+    "name": "SOJ-DE",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-DE.cfg"
+  },
+  {
+    "name": "SOJ-ES",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-ES.cfg"
+  },
+  {
+    "name": "SOJ-HA-06250",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-HA-06250.cfg"
+  },
+  {
+    "name": "SOJ-HA-09375",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-HA-09375.cfg"
+  },
+  {
+    "name": "SOJ-HA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-HA.cfg"
+  },
+  {
+    "name": "SOJ-HRC-1250b",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-HRC-1250b.cfg"
+  },
+  {
+    "name": "SOJ-HS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-HS.cfg"
+  },
+  {
+    "name": "SOJ-KB",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-KB.cfg"
+  },
+  {
+    "name": "SOJ-LOK-SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-LOK-SM.cfg"
+  },
+  {
+    "name": "SOJ-PRO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-PRO.cfg"
+  },
+  {
+    "name": "SOJ-RCS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-RC.cfg"
+  },
+  {
+    "name": "SOJ-RERA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-RERA.cfg"
+  },
+  {
+    "name": "SOJSEPAC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-SEPA.cfg"
+  },
+  {
+    "name": "SOJ-SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\SOJ-SM.cfg"
+  },
+  {
+    "name": "UNION_LES",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\UNION_LES.cfg"
+  },
+  {
+    "name": "UNION_LES_T2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\SOJUS\\UNION_LES_T2.cfg"
+  },
+  {
+    "name": "T-S1-E",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\TSIKLON\\T-S1-E.cfg"
+  },
+  {
+    "name": "T-S1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\TSIKLON\\T-S1.cfg"
+  },
+  {
+    "name": "T-S2-E",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\TSIKLON\\T-S2-E.cfg"
+  },
+  {
+    "name": "T-S2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\TSIKLON\\T-S2.cfg"
+  },
+  {
+    "name": "T-S2a",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\TSIKLON\\T-S2a.cfg"
+  },
+  {
+    "name": "T-S3_DEORB",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\TSIKLON\\T-S3_DEORB.cfg"
+  },
+  {
+    "name": "RK-Z-33",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-1\\RK-Z-33.cfg"
+  },
+  {
+    "name": "Union-1_LFO1",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-1\\Union-1_LFO1.cfg"
+  },
+  {
+    "name": "Union-1_LFO2",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-1\\Union-1_LFO2.cfg"
+  },
+  {
+    "name": "Union-1_LFO3",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-1\\Union-1_LFO3.cfg"
+  },
+  {
+    "name": "Union-1_SAS",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-1\\Union-1_SAS.cfg"
+  },
+  {
+    "name": "Union-2-UpperCore",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-1\\Union-2-UpperCore.cfg"
+  },
+  {
+    "name": "C_RAD_VOST",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\C_RAD_VOST.cfg"
+  },
+  {
+    "name": "FIN_SOVJUC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\FIN_SOVJUC\\FIN_SOVJUC.cfg"
+  },
+  {
+    "name": "R7-Booster",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\R7-Booster.cfg"
+  },
+  {
+    "name": "R7-Booster_org",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\R7-Booster_org.cfg"
+  },
+  {
+    "name": "R7-Core",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\R7-Core.cfg"
+  },
+  {
+    "name": "R7-upperCore",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\R7-upperCore.cfg"
+  },
+  {
+    "name": "RK-Z-0110",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\RK-Z-0110.cfg"
+  },
+  {
+    "name": "RK-Z-0146solo",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\RK-Z-0146solo.cfg"
+  },
+  {
+    "name": "RK-Z-107",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\RK-Z-107.cfg"
+  },
+  {
+    "name": "RK-Z-108",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\RK-Z-108.cfg"
+  },
+  {
+    "name": "RK-Z-S1-5400",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\RK-Z-S1-5400.cfg"
+  },
+  {
+    "name": "TLV_FIN_C",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\TLV_FIN_C.cfg"
+  },
+  {
+    "name": "UNION-TOUR",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\UNION-2\\UNION-TOUR.cfg"
+  },
+  {
+    "name": "CSA-VOSTOK_BA",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\VOSTOK\\CSA-VOSTOK_BA.cfg"
+  },
+  {
+    "name": "CSA-VOSTOK_CM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\VOSTOK\\CSA-VOSTOK_CM.cfg"
+  },
+  {
+    "name": "CSA-VOSTOK_DC",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\VOSTOK\\CSA-VOSTOK_DC.cfg"
+  },
+  {
+    "name": "CSA-VOSTOK_E",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\VOSTOK\\CSA-VOSTOK_E.cfg"
+  },
+  {
+    "name": "CSA-VOSTOK_SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\VOSTOK\\CSA-VOSTOK_SM.cfg"
+  },
+  {
+    "name": "WO-Airlock",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\VOSTOK\\WO-Airlock.cfg"
+  },
+  {
+    "name": "KRAFT_QuadAdapter",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\YENISEI\\KRAFT_QuadAdapter.cfg"
+  },
+  {
+    "name": "Yenisei-5_LFO",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\YENISEI\\Yenisei-5_LFO.cfg"
+  },
+  {
+    "name": "Yenisei-5_TRIAD",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\YENISEI\\Yenisei-5_TRIAD.cfg"
+  },
+  {
+    "name": "Yenisei-5_TUG",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\YENISEI\\Yenisei-5_TUG.cfg"
+  },
+  {
+    "name": "YS2-TANK",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\YENISEI\\YS2-TANK.cfg"
+  },
+  {
+    "name": "KERLOT-Y_Nosecone",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\YENISEI\\ZENIT-Y_Nosecone.cfg"
+  },
+  {
+    "name": "ZIRP_L",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZIRP\\ZIRP_L.cfg"
+  },
+  {
+    "name": "ZIRP_L_1875",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZIRP\\ZIRP_L_1875.cfg"
+  },
+  {
+    "name": "ZIRP_S",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZIRP\\ZIRP_S.cfg"
+  },
+  {
+    "name": "ZOND-SM",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZOND\\ZOND-SM.cfg"
+  },
+  {
+    "name": "ZOND-FRONT",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZOND\\ZOND_FRONT.cfg"
+  },
+  {
+    "name": "ZOND_KOPLER_M",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZOND\\ZOND_KOPLER_M.cfg"
+  },
+  {
+    "name": "ZOND_KOPLER_W",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Parts\\ZOND\\ZOND_KOPLER_W.cfg"
+  },
+  {
+    "name": "ModuleKISInventory",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Patches\\CONTARES_RUS_KIS.cfg"
+  },
+  {
+    "name": "Hypergolic-Upper",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Patches\\Contares_RUS_plume.cfg"
+  },
+  {
+    "name": "LifeSupportModule",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Patches\\CONTARES_RUS_TACLS.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Patches\\E_PINBOL_ESC_plume.cfg"
+  },
+  {
+    "name": "Hydynelox-A7",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Patches\\E_PINBOL_SM_plume.cfg"
+  },
+  {
+    "name": "FireCan",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Props\\FireCan\\Prop_Fire_Can.cfg"
+  },
+  {
+    "name": "FlightSeat_Passenger",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Props\\FlightSeat\\Prop_Seat_Passenger.cfg"
+  },
+  {
+    "name": "FlightSeat_Piloted",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Props\\FlightSeat\\Prop_Seat_Piloted.cfg"
+  },
+  {
+    "name": "LightGuarded",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Props\\LightGuarded\\Prop_Light_Guarded.cfg"
+  },
+  {
+    "name": "ToolBox",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Props\\ToolBox\\Prop_Tool_Box.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_3_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\FEDERAZIJA_Crew_3\\FEDERAZIJA_3_Crew_A.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_4_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\FEDERAZIJA_Crew_4\\FEDERAZIJA_4_Crew_A.cfg"
+  },
+  {
+    "name": "FEDERAZIJA_6_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\FEDERAZIJA_Crew_6\\FEDERAZIJA_6_Crew_A.cfg"
+  },
+  {
+    "name": "FLOSS_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\FLOSS_Crew_A\\FLOSS_Crew_A.cfg"
+  },
+  {
+    "name": "ORBITAL-1K-TUG_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\ORBITAL-1K-TUG_Crew_A\\ORBITAL-1K-TUG_Crew_A.cfg"
+  },
+  {
+    "name": "PINBOL_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\PINBOL_Crew_A\\PINBOL_Crew_A.cfg"
+  },
+  {
+    "name": "PTK_NP_4_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\PTK_NP_Crew_A\\PTK_NP_4_Crew_A.cfg"
+  },
+  {
+    "name": "PTSL_4_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\PTSL_4_Crew_A\\PTSL_4_Crew_A.cfg"
+  },
+  {
+    "name": "SOJUS-K_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\SOJUS-K_Crew_A\\SOJUS-K_Crew_A.cfg"
+  },
+  {
+    "name": "SOJ_PRO_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\SOJ_PRO_Crew_A\\SOJ_PRO_Crew_A.cfg"
+  },
+  {
+    "name": "TKS_KAPSEL_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\TKS_KAPSEL_Crew_A\\TKS_KAPSEL_Crew_A.cfg"
+  },
+  {
+    "name": "TKS_KONUS_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\TKS_KONUS_Crew_A\\TKS_KONUS_Crew_A.cfg"
+  },
+  {
+    "name": "UHCL_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\UHCL_Crew_A\\UHCL_Crew_A.cfg"
+  },
+  {
+    "name": "UIHC_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\UIHC_Crew_A\\UIHC_Crew_A.cfg"
+  },
+  {
+    "name": "UNION-TOUR_Crew_A",
+    "filePath": "CSA_Contares_RUS\\GameData\\Contares_RUS\\Spaces\\UNION-TOUR_Crew_A\\UNION-TOUR_Crew_A.cfg"
+  }
+]

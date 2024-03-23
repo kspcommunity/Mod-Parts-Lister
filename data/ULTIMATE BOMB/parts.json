@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BRAIXEN ARMY",
+    "filePath": "ULTIMATE BOMB\\AGENCE\\Agents.cfg"
+  },
+  {
+    "name": "BAKELITE200",
+    "filePath": "ULTIMATE BOMB\\PARTS\\BAK\\BA.cfg"
+  },
+  {
+    "name": "BX",
+    "filePath": "ULTIMATE BOMB\\PARTS\\BX\\BX.cfg"
+  },
+  {
+    "name": "PRESURBOMB",
+    "filePath": "ULTIMATE BOMB\\PARTS\\COMP\\COMPRESSED.cfg"
+  },
+  {
+    "name": "GBU-12",
+    "filePath": "ULTIMATE BOMB\\PARTS\\GBU 12\\G.cfg"
+  },
+  {
+    "name": "MK-12",
+    "filePath": "ULTIMATE BOMB\\PARTS\\MK-12\\MK-12.cfg"
+  },
+  {
+    "name": "MKX",
+    "filePath": "ULTIMATE BOMB\\PARTS\\MKX\\M.cfg"
+  }
+]

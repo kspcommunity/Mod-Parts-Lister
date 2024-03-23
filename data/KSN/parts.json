@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Korbn-MainClouds",
+    "filePath": "KSN\\EVE\\Clouds.cfg"
+  },
+  {
+    "name": "KerbolProksimus",
+    "filePath": "KSN\\KerbolProksimus\\Kerbol Proksimus.cfg"
+  },
+  {
+    "name": "Belle",
+    "filePath": "KSN\\KerbolProksimus\\Moons\\Belle.cfg"
+  },
+  {
+    "name": "Dallo",
+    "filePath": "KSN\\KerbolProksimus\\Moons\\Dallo.cfg"
+  },
+  {
+    "name": "Newmon",
+    "filePath": "KSN\\KerbolProksimus\\Moons\\Newmon.cfg"
+  },
+  {
+    "name": "Nikki",
+    "filePath": "KSN\\KerbolProksimus\\Moons\\Nikki.cfg"
+  },
+  {
+    "name": "Sovani",
+    "filePath": "KSN\\KerbolProksimus\\Moons\\Savo.cfg"
+  },
+  {
+    "name": "Sovin",
+    "filePath": "KSN\\KerbolProksimus\\Moons\\Sovin.cfg"
+  },
+  {
+    "name": "Cyrio",
+    "filePath": "KSN\\KerbolProksimus\\Planets\\Cyrio.cfg"
+  },
+  {
+    "name": "Korbn",
+    "filePath": "KSN\\KerbolProksimus\\Planets\\Korbn.cfg"
+  },
+  {
+    "name": "Phume",
+    "filePath": "KSN\\KerbolProksimus\\Planets\\Phume.cfg"
+  },
+  {
+    "name": "Korbn",
+    "filePath": "KSN\\Optional\\Scatterer\\oceanConfig.cfg"
+  },
+  {
+    "name": "Korbn",
+    "filePath": "KSN\\Optional\\Scatterer\\scattererConfig.cfg"
+  }
+]

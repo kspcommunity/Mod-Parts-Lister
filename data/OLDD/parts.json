@@ -1,5 +1,29 @@
 [
   {
+    "name": "ModuleEngineIgnitor",
+    "filePath": "OLDD\\EngineIgnitor\\MM_Configs\\MM_EngineIgnitor.cfg"
+  },
+  {
+    "name": "ModuleExternalIgnitor",
+    "filePath": "OLDD\\EngineIgnitor\\MM_Configs\\MM_EngineIgnitorStock.cfg"
+  },
+  {
+    "name": "hypergolicFluidRadial",
+    "filePath": "OLDD\\EngineIgnitor\\Parts\\hypergolicFluidRadial\\part.cfg"
+  },
+  {
+    "name": "Toolbox",
+    "filePath": "OLDD\\EngineIgnitor\\Parts\\Toolbox\\part.cfg"
+  },
+  {
+    "name": "HypergolicFluid",
+    "filePath": "OLDD\\EngineIgnitor\\Resources\\Ignitors.cfg"
+  },
+  {
+    "name": "LandingAim",
+    "filePath": "OLDD\\LandingAim\\LandingAim.cfg"
+  },
+  {
     "name": "NASAaeroShield_A",
     "filePath": "OLDD\\NASA\\NASAaeroShield.cfg"
   }

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "SK-16000-1",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-1.cfg"
+  },
+  {
+    "name": "SK-16000-2",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-2.cfg"
+  },
+  {
+    "name": "SK-16000-B",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-B.cfg"
+  },
+  {
+    "name": "SK-16000-C-1",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-C-1-1.cfg"
+  },
+  {
+    "name": "SK-16000-C-2",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-C-2-2.cfg"
+  },
+  {
+    "name": "SK-16000-C",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-C.cfg"
+  },
+  {
+    "name": "SK-16000-D-1",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-D-1-1.cfg"
+  },
+  {
+    "name": "SK-16000-D-2",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-D-2-2.cfg"
+  },
+  {
+    "name": "SK-16000-D",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-D.cfg"
+  },
+  {
+    "name": "SK-16000-E-1",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-E-1-1.cfg"
+  },
+  {
+    "name": "SK-16000-E-2",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-E-2-2.cfg"
+  },
+  {
+    "name": "SK-16000-E",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-E.cfg"
+  },
+  {
+    "name": "SK-16000-G-1",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-G-1-1.cfg"
+  },
+  {
+    "name": "SK-16000-G",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-G.cfg"
+  },
+  {
+    "name": "SK-16000-H-1",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-H-1-1.cfg"
+  },
+  {
+    "name": "SK-16000-H-2",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-H-2-2.cfg"
+  },
+  {
+    "name": "SK-16000-H-3",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-H-3-3.cfg"
+  },
+  {
+    "name": "SK-16000-H",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000-H.cfg"
+  },
+  {
+    "name": "SK-16000",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Configs\\SK-16000.cfg"
+  },
+  {
+    "name": "SK-16000-H_CLOUDS",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Visuals\\EVE\\Configs\\SK-16000_EVE.cfg"
+  },
+  {
+    "name": "SK-16000-H_CLOUDS",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Visuals\\EVE\\Configs\\SK-16000_VOLUMEEVE.cfg"
+  },
+  {
+    "name": "SK-16000-H",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Visuals\\Scatterer\\SK-16000_ScattererAtmo.cfg"
+  },
+  {
+    "name": "SK-16000-E",
+    "filePath": "Arktus_v1.0\\Gamedata\\Arktus\\Visuals\\Scatterer\\SK-16000_ScattererOcean.cfg"
+  }
+]

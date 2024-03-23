@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Pirates of the Keribbean",
+    "filePath": "PoK\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "PoK_cone",
+    "filePath": "PoK\\Parts\\Aero\\PoK_cone\\PoK_cone.cfg"
+  },
+  {
+    "name": "PoK_wing0",
+    "filePath": "PoK\\Parts\\Aero\\PoK_wings\\PoK_wing0.cfg"
+  },
+  {
+    "name": "PoK_wing1",
+    "filePath": "PoK\\Parts\\Aero\\PoK_wings\\PoK_wing1.cfg"
+  },
+  {
+    "name": "PoK_wing2",
+    "filePath": "PoK\\Parts\\Aero\\PoK_wings\\PoK_wing2.cfg"
+  },
+  {
+    "name": "PoK_ARR-02",
+    "filePath": "PoK\\Parts\\Command\\PoK_ARR-02\\PoK_ARR-02.cfg"
+  },
+  {
+    "name": "PoK_CCP",
+    "filePath": "PoK\\Parts\\Command\\PoK_ccp\\PoK_CCP.cfg"
+  },
+  {
+    "name": "PoK_CP",
+    "filePath": "PoK\\Parts\\Command\\PoK_CP\\PoK_CP.cfg"
+  },
+  {
+    "name": "PoK_engine",
+    "filePath": "PoK\\Parts\\Engine\\PoK_engine\\PoK_engine.cfg"
+  },
+  {
+    "name": "PoK_RE",
+    "filePath": "PoK\\Parts\\Engine\\PoK_RE\\PoK_RE.cfg"
+  },
+  {
+    "name": "PoK_FuelTank",
+    "filePath": "PoK\\Parts\\FuelTank\\PoK_FuelTank\\PoK_FuelTank.cfg"
+  },
+  {
+    "name": "adapter1",
+    "filePath": "PoK\\Parts\\Structural\\PoK_adapter1\\adapter1.cfg"
+  },
+  {
+    "name": "PoK_fuselage",
+    "filePath": "PoK\\Parts\\Structural\\PoK_fuselage\\PoK_fuselage.cfg"
+  },
+  {
+    "name": "PoK_fuselageX",
+    "filePath": "PoK\\Parts\\Structural\\PoK_fuselageX\\PoK_fuselageX.cfg"
+  },
+  {
+    "name": "PoK_core",
+    "filePath": "PoK\\Parts\\Utility\\PoK_core\\PoK_core.cfg"
+  },
+  {
+    "name": "PoK_flag",
+    "filePath": "PoK\\Parts\\Utility\\PoK_flag\\PoK_flag.cfg"
+  },
+  {
+    "name": "PoK_GrapplingDevice",
+    "filePath": "PoK\\Parts\\Utility\\PoK_GrapplingDevice\\part.cfg"
+  },
+  {
+    "name": "PoK_RCS",
+    "filePath": "PoK\\Parts\\Utility\\PoK_RCS\\PoK_RCS.cfg"
+  },
+  {
+    "name": "PoK_GearLarge",
+    "filePath": "PoK\\Parts\\Wheel\\LandingGear\\PoK_GearLarge.cfg"
+  },
+  {
+    "name": "PoK_GearMedium",
+    "filePath": "PoK\\Parts\\Wheel\\LandingGear\\PoK_GearMedium.cfg"
+  },
+  {
+    "name": "PoK_GearSmall",
+    "filePath": "PoK\\Parts\\Wheel\\LandingGear\\PoK_GearSmall.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "PoK\\Resources\\ResourcesGeneric.cfg"
+  },
+  {
+    "name": "ARR-02_int",
+    "filePath": "PoK\\Spaces\\ARR-02_int\\ARR-02_int.cfg"
+  },
+  {
+    "name": "PoK_CCP2_INT",
+    "filePath": "PoK\\Spaces\\PoK_CCP2_INT\\PoK_CCP2_INT.cfg"
+  },
+  {
+    "name": "PoK_CP_INT",
+    "filePath": "PoK\\Spaces\\PoK_CP_INT\\PoK_CP_INT.cfg"
+  }
+]

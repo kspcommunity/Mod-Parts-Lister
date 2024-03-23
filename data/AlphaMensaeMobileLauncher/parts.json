@@ -1,0 +1,54 @@
+[
+  {
+    "name": "SaturnMobileLauncher",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Saturn-MobileLauncher-Base_BDB.cfg"
+  },
+  {
+    "name": "SaturnTowerCustom",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Saturn-Tower_BDB.cfg"
+  },
+  {
+    "name": "SaturnTowerTSM",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Saturn-TSM.cfg"
+  },
+  {
+    "name": "SaturnCrane",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower-HammerheadCrane.cfg"
+  },
+  {
+    "name": "SaturnTowerArm01B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm01-SIC-Intertank.cfg"
+  },
+  {
+    "name": "SaturnTowerArm02B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm02-SIC-F.cfg"
+  },
+  {
+    "name": "SaturnTowerArm03B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm03-SII-A.cfg"
+  },
+  {
+    "name": "SaturnTowerArm04B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm04-SII-I.cfg"
+  },
+  {
+    "name": "SaturnTowerArm05B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm05-SII-F.cfg"
+  },
+  {
+    "name": "SaturnTowerArm06B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm06-SIVB-A.cfg"
+  },
+  {
+    "name": "SaturnTowerArm07B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm07-SIVB-F.cfg"
+  },
+  {
+    "name": "SaturnTowerArm08B",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm08-SM.cfg"
+  },
+  {
+    "name": "SaturnTowerCrewArm2",
+    "filePath": "AlphaMensaeMobileLauncher\\Parts\\Tower_Arm09-Crew.cfg"
+  }
+]

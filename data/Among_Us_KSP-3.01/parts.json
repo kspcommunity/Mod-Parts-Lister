@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "Among_Us_KSP-3.01\\Extras\\RO RP1\\mogusRO.cfg"
+  },
+  {
+    "name": "ModuleAvionics",
+    "filePath": "Among_Us_KSP-3.01\\Extras\\RO RP1\\mogusRP1.cfg"
+  },
+  {
+    "name": "mogus",
+    "filePath": "Among_Us_KSP-3.01\\GameData\\quest_assets\\Parts\\mogus\\amogus.cfg"
+  },
+  {
+    "name": "MogusSuit1",
+    "filePath": "Among_Us_KSP-3.01\\GameData\\Squad\\MogusSuits\\Configs\\SUITCOMBOS.cfg"
+  }
+]

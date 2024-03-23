@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ModulePartVariants",
+    "filePath": "RAGLT\\Patches\\ANY\\CastorDecoupler2.cfg"
+  },
+  {
+    "name": "tantares_lv_black",
+    "filePath": "RAGLT\\Patches\\ANY\\FAIRINGS\\Fairings.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "RAGLT\\Patches\\ANY\\STAGING_PLATES\\StagingPlates.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "RAGLT\\Patches\\ANY\\TRUSS_DECOUPLERS\\TrussDecouplers.cfg"
+  }
+]

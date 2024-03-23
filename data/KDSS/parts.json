@@ -1,0 +1,38 @@
+[
+  {
+    "name": "KDSS-A",
+    "filePath": "KDSS\\Parts\\KDSS\\KDSSA.cfg"
+  },
+  {
+    "name": "KDSS-P",
+    "filePath": "KDSS\\Parts\\KDSS\\KDSSP.cfg"
+  },
+  {
+    "name": "KDSS-AC",
+    "filePath": "KDSS\\Parts\\Ring\\KDSSAC.cfg"
+  },
+  {
+    "name": "KDSS-Ring",
+    "filePath": "KDSS\\Parts\\Ring\\Ring.cfg"
+  },
+  {
+    "name": "KDSS-Cap",
+    "filePath": "KDSS\\Parts\\SAS\\KDSS-Cap.cfg"
+  },
+  {
+    "name": "KDSS-Cap2",
+    "filePath": "KDSS\\Parts\\SAS\\KDSS-Cap2.cfg"
+  },
+  {
+    "name": "KDSS-SAS",
+    "filePath": "KDSS\\Parts\\SAS\\KDSS-SAS.cfg"
+  },
+  {
+    "name": "KDSS-SasBase",
+    "filePath": "KDSS\\Parts\\SAS\\KDSS-SASbase.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "KDSS\\Patches\\CLS.cfg"
+  }
+]

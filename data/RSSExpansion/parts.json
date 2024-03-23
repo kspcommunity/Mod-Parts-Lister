@@ -60,6 +60,10 @@
     "filePath": "RSSExpansion\\012 - Sedna.cfg"
   },
   {
+    "name": "Sedna",
+    "filePath": "RSSExpansion\\012-Sedna.cfg"
+  },
+  {
     "name": "Metis",
     "filePath": "RSSExpansion\\500-Metis.cfg"
   },
@@ -142,5 +146,13 @@
   {
     "name": "Hydra",
     "filePath": "RSSExpansion\\904-Hydra.cfg"
+  },
+  {
+    "name": "Vesta",
+    "filePath": "RSSExpansion\\mod-DistantObjectEnhancement.cfg"
+  },
+  {
+    "name": "Iapetus",
+    "filePath": "RSSExpansion\\RSSPatches\\603-Iapetus.cfg"
   }
 ]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "def // do not change this!",
+    "filePath": "MNWS_AERO\\BulletDefs\\Johnny_Bullets.cfg"
+  },
+  {
+    "name": "CFA44A",
+    "filePath": "MNWS_AERO\\Part\\CFA44A\\CFA44A.cfg"
+  },
+  {
+    "name": "DRAGON",
+    "filePath": "MNWS_AERO\\Part\\DRAGON\\DRAGON.cfg"
+  },
+  {
+    "name": "DRAGON",
+    "filePath": "MNWS_AERO\\Part\\DRAGON\\DRAGONPBR.cfg"
+  },
+  {
+    "name": "EDI",
+    "filePath": "MNWS_AERO\\Part\\EDI\\EDI.cfg"
+  },
+  {
+    "name": "EDI",
+    "filePath": "MNWS_AERO\\Part\\EDI\\EDIPBR.cfg"
+  },
+  {
+    "name": "F15E",
+    "filePath": "MNWS_AERO\\Part\\F15E\\F15E.cfg"
+  },
+  {
+    "name": "F16C",
+    "filePath": "MNWS_AERO\\Part\\F16\\F16C.cfg"
+  },
+  {
+    "name": "F16XL",
+    "filePath": "MNWS_AERO\\Part\\F16\\F16XL.cfg"
+  },
+  {
+    "name": "F16",
+    "filePath": "MNWS_AERO\\Part\\F16\\test11.cfg"
+  },
+  {
+    "name": "F16XL",
+    "filePath": "MNWS_AERO\\Part\\F16\\test12.cfg"
+  },
+  {
+    "name": "F22",
+    "filePath": "MNWS_AERO\\Part\\F22\\F22.cfg"
+  },
+  {
+    "name": "F22",
+    "filePath": "MNWS_AERO\\Part\\F22\\test8.cfg"
+  },
+  {
+    "name": "F35",
+    "filePath": "MNWS_AERO\\Part\\F35\\F35.cfg"
+  },
+  {
+    "name": "F35",
+    "filePath": "MNWS_AERO\\Part\\F35\\test7.cfg"
+  },
+  {
+    "name": "H20A",
+    "filePath": "MNWS_AERO\\Part\\H20A\\H20A.cfg"
+  },
+  {
+    "name": "H20AR",
+    "filePath": "MNWS_AERO\\Part\\H20A\\H20AR.cfg"
+  },
+  {
+    "name": "H20B",
+    "filePath": "MNWS_AERO\\Part\\H20A\\H20B.cfg"
+  },
+  {
+    "name": "H20B",
+    "filePath": "MNWS_AERO\\Part\\H20A\\test3.cfg"
+  },
+  {
+    "name": "J10",
+    "filePath": "MNWS_AERO\\Part\\J10\\J10.cfg"
+  },
+  {
+    "name": "J15",
+    "filePath": "MNWS_AERO\\Part\\J15\\J15.cfg"
+  },
+  {
+    "name": "J20",
+    "filePath": "MNWS_AERO\\Part\\J20\\J20.cfg"
+  },
+  {
+    "name": "MLX",
+    "filePath": "MNWS_AERO\\Part\\MLX\\MLX.cfg"
+  },
+  {
+    "name": "MLX2",
+    "filePath": "MNWS_AERO\\Part\\MLX2\\MLX2.cfg"
+  },
+  {
+    "name": "MMB",
+    "filePath": "MNWS_AERO\\Part\\MMB\\MMB.cfg"
+  },
+  {
+    "name": "MSWS111",
+    "filePath": "MNWS_AERO\\Part\\MSWS111\\MSWS111.cfg"
+  },
+  {
+    "name": "MSWSM4X",
+    "filePath": "MNWS_AERO\\Part\\MSWSWT\\MSWSM4X.cfg"
+  },
+  {
+    "name": "MSWSWT",
+    "filePath": "MNWS_AERO\\Part\\MSWSWT\\MSWSWT.cfg"
+  },
+  {
+    "name": "MSWSWT1",
+    "filePath": "MNWS_AERO\\Part\\MSWSWT\\MSWSWT1.cfg"
+  },
+  {
+    "name": "MSWSWT2",
+    "filePath": "MNWS_AERO\\Part\\MSWSWT\\MSWSWT2.cfg"
+  },
+  {
+    "name": "MSWSWT3",
+    "filePath": "MNWS_AERO\\Part\\MSWSWT\\MSWSWT3.cfg"
+  },
+  {
+    "name": "MSWSWT4",
+    "filePath": "MNWS_AERO\\Part\\MSWSWT\\MSWSWT4.cfg"
+  },
+  {
+    "name": "NATF",
+    "filePath": "MNWS_AERO\\Part\\NATF\\NATF.cfg"
+  },
+  {
+    "name": "NATF2",
+    "filePath": "MNWS_AERO\\Part\\NATF\\NATF2.cfg"
+  },
+  {
+    "name": "NATF2",
+    "filePath": "MNWS_AERO\\Part\\NATF\\test10.cfg"
+  },
+  {
+    "name": "NATF",
+    "filePath": "MNWS_AERO\\Part\\NATF\\test9.cfg"
+  },
+  {
+    "name": "NH80",
+    "filePath": "MNWS_AERO\\Part\\NH80\\NH80.cfg"
+  },
+  {
+    "name": "NH80GUN",
+    "filePath": "MNWS_AERO\\Part\\NH80\\NH80GUN.cfg"
+  },
+  {
+    "name": "RML",
+    "filePath": "MNWS_AERO\\Part\\RML\\RML.cfg"
+  },
+  {
+    "name": "UCAV1",
+    "filePath": "MNWS_AERO\\Part\\UCAV2\\UCAV1.cfg"
+  },
+  {
+    "name": "UCAV2",
+    "filePath": "MNWS_AERO\\Part\\UCAV2\\UCAV2.cfg"
+  },
+  {
+    "name": "UH60",
+    "filePath": "MNWS_AERO\\Part\\UH60\\UH60.cfg"
+  },
+  {
+    "name": "V22",
+    "filePath": "MNWS_AERO\\Part\\V22\\V22.cfg"
+  },
+  {
+    "name": "35mmAAMS",
+    "filePath": "MNWS_AERO\\Resources\\Johnny_Ammo.cfg"
+  },
+  {
+    "name": "BallastWater",
+    "filePath": "MNWS_AERO\\Resources\\Jresource.cfg"
+  }
+]

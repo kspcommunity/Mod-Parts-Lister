@@ -1,0 +1,218 @@
+[
+  {
+    "name": "dc_probe_core",
+    "filePath": "DaedalusConsortium\\command\\dc_probe_core.cfg"
+  },
+  {
+    "name": "dc_electrical_bat",
+    "filePath": "DaedalusConsortium\\dc_electrical_bat.cfg"
+  },
+  {
+    "name": "dc_probe_core",
+    "filePath": "DaedalusConsortium\\dc_probe_core.cfg"
+  },
+  {
+    "name": "dc_struct_2xle",
+    "filePath": "DaedalusConsortium\\dc_struct_2xle.cfg"
+  },
+  {
+    "name": "dc_struct_2xll",
+    "filePath": "DaedalusConsortium\\dc_struct_2xll.cfg"
+  },
+  {
+    "name": "dc_struct_2xlm",
+    "filePath": "DaedalusConsortium\\dc_struct_2xlm.cfg"
+  },
+  {
+    "name": "dc_struct_2xls",
+    "filePath": "DaedalusConsortium\\dc_struct_2xls.cfg"
+  },
+  {
+    "name": "dc_struct_2xlxl",
+    "filePath": "DaedalusConsortium\\dc_struct_2xlxl.cfg"
+  },
+  {
+    "name": "dc_struct_2xle",
+    "filePath": "DaedalusConsortium\\dc_struct_hub.cfg"
+  },
+  {
+    "name": "dc_struct_le",
+    "filePath": "DaedalusConsortium\\dc_struct_le.cfg"
+  },
+  {
+    "name": "dc_struct_ll",
+    "filePath": "DaedalusConsortium\\dc_struct_ll.cfg"
+  },
+  {
+    "name": "dc_struct_lm",
+    "filePath": "DaedalusConsortium\\dc_struct_lm.cfg"
+  },
+  {
+    "name": "dc_struct_ls",
+    "filePath": "DaedalusConsortium\\dc_struct_ls.cfg"
+  },
+  {
+    "name": "dc_struct_lxl",
+    "filePath": "DaedalusConsortium\\dc_struct_lxl.cfg"
+  },
+  {
+    "name": "dc_struct_xle",
+    "filePath": "DaedalusConsortium\\dc_struct_xle.cfg"
+  },
+  {
+    "name": "dc_struct_xll",
+    "filePath": "DaedalusConsortium\\dc_struct_xll.cfg"
+  },
+  {
+    "name": "dc_struct_xlm",
+    "filePath": "DaedalusConsortium\\dc_struct_xlm.cfg"
+  },
+  {
+    "name": "dc_struct_xls",
+    "filePath": "DaedalusConsortium\\dc_struct_xls.cfg"
+  },
+  {
+    "name": "dc_struct_xlxl",
+    "filePath": "DaedalusConsortium\\dc_struct_xlxl.cfg"
+  },
+  {
+    "name": "dc_t1_adapter",
+    "filePath": "DaedalusConsortium\\dc_t1_adapter_.cfg"
+  },
+  {
+    "name": "dc_t2_adapter",
+    "filePath": "DaedalusConsortium\\dc_t2_adapter.cfg"
+  },
+  {
+    "name": "dc_t3_adapter",
+    "filePath": "DaedalusConsortium\\dc_t3_adapter.cfg"
+  },
+  {
+    "name": "dc_tank_lf",
+    "filePath": "DaedalusConsortium\\dc_tank_lf.cfg"
+  },
+  {
+    "name": "dc_tank_lfo",
+    "filePath": "DaedalusConsortium\\dc_tank_lfo.cfg"
+  },
+  {
+    "name": "dc_tank_mono",
+    "filePath": "DaedalusConsortium\\dc_tank_mono.cfg"
+  },
+  {
+    "name": "dc_tank_ore",
+    "filePath": "DaedalusConsortium\\dc_tank_ore.cfg"
+  },
+  {
+    "name": "dc_tank_ox",
+    "filePath": "DaedalusConsortium\\dc_tank_ox.cfg"
+  },
+  {
+    "name": "dc_tank_xen",
+    "filePath": "DaedalusConsortium\\dc_tank_xen.cfg"
+  },
+  {
+    "name": "dc_electrical_bat",
+    "filePath": "DaedalusConsortium\\electrical\\battery\\dc_electrical_bat.cfg"
+  },
+  {
+    "name": "dc_struct_2xle",
+    "filePath": "DaedalusConsortium\\structural\\2XLEBlock\\dc_struct_2xle.cfg"
+  },
+  {
+    "name": "dc_struct_2xll",
+    "filePath": "DaedalusConsortium\\structural\\2XLLBlock\\dc_struct_2xll.cfg"
+  },
+  {
+    "name": "dc_struct_2xlm",
+    "filePath": "DaedalusConsortium\\structural\\2XLMBlock\\dc_struct_2xlm.cfg"
+  },
+  {
+    "name": "dc_struct_2xls",
+    "filePath": "DaedalusConsortium\\structural\\2XLSBlock\\dc_struct_2xls.cfg"
+  },
+  {
+    "name": "dc_struct_2xlxl",
+    "filePath": "DaedalusConsortium\\structural\\2XLXLBlock\\dc_struct_2xlxl.cfg"
+  },
+  {
+    "name": "dc_struct_le",
+    "filePath": "DaedalusConsortium\\structural\\LEBlock\\dc_struct_le.cfg"
+  },
+  {
+    "name": "dc_struct_2xle",
+    "filePath": "DaedalusConsortium\\structural\\LHub\\dc_struct_hub.cfg"
+  },
+  {
+    "name": "dc_struct_ll",
+    "filePath": "DaedalusConsortium\\structural\\LLBlock\\dc_struct_ll.cfg"
+  },
+  {
+    "name": "dc_struct_lm",
+    "filePath": "DaedalusConsortium\\structural\\LMBlock\\dc_struct_lm.cfg"
+  },
+  {
+    "name": "dc_struct_ls",
+    "filePath": "DaedalusConsortium\\structural\\LSBlock\\dc_struct_ls.cfg"
+  },
+  {
+    "name": "dc_struct_lxl",
+    "filePath": "DaedalusConsortium\\structural\\LXLBlock\\dc_struct_lxl.cfg"
+  },
+  {
+    "name": "dc_t1_adapter",
+    "filePath": "DaedalusConsortium\\structural\\T1Adapter\\dc_t1_adapter_.cfg"
+  },
+  {
+    "name": "dc_t2_adapter",
+    "filePath": "DaedalusConsortium\\structural\\T2Adapter\\dc_t2_adapter.cfg"
+  },
+  {
+    "name": "dc_t3_adapter",
+    "filePath": "DaedalusConsortium\\structural\\T3Adapter\\dc_t3_adapter.cfg"
+  },
+  {
+    "name": "dc_struct_xle",
+    "filePath": "DaedalusConsortium\\structural\\XLEBlock\\dc_struct_xle.cfg"
+  },
+  {
+    "name": "dc_struct_xll",
+    "filePath": "DaedalusConsortium\\structural\\XLLBlock\\dc_struct_xll.cfg"
+  },
+  {
+    "name": "dc_struct_xlm",
+    "filePath": "DaedalusConsortium\\structural\\XLMBlock\\dc_struct_xlm.cfg"
+  },
+  {
+    "name": "dc_struct_xls",
+    "filePath": "DaedalusConsortium\\structural\\XLSBlock\\dc_struct_xls.cfg"
+  },
+  {
+    "name": "dc_struct_xlxl",
+    "filePath": "DaedalusConsortium\\structural\\XLXLBlock\\dc_struct_xlxl.cfg"
+  },
+  {
+    "name": "dc_tank_lf",
+    "filePath": "DaedalusConsortium\\tank\\lf\\dc_tank_lf.cfg"
+  },
+  {
+    "name": "dc_tank_lfo",
+    "filePath": "DaedalusConsortium\\tank\\lfo\\dc_tank_lfo.cfg"
+  },
+  {
+    "name": "dc_tank_mono",
+    "filePath": "DaedalusConsortium\\tank\\mono\\dc_tank_mono.cfg"
+  },
+  {
+    "name": "dc_tank_ore",
+    "filePath": "DaedalusConsortium\\tank\\ore\\dc_tank_ore.cfg"
+  },
+  {
+    "name": "dc_tank_ox",
+    "filePath": "DaedalusConsortium\\tank\\ox\\dc_tank_ox.cfg"
+  },
+  {
+    "name": "dc_tank_xen",
+    "filePath": "DaedalusConsortium\\tank\\xen\\dc_tank_xen.cfg"
+  }
+]

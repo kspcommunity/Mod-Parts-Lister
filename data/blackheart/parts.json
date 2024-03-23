@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stickerbig",
+    "filePath": "blackheart\\Parts\\stickerbig\\part.cfg"
+  },
+  {
+    "name": "sticker",
+    "filePath": "blackheart\\Parts\\stickerh\\part.cfg"
+  },
+  {
+    "name": "stickermini",
+    "filePath": "blackheart\\Parts\\stickermini\\part.cfg"
+  },
+  {
+    "name": "stickerv",
+    "filePath": "blackheart\\Parts\\stickerv\\part.cfg"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "MiningExpansion-1.1.6\\Extras\\LiquidFuel.cfg"
+  },
+  {
+    "name": "Coreworks Extractions Consortium",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "Inflatible Asteroid Habitat",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "SMX_PotatoHab",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\AsteroidHab\\part.cfg"
+  },
+  {
+    "name": "SMX_AsteroidPort",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\AsteroidPort\\part.cfg"
+  },
+  {
+    "name": "SMX_PoddedDeployableWheelL",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\DeployableWheel\\inlineWheelL.cfg"
+  },
+  {
+    "name": "SMX_PoddedDeployableWheelS",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\DeployableWheel\\InlineWheelS.cfg"
+  },
+  {
+    "name": "SMX_DeployableWheel",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\DeployableWheel\\RoverWheel.cfg"
+  },
+  {
+    "name": "SMX_RadialPillarLeg",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\HeavyLandingLeg\\RadialLeg.cfg"
+  },
+  {
+    "name": "SMX_StackLeg",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\HeavyLandingLeg\\StackLeg.cfg"
+  },
+  {
+    "name": "SMX_Mk2Generator",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Mk2Generator\\part.cfg"
+  },
+  {
+    "name": "SMX_InlineDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Mk2ISRUDrill\\Drill.cfg"
+  },
+  {
+    "name": "SMX_Mk2Oretank",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Mk2OreTank\\part.cfg"
+  },
+  {
+    "name": "SMX_Mk2ISRURefinery",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Mk2Refinery\\ISRU.cfg"
+  },
+  {
+    "name": "SMX_Mk3ISRURefinery",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Mk3ISRU\\ISRU.cfg"
+  },
+  {
+    "name": "SMX_Mk3OreTank",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Mk3OreTank\\HugeTank.cfg"
+  },
+  {
+    "name": "SMX_Radialklaw",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\RadialKlaw\\Radialklaw.cfg"
+  },
+  {
+    "name": "SMX_RCSDriver",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\RCSDriver\\part.cfg"
+  },
+  {
+    "name": "SMX_Size0Generator",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size0Generator\\Generator.cfg"
+  },
+  {
+    "name": "SMX_Size0ISRU",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size0ISRU\\ISRU.cfg"
+  },
+  {
+    "name": "SME_MiniKlaw",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size0Klaw\\part.cfg"
+  },
+  {
+    "name": "SMX_Size0OreTank",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size0OreTank\\Microtank.cfg"
+  },
+  {
+    "name": "SMX_0mStackDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size0StackDrill\\Drill.cfg"
+  },
+  {
+    "name": "SMX_Size1AtmCondenser",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1AtmCondenser\\Part.cfg"
+  },
+  {
+    "name": "SMX_Size0Driver",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1Driver\\part.cfg"
+  },
+  {
+    "name": "SMX_Size1Generator",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1Generator\\Generator.cfg"
+  },
+  {
+    "name": "SMX_1mInlineDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1InlineDrill\\InlineDrill.cfg"
+  },
+  {
+    "name": "SMX_1mHInlineDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1InlineDrillH\\InlineDrill.cfg"
+  },
+  {
+    "name": "SMX_1mInlinePump",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1InlinePump\\OceanicExtractor.cfg"
+  },
+  {
+    "name": "SMX_1mStackDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1StackDrill\\Drill.cfg"
+  },
+  {
+    "name": "SMX_1mStackPump",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size1StackPump\\OceanicExtractor.cfg"
+  },
+  {
+    "name": "SMX_Size2AtmCondenser",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size2AtmCondenser\\part.cfg"
+  },
+  {
+    "name": "SMX_Size1Driver",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size2Driver\\part.cfg"
+  },
+  {
+    "name": "SMX_Size2Generator",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size2Generator\\Generator.cfg"
+  },
+  {
+    "name": "SMX_2mStackDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size2StackDrill\\Drill.cfg"
+  },
+  {
+    "name": "SMX_2mStackPump",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size2StackPump\\OceanicExtractor.cfg"
+  },
+  {
+    "name": "SMX_Size3ISRU",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size3ISRU\\ISRU.cfg"
+  },
+  {
+    "name": "SMX_Size3OreTank",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size3OreTank\\HugeTank.cfg"
+  },
+  {
+    "name": "SMX_3mStackDrill",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\Size3StackDrill\\Drill.cfg"
+  },
+  {
+    "name": "SMX_VLandingGear",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\VerticalGear\\VerticalGear.cfg"
+  },
+  {
+    "name": "SMX_VLandingGearL",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\VerticalGear\\VerticalGearL.cfg"
+  },
+  {
+    "name": "SMX_ShroudedVLandingGear",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\VerticalGear\\VerticalGearShrouded.cfg"
+  },
+  {
+    "name": "SMX_ShroudedVLandingGearL",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Parts\\VerticalGear\\VerticalGearShroudedL.cfg"
+  },
+  {
+    "name": "ElRecycler",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Patch\\ELPRecyclers.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Patch\\SME_CE.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Patch\\SME_NFP.cfg"
+  },
+  {
+    "name": "ModuleResourceHarvester",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Patch\\SME_OSE.cfg"
+  },
+  {
+    "name": "SMXPotatoHabInternal",
+    "filePath": "MiningExpansion-1.1.6\\GameData\\MiningExpansion\\Spaces\\PotatoHab\\internal.cfg"
+  }
+]

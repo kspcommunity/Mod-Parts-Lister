@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ecumenopolis ",
+    "filePath": "Ecumenopolis\\Configs\\Ecumenopolis.cfg"
+  },
+  {
+    "name": "Ithil",
+    "filePath": "Ecumenopolis\\Configs\\Ithil.cfg"
+  },
+  {
+    "name": "Ecumenopolis",
+    "filePath": "Ecumenopolis\\Ecumenopolis_PlanetShine.cfg"
+  },
+  {
+    "name": "Ecumenopolis_Fog",
+    "filePath": "Ecumenopolis\\EVE\\Settings.cfg"
+  },
+  {
+    "name": "Ecumenopolis",
+    "filePath": "Ecumenopolis\\scatterer\\config\\Planets\\Ecumenopolis\\atmo.cfg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "MacLuky Space Solutions",
+    "filePath": "MacLuky\\GameData\\MacLuky\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "MacLuky.IRAS.Solar",
+    "filePath": "MacLuky\\GameData\\MacLuky\\IRAS\\SolarPanels\\part.cfg"
+  },
+  {
+    "name": "MacLuky.IRAS.Telescope",
+    "filePath": "MacLuky\\GameData\\MacLuky\\IRAS\\Telescope\\part.cfg"
+  },
+  {
+    "name": "TSTSpaceTelescope",
+    "filePath": "MacLuky\\GameData\\MacLuky\\IRAS\\Telescope\\Patch_Tarsier.cfg"
+  },
+  {
+    "name": "ModuleAnimateGeneric",
+    "filePath": "MacLuky\\GameData\\MacLuky\\SpaceLabs\\Patch_BSL.cfg"
+  },
+  {
+    "name": "sciencelab1m",
+    "filePath": "MacLuky\\GameData\\MacLuky\\SpaceLabs\\ScienceLab1M\\part.cfg"
+  },
+  {
+    "name": "sciencelab2m",
+    "filePath": "MacLuky\\GameData\\MacLuky\\SpaceLabs\\ScienceLab2M\\part.cfg"
+  },
+  {
+    "name": "sciencelab2mi",
+    "filePath": "MacLuky\\GameData\\MacLuky\\SpaceLabs\\ScienceLab2Mi\\part.cfg"
+  },
+  {
+    "name": "ModulePartVariants",
+    "filePath": "MacLuky\\LanderCanMk12\\color_tints.cfg"
+  },
+  {
+    "name": "MacLuky.LanderCanMk12.Internal",
+    "filePath": "MacLuky\\LanderCanMk12\\LanderCanMk12-Internal.cfg"
+  },
+  {
+    "name": "MacLuky.LanderCanMk12",
+    "filePath": "MacLuky\\LanderCanMk12\\LanderCanMk12.cfg"
+  }
+]

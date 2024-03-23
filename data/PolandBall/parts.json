@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Germany",
+    "filePath": "PolandBall\\Parts\\Ger\\Ger.cfg"
+  },
+  {
+    "name": "Lithuania",
+    "filePath": "PolandBall\\Parts\\Lit\\Lit.cfg"
+  },
+  {
+    "name": "Austria",
+    "filePath": "PolandBall\\Parts\\Ostr\\OstrNeinGer.cfg"
+  },
+  {
+    "name": "Poland",
+    "filePath": "PolandBall\\Parts\\Pol\\Pol.cfg"
+  },
+  {
+    "name": "Turkey",
+    "filePath": "PolandBall\\Parts\\Turk\\Turk.cfg"
+  },
+  {
+    "name": "USA",
+    "filePath": "PolandBall\\Parts\\Usa\\Usa.cfg"
+  }
+]

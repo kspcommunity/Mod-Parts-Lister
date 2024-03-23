@@ -1,0 +1,86 @@
+[
+  {
+    "name": "KFWheelSmall",
+    "filePath": "KerbalFoundries\\KF_Scaletype.cfg"
+  },
+  {
+    "name": "Kerbal Foundries",
+    "filePath": "KerbalFoundries\\Parts\\FE_Mod_KerbalFoundries.cfg"
+  },
+  {
+    "name": "KF_AuxiliaryPowerUnit",
+    "filePath": "KerbalFoundries\\Parts\\LoFiAPUrevA.cfg"
+  },
+  {
+    "name": "KF_Repulsor",
+    "filePath": "KerbalFoundries\\Parts\\Repulsor.cfg"
+  },
+  {
+    "name": "KF_RepulsorGimbal",
+    "filePath": "KerbalFoundries\\Parts\\RepulsorGimbal.cfg"
+  },
+  {
+    "name": "KF_RepulsorSurface",
+    "filePath": "KerbalFoundries\\Parts\\RepulsorSurface.cfg"
+  },
+  {
+    "name": "KF_RoverBodyLarge",
+    "filePath": "KerbalFoundries\\Parts\\RoverBody.cfg"
+  },
+  {
+    "name": "KF_ScrewDrive",
+    "filePath": "KerbalFoundries\\Parts\\Screw.cfg"
+  },
+  {
+    "name": "KF_Skid",
+    "filePath": "KerbalFoundries\\Parts\\Skid.cfg"
+  },
+  {
+    "name": "KF_TrackLong",
+    "filePath": "KerbalFoundries\\Parts\\TrackLong.cfg"
+  },
+  {
+    "name": "KF_TrackMedium",
+    "filePath": "KerbalFoundries\\Parts\\TrackMedium.cfg"
+  },
+  {
+    "name": "KF_TrackRBIInverting",
+    "filePath": "KerbalFoundries\\Parts\\TrackRBIInverting.cfg"
+  },
+  {
+    "name": "KF_TrackS",
+    "filePath": "KerbalFoundries\\Parts\\TrackSimple.cfg"
+  },
+  {
+    "name": "KF_TrackSmall",
+    "filePath": "KerbalFoundries\\Parts\\TrackSmall.cfg"
+  },
+  {
+    "name": "KF_TrackRBIMole",
+    "filePath": "KerbalFoundries\\Parts\\TracksMole.cfg"
+  },
+  {
+    "name": "KF_SurfaceTrack",
+    "filePath": "KerbalFoundries\\Parts\\TrackSurface.cfg"
+  },
+  {
+    "name": "KF_TrackRBITiny",
+    "filePath": "KerbalFoundries\\Parts\\TrackTiny.cfg"
+  },
+  {
+    "name": "KF_WheelLarge",
+    "filePath": "KerbalFoundries\\Parts\\WheelLarge.cfg"
+  },
+  {
+    "name": "KF_WheelMedium",
+    "filePath": "KerbalFoundries\\Parts\\WheelMedium.cfg"
+  },
+  {
+    "name": "KF_WheelSmall",
+    "filePath": "KerbalFoundries\\Parts\\WheelSmall.cfg"
+  },
+  {
+    "name": "KF_WheelTiny",
+    "filePath": "KerbalFoundries\\Parts\\WheelTiny.cfg"
+  }
+]

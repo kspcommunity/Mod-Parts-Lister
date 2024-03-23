@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Aegir",
+    "filePath": "Distant Skies\\Configs\\Aegir.cfg"
+  },
+  {
+    "name": "AlphaCentauriA",
+    "filePath": "Distant Skies\\Configs\\AlphaCentauriA.cfg"
+  },
+  {
+    "name": "AlphaCentauriAa",
+    "filePath": "Distant Skies\\Configs\\AlphaCentauriAa.cfg"
+  },
+  {
+    "name": "AlphaCentauriAa1",
+    "filePath": "Distant Skies\\Configs\\AlphaCentauriAa1.cfg"
+  },
+  {
+    "name": "AlphaCentauriAb",
+    "filePath": "Distant Skies\\Configs\\AlphaCentauriAb.cfg"
+  },
+  {
+    "name": "AlphaCentauriB",
+    "filePath": "Distant Skies\\Configs\\AlphaCentauriB.cfg"
+  },
+  {
+    "name": "AlphaCentauriBa",
+    "filePath": "Distant Skies\\Configs\\AlphaCentauriBa.cfg"
+  },
+  {
+    "name": "Arr",
+    "filePath": "Distant Skies\\Configs\\Arr.cfg"
+  },
+  {
+    "name": "Athens",
+    "filePath": "Distant Skies\\Configs\\Athens.cfg"
+  },
+  {
+    "name": "BarnardsStarB",
+    "filePath": "Distant Skies\\Configs\\BarnardB.cfg"
+  },
+  {
+    "name": "BarnardC",
+    "filePath": "Distant Skies\\Configs\\BarnardC.cfg"
+  },
+  {
+    "name": "BarnardD",
+    "filePath": "Distant Skies\\Configs\\BarnardD.cfg"
+  },
+  {
+    "name": "BarnardD1",
+    "filePath": "Distant Skies\\Configs\\BarnardD1.cfg"
+  },
+  {
+    "name": "BarnardsStar",
+    "filePath": "Distant Skies\\Configs\\BarnardsStar.cfg"
+  },
+  {
+    "name": "Bortenfor",
+    "filePath": "Distant Skies\\Configs\\Bortenfor.cfg"
+  },
+  {
+    "name": "Duros",
+    "filePath": "Distant Skies\\Configs\\Duros.cfg"
+  },
+  {
+    "name": "EpsilonEridani",
+    "filePath": "Distant Skies\\Configs\\Epsilon Eridani.cfg"
+  },
+  {
+    "name": "EpsilonIndiA",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiA.cfg"
+  },
+  {
+    "name": "EpsilonIndiAb",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAb.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAc.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc1",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAC1.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc2",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAC2.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc3",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAC3.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc4",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAc4.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc5",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAc5.cfg"
+  },
+  {
+    "name": "EpsilonIndiAc6",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAC6.cfg"
+  },
+  {
+    "name": "EpsilonIndiAd",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAd.cfg"
+  },
+  {
+    "name": "EpsilonIndiAd1",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAd1.cfg"
+  },
+  {
+    "name": "EpsilonIndiAd2",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiAd2.cfg"
+  },
+  {
+    "name": "EpsilonIndiB",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiB.cfg"
+  },
+  {
+    "name": "EpsilonIndiC",
+    "filePath": "Distant Skies\\Configs\\EpsilonIndiC.cfg"
+  },
+  {
+    "name": "Ginza",
+    "filePath": "Distant Skies\\Configs\\Ginza.cfg"
+  },
+  {
+    "name": "Helvete",
+    "filePath": "Distant Skies\\Configs\\Helvete.cfg"
+  },
+  {
+    "name": "Hjem",
+    "filePath": "Distant Skies\\Configs\\Hjem.cfg"
+  },
+  {
+    "name": "Ladia",
+    "filePath": "Distant Skies\\Configs\\Ladia.cfg"
+  },
+  {
+    "name": "Nabo",
+    "filePath": "Distant Skies\\Configs\\Nabo.cfg"
+  },
+  {
+    "name": "Orken",
+    "filePath": "Distant Skies\\Configs\\Orken.cfg"
+  },
+  {
+    "name": "ProximaCentauriB",
+    "filePath": "Distant Skies\\Configs\\ProximaB.cfg"
+  },
+  {
+    "name": "ProximaC",
+    "filePath": "Distant Skies\\Configs\\ProximaC.cfg"
+  },
+  {
+    "name": "ProximaC1",
+    "filePath": "Distant Skies\\Configs\\ProximaC1.cfg"
+  },
+  {
+    "name": "ProximaCentauri",
+    "filePath": "Distant Skies\\Configs\\ProximaCentauri.cfg"
+  },
+  {
+    "name": "ProximaD",
+    "filePath": "Distant Skies\\Configs\\ProximaD.cfg"
+  },
+  {
+    "name": "Ross154",
+    "filePath": "Distant Skies\\Configs\\Ross154.cfg"
+  },
+  {
+    "name": "Ross154b",
+    "filePath": "Distant Skies\\Configs\\Ross154b.cfg"
+  },
+  {
+    "name": "Ross154c",
+    "filePath": "Distant Skies\\Configs\\Ross154c.cfg"
+  },
+  {
+    "name": "Ross248",
+    "filePath": "Distant Skies\\Configs\\Ross248.cfg"
+  },
+  {
+    "name": "Ross248b",
+    "filePath": "Distant Skies\\Configs\\Ross248b.cfg"
+  },
+  {
+    "name": "Ross248c",
+    "filePath": "Distant Skies\\Configs\\Ross248c.cfg"
+  },
+  {
+    "name": "Shak",
+    "filePath": "Distant Skies\\Configs\\Shak.cfg"
+  },
+  {
+    "name": "Sparta",
+    "filePath": "Distant Skies\\Configs\\Sparta.cfg"
+  },
+  {
+    "name": "Styx",
+    "filePath": "Distant Skies\\Configs\\Styx.cfg"
+  },
+  {
+    "name": "TauCeti",
+    "filePath": "Distant Skies\\Configs\\Tau Ceti.cfg"
+  },
+  {
+    "name": "Thrace",
+    "filePath": "Distant Skies\\Configs\\Thrace.cfg"
+  },
+  {
+    "name": "Troy",
+    "filePath": "Distant Skies\\Configs\\Troy.cfg"
+  },
+  {
+    "name": "Ukjent",
+    "filePath": "Distant Skies\\Configs\\Ukjent.cfg"
+  },
+  {
+    "name": "Wolf359",
+    "filePath": "Distant Skies\\Configs\\Wolf 359..cfg"
+  },
+  {
+    "name": "Wolf359b",
+    "filePath": "Distant Skies\\Configs\\Wolf359b.cfg"
+  },
+  {
+    "name": "Wolf359c",
+    "filePath": "Distant Skies\\Configs\\Wolf359c.cfg"
+  },
+  {
+    "name": "Wolf359d",
+    "filePath": "Distant Skies\\Configs\\Wolf359d.cfg"
+  },
+  {
+    "name": "Wolf359e",
+    "filePath": "Distant Skies\\Configs\\Wolf359e.cfg"
+  },
+  {
+    "name": "Wolf359f",
+    "filePath": "Distant Skies\\Configs\\Wolf359f.cfg"
+  }
+]

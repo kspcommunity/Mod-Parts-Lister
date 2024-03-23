@@ -1,0 +1,62 @@
+[
+  {
+    "name": "DC_Arm_arm",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\arm_arm_01.cfg"
+  },
+  {
+    "name": "DC_Arm_arm2",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\arm_arm_02.cfg"
+  },
+  {
+    "name": "DC_Arm_arm3",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\arm_arm_03.cfg"
+  },
+  {
+    "name": "DC_Arm_rotor",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\arm_rotor_01.cfg"
+  },
+  {
+    "name": "DC_Arm_turn",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\arm_turn_01.cfg"
+  },
+  {
+    "name": "DC_Arm_turn_02",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\arm_turn_02.cfg"
+  },
+  {
+    "name": "DC_doorhinge_0075m",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\doorhinge_0075M.cfg"
+  },
+  {
+    "name": "DC_doorhinge_075m",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\doorhinge_075M.cfg"
+  },
+  {
+    "name": "DC_doorhinge_2m",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\doorhinge_2m.cfg"
+  },
+  {
+    "name": "DC_GANTRY_01",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\GANTRY_01.cfg"
+  },
+  {
+    "name": "DC_GANTRY_01_2X",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\GANTRY_01_2X.cfg"
+  },
+  {
+    "name": "DC_GANTRY_02s",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\GANTRY_02s.cfg"
+  },
+  {
+    "name": "DC_GANTRY_02_2Xs",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\GANTRY_02_2Xs.cfg"
+  },
+  {
+    "name": "DC_GANTRY_03_2Xs",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\GANTRY_03_2X.cfg"
+  },
+  {
+    "name": "DC_Pivot_01",
+    "filePath": "Missing_robotics\\Parts\\Robotics\\Pivot_01.cfg"
+  }
+]

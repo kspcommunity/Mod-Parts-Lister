@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EarthGlow",
+    "filePath": "RVE-Extended\\Configs\\Glow.cfg"
+  },
+  {
+    "name": "JupiterAuroraeLow",
+    "filePath": "RVE-Extended\\Configs\\RSSVE-Extended.cfg"
+  },
+  {
+    "name": "JupiterAurora",
+    "filePath": "RVE-Extended\\Configs\\RVE-Extended.cfg"
+  }
+]

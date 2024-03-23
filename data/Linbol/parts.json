@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Delnus",
+    "filePath": "Linbol\\Bodies\\Canyon.cfg"
+  },
+  {
+    "name": "Delnus",
+    "filePath": "Linbol\\Bodies\\Delnus.cfg"
+  },
+  {
+    "name": "Wesboun",
+    "filePath": "Linbol\\Bodies\\Gas Planet.cfg"
+  },
+  {
+    "name": "Heat",
+    "filePath": "Linbol\\Bodies\\Heat.cfg"
+  },
+  {
+    "name": "Linbol-Aa",
+    "filePath": "Linbol\\Bodies\\Linbol-AA.cfg"
+  },
+  {
+    "name": "Linbol-Ab",
+    "filePath": "Linbol\\Bodies\\Linbol-AB.cfg"
+  },
+  {
+    "name": "Linbol-Ba",
+    "filePath": "Linbol\\Bodies\\Linbol-BA.cfg"
+  },
+  {
+    "name": "Linbol-Bb",
+    "filePath": "Linbol\\Bodies\\Linbol-BB.cfg"
+  },
+  {
+    "name": "Wade",
+    "filePath": "Linbol\\Bodies\\Wade.cfg"
+  }
+]

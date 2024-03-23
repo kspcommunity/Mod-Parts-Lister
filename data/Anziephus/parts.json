@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Anziephus",
+    "filePath": "Anziephus\\Anziephus.cfg"
+  },
+  {
+    "name": "Ebenus",
+    "filePath": "Anziephus\\Ebenus.cfg"
+  },
+  {
+    "name": "Eiwei",
+    "filePath": "Anziephus\\Eiwei.cfg"
+  },
+  {
+    "name": "Epam",
+    "filePath": "Anziephus\\Epam.cfg"
+  },
+  {
+    "name": "Pherph",
+    "filePath": "Anziephus\\Pherph.cfg"
+  }
+]

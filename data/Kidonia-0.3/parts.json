@@ -1,0 +1,66 @@
+[
+  {
+    "name": "DarkSideTechnology Industries",
+    "filePath": "Kidonia-0.3\\GameData\\DarkSideTechnology\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "Metal",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\MM_SimpleConstruction.cfg"
+  },
+  {
+    "name": "Snacks",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\MM_Snacks.cfg"
+  },
+  {
+    "name": "Kid_Bay",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_Bay.cfg"
+  },
+  {
+    "name": "Kid_ClusterCap",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_ClusterCap.cfg"
+  },
+  {
+    "name": "Kid_CommandCap",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_CommandCap.cfg"
+  },
+  {
+    "name": "Kid_CrewCabin",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_CrewCabin.cfg"
+  },
+  {
+    "name": "Kid_Engine",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_Engine.cfg"
+  },
+  {
+    "name": "Kid_EUTank",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_EUTank.cfg"
+  },
+  {
+    "name": "Kid_Grabbler",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_Grabbler.cfg"
+  },
+  {
+    "name": "Kid_ISRU",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_ISRU.cfg"
+  },
+  {
+    "name": "Kid_MainTank",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_MainTank.cfg"
+  },
+  {
+    "name": "Kid_Radiator",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_Radiator.cfg"
+  },
+  {
+    "name": "Kid_Sas",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_Sas.cfg"
+  },
+  {
+    "name": "Kid_SciLab",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Parts\\Kid_SciLab.cfg"
+  },
+  {
+    "name": "EnrichedUranium // Nuclear fuel",
+    "filePath": "Kidonia-0.3\\GameData\\Kidonia\\Resources.cfg"
+  }
+]

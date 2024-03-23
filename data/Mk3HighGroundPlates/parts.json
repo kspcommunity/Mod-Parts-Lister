@@ -1,0 +1,38 @@
+[
+  {
+    "name": "mk3CargoBayAHighPlateDSAdapt",
+    "filePath": "Mk3HighGroundPlates\\Parts\\DSParts\\DSadapter\\DSadapt.cfg"
+  },
+  {
+    "name": "mk3CargoBayLHighPlateDS",
+    "filePath": "Mk3HighGroundPlates\\Parts\\DSParts\\DSlong\\DSlong.cfg"
+  },
+  {
+    "name": "mk3CargoBayMHighPlateDS",
+    "filePath": "Mk3HighGroundPlates\\Parts\\DSParts\\DSmedium\\DSmedium.cfg"
+  },
+  {
+    "name": "mk3CargoBayElevtor",
+    "filePath": "Mk3HighGroundPlates\\Parts\\Elevator\\Elevator\\elevator.cfg"
+  },
+  {
+    "name": "mk3CargoBayAHighPlateElevator",
+    "filePath": "Mk3HighGroundPlates\\Parts\\Elevator\\elevatoradapter\\elevatoradapter.cfg"
+  },
+  {
+    "name": "mk3CargoBayAHighPlateAdapt",
+    "filePath": "Mk3HighGroundPlates\\Parts\\NormalParts\\adapter\\adapt.cfg"
+  },
+  {
+    "name": "mk3CargoBayLHighPlate",
+    "filePath": "Mk3HighGroundPlates\\Parts\\NormalParts\\long\\long.cfg"
+  },
+  {
+    "name": "mk3CargoBayMHighPlate",
+    "filePath": "Mk3HighGroundPlates\\Parts\\NormalParts\\medium\\medium.cfg"
+  },
+  {
+    "name": "mk3CargoBaySHighPlate",
+    "filePath": "Mk3HighGroundPlates\\Parts\\NormalParts\\short\\short.cfg"
+  }
+]

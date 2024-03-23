@@ -1,0 +1,10 @@
+[
+  {
+    "name": "tjs_DecouplerLight",
+    "filePath": "EngineLight\\decoupler-configs.cfg"
+  },
+  {
+    "name": "EngineLightEffect",
+    "filePath": "EngineLight\\engine-configs.cfg"
+  }
+]

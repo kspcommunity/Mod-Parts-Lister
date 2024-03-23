@@ -1,0 +1,494 @@
+[
+  {
+    "name": "advSasModuleClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\advSasModuleClassic\\AdvancedSASModuleClassic.cfg"
+  },
+  {
+    "name": "radialDecouplerClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\ClassicRadialDecoupler\\ClassicRadialDecoupler.cfg"
+  },
+  {
+    "name": "stackDecouplerClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\ClassicStackDecoupler\\ClassicStackDecoupler.cfg"
+  },
+  {
+    "name": "commandPodClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\CommandPodClassic\\CommandPodClassic.cfg"
+  },
+  {
+    "name": "fuelTankClassic013",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\FL-T500 Classic\\FL-T400Classic.cfg"
+  },
+  {
+    "name": "liquidEngine2Classic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\liquidEngine2Classic\\liquidEngine2Classic.cfg"
+  },
+  {
+    "name": "liquidEngineClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\liquidEngineClassic\\liquidEngineClassic.cfg"
+  },
+  {
+    "name": "RCSBlockClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\RCSBlockClassic\\RCSBlockClassic.cfg"
+  },
+  {
+    "name": "RCSFuelTankClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\RCSFuelTankClassic\\RCSFuelTankClassic.cfg"
+  },
+  {
+    "name": "sasModuleClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\sasModuleClassic\\SASModuleClassic.cfg"
+  },
+  {
+    "name": "stackTriCouplerClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\StackTriCouplerClassicClassic\\StackTriCouplerClassicClassic.cfg"
+  },
+  {
+    "name": "wingletClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.13.3\\WingletClassic\\WingletClassic.cfg"
+  },
+  {
+    "name": "fuelTankClassic016",
+    "filePath": "OldPartsRedux\\Parts\\0.16\\FL-T400 Classic 016\\part.cfg"
+  },
+  {
+    "name": "toroidalAerospikeClassicClassicClassicClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.16\\toroidalAerospikeClassicClassicClassicClassicClassic\\part.cfg"
+  },
+  {
+    "name": "fuelTank1-2Classic017",
+    "filePath": "OldPartsRedux\\Parts\\0.17\\fuelTank1-2Classic017\\part.cfg"
+  },
+  {
+    "name": "fuelTank2-2Classic017",
+    "filePath": "OldPartsRedux\\Parts\\0.17\\fuelTank2-2Classic017\\part.cfg"
+  },
+  {
+    "name": "toroidalAerospikeClassicClassicClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.17\\toroidalAerospikeClassicClassicClassicClassic\\part.cfg"
+  },
+  {
+    "name": "commDishClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.21\\commDishClassic\\part.cfg"
+  },
+  {
+    "name": "landingLeg1-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\0.21\\LandingLeg1-2Classic\\part.cfg"
+  },
+  {
+    "name": "landingLeg1Classic",
+    "filePath": "OldPartsRedux\\Parts\\0.21\\LandingLegClassic\\part.cfg"
+  },
+  {
+    "name": "miniLandingLegClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.21\\miniLandingLegClassic\\part.cfg"
+  },
+  {
+    "name": "SmallGearBayClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.21\\SmallGearBayClassic\\part.cfg"
+  },
+  {
+    "name": "toroidalAerospikeClassicClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.21\\toroidalAerospikeClassicClassicClassic\\part.cfg"
+  },
+  {
+    "name": "GooExperimentClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.22\\GooExperimentClassic\\part.cfg"
+  },
+  {
+    "name": "science_moduleClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.22\\MaterialBayClassic\\part.cfg"
+  },
+  {
+    "name": "deltaWingClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\deltaWingClassic\\part.cfg"
+  },
+  {
+    "name": "Mark1CockpitClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\Mark1CockpitClassic\\part.cfg"
+  },
+  {
+    "name": "Mark2CockpitClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\Mark2CockpitClassic\\part.cfg"
+  },
+  {
+    "name": "MK1FuselageClassic24",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\MK1FuselageClassic24\\MK1FuselageClassic24.cfg"
+  },
+  {
+    "name": "Mk1FuselageStructuralClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\MK1FuselageStructuralClassic\\part.cfg"
+  },
+  {
+    "name": "mk2FuselageClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\mk2FuselageClassic\\part.cfg"
+  },
+  {
+    "name": "mk3spacePlaneAdapterClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\mk2mk3AdapterClassic\\mk2mk3AdapterClassic.cfg"
+  },
+  {
+    "name": "mk2SpacePlaneAdapterClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\mk2SpacePlaneAdapterClassic\\part.cfg"
+  },
+  {
+    "name": "structuralWingClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\structuralWingClassic\\part.cfg"
+  },
+  {
+    "name": "wingConnectorClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.24\\wingConnectorClassic\\part.cfg"
+  },
+  {
+    "name": "mark3CockpitClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.25\\mk3CockpitClassic\\mk3CockpitClassic.cfg"
+  },
+  {
+    "name": "mk3FuselageClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.25\\mk3FuselageClassic\\mk3FuselageClassic.cfg"
+  },
+  {
+    "name": "solidBoosterClassic07",
+    "filePath": "OldPartsRedux\\Parts\\0.7.3\\solidBoosterClassic\\solidBoosterClassic.cfg"
+  },
+  {
+    "name": "avionicsNoseConeClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.90\\avionicsNoseConeClassic\\avionicsNoseConeClassic.cfg"
+  },
+  {
+    "name": "CircularIntakeClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.90\\CircularIntakeClassic\\circularIntakeClassic.cfg"
+  },
+  {
+    "name": "nuclearEngineClassic090",
+    "filePath": "OldPartsRedux\\Parts\\0.90\\nuclearEngineClassic090\\nuclearEngineClassic090.cfg"
+  },
+  {
+    "name": "ramAirIntakeClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.90\\ramAirIntakeClassic\\ramAirIntakeClassic.cfg"
+  },
+  {
+    "name": "structuralPylonClassic",
+    "filePath": "OldPartsRedux\\Parts\\0.90\\structuralPylonClassic\\structuralPylonClassic.cfg"
+  },
+  {
+    "name": "toroidalAerospikeClassicClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.0\\toroidalAerospikeClassicClassic\\part.cfg"
+  },
+  {
+    "name": "toroidalAerospikeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.0.3\\toroidalAerospikeClassic\\part.cfg"
+  },
+  {
+    "name": "dockingPort2Classic11",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\dockingPortClassic\\dockingPortClassic.cfg"
+  },
+  {
+    "name": "dockingPortLateralClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\dockingPortInlineClassic\\dockingPortInlineClassic.cfg"
+  },
+  {
+    "name": "dockingPort3Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\dockingPortJrClassic\\dockingPortJrClassic.cfg"
+  },
+  {
+    "name": "dockingPort1Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\dockingPortShieldedClassic\\dockingPortShieldedClassic.cfg"
+  },
+  {
+    "name": "dockingPortLargeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\dockingPortSrClassic\\dockingPortSrClassic.cfg"
+  },
+  {
+    "name": "liquidEngineClassic11",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\liquidEngineLV-T30Classic\\liquidEngineLV-T30Classic.cfg"
+  },
+  {
+    "name": "liquidEngine2Classic11",
+    "filePath": "OldPartsRedux\\Parts\\1.11\\liquidEngineLV-T45Classic\\liquidEngineLV-T45Classic.cfg"
+  },
+  {
+    "name": "stackSeparatorClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\decouplerSeparatorTR-18DClassic\\decouplerSeparatorTR-18DClassic.cfg"
+  },
+  {
+    "name": "stackSeparatorMiniClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\decouplerSeparatorTR-2CClassic\\decouplerSeparatorTR-2CClassic.cfg"
+  },
+  {
+    "name": "stackSeparatorBigClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\decouplerSeparatorTR-XLClassic\\decouplerSeparatorTR-XLClassic.cfg"
+  },
+  {
+    "name": "stackDecouplerClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\decouplerStackTR-18AClassic\\decouplerStackTR-18AClassic.cfg"
+  },
+  {
+    "name": "stackDecouplerMiniClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\decouplerStackTR-2VClassic\\decouplerStackTR-2VClassic.cfg"
+  },
+  {
+    "name": "fairingSize1Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fairingsClassic\\fairingSize1Classic.cfg"
+  },
+  {
+    "name": "fairingSize2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fairingsClassic\\fairingSize2Classic.cfg"
+  },
+  {
+    "name": "fairingSize3Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fairingsClassic\\fairingSize3Classic.cfg"
+  },
+  {
+    "name": "fuelTank3-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fuelTankJumbo-64Classic\\fuelTankJumbo-64Classic.cfg"
+  },
+  {
+    "name": "toroidalFuelTankClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fuelTankToroidalClassic\\fuelTankToroidalClassic.cfg"
+  },
+  {
+    "name": "fuelTank2-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fuelTankX200-16Classic\\fuelTankX200-16Classic.cfg"
+  },
+  {
+    "name": "fuelTank1-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fuelTankX200-32Classic\\fuelTankX200-32Classic.cfg"
+  },
+  {
+    "name": "fuelTank4-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\fuelTankX200-8Classic\\fuelTankX200-8Classic.cfg"
+  },
+  {
+    "name": "Mark1-2PodClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\Mk1-2PodClassic\\mk1-2CommandPodClassic.cfg"
+  },
+  {
+    "name": "rcsTankMiniClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\RCSFuelTankR10Classic\\RCSFuelTankR10Classic.cfg"
+  },
+  {
+    "name": "RCSTank1-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\RCSFuelTankR1Classic\\RCSFuelTankR1Classic.cfg"
+  },
+  {
+    "name": "RCSFuelTankClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\RCSFuelTankR25Classic\\RCSFuelTankR25Classic.cfg"
+  },
+  {
+    "name": "radialRCSTankClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\RCSTankRadialClassic\\radialRCSTankClassic.cfg"
+  },
+  {
+    "name": "rcsTankRadialLongClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\RCStankRadialLongClassic\\RCSTankRadialLongClassic.cfg"
+  },
+  {
+    "name": "decoupler1-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\RockomaxDecouplerClassic\\RockomaxDecouplerClassic.cfg"
+  },
+  {
+    "name": "size3DecouplerClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\Size3DecouplerClassic\\Size3DecouplerClassic.cfg"
+  },
+  {
+    "name": "xenonTankClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\xenonTankClassic\\xenonTankClassic.cfg"
+  },
+  {
+    "name": "xenonTankLargeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\xenonTankLargeClassic\\xenonTankLargeClassic.cfg"
+  },
+  {
+    "name": "xenonTankRadialClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.3\\xenonTankRadialClassic\\xenonTankRadialClassic.cfg"
+  },
+  {
+    "name": "HECS2_ProbeCoreClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\AsteroidDay\\HECS2Classic.cfg"
+  },
+  {
+    "name": "fuelTankSmallFlatClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\fuelTankT100Classic\\fuelTankT100Classic.cfg"
+  },
+  {
+    "name": "fuelTankSmallClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\fuelTankT200Classic\\fuelTankT200Classic.cfg"
+  },
+  {
+    "name": "fuelTankClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\fuelTankT400Classic\\fuelTankT400Classic.cfg"
+  },
+  {
+    "name": "fuelTank_longClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\fuelTankT800Classic\\fuelTankT800Classic.cfg"
+  },
+  {
+    "name": "mk1podClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\mk1podClassic\\mk1PodClassic.cfg"
+  },
+  {
+    "name": "probeCoreCubeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\probeCoreCubeClassic\\probeCoreCubeClassic.cfg"
+  },
+  {
+    "name": "probeCoreHexClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\probeCoreHexClassic\\probeCoreHexClassic.cfg"
+  },
+  {
+    "name": "probeCoreOcto2",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\probeCoreOcto2Classic\\probeCoreOcto2.cfg"
+  },
+  {
+    "name": "probeCoreOctoClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\probeCoreOctoClassic\\probeCoreOctoClassic.cfg"
+  },
+  {
+    "name": "roverBodyClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\probeRoverBodyClassic\\probeRoverBodyClassic.cfg"
+  },
+  {
+    "name": "probeCoreSphereClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\probeStackSphereClassic\\probeStackSphereClassic.cfg"
+  },
+  {
+    "name": "solidR10BoosterClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\solidBoosterRT-10Classic\\solidBoosterRT-10Classic.cfg"
+  },
+  {
+    "name": "solidBooster_smClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.4\\solidBoosterRT-5Classic\\solidBoosterRT-5Classic.cfg"
+  },
+  {
+    "name": "adapterLargeSmallBiClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\adapterLargeSmallBiClassic\\adapterLargeSmallBiClassic.cfg"
+  },
+  {
+    "name": "adapterLargeSmallQuadClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\adapterLargeSmallQuadClassic\\adapterLargeSmallQuadClassic.cfg"
+  },
+  {
+    "name": "adapterLargeSmallTriClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\adapterLargeSmallTriClassic\\adapterLargeSmallTriClassic.cfg"
+  },
+  {
+    "name": "adapterSmallMiniShortClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\adapterSmallMiniShortClassic\\adapterSmallMiniShortClassic.cfg"
+  },
+  {
+    "name": "adapterSmallMiniTallClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\adapterSmallMiniTallClassic\\adapterSmallMiniTallClassic.cfg"
+  },
+  {
+    "name": "noseConeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\aerodynamicNoseConeClassic\\aerodynamicNoseConeClassic.cfg"
+  },
+  {
+    "name": "pointyNoseConeAClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\conesClassic\\ConeAClassic.cfg"
+  },
+  {
+    "name": "pointyNoseConeBClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\conesClassic\\ConeBClassic.cfg"
+  },
+  {
+    "name": "standardNoseConeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\conesClassic\\smallNoseConeClassic.cfg"
+  },
+  {
+    "name": "largeAdapterClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\largeAdapterClassic\\largeAdapterClassic.cfg"
+  },
+  {
+    "name": "largeAdapter2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\largeAdapterShortClassic\\largeAdapterShortClassic.cfg"
+  },
+  {
+    "name": "liquidEngineMiniClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\liquidEngine48-7SClassic\\liquidEngine48-7SClassic.cfg"
+  },
+  {
+    "name": "liquidEngine3Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\liquidEngineLV-909Classic\\liquidEngineLV-909Classic.cfg"
+  },
+  {
+    "name": "liquidEngine2-2Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\liquidEnginePoodleClassic\\liquidEnginePoodleClassic.cfg"
+  },
+  {
+    "name": "mk2LanderCabinClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\mk2LanderCanClassic\\mk2LanderCanClassic.cfg"
+  },
+  {
+    "name": "rocketNoseConeClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\protectiveRocketNoseMk7Classic\\protectiveRocketNoseMk7Classic.cfg"
+  },
+  {
+    "name": "Size3to2AdapterClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\Size3To2AdapterClassic\\part.cfg"
+  },
+  {
+    "name": "stackBiCouplerClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\stackBiCouplerClassic\\stackBiCouplerClassic.cfg"
+  },
+  {
+    "name": "stackQuadCouplerClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\stackQuadCouplerClassic\\stackQuadCouplerClassic.cfg"
+  },
+  {
+    "name": "stackTriCouplerClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.5\\stackTriCouplerClassic\\stackTriCouplerClassic.cfg"
+  },
+  {
+    "name": "linearRcsClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\linearRCSClassic\\linearRCSClassic.cfg"
+  },
+  {
+    "name": "smallRadialEngineClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\liquidEngine24-77Classic\\liquidEngine24-77Classic.cfg"
+  },
+  {
+    "name": "microEngineClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\liquidEngineLV-1Classic\\liquidEngineLV-1Classic.cfg"
+  },
+  {
+    "name": "radialEngineMiniClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\liquidEngineLV-1RClassic\\liquidEngineLV-1RClassic.cfg"
+  },
+  {
+    "name": "omsEngineClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\OMSEngineClassic\\omsEngineClassic.cfg"
+  },
+  {
+    "name": "RCSBlockClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\rcsBlockRV-105Classic\\rcsBlockRV-105Classic.cfg"
+  },
+  {
+    "name": "vernierEngineClassic",
+    "filePath": "OldPartsRedux\\Parts\\1.6\\vernorEngineClassic\\vernorEngineClassic.cfg"
+  },
+  {
+    "name": "ServiceBay_125Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.7\\ServiceBayClassic\\ServiceBay_125Classic.cfg"
+  },
+  {
+    "name": "ServiceBay_250Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.7\\ServiceBayClassic\\ServiceBay_250Classic.cfg"
+  },
+  {
+    "name": "solidBooster1-1Weird",
+    "filePath": "OldPartsRedux\\Parts\\1.7\\solidBoosterBACCWeird\\solidBoosterBACCWeird.cfg"
+  },
+  {
+    "name": "liquidEngine1-2ClassicM",
+    "filePath": "OldPartsRedux\\Parts\\1.8\\liquidEngineMainsailClassic\\liquidEngineMainsailClassic.cfg"
+  },
+  {
+    "name": "engineLargeSkipper",
+    "filePath": "OldPartsRedux\\Parts\\1.8\\liquidEngineSkipperClassic\\skipperLiquidEngineClassic.cfg"
+  },
+  {
+    "name": "solidBooster1-1Classic",
+    "filePath": "OldPartsRedux\\Parts\\1.8\\solidBoosterBACCClassic\\solidBoosterBACCClassic.cfg"
+  }
+]

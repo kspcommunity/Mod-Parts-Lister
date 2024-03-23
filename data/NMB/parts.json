@@ -1,0 +1,262 @@
+[
+  {
+    "name": "C919Cockpit",
+    "filePath": "NMB\\Parts\\C919\\C919.cfg"
+  },
+  {
+    "name": "NMB117SEgnine",
+    "filePath": "NMB\\Parts\\Engine\\117S\\Type-117S-Engine.cfg"
+  },
+  {
+    "name": "NMBF415Egnine",
+    "filePath": "NMB\\Parts\\Engine\\F414\\F414-2.cfg"
+  },
+  {
+    "name": "NMBF414Egnine",
+    "filePath": "NMB\\Parts\\Engine\\F414\\F414.cfg"
+  },
+  {
+    "name": "NMBProduct30Egnine",
+    "filePath": "NMB\\Parts\\Engine\\Product30\\Type-Product30-Engine.cfg"
+  },
+  {
+    "name": "NMBWS10BEngine",
+    "filePath": "NMB\\Parts\\Engine\\WS-10B-TVC\\WS10B-TVC.cfg"
+  },
+  {
+    "name": "NMB-F14D",
+    "filePath": "NMB\\Parts\\F-14D\\F-14D.cfg"
+  },
+  {
+    "name": "FA-18C",
+    "filePath": "NMB\\Parts\\FA-18C\\FA-18C.cfg"
+  },
+  {
+    "name": "FFR41Cockpit",
+    "filePath": "NMB\\Parts\\FFR41\\FFR41.cfg"
+  },
+  {
+    "name": "J10C",
+    "filePath": "NMB\\Parts\\J-10C\\J-10C.cfg"
+  },
+  {
+    "name": "SU30cockpit",
+    "filePath": "NMB\\Parts\\SU-30\\SU-30.cfg"
+  },
+  {
+    "name": "su30airbrake",
+    "filePath": "NMB\\Parts\\SU-30\\SU30airbrake.cfg"
+  },
+  {
+    "name": "SU30body",
+    "filePath": "NMB\\Parts\\SU-30\\SU30body.cfg"
+  },
+  {
+    "name": "SU30tail",
+    "filePath": "NMB\\Parts\\SU-30\\SU30tail.cfg"
+  },
+  {
+    "name": "SuperFlankerbody",
+    "filePath": "NMB\\Parts\\SuperFlanker\\SuperFlanker-body.cfg"
+  },
+  {
+    "name": "SuperFlankerbody2",
+    "filePath": "NMB\\Parts\\SuperFlanker\\SuperFlanker-body2.cfg"
+  },
+  {
+    "name": "SuperFlankerbottom",
+    "filePath": "NMB\\Parts\\SuperFlanker\\SuperFlanker-bottom.cfg"
+  },
+  {
+    "name": "SuperFlankerIntake",
+    "filePath": "NMB\\Parts\\SuperFlanker\\SuperFlanker-intake.cfg"
+  },
+  {
+    "name": "SuperFlanker",
+    "filePath": "NMB\\Parts\\SuperFlanker\\SuperFlanker.cfg"
+  },
+  {
+    "name": "SYLPHCanard",
+    "filePath": "NMB\\Parts\\SUPERSYLPH\\Canard.cfg"
+  },
+  {
+    "name": "SUPER-SYLPH",
+    "filePath": "NMB\\Parts\\SUPERSYLPH\\SUPER-SYLPH.cfg"
+  },
+  {
+    "name": "TypeFlankerIntake",
+    "filePath": "NMB\\Parts\\Type-AdvancedFlanker\\Advancde-Flanker-Intake.cfg"
+  },
+  {
+    "name": "FlankerTail",
+    "filePath": "NMB\\Parts\\Type-AdvancedFlanker\\Type-AdvancedFlanker -Tail.cfg"
+  },
+  {
+    "name": "Type-AdvancedFlanker",
+    "filePath": "NMB\\Parts\\Type-AdvancedFlanker\\Type-AdvancedFlanker.cfg"
+  },
+  {
+    "name": "type-20Cockpit",
+    "filePath": "NMB\\Parts\\Type20\\Type-20Cockpit.cfg"
+  },
+  {
+    "name": "type22-bombbay",
+    "filePath": "NMB\\Parts\\Type22\\Type22-bombbay.cfg"
+  },
+  {
+    "name": "Type-22Cockpit",
+    "filePath": "NMB\\Parts\\Type22\\Type22-cockpit.cfg"
+  },
+  {
+    "name": "EOTS",
+    "filePath": "NMB\\Parts\\Type35\\EOTS.cfg"
+  },
+  {
+    "name": "Type-35-Cockpit",
+    "filePath": "NMB\\Parts\\Type35\\Type-35-Cockpit.cfg"
+  },
+  {
+    "name": "Type35bombbay",
+    "filePath": "NMB\\Parts\\Type35\\Type35-bombbay.cfg"
+  },
+  {
+    "name": "Type-57-Cockpit",
+    "filePath": "NMB\\Parts\\Type57\\Type-57-Cockpit.cfg"
+  },
+  {
+    "name": "Type57bombbay",
+    "filePath": "NMB\\Parts\\Type57\\Type57-bombbay.cfg"
+  },
+  {
+    "name": "Vipercockpit",
+    "filePath": "NMB\\Parts\\Viper\\Viper.cfg"
+  },
+  {
+    "name": "NMB-ButtonSquare1",
+    "filePath": "NMB\\Props\\button1\\prop.cfg"
+  },
+  {
+    "name": "NMB-ButtonSquare4",
+    "filePath": "NMB\\Props\\button4\\prop.cfg"
+  },
+  {
+    "name": "NMB-Handrail",
+    "filePath": "NMB\\Props\\Handrail\\Handrail.cfg"
+  },
+  {
+    "name": "NMB-Handrail2",
+    "filePath": "NMB\\Props\\Handrail2\\Handrail2.cfg"
+  },
+  {
+    "name": "NMB-Handrail3",
+    "filePath": "NMB\\Props\\Handrail3\\Handrail3.cfg"
+  },
+  {
+    "name": "NMB-Handrail4",
+    "filePath": "NMB\\Props\\Handrail4\\Handrail4.cfg"
+  },
+  {
+    "name": "NMB_HUD",
+    "filePath": "NMB\\Props\\HUD\\NMB_HUD.cfg"
+  },
+  {
+    "name": "NMB_HUD2",
+    "filePath": "NMB\\Props\\HUD\\NMB_HUD2.cfg"
+  },
+  {
+    "name": "NMB_HUD4",
+    "filePath": "NMB\\Props\\HUD4\\NMB_HUD4.cfg"
+  },
+  {
+    "name": "NMB-MFD-F18",
+    "filePath": "NMB\\Props\\MFD-F18\\MFD-F18.cfg"
+  },
+  {
+    "name": "NMB-MFD3",
+    "filePath": "NMB\\Props\\MFD3\\MFD3.cfg"
+  },
+  {
+    "name": "NMB_RM",
+    "filePath": "NMB\\Props\\RM\\NMB-RM.cfg"
+  },
+  {
+    "name": "NMB_RM2",
+    "filePath": "NMB\\Props\\RM2\\NMB-RM2.cfg"
+  },
+  {
+    "name": "NMB_RM3",
+    "filePath": "NMB\\Props\\RM3\\NMB-RM3.cfg"
+  },
+  {
+    "name": "NMB_rudderL",
+    "filePath": "NMB\\Props\\rudder\\rudder.cfg"
+  },
+  {
+    "name": "NMB_rudderR",
+    "filePath": "NMB\\Props\\rudder\\rudder2.cfg"
+  },
+  {
+    "name": "NMB_Seat",
+    "filePath": "NMB\\Props\\seat\\seat.cfg"
+  },
+  {
+    "name": "NMB_Seat2",
+    "filePath": "NMB\\Props\\seat2\\seat2.cfg"
+  },
+  {
+    "name": "NMB-Stick",
+    "filePath": "NMB\\Props\\stick\\stick.cfg"
+  },
+  {
+    "name": "NMB-switch1",
+    "filePath": "NMB\\Props\\switch1\\prop.cfg"
+  },
+  {
+    "name": "NMB-switch4",
+    "filePath": "NMB\\Props\\switch4\\prop.cfg"
+  },
+  {
+    "name": "NMB-throttle",
+    "filePath": "NMB\\Props\\throttle\\throttle.cfg"
+  },
+  {
+    "name": "FA-18C",
+    "filePath": "NMB\\space\\F-18C.cfg"
+  },
+  {
+    "name": "F14D",
+    "filePath": "NMB\\space\\F14D.cfg"
+  },
+  {
+    "name": "J10C",
+    "filePath": "NMB\\space\\J10C.cfg"
+  },
+  {
+    "name": "SYLPH",
+    "filePath": "NMB\\space\\SUPER SYLPH.cfg"
+  },
+  {
+    "name": "TypeFlankerIVA",
+    "filePath": "NMB\\space\\Type-AF-IVA.cfg"
+  },
+  {
+    "name": "Type20IVA",
+    "filePath": "NMB\\space\\Type20IVA.cfg"
+  },
+  {
+    "name": "Type22IVA",
+    "filePath": "NMB\\space\\Type22IVA.cfg"
+  },
+  {
+    "name": "Type35IVA",
+    "filePath": "NMB\\space\\Type35IVA.cfg"
+  },
+  {
+    "name": "Type57IVA",
+    "filePath": "NMB\\space\\Type57IVA.cfg"
+  },
+  {
+    "name": "ViperIVA",
+    "filePath": "NMB\\space\\Viper.cfg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Heavy Artillery Turret",
+    "filePath": "RFMilitaryVehicles\\ArtilleryTurret\\Arty.cfg"
+  },
+  {
+    "name": "M113",
+    "filePath": "RFMilitaryVehicles\\M113APCHull\\config.cfg"
+  },
+  {
+    "name": "MLRS",
+    "filePath": "RFMilitaryVehicles\\MLRSHull\\config.cfg"
+  },
+  {
+    "name": "MLRS Turret",
+    "filePath": "RFMilitaryVehicles\\MLRSTurret\\mlrsturret.cfg"
+  },
+  {
+    "name": "Leopard 2 Tank",
+    "filePath": "RFMilitaryVehicles\\TankHull\\leopard.cfg"
+  },
+  {
+    "name": "MPT Mk I HE / Multipurpose Turret Mark I HE",
+    "filePath": "RFMilitaryVehicles\\TankTurret\\Turret.cfg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "liquidEngine1-2Remake",
+    "filePath": "SmashingIndustires\\Parts\\Engines\\Mainsail Remastered\\part.cfg"
+  },
+  {
+    "name": "Size3EngineCluster2",
+    "filePath": "SmashingIndustires\\Parts\\Engines\\Mastodon\\part.cfg"
+  },
+  {
+    "name": "liquidEngine2-2Remake",
+    "filePath": "SmashingIndustires\\Parts\\Engines\\Poodle Remastered\\liquidEnginePoodle.cfg"
+  },
+  {
+    "name": "engineLargeSkipperRemake",
+    "filePath": "SmashingIndustires\\Parts\\Engines\\Skipper Remastered\\part.cfg"
+  },
+  {
+    "name": "liquidEngineMiniRemake",
+    "filePath": "SmashingIndustires\\Parts\\Engines\\Spark Remastered\\part.cfg"
+  },
+  {
+    "name": "Size3MegaTank",
+    "filePath": "SmashingIndustires\\Parts\\FuelTanks\\Large\\part.cfg"
+  },
+  {
+    "name": "sciencePackage0",
+    "filePath": "SmashingIndustires\\Parts\\Science\\SciencePackage1\\part.cfg"
+  },
+  {
+    "name": "sciencePackage1",
+    "filePath": "SmashingIndustires\\Parts\\Science\\SciencePackage2\\part.cfg"
+  },
+  {
+    "name": "sciencePackage2",
+    "filePath": "SmashingIndustires\\Parts\\Science\\SciencePackage3\\part.cfg"
+  }
+]

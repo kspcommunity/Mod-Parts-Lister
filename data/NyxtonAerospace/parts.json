@@ -1,0 +1,82 @@
+[
+  {
+    "name": "\"Avantgarde\" Ion Maneuvering Thruster",
+    "filePath": "NyxtonAerospace\\Parts\\Engine\\ionEngine\\ionEngine.cfg"
+  },
+  {
+    "name": "impetus_ii_hmt",
+    "filePath": "NyxtonAerospace\\Parts\\Engine\\vernorEngine\\vernorEngine.cfg"
+  },
+  {
+    "name": "M2_AvantgardeFuselageLiftRing",
+    "filePath": "NyxtonAerospace\\Parts\\Engines\\LiftFan\\fuselage.cfg"
+  },
+  {
+    "name": "M2_AvantgardeLiftRing",
+    "filePath": "NyxtonAerospace\\Parts\\Engines\\LiftFan\\stack.cfg"
+  },
+  {
+    "name": "NA_AVANTGARDE_ENGINE",
+    "filePath": "NyxtonAerospace\\Parts\\Structure_HX\\model_hpd1.cfg"
+  },
+  {
+    "name": "B9_AVANTGARDE_SAS",
+    "filePath": "NyxtonAerospace\\Parts\\Structure_HX\\model_hx_size1_sas.cfg"
+  },
+  {
+    "name": "ModuleConnectedLivingSpace",
+    "filePath": "NyxtonAerospace\\Patches\\M2X_CLS.cfg"
+  },
+  {
+    "name": "LqdHydrogen",
+    "filePath": "NyxtonAerospace\\Patches\\M2X_KA.cfg"
+  },
+  {
+    "name": "RasterPropMonitorComputer",
+    "filePath": "NyxtonAerospace\\Patches\\M2X_RPM.cfg"
+  },
+  {
+    "name": "DropshipCockpitASET",
+    "filePath": "NyxtonAerospace\\Patches\\M2X_RPM_ASET.cfg"
+  },
+  {
+    "name": "ModuleLifeSupportRecycler",
+    "filePath": "NyxtonAerospace\\Patches\\MK2-USILS.cfg"
+  },
+  {
+    "name": "IntakeAtm",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_AtmIntake.cfg"
+  },
+  {
+    "name": "ModuleAeroReentry",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_DRE.cfg"
+  },
+  {
+    "name": "ExWorkshop",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_EPL.cfg"
+  },
+  {
+    "name": "InterstellarFuelSwitch",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_FuelTankSwitch.cfg"
+  },
+  {
+    "name": "ModuleFuelTanks",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_MFT.cfg"
+  },
+  {
+    "name": "ModuleResourceDistributor",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_MKS.cfg"
+  },
+  {
+    "name": "FissionReactor",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_NFE_Functionality.cfg"
+  },
+  {
+    "name": "TRReflection",
+    "filePath": "NyxtonAerospace\\Patches\\Mk2X_WindowShine.cfg"
+  },
+  {
+    "name": "FanIntakeAir",
+    "filePath": "NyxtonAerospace\\Resources\\Resources.cfg"
+  }
+]

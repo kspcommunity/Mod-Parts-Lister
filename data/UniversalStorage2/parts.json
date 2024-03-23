@@ -1,0 +1,202 @@
+[
+  {
+    "name": "USDoubleProbeCore",
+    "filePath": "UniversalStorage2\\Parts\\Command\\DoubleProbeCore.cfg"
+  },
+  {
+    "name": "USSingleProbeCore",
+    "filePath": "UniversalStorage2\\Parts\\Command\\SingleProbeCore.cfg"
+  },
+  {
+    "name": "USACD1500",
+    "filePath": "UniversalStorage2\\Parts\\Control\\ACD1500.cfg"
+  },
+  {
+    "name": "USACDLarge",
+    "filePath": "UniversalStorage2\\Parts\\Control\\ACDLarge.cfg"
+  },
+  {
+    "name": "USACDMedium",
+    "filePath": "UniversalStorage2\\Parts\\Control\\ACDMedium.cfg"
+  },
+  {
+    "name": "USACDSmall",
+    "filePath": "UniversalStorage2\\Parts\\Control\\ACDSmall.cfg"
+  },
+  {
+    "name": "USACDTiny",
+    "filePath": "UniversalStorage2\\Parts\\Control\\ACDTiny.cfg"
+  },
+  {
+    "name": "USBatteryWedge",
+    "filePath": "UniversalStorage2\\Parts\\Electrical\\BatteryWedge.cfg"
+  },
+  {
+    "name": "USFuelCellMedium",
+    "filePath": "UniversalStorage2\\Parts\\Electrical\\FuelCellMedium.cfg"
+  },
+  {
+    "name": "USFuelCellSmal",
+    "filePath": "UniversalStorage2\\Parts\\Electrical\\FuelCellSmall.cfg"
+  },
+  {
+    "name": "USGuidanceComputer",
+    "filePath": "UniversalStorage2\\Parts\\Electrical\\GuidanceComputer.cfg"
+  },
+  {
+    "name": "USRTGWedge",
+    "filePath": "UniversalStorage2\\Parts\\Electrical\\RTGWedge.cfg"
+  },
+  {
+    "name": "USAerozineWedge",
+    "filePath": "UniversalStorage2\\Parts\\Fuels\\AerozineWedge.cfg"
+  },
+  {
+    "name": "USHydrazineWedge",
+    "filePath": "UniversalStorage2\\Parts\\Fuels\\HydrazineWedge.cfg"
+  },
+  {
+    "name": "USHydrogenWedge",
+    "filePath": "UniversalStorage2\\Parts\\Fuels\\HydrogenWedge.cfg"
+  },
+  {
+    "name": "USOxygenWedge",
+    "filePath": "UniversalStorage2\\Parts\\Fuels\\OxygenWedge.cfg"
+  },
+  {
+    "name": "USComboLifesupportWedge",
+    "filePath": "UniversalStorage2\\Parts\\Lifesupport\\ComboLifesupportWedge.cfg"
+  },
+  {
+    "name": "USFoodWedge",
+    "filePath": "UniversalStorage2\\Parts\\Lifesupport\\FoodWedge.cfg"
+  },
+  {
+    "name": "USWaterWedge",
+    "filePath": "UniversalStorage2\\Parts\\Lifesupport\\WaterWedge.cfg"
+  },
+  {
+    "name": "USElektron",
+    "filePath": "UniversalStorage2\\Parts\\Processors\\Elektron.cfg"
+  },
+  {
+    "name": "USSabatier",
+    "filePath": "UniversalStorage2\\Parts\\Processors\\Sabatier.cfg"
+  },
+  {
+    "name": "USWaterPurifier",
+    "filePath": "UniversalStorage2\\Parts\\Processors\\WaterPurifier.cfg"
+  },
+  {
+    "name": "USRadialTanks",
+    "filePath": "UniversalStorage2\\Parts\\Radials\\RadialTanks.cfg"
+  },
+  {
+    "name": "USAccelGravWedge",
+    "filePath": "UniversalStorage2\\Parts\\Science\\AccelGravWedge.cfg"
+  },
+  {
+    "name": "USCargoStorageWedge",
+    "filePath": "UniversalStorage2\\Parts\\Science\\CargoStorageWedge.cfg"
+  },
+  {
+    "name": "USFluidSpectroWedge",
+    "filePath": "UniversalStorage2\\Parts\\Science\\FluidSpectroWedge.cfg"
+  },
+  {
+    "name": "USGooBayWedge",
+    "filePath": "UniversalStorage2\\Parts\\Science\\GooBayWedge.cfg"
+  },
+  {
+    "name": "USMatBayWedge",
+    "filePath": "UniversalStorage2\\Parts\\Science\\MatBayWedge.cfg"
+  },
+  {
+    "name": "USThermoBaroWedge",
+    "filePath": "UniversalStorage2\\Parts\\Science\\ThermoBaroWedge.cfg"
+  },
+  {
+    "name": "USAdaptorShroud0625",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\AdaptorShroud0625.cfg"
+  },
+  {
+    "name": "USAdaptorShroud1250",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\AdaptorShroud1250.cfg"
+  },
+  {
+    "name": "USAdaptorShroud1250Soyuz",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\AdaptorShroud1250Soyuz.cfg"
+  },
+  {
+    "name": "USAdaptorShroud1250Vostok",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\AdaptorShroud1250Vostok.cfg"
+  },
+  {
+    "name": "USAdaptorShroud1500",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\AdaptorShroud1500.cfg"
+  },
+  {
+    "name": "USAdaptorShroud1875",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\AdaptorShroud1875.cfg"
+  },
+  {
+    "name": "USCylindricalShroud125",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\CylindricalShroud0625.cfg"
+  },
+  {
+    "name": "USCylindricalShroud125",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\CylindricalShroud125.cfg"
+  },
+  {
+    "name": "USCylindricalShroud1500",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\CylindricalShroud1500.cfg"
+  },
+  {
+    "name": "USCylindricalShroud250",
+    "filePath": "UniversalStorage2\\Parts\\Shrouds\\CylindricalShroud250.cfg"
+  },
+  {
+    "name": "USHexcore",
+    "filePath": "UniversalStorage2\\Parts\\Structural\\US_Hex.cfg"
+  },
+  {
+    "name": "USOctocore",
+    "filePath": "UniversalStorage2\\Parts\\Structural\\US_Octo.cfg"
+  },
+  {
+    "name": "USPenticore",
+    "filePath": "UniversalStorage2\\Parts\\Structural\\US_Penti.cfg"
+  },
+  {
+    "name": "USQuadcore",
+    "filePath": "UniversalStorage2\\Parts\\Structural\\US_Quad.cfg"
+  },
+  {
+    "name": "USEVAX",
+    "filePath": "UniversalStorage2\\Parts\\Utility\\EVAExtender.cfg"
+  },
+  {
+    "name": "USKASRadial",
+    "filePath": "UniversalStorage2\\Parts\\Utility\\KASRadial.cfg"
+  },
+  {
+    "name": "USKASWedge",
+    "filePath": "UniversalStorage2\\Parts\\Utility\\KASWedge.cfg"
+  },
+  {
+    "name": "USCarbonDioxideWedge",
+    "filePath": "UniversalStorage2\\Parts\\Waste\\CarbonDioxideWedge.cfg"
+  },
+  {
+    "name": "USWaterWedge",
+    "filePath": "UniversalStorage2\\Parts\\Waste\\GreyWaterWedge.cfg"
+  },
+  {
+    "name": "USFoodWedge",
+    "filePath": "UniversalStorage2\\Parts\\Waste\\SolidWasteWedge.cfg"
+  },
+  {
+    "name": "GPOSpeedPump",
+    "filePath": "UniversalStorage2\\Patches\\GPOSpeedFuelPump.cfg"
+  }
+]

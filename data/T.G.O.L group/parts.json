@@ -1,0 +1,14 @@
+[
+  {
+    "name": "subengine_2x",
+    "filePath": "T.G.O.L group\\Engine\\subengine_2x\\subengine_2x.cfg"
+  },
+  {
+    "name": "subengine_3x",
+    "filePath": "T.G.O.L group\\Engine\\subengine_3x\\subengine_3x.cfg"
+  },
+  {
+    "name": "subengine_small",
+    "filePath": "T.G.O.L group\\Engine\\subengine_small\\subengine_small.cfg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Phoenix Industries",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "ctn_atv",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\ATV\\atv.cfg"
+  },
+  {
+    "name": "PI_atv_solar",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\atvSolar\\atvSolar.cfg"
+  },
+  {
+    "name": "PI_Phoenix_Capsule",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\capsule\\bigcapsule.cfg"
+  },
+  {
+    "name": "PI_crs_noseCone",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\crs nosecone\\NoseCone.cfg"
+  },
+  {
+    "name": "ctn_cygnus",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\cygnus\\cygnus.cfg"
+  },
+  {
+    "name": "ctn_htv",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\HTV\\htv.cfg"
+  },
+  {
+    "name": "PI_phoenix_trunk",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\newtrunk\\bignewtrunk.cfg"
+  },
+  {
+    "name": "PI_crs_adapter",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\phoenix_decoupler\\part.cfg"
+  },
+  {
+    "name": "PI_phoenix_heatshield",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\picax\\bigpicax.cfg"
+  },
+  {
+    "name": "PI_solarshroud",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\shroud\\shroudbig.cfg"
+  },
+  {
+    "name": "PI_phoenix_solar",
+    "filePath": "Phoenix_Industries_CRS\\GameData\\CTN\\Parts\\CRS\\solar\\bigsolar.cfg"
+  }
+]

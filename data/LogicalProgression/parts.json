@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ModuleScienceExperiment\t",
+    "filePath": "LogicalProgression\\GameData\\LogicalProgression\\Patches\\Science\\LP_Science.cfg"
+  },
+  {
+    "name": "advSAS1",
+    "filePath": "LogicalProgression\\GameData\\LogicalProgression\\Patches\\Upgrades\\LP_Upgrade.cfg"
+  }
+]

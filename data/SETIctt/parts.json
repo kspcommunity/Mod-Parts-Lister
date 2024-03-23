@@ -1,0 +1,58 @@
+[
+  {
+    "name": "RetroMk1inline",
+    "filePath": "SETIctt\\MM-NewParts\\RetroMk1inline\\RetroMk1inline.cfg"
+  },
+  {
+    "name": "setiProbeStack",
+    "filePath": "SETIctt\\MM-NewParts\\SETIctt-NewParts-SQUAD.cfg"
+  },
+  {
+    "name": "pf_tech_fairing275m",
+    "filePath": "SETIctt\\MM-TechTree\\SETI-TechTree-ProceduralFairings.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-Battery.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-ConeLiquid.cfg"
+  },
+  {
+    "name": "survivability",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-Heatshield.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-NoseCone.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-SRB.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-StackDecoupler.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-Structural.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-TankLifeSupport.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-TankLiquid.cfg"
+  },
+  {
+    "name": "start",
+    "filePath": "SETIctt\\MM-TechTree-PP\\SETI-TechTree-PP-TankRCS.cfg"
+  },
+  {
+    "name": "ModuleSAS",
+    "filePath": "SETIctt\\SETIctt-Settings.cfg"
+  }
+]

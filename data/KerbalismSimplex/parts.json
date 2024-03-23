@@ -1,0 +1,310 @@
+[
+  {
+    "name": "MonoPropellant and Air Fuel Cell",
+    "filePath": "KerbalismSimplex\\Localization\\en-us.cfg"
+  },
+  {
+    "name": "Pila a combustibile MonoPropellente e Aria",
+    "filePath": "KerbalismSimplex\\Localization\\it-it.cfg"
+  },
+  {
+    "name": "kerbalism-activeshield",
+    "filePath": "KerbalismSimplex\\Parts\\ActiveShield\\kerbalism-activeshield.cfg"
+  },
+  {
+    "name": "kerbalism-chemicalplant",
+    "filePath": "KerbalismSimplex\\Parts\\ChemicalPlant\\kerbalism-chemicalplant.cfg"
+  },
+  {
+    "name": "TinyISRU",
+    "filePath": "KerbalismSimplex\\Parts\\ChemicalPlant\\kerbalism-tinyISRU.cfg"
+  },
+  {
+    "name": "kerbalism-geigercounter",
+    "filePath": "KerbalismSimplex\\Parts\\GeigerCounter\\kerbalism-geigercounter.cfg"
+  },
+  {
+    "name": "kerbalism-gravityring",
+    "filePath": "KerbalismSimplex\\Parts\\GravityRing\\kerbalism-gravityring.cfg"
+  },
+  {
+    "name": "kerbalism-greenhouse",
+    "filePath": "KerbalismSimplex\\Parts\\Greenhouse\\kerbalism-greenhouse.cfg"
+  },
+  {
+    "name": "kerbalism-lifesupportmodule",
+    "filePath": "KerbalismSimplex\\Parts\\LifeSupport\\kerbalism-lifesupportmodule.cfg"
+  },
+  {
+    "name": "kerbalism-container-radial-pressurized-prosemian-big",
+    "filePath": "KerbalismSimplex\\Parts\\ProsimianProductions\\Containers\\kerbalism-container-radial-pressurized-prosemian-big.cfg"
+  },
+  {
+    "name": "kerbalism-container-radial-pressurized-prosemian-huge",
+    "filePath": "KerbalismSimplex\\Parts\\ProsimianProductions\\Containers\\kerbalism-container-radial-pressurized-prosemian-huge.cfg"
+  },
+  {
+    "name": "kerbalism-container-radial-pressurized-prosemian-medium",
+    "filePath": "KerbalismSimplex\\Parts\\ProsimianProductions\\Containers\\kerbalism-container-radial-pressurized-prosemian-medium.cfg"
+  },
+  {
+    "name": "kerbalism-container-radial-pressurized-prosemian-small",
+    "filePath": "KerbalismSimplex\\Parts\\ProsimianProductions\\Containers\\kerbalism-container-radial-pressurized-prosemian-small.cfg"
+  },
+  {
+    "name": "pp_white",
+    "filePath": "KerbalismSimplex\\Parts\\ProsimianProductions\\VariantThemes.cfg"
+  },
+  {
+    "name": "kerbalism-antenna",
+    "filePath": "KerbalismSimplex\\Parts\\ShortAntenna\\kerbalism-antenna.cfg"
+  },
+  {
+    "name": "SimplexPart_Consumables_Tiny",
+    "filePath": "KerbalismSimplex\\Parts\\SimplexParts\\ConsumableParts.cfg"
+  },
+  {
+    "name": "simplex",
+    "filePath": "KerbalismSimplex\\Profiles\\SIMPLEXProfile.cfg"
+  },
+  {
+    "name": "WindPower",
+    "filePath": "KerbalismSimplex\\ResourceConfigs\\SIMPLEXKerbalism-PlanetsideWindResource.cfg"
+  },
+  {
+    "name": "Atmosphere",
+    "filePath": "KerbalismSimplex\\ResourceConfigs\\SIMPLEXKerbalism-Resources.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\Support\\SimplexBahaEPL.cfg"
+  },
+  {
+    "name": "HardDrive",
+    "filePath": "KerbalismSimplex\\Support\\SimplexBreakingGrounds_Science.cfg"
+  },
+  {
+    "name": "Consumables",
+    "filePath": "KerbalismSimplex\\Support\\SimplexCCKerbinSpaceStation.cfg"
+  },
+  {
+    "name": "Consumables",
+    "filePath": "KerbalismSimplex\\Support\\SimplexContractConfiguratorKerbinSpaceStation.cfg"
+  },
+  {
+    "name": "Shielding",
+    "filePath": "KerbalismSimplex\\Support\\SimplexExtraplanetaryLaunchpadRecipes.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\Support\\SimplexGrounded.cfg"
+  },
+  {
+    "name": "Comfort",
+    "filePath": "KerbalismSimplex\\Support\\SimplexHabTech2.cfg"
+  },
+  {
+    "name": "Emitter",
+    "filePath": "KerbalismSimplex\\Support\\SimplexKerbalAtomics.cfg"
+  },
+  {
+    "name": "Comfort",
+    "filePath": "KerbalismSimplex\\Support\\SimplexKPBS.cfg"
+  },
+  {
+    "name": "ProcessController",
+    "filePath": "KerbalismSimplex\\Support\\SimplexMiningExpansion.cfg"
+  },
+  {
+    "name": "Comfort",
+    "filePath": "KerbalismSimplex\\Support\\SimplexMoldaviteMachines.cfg"
+  },
+  {
+    "name": "Emitter",
+    "filePath": "KerbalismSimplex\\Support\\SimplexNFElectric.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\Support\\SimplexNFExploration_Science.cfg"
+  },
+  {
+    "name": "SolarPanelFixer",
+    "filePath": "KerbalismSimplex\\Support\\SimplexNFSpacecraft.cfg"
+  },
+  {
+    "name": "Destiny",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\BeyondHome.cfg"
+  },
+  {
+    "name": "Valentine",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\ExtraSolar.cfg"
+  },
+  {
+    "name": "Taranis",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\GEP.cfg"
+  },
+  {
+    "name": "Olu'um",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\GPO.cfg"
+  },
+  {
+    "name": "icarus",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\GPP.cfg"
+  },
+  {
+    "name": "Sarnus",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\OPM.cfg"
+  },
+  {
+    "name": "Mercury }",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\QSRSS.cfg"
+  },
+  {
+    "name": "Mercury }",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\RSS.cfg"
+  },
+  {
+    "name": "Mercury }",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetPacks\\SSRSS.cfg"
+  },
+  {
+    "name": "Comfort",
+    "filePath": "KerbalismSimplex\\Support\\SimplexPlanetsideExploration.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\Support\\SimplexRemoteTech.cfg"
+  },
+  {
+    "name": "Emitter",
+    "filePath": "KerbalismSimplex\\Support\\SimplexReStockPlus.cfg"
+  },
+  {
+    "name": "ModuleCommand",
+    "filePath": "KerbalismSimplex\\Support\\SimplexReStockPlus_Science.cfg"
+  },
+  {
+    "name": "PlannerController",
+    "filePath": "KerbalismSimplex\\Support\\SimplexSCANsat.cfg"
+  },
+  {
+    "name": "KerbalismSupport",
+    "filePath": "KerbalismSimplex\\Support\\SimplexSIMPLEXColonies.cfg"
+  },
+  {
+    "name": "KerbalismSupport",
+    "filePath": "KerbalismSimplex\\Support\\SimplexSIMPLEXResources.cfg"
+  },
+  {
+    "name": "ProcessController",
+    "filePath": "KerbalismSimplex\\Support\\SimplexSSPX.cfg"
+  },
+  {
+    "name": "Consumables",
+    "filePath": "KerbalismSimplex\\Support\\SimplexUniversalStorage2.cfg"
+  },
+  {
+    "name": "ModuleAnimateGeneric",
+    "filePath": "KerbalismSimplex\\Support\\SimplexUniversalStorage2_Science.cfg"
+  },
+  {
+    "name": "Comfort",
+    "filePath": "KerbalismSimplex\\System\\Comfort.cfg"
+  },
+  {
+    "name": "Deploy",
+    "filePath": "KerbalismSimplex\\System\\Deploy.cfg"
+  },
+  {
+    "name": "MonoPropellant",
+    "filePath": "KerbalismSimplex\\System\\EVA.cfg"
+  },
+  {
+    "name": "Habitat",
+    "filePath": "KerbalismSimplex\\System\\Habitat.cfg"
+  },
+  {
+    "name": "SolarPanelFixer",
+    "filePath": "KerbalismSimplex\\System\\Misc.cfg"
+  },
+  {
+    "name": "PlannerController",
+    "filePath": "KerbalismSimplex\\System\\Planner.cfg"
+  },
+  {
+    "name": "earth                     // unique name for the model",
+    "filePath": "KerbalismSimplex\\System\\Radiation.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\System\\Reliability.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Groups\\AtmosphericExperiments.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Groups\\LabExperiments.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Groups\\SimplexExperiments.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Groups\\UnmannedExperiments.cfg"
+  },
+  {
+    "name": "HDD-Upgrade1",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Groups\\Upgrades.cfg"
+  },
+  {
+    "name": "SimplexExperimentVIEW",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Patches-Early-Parts-Mods.cfg"
+  },
+  {
+    "name": "SimplexExperimentCREW",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Patches-Early-Parts.cfg"
+  },
+  {
+    "name": "Experiment",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Patches-Experiments.cfg"
+  },
+  {
+    "name": "HardDrive",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Patches-Global.cfg"
+  },
+  {
+    "name": "HardDrive",
+    "filePath": "KerbalismSimplex\\System\\ScienceRework\\Patches-HardDrives.cfg"
+  },
+  {
+    "name": "ModuleDeployableAntenna",
+    "filePath": "KerbalismSimplex\\System\\Signal.cfg"
+  },
+  {
+    "name": "Harvester",
+    "filePath": "KerbalismSimplex\\System\\SIMPLEXProfile-AtmosphericHarvesters.cfg"
+  },
+  {
+    "name": "Greenhouse",
+    "filePath": "KerbalismSimplex\\System\\SIMPLEXProfile-Greenhouse.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\System\\SIMPLEXProfile-Harvesters.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\System\\SIMPLEXProfile-ISRU-SimplexOre.cfg"
+  },
+  {
+    "name": "Reliability",
+    "filePath": "KerbalismSimplex\\System\\SIMPLEXProfile-ISRU-StockOre.cfg"
+  },
+  {
+    "name": "ProcessController",
+    "filePath": "KerbalismSimplex\\System\\SIMPLEXProfile-Power-FuelCells-RTG.cfg"
+  }
+]

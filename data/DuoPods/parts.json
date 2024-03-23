@@ -1,0 +1,22 @@
+[
+  {
+    "name": "mk1a",
+    "filePath": "DuoPods\\mk1a\\part.cfg"
+  },
+  {
+    "name": "mk1b",
+    "filePath": "DuoPods\\mk1b\\part.cfg"
+  },
+  {
+    "name": "mk1c",
+    "filePath": "DuoPods\\mk1c\\Parts\\Pod\\part.cfg"
+  },
+  {
+    "name": "LegacyInternal",
+    "filePath": "DuoPods\\mk1c\\Spaces\\Pod\\internal.cfg"
+  },
+  {
+    "name": "mk1bshield",
+    "filePath": "DuoPods\\shield\\part.cfg"
+  }
+]

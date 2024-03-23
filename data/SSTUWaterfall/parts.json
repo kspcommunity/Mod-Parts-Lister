@@ -1,0 +1,298 @@
+[
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\AJ10-137.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\AJ10-190.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\F1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\F1B.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\H-1.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\J-2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\J-2X.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\LMAE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\LMDE.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\LR81-8048.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\LR81-8096.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1A.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1B.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1BV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1C.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1CV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1D.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\Merlin-1DV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\NRV.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\NRV2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\NRV3.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-0110.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-107A.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-107X.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-108A.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-171.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-180.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RD-181.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RL10A-3.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RL10A-4.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RL10A-5.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RL10B-2.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RS-25.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\RS-68.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "SSTUWaterfall\\CFG\\SSTU-SC-B-CM.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "SSTUWaterfall\\CFG\\SSTU-SC-B-CMX.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "SSTUWaterfall\\CFG\\SSTU-SC-C-CM.cfg"
+  },
+  {
+    "name": "ModuleWaterfallFX",
+    "filePath": "SSTUWaterfall\\CFG\\SSTU-SC-C-CMX.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\SuperDraco-L.cfg"
+  },
+  {
+    "name": "ModuleEnginesFX",
+    "filePath": "SSTUWaterfall\\CFG\\SuperDraco.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "SSTUWaterfall\\TEM\\AJ10-137T.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "SSTUWaterfall\\TEM\\AJ10-190G.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "SSTUWaterfall\\TEM\\AJ10-190T.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "SSTUWaterfall\\TEM\\B.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\F1BT.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\F1T.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\H-1T.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "SSTUWaterfall\\TEM\\J-2T.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "SSTUWaterfall\\TEM\\J-2XT.cfg"
+  },
+  {
+    "name": "coreBlue",
+    "filePath": "SSTUWaterfall\\TEM\\LMAET.cfg"
+  },
+  {
+    "name": "coreBlue",
+    "filePath": "SSTUWaterfall\\TEM\\LMDET.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "SSTUWaterfall\\TEM\\LR81-8048T.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "SSTUWaterfall\\TEM\\LR81-8096G.cfg"
+  },
+  {
+    "name": "core",
+    "filePath": "SSTUWaterfall\\TEM\\LR81-8096T.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\Merlin-T.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\Merlin-TV.cfg"
+  },
+  {
+    "name": "outerGlow",
+    "filePath": "SSTUWaterfall\\TEM\\NRV2T.cfg"
+  },
+  {
+    "name": "outerGlow",
+    "filePath": "SSTUWaterfall\\TEM\\NRV3T.cfg"
+  },
+  {
+    "name": "outerGlow",
+    "filePath": "SSTUWaterfall\\TEM\\NRVT.cfg"
+  },
+  {
+    "name": "nozzle",
+    "filePath": "SSTUWaterfall\\TEM\\P.cfg"
+  },
+  {
+    "name": "rcs",
+    "filePath": "SSTUWaterfall\\TEM\\RCSWaterfallT.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\RD-0110T.cfg"
+  },
+  {
+    "name": "plumeVernier",
+    "filePath": "SSTUWaterfall\\TEM\\RD-0110VT.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\RD-107AT.cfg"
+  },
+  {
+    "name": "plumeVernier",
+    "filePath": "SSTUWaterfall\\TEM\\RD-107AVT.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\RD.cfg"
+  },
+  {
+    "name": "redVacEffect",
+    "filePath": "SSTUWaterfall\\TEM\\RL10A-3T.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "SSTUWaterfall\\TEM\\RL10A-4T.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "SSTUWaterfall\\TEM\\RL10A-5T.cfg"
+  },
+  {
+    "name": "innerFlame",
+    "filePath": "SSTUWaterfall\\TEM\\RL10B-2T.cfg"
+  },
+  {
+    "name": "shock01",
+    "filePath": "SSTUWaterfall\\TEM\\RS-25T.cfg"
+  },
+  {
+    "name": "MainPlumeDyn",
+    "filePath": "SSTUWaterfall\\TEM\\RS-68T.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "SSTUWaterfall\\TEM\\SuperDraco-LT.cfg"
+  },
+  {
+    "name": "MainPlume",
+    "filePath": "SSTUWaterfall\\TEM\\SuperDracoT.cfg"
+  }
+]

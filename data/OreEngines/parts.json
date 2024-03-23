@@ -1,0 +1,30 @@
+[
+  {
+    "name": "OreEngineS2",
+    "filePath": "OreEngines\\Parts\\OreEngineS2\\OreEngineS2.cfg"
+  },
+  {
+    "name": "OreEngineS3",
+    "filePath": "OreEngines\\Parts\\OreEngineS3\\OreEngineS3.cfg"
+  },
+  {
+    "name": "OreTankS2_1",
+    "filePath": "OreEngines\\Parts\\OreTankS2_1\\OreTankS2_1.cfg"
+  },
+  {
+    "name": "OreTankS2_2",
+    "filePath": "OreEngines\\Parts\\OreTankS2_2\\OreTankS2_2.cfg"
+  },
+  {
+    "name": "OreTankS3_0",
+    "filePath": "OreEngines\\Parts\\OreTankS3_0\\OreTankS3_0.cfg"
+  },
+  {
+    "name": "OreTankS3_1",
+    "filePath": "OreEngines\\Parts\\OreTankS3_1\\OreTankS3_1.cfg"
+  },
+  {
+    "name": "OreTankS3_2",
+    "filePath": "OreEngines\\Parts\\OreTankS3_2\\OreTankS3_2.cfg"
+  }
+]

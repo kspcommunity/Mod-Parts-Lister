@@ -1,0 +1,74 @@
+[
+  {
+    "name": "NPTINT-01",
+    "filePath": "KerboNerdLaboratories\\Parts\\Aero\\air_npt_intake_cone\\ramAirIntake.cfg"
+  },
+  {
+    "name": "NPTRAM-03",
+    "filePath": "KerboNerdLaboratories\\Parts\\Aero\\megaIntake\\ramAirIntake.cfg"
+  },
+  {
+    "name": "NPTRAM-04",
+    "filePath": "KerboNerdLaboratories\\Parts\\Aero\\megaIntakeAdapter\\ramAirIntake.cfg"
+  },
+  {
+    "name": "NPTRAM-02",
+    "filePath": "KerboNerdLaboratories\\Parts\\Aero\\nptRAMnextGen\\ramAirIntake.cfg"
+  },
+  {
+    "name": "HPCR-01",
+    "filePath": "KerboNerdLaboratories\\Parts\\EC\\radialCapsuleReactor\\reactor.cfg"
+  },
+  {
+    "name": "scifib-01",
+    "filePath": "KerboNerdLaboratories\\Parts\\Engines\\scifiEngine\\partt.cfg"
+  },
+  {
+    "name": "scifi-02",
+    "filePath": "KerboNerdLaboratories\\Parts\\Engines\\scifiengine2\\scifiengine.cfg"
+  },
+  {
+    "name": "scifirad-04",
+    "filePath": "KerboNerdLaboratories\\Parts\\Engines\\scifiRadialEngine\\scifiengine.cfg"
+  },
+  {
+    "name": "scifis-03",
+    "filePath": "KerboNerdLaboratories\\Parts\\Engines\\scifiSMALLEST\\scifiengine.cfg"
+  },
+  {
+    "name": "scifijet2",
+    "filePath": "KerboNerdLaboratories\\Parts\\Engines\\scifiSmallJet\\engineee.cfg"
+  },
+  {
+    "name": "VRTX-3",
+    "filePath": "KerboNerdLaboratories\\Parts\\Engines\\scifiVORTEX\\vpart.cfg"
+  },
+  {
+    "name": "HPJT-01",
+    "filePath": "KerboNerdLaboratories\\Parts\\FuelTanks\\scifitank125t\\part.cfg"
+  },
+  {
+    "name": "HPSFA-03",
+    "filePath": "KerboNerdLaboratories\\Parts\\Structural\\scifiAdapter125\\adapteeer.cfg"
+  },
+  {
+    "name": "HPSFA-01",
+    "filePath": "KerboNerdLaboratories\\Parts\\Structural\\scifiAdapter375\\adapteeer.cfg"
+  },
+  {
+    "name": "HPSFA-02",
+    "filePath": "KerboNerdLaboratories\\Parts\\Structural\\scifiAdapterMk2\\adapteeer.cfg"
+  },
+  {
+    "name": "HyperPlutonium",
+    "filePath": "KerboNerdLaboratories\\Patches\\b9tankdefinitions.cfg"
+  },
+  {
+    "name": "ModuleB9PartSwitch",
+    "filePath": "KerboNerdLaboratories\\Patches\\StockTank_switcher.cfg"
+  },
+  {
+    "name": "NeptuniumGas",
+    "filePath": "KerboNerdLaboratories\\Resources\\resources.cfg"
+  }
+]

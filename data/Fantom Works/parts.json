@@ -1,0 +1,58 @@
+[
+  {
+    "name": "FWmedcargoCockpit",
+    "filePath": "Fantom Works\\K-130 Kerberos\\FP_medcargoCockpit.cfg"
+  },
+  {
+    "name": "FWKerbeyeCockpit",
+    "filePath": "Fantom Works\\K-2 Kerbeye\\K-2 Kerbeye.cfg"
+  },
+  {
+    "name": "Kirage2000",
+    "filePath": "Fantom Works\\K-2 Kerbeye - Kopie\\Kirage.cfg"
+  },
+  {
+    "name": "FWmedpassengerCockpit",
+    "filePath": "Fantom Works\\K-737\\FP_medcargoCockpit.cfg"
+  },
+  {
+    "name": "FWK400WingMount",
+    "filePath": "Fantom Works\\K400 Wing Mount\\medcrew.cfg"
+  },
+  {
+    "name": "FWKRJTail",
+    "filePath": "Fantom Works\\KAX_medTail\\KAX_medTail.cfg"
+  },
+  {
+    "name": "Kirage2000",
+    "filePath": "Fantom Works\\Kirage 2000\\Kirage.cfg"
+  },
+  {
+    "name": "mk2Cockpit_SR-71",
+    "filePath": "Fantom Works\\KR-71\\mk2KR-71.cfg"
+  },
+  {
+    "name": "FWKRJCockpitCockpit",
+    "filePath": "Fantom Works\\KRJ Cockpit\\K-2 Kerbeye.cfg"
+  },
+  {
+    "name": "FWKRJFuselage",
+    "filePath": "Fantom Works\\KRJ Fuselage\\medcrew.cfg"
+  },
+  {
+    "name": "FWmedcargoFuselage",
+    "filePath": "Fantom Works\\medcargo\\medcargo.cfg"
+  },
+  {
+    "name": "FWmedcargoramp",
+    "filePath": "Fantom Works\\medcargoramp\\ramp.cfg"
+  },
+  {
+    "name": "FWmedcrewFuselage",
+    "filePath": "Fantom Works\\medcrewfuselage\\medcrew.cfg"
+  },
+  {
+    "name": "FWOsprey",
+    "filePath": "Fantom Works\\V-22\\FP_medcargoCockpit.cfg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Agena D/Blue",
+    "filePath": "BDBNIC\\Patches\\Agena.cfg"
+  },
+  {
+    "name": "Skylab",
+    "filePath": "BDBNIC\\Patches\\Apollo.cfg"
+  },
+  {
+    "name": "MidasSamos",
+    "filePath": "BDBNIC\\Patches\\Atlas.cfg"
+  },
+  {
+    "name": "bluedog_Atlas_BoosterSkirt_TU",
+    "filePath": "BDBNIC\\Patches\\Atlas_TU.cfg"
+  },
+  {
+    "name": "Stock_FullMetal",
+    "filePath": "BDBNIC\\Patches\\Reflection.cfg"
+  },
+  {
+    "name": "Blue",
+    "filePath": "BDBNIC\\Patches\\Titan.cfg"
+  }
+]

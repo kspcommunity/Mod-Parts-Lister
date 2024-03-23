@@ -1,0 +1,14 @@
+[
+  {
+    "name": "roverFuelBody",
+    "filePath": "RoverFuelTanks\\Parts\\FuelTanks\\roverFuelBody\\roverFuelBody.cfg"
+  },
+  {
+    "name": "roverFuelPowerBody",
+    "filePath": "RoverFuelTanks\\Parts\\FuelTanks\\roverFuelPowerBody\\roverFuelPowerBody.cfg"
+  },
+  {
+    "name": "roverTankRadial",
+    "filePath": "RoverFuelTanks\\Parts\\FuelTanks\\roverTankRadial\\roverTankRadial.cfg"
+  }
+]

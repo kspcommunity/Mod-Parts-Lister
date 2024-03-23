@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Konvair division of Kerbal Dynamics",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Agencies\\Agents.cfg"
+  },
+  {
+    "name": "fuelTank_SatVS1",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Lofter\\Fuel\\SatVS1.cfg"
+  },
+  {
+    "name": "S1CWinglet",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Lofter\\Fuel\\wingletJool.cfg"
+  },
+  {
+    "name": "RocketdyneF1",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Lofter\\Rocket\\RocketF1.cfg"
+  },
+  {
+    "name": "RocketdyneF1a",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Lofter\\Rocket\\RocketF1a.cfg"
+  },
+  {
+    "name": "USAFOrionEngine86f",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Engines\\USAFOrion86f\\part.cfg"
+  },
+  {
+    "name": "USAFOrionEngineExposed",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Engines\\USAFOrionEngineTopless\\part.cfg"
+  },
+  {
+    "name": "USAFOrion10mLdr0.9kt400kN",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Magazines\\USAFOrion10m\\parts.cfg"
+  },
+  {
+    "name": "USAFOrion80fLdr0.9kt400kN",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Magazines\\USAFOrion80f\\part.cfg"
+  },
+  {
+    "name": "USAFOrionMag0.9kt400kN",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Magazines\\USAFStackable\\StacakbleMagazine.cfg"
+  },
+  {
+    "name": "10mstackSeparator",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Structural\\10mDecoupler\\10mDecoupler.cfg"
+  },
+  {
+    "name": "fairingSize10m",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Structural\\10mFairing\\fairingSize6.cfg"
+  },
+  {
+    "name": "USAFOrionEngPayldIntrfc",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Structural\\LoaderBase\\part.cfg"
+  },
+  {
+    "name": "USAFOrionEngPayldIntrfc2",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Structural\\LoaderBase2\\part.cfg"
+  },
+  {
+    "name": "USAFOrionEngPayldIntrfc3",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Structural\\LoaderBase3\\part.cfg"
+  },
+  {
+    "name": "fairingSize86foot",
+    "filePath": "Orion_TD_Edition-1.0.5\\GameData\\USAFOrionTD\\Parts\\Orion\\Structural\\LoaderBase86f\\fairingSize9.cfg"
+  }
+]

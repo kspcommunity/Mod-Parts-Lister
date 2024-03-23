@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dome12m",
+    "filePath": "BKGD\\Domes\\10m Dome\\10m_domes.cfg"
+  },
+  {
+    "name": "dome24m",
+    "filePath": "BKGD\\Domes\\20m Dome\\20m_domes.cfg"
+  }
+]

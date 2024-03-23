@@ -1,0 +1,42 @@
+[
+  {
+    "name": "1M cal turret",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\1M cal\\1M cal.cfg"
+  },
+  {
+    "name": "anti missile system",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\anti missile system\\anti missile system.cfg"
+  },
+  {
+    "name": "modern emp missile",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\emp missile\\emp missile.cfg"
+  },
+  {
+    "name": "modern aim-120",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\modern aim-120\\modern aim-120.cfg"
+  },
+  {
+    "name": "modern aim-9",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\modern aim-9\\modern aim-9.cfg"
+  },
+  {
+    "name": "modern r-60 radar",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\modern r-60 radar\\R-60.cfg"
+  },
+  {
+    "name": "nuclear powered aim-120",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\nuclear powered missile\\nuclear powerd missile.cfg"
+  },
+  {
+    "name": "radome 2077",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\radome 2077\\radome 2077.cfg"
+  },
+  {
+    "name": "???",
+    "filePath": "fishy anti missile spam v1.5\\Parts\\unkown-weapon\\unkown-weapon.cfg"
+  },
+  {
+    "name": "deathrayBullet",
+    "filePath": "fishy anti missile spam v1.5\\Resource\\Fishy-ammo custom1.cfg"
+  }
+]

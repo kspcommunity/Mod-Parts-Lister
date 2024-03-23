@@ -1,0 +1,66 @@
+[
+  {
+    "name": "FStextureSwitch2",
+    "filePath": "PanzerLabs\\Configs\\PzL_Decals.cfg"
+  },
+  {
+    "name": "Ore//the resource being stored",
+    "filePath": "PanzerLabs\\Configs\\PzL_ISRU_patch.cfg"
+  },
+  {
+    "name": "ModuleAnimateGeneric",
+    "filePath": "PanzerLabs\\Configs\\PzL_RT_antennas.cfg"
+  },
+  {
+    "name": "ModuleAnimateGeneric",
+    "filePath": "PanzerLabs\\Configs\\PzL_RT_probes.cfg"
+  },
+  {
+    "name": "KsatBatterySmall",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatBatterySmall\\KsatBatterySmall.cfg"
+  },
+  {
+    "name": "KsatComRound",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatComRound\\KsatComRound.cfg"
+  },
+  {
+    "name": "KsatComSmall",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatComSmall\\KsatComSmall.cfg"
+  },
+  {
+    "name": "KsatComSmallAlt",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatComSmallAlt\\KsatComSmallAlt.cfg"
+  },
+  {
+    "name": "KsatDishSmall",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatDishSmall\\KsatDishSmall.cfg"
+  },
+  {
+    "name": "KsatEngine",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatEngine\\KsatEngine.cfg"
+  },
+  {
+    "name": "KsatFuelSmall",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatFuelSmall\\KsatFuelSmall.cfg"
+  },
+  {
+    "name": "KsatGirderRound",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatGirderRound\\KsatGirderRound.cfg"
+  },
+  {
+    "name": "KsatGirderSmall",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatGirderSmall\\KsatGirderSmall.cfg"
+  },
+  {
+    "name": "KsatGirderTri",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatGirderTri\\KsatGirderTri.cfg"
+  },
+  {
+    "name": "KsatInstrument",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatInstrument\\KsatInstrument.cfg"
+  },
+  {
+    "name": "KsatProbeSmall",
+    "filePath": "PanzerLabs\\PzL_Ksat\\Parts\\KsatProbeSmall\\KsatProbeSmall.cfg"
+  }
+]

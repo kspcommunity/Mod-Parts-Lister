@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Boeing",
+    "filePath": "RealAgenciesManufacturer\\Agencies\\Boeing.cfg"
+  },
+  {
+    "name": "IBM",
+    "filePath": "RealAgenciesManufacturer\\Agencies\\IBM.cfg"
+  },
+  {
+    "name": "JPL",
+    "filePath": "RealAgenciesManufacturer\\Agencies\\JPL.cfg"
+  },
+  {
+    "name": "TsSKB-Progress",
+    "filePath": "RealAgenciesManufacturer\\Agencies\\PRSC.cfg"
+  },
+  {
+    "name": "RKKEnergia",
+    "filePath": "RealAgenciesManufacturer\\Agencies\\RKKEnergia.cfg"
+  },
+  {
+    "name": "RocketDyne",
+    "filePath": "RealAgenciesManufacturer\\Agencies\\RocketDyne.cfg"
+  }
+]

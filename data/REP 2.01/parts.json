@@ -1,0 +1,138 @@
+[
+  {
+    "name": "NK33engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\NK33.cfg"
+  },
+  {
+    "name": "NK43engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\NK43.cfg"
+  },
+  {
+    "name": "RD0110engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0110.cfg"
+  },
+  {
+    "name": "rd0120",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0120Engine.cfg"
+  },
+  {
+    "name": "RD0124engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0124.cfg"
+  },
+  {
+    "name": "RD0124Aengine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0124A.cfg"
+  },
+  {
+    "name": "RD0146engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0146.cfg"
+  },
+  {
+    "name": "RD0210",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0210.cfg"
+  },
+  {
+    "name": "RD0212",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD0212.cfg"
+  },
+  {
+    "name": "rd100",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD100.cfg"
+  },
+  {
+    "name": "RD107",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD107.cfg"
+  },
+  {
+    "name": "RD108",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD108.cfg"
+  },
+  {
+    "name": "RD120",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD120.cfg"
+  },
+  {
+    "name": "RD170engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD170Engine.cfg"
+  },
+  {
+    "name": "RD180engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD180Engine.cfg"
+  },
+  {
+    "name": "RD191engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD191Engine.cfg"
+  },
+  {
+    "name": "RD275",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD275.cfg"
+  },
+  {
+    "name": "RD58",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD58.cfg"
+  },
+  {
+    "name": "RD8",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\RD8.cfg"
+  },
+  {
+    "name": "S5_92fversion",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\S5_92_FirstVersion.cfg"
+  },
+  {
+    "name": "S5_98M",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\S5_98M.cfg"
+  },
+  {
+    "name": "STEERING_MOTOR_RD0110engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\PostSovietPack\\STEERING_MOTOR.cfg"
+  },
+  {
+    "name": "A7",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\A7.cfg"
+  },
+  {
+    "name": "AJ10_104",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\AJ10_104.cfg"
+  },
+  {
+    "name": "AJ10_137",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\AJ10_137.cfg"
+  },
+  {
+    "name": "AJ10_190",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\AJ10_190.cfg"
+  },
+  {
+    "name": "AJ10_37",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\AJ10_37.cfg"
+  },
+  {
+    "name": "J2",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\J2.cfg"
+  },
+  {
+    "name": "LMAE",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\LMAE.cfg"
+  },
+  {
+    "name": "LMDE",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\LMDE.cfg"
+  },
+  {
+    "name": "Raptor_engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\Raptor.cfg"
+  },
+  {
+    "name": "Raptor_Vacuum",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\Raptor_Vacuum.cfg"
+  },
+  {
+    "name": "SSME_Engine",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\SSME.cfg"
+  },
+  {
+    "name": "SuperDrago",
+    "filePath": "REP 2.01\\GameData\\RealEnginesPack\\USPack\\SuperDrago.cfg"
+  }
+]

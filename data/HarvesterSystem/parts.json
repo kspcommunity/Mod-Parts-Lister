@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Anomally",
+    "filePath": "HarvesterSystem\\Configs\\Anomally.cfg"
+  },
+  {
+    "name": "Colection",
+    "filePath": "HarvesterSystem\\Configs\\Colection.cfg"
+  },
+  {
+    "name": "Eden",
+    "filePath": "HarvesterSystem\\Configs\\Eden.cfg"
+  },
+  {
+    "name": "EdenandtheSnake",
+    "filePath": "HarvesterSystem\\Configs\\EdenandtheSnake.cfg"
+  },
+  {
+    "name": "Elysium",
+    "filePath": "HarvesterSystem\\Configs\\Elysium.cfg"
+  },
+  {
+    "name": "Forbidden",
+    "filePath": "HarvesterSystem\\Configs\\forbidden.cfg"
+  },
+  {
+    "name": "Harvester",
+    "filePath": "HarvesterSystem\\Configs\\Harvester.cfg"
+  },
+  {
+    "name": "Ikari",
+    "filePath": "HarvesterSystem\\Configs\\Ikarii.cfg"
+  },
+  {
+    "name": "Lost",
+    "filePath": "HarvesterSystem\\Configs\\Lost.cfg"
+  },
+  {
+    "name": "Potential",
+    "filePath": "HarvesterSystem\\Configs\\Potential.cfg"
+  },
+  {
+    "name": "Snake",
+    "filePath": "HarvesterSystem\\Configs\\Snake.cfg"
+  },
+  {
+    "name": "Stolen",
+    "filePath": "HarvesterSystem\\Configs\\stolen.cfg"
+  },
+  {
+    "name": "lost-MainClouds",
+    "filePath": "HarvesterSystem\\Eve\\Clouds.cfg"
+  },
+  {
+    "name": "Harvester",
+    "filePath": "HarvesterSystem\\OtherFeatures\\Singularity.cfg"
+  },
+  {
+    "name": "Anomally",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Anomally\\atmo.cfg"
+  },
+  {
+    "name": "Anomally",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Anomally\\ocean.cfg"
+  },
+  {
+    "name": "Elysium",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Elysium\\atmo.cfg"
+  },
+  {
+    "name": "Elysium",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Elysium\\ocean.cfg"
+  },
+  {
+    "name": "Lost",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Lost\\atmo.cfg"
+  },
+  {
+    "name": "Lost",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Lost\\ocean.cfg"
+  },
+  {
+    "name": "Eden",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Nede\\atmo.cfg"
+  },
+  {
+    "name": "Eden",
+    "filePath": "HarvesterSystem\\scatterer\\Planets\\Nede\\ocean.cfg"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "K-Ds L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Dres\\Kerbol-Dres-L1.cfg"
+  },
+  {
+    "name": "K-Ds L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Dres\\Kerbol-Dres-L2.cfg"
+  },
+  {
+    "name": "K-D L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Duna\\Kerbol-Duna-L1.cfg"
+  },
+  {
+    "name": "K-D L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Duna\\Kerbol-Duna-L2.cfg"
+  },
+  {
+    "name": "K-Ee L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Eeloo\\Kerbol-Eeloo-L1.cfg"
+  },
+  {
+    "name": "K-Ee L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Eeloo\\Kerbol-Eeloo-L2.cfg"
+  },
+  {
+    "name": "K-E L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Eve\\Kerbol-EveL1.cfg"
+  },
+  {
+    "name": "K-E L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Eve\\Kerbol-EveL2.cfg"
+  },
+  {
+    "name": "K-J L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Jool\\Kerbol-Jool-L1.cfg"
+  },
+  {
+    "name": "K-J L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Jool\\Kerbol-Jool-L2.cfg"
+  },
+  {
+    "name": "K-Mi L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Kerbin\\Kerbin-Minmus\\Kerbin-MinmusL1.cfg"
+  },
+  {
+    "name": "K-Mi L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Kerbin\\Kerbin-Minmus\\Kerbin-MinmusL2.cfg"
+  },
+  {
+    "name": "K-M L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Kerbin\\Kerbin-Mun\\Kerbin-MunL1.cfg"
+  },
+  {
+    "name": "K-M L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Kerbin\\Kerbin-Mun\\Kerbin-MunL2.cfg"
+  },
+  {
+    "name": "K-K L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Kerbin\\Kerbol-KerbinL1.cfg"
+  },
+  {
+    "name": "K-K L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Kerbin\\Kerbol-KerbinL2.cfg"
+  },
+  {
+    "name": "K-Mo L1",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Moho\\Kerbol-MohoL1.cfg"
+  },
+  {
+    "name": "K-Mo L2",
+    "filePath": "LagrangeProyect\\Stock\\Configs\\Kerbol-Moho\\Kerbol-MohoL2.cfg"
+  }
+]

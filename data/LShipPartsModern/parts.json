@@ -1,0 +1,278 @@
+[
+  {
+    "name": "carriermbow",
+    "filePath": "LShipPartsModern\\Parts\\CarrierBow\\carrierbow.cfg"
+  },
+  {
+    "name": "carrierShortBow",
+    "filePath": "LShipPartsModern\\Parts\\CarrierBow\\carrierShortBow.cfg"
+  },
+  {
+    "name": "CarrierHangarHull",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHangarHull\\CarrierHangarHull.cfg"
+  },
+  {
+    "name": "CarrierLiftShort",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHangarHull\\CarrierLifts.cfg"
+  },
+  {
+    "name": "CarrierShortStern",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHangarHull\\carrierShortStern.cfg"
+  },
+  {
+    "name": "carriermstern",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHangarHull\\carrierstern.cfg"
+  },
+  {
+    "name": "CarrierStorageHangarHull",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHangarHull\\CarrierStorageHangarHull.cfg"
+  },
+  {
+    "name": "CVHalfHull",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHangarHull\\CVHalfHull.cfg"
+  },
+  {
+    "name": "carriermhull",
+    "filePath": "LShipPartsModern\\Parts\\CarrierHull\\carrierhull.cfg"
+  },
+  {
+    "name": "DG10KBow",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DG10KBow.cfg"
+  },
+  {
+    "name": "DG10Kstern",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DG10Kstern.cfg"
+  },
+  {
+    "name": "DGBridgeBase",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGBridgeBase.cfg"
+  },
+  {
+    "name": "DGfwdHangar",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGfwdHangar.cfg"
+  },
+  {
+    "name": "DGHangar",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGHangar.cfg"
+  },
+  {
+    "name": "DGHangar2",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGHangar2.cfg"
+  },
+  {
+    "name": "DGhangarLftHull",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGhangarLftHull.cfg"
+  },
+  {
+    "name": "DGSuperBack",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGSuperBack.cfg"
+  },
+  {
+    "name": "DGSuperFront",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGSuperFront.cfg"
+  },
+  {
+    "name": "DGSuperMid",
+    "filePath": "LShipPartsModern\\Parts\\DG10K\\DGSuperMid.cfg"
+  },
+  {
+    "name": "DGdeckHangar",
+    "filePath": "LShipPartsModern\\Parts\\DGdeckHangar\\DGdeckHangar.cfg"
+  },
+  {
+    "name": "MedBowRevB",
+    "filePath": "LShipPartsModern\\Parts\\MedBowRevB\\MedBowRevB.cfg"
+  },
+  {
+    "name": "mediumbow",
+    "filePath": "LShipPartsModern\\Parts\\MediumBow\\medbow.cfg"
+  },
+  {
+    "name": "MedHullLCSModule2",
+    "filePath": "LShipPartsModern\\Parts\\MediumHeloStern\\MedHullLCSModule2.cfg"
+  },
+  {
+    "name": "mediumhelostern",
+    "filePath": "LShipPartsModern\\Parts\\MediumHeloStern\\mediumhelostern.cfg"
+  },
+  {
+    "name": "mediumhull",
+    "filePath": "LShipPartsModern\\Parts\\MediumHull\\medhull.cfg"
+  },
+  {
+    "name": "mediumhullshort",
+    "filePath": "LShipPartsModern\\Parts\\MediumHullShort\\medhullshort.cfg"
+  },
+  {
+    "name": "mediumhullshortvls",
+    "filePath": "LShipPartsModern\\Parts\\MediumHullShortVLS\\medhullshortVLS.cfg"
+  },
+  {
+    "name": "mediumstern",
+    "filePath": "LShipPartsModern\\Parts\\MediumStern\\medstern.cfg"
+  },
+  {
+    "name": "mediumtumbow",
+    "filePath": "LShipPartsModern\\Parts\\MediumTumbleBow\\medtumbow.cfg"
+  },
+  {
+    "name": "MedLCSmodule1B",
+    "filePath": "LShipPartsModern\\Parts\\MedLCSmodule1B\\MedLCSmodule1B.cfg"
+  },
+  {
+    "name": "MedLCSmodule1",
+    "filePath": "LShipPartsModern\\Parts\\MedSternHangar\\MedLCSmodule1.cfg"
+  },
+  {
+    "name": "mediumsternHangarShort",
+    "filePath": "LShipPartsModern\\Parts\\MedSternHangar\\MedSternHangars.cfg"
+  },
+  {
+    "name": "modernsuperback",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperBack\\modsupback.cfg"
+  },
+  {
+    "name": "modernsupertall",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperBaseTall\\modsuptall.cfg"
+  },
+  {
+    "name": "modernsuperflat",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperFlat\\modsupflat.cfg"
+  },
+  {
+    "name": "modernsuperfront",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperFront\\modsupfront.cfg"
+  },
+  {
+    "name": "modernsuperfrontcut",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperFrontCut\\modsupfrontcut.cfg"
+  },
+  {
+    "name": "modernsupermiddle",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperMiddle\\modsupmid.cfg"
+  },
+  {
+    "name": "ModernSuperMFVLS",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperMidVLS\\ModernSuperMFVLS.cfg"
+  },
+  {
+    "name": "ModernSuperVLS",
+    "filePath": "LShipPartsModern\\Parts\\ModernSuperMidVLS\\ModernSuperVLS.cfg"
+  },
+  {
+    "name": "subhull",
+    "filePath": "LShipPartsModern\\Parts\\SubHull\\subhull.cfg"
+  },
+  {
+    "name": "subbow",
+    "filePath": "LShipPartsModern\\Parts\\SubHullBow\\subbow.cfg"
+  },
+  {
+    "name": "subhullshort",
+    "filePath": "LShipPartsModern\\Parts\\SubHullShort\\subhullshort.cfg"
+  },
+  {
+    "name": "subhullstern",
+    "filePath": "LShipPartsModern\\Parts\\SubHullStern\\subhullstern.cfg"
+  },
+  {
+    "name": "SubHullVLSshort",
+    "filePath": "LShipPartsModern\\Parts\\SubHullVLSshort\\SubHullVLSshort.cfg"
+  },
+  {
+    "name": "SubHullMFWvls",
+    "filePath": "LShipPartsModern\\Parts\\SubMFvls\\SubHullMFWvls.cfg"
+  },
+  {
+    "name": "subplatform",
+    "filePath": "LShipPartsModern\\Parts\\SubPlatform\\subplatform.cfg"
+  },
+  {
+    "name": "subtower",
+    "filePath": "LShipPartsModern\\Parts\\SubTower\\subtower.cfg"
+  },
+  {
+    "name": "shipsupers",
+    "filePath": "LShipPartsModern\\Parts\\SupersBase\\supers.cfg"
+  },
+  {
+    "name": "TriLCSHull",
+    "filePath": "LShipPartsModern\\Parts\\TriLCSHull\\TriLCSHull.cfg"
+  },
+  {
+    "name": "tribow",
+    "filePath": "LShipPartsModern\\Parts\\TriLCSHull\\trimaranbow.cfg"
+  },
+  {
+    "name": "trimaranShortBow",
+    "filePath": "LShipPartsModern\\Parts\\TriLCSHull\\trimaranShortBow.cfg"
+  },
+  {
+    "name": "trihull",
+    "filePath": "LShipPartsModern\\Parts\\TrimaranHull\\trimaranhull.cfg"
+  },
+  {
+    "name": "trihullshort",
+    "filePath": "LShipPartsModern\\Parts\\TrimaranHullShort\\trimaranhullshort.cfg"
+  },
+  {
+    "name": "tumblebow",
+    "filePath": "LShipPartsModern\\Parts\\TumbleMedBow\\tumblebow.cfg"
+  },
+  {
+    "name": "smallbow",
+    "filePath": "LShipPartsModern\\Parts\\VetteBow\\smallbow.cfg"
+  },
+  {
+    "name": "VetteCargoCell",
+    "filePath": "LShipPartsModern\\Parts\\VetteCargoCell\\VetteCargoCell.cfg"
+  },
+  {
+    "name": "vetteHangar",
+    "filePath": "LShipPartsModern\\Parts\\VetteHangar\\vetteHangar.cfg"
+  },
+  {
+    "name": "smallhull",
+    "filePath": "LShipPartsModern\\Parts\\VetteHull\\smallhull.cfg"
+  },
+  {
+    "name": "smallhullshort",
+    "filePath": "LShipPartsModern\\Parts\\VetteHullShort\\smallhull.cfg"
+  },
+  {
+    "name": "vetteTower3Lit",
+    "filePath": "LShipPartsModern\\Parts\\VettemastLit\\navMastlit.cfg"
+  },
+  {
+    "name": "smallstern",
+    "filePath": "LShipPartsModern\\Parts\\VetteStern\\smallstern.cfg"
+  },
+  {
+    "name": "smallsupcut",
+    "filePath": "LShipPartsModern\\Parts\\VetteSuperCut\\smallsupcut.cfg"
+  },
+  {
+    "name": "smallsupfront",
+    "filePath": "LShipPartsModern\\Parts\\VetteSuperFront\\smallsupfront.cfg"
+  },
+  {
+    "name": "smallsupmid",
+    "filePath": "LShipPartsModern\\Parts\\VetteSuperMid\\smallsupmid.cfg"
+  },
+  {
+    "name": "VetteSuperOpen",
+    "filePath": "LShipPartsModern\\Parts\\VetteSuperOpen\\VetteSuperOpen.cfg"
+  },
+  {
+    "name": "smalltower",
+    "filePath": "LShipPartsModern\\Parts\\VetteTower\\smalltower.cfg"
+  },
+  {
+    "name": "VetteUpperCargo",
+    "filePath": "LShipPartsModern\\Parts\\VetteUpperCargo\\VetteUpperCargo.cfg"
+  },
+  {
+    "name": "VetteHullVLSshort",
+    "filePath": "LShipPartsModern\\Parts\\VetteVLSshort\\VetteVLSshort.cfg"
+  }
+]

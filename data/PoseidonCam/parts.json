@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MDC",
+    "filePath": "PoseidonCam\\Cameras\\MDC\\MDC.cfg"
+  },
+  {
+    "name": "MROC1",
+    "filePath": "PoseidonCam\\Cameras\\MROC1\\MROC1.cfg"
+  },
+  {
+    "name": "ModuleNeptuneCamera",
+    "filePath": "PoseidonCam\\_patch.cfg"
+  }
+]

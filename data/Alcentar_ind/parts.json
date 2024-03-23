@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Alc_SPUTNIK_1",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Probes\\SPUTNIK_1.cfg"
+  },
+  {
+    "name": "SPUTNIK_1_CAP",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Probes\\SPUTNIK_1_CAP.cfg"
+  },
+  {
+    "name": "SPUTNIK_2",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Probes\\SPUTNIK_2.cfg"
+  },
+  {
+    "name": "ALc_SPUTNIK_3",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Probes\\SPUTNIK_3.cfg"
+  },
+  {
+    "name": "SPUTNIK_3_BOTTOM_FAIRING",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Probes\\SPUTNIK_3_CAP_BOTTOM.cfg"
+  },
+  {
+    "name": "SP_3_TOP_FAIRING",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Probes\\SPUTNIK_3_CAP_TOP.cfg"
+  },
+  {
+    "name": "R7_FIRST_STAGE_ENGINE",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R71ENG.cfg"
+  },
+  {
+    "name": "R7_SECOND_STAGE_ENGINE",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R72ENG.cfg"
+  },
+  {
+    "name": "R7_BLOCK_E",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_BLOCK_E.cfg"
+  },
+  {
+    "name": "BLOCK_E_DECOUPLER",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_BLOCK_E_DECOUPLER.cfg"
+  },
+  {
+    "name": "R7_BLOCK_E_VOSTOK_SEGMENT",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_BLOCK_E_VOSTOK_SEGMENT.cfg"
+  },
+  {
+    "name": "R7_DECOUPLER",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_DECOUPLER.cfg"
+  },
+  {
+    "name": "Alcent_R7_FIRST_STAGE",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_FIRSTSTAGE.cfg"
+  },
+  {
+    "name": "R7_SECOND_STAGE_BOTTOM",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_SECONDSTAGE_BOTTOM.cfg"
+  },
+  {
+    "name": "R7_SECOND_STAGE_TOP",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\R7_SECONDSTAGE_TOP.cfg"
+  },
+  {
+    "name": "VOSKHOD_FAIRING",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\VoskhodFairing.cfg"
+  },
+  {
+    "name": "VOSTOK_FAIRING_STYLE",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\VostokFairingStyle.cfg"
+  },
+  {
+    "name": "VOSTOK_FAIRING_STYLE2",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\R7\\VostokFairingStyle2.cfg"
+  },
+  {
+    "name": "Voskhod_IVA",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\IVA\\Voskhok_IVA.cfg"
+  },
+  {
+    "name": "Vostok_IVA",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\IVA\\Vostok_IVA.cfg"
+  },
+  {
+    "name": "Voskhod_Decoupler_Duplicating_TDU",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Voskhod_Decoupler_Duplicating_TDU.cfg"
+  },
+  {
+    "name": "Voskhod_Duplicating_TDU",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Voskhod_Duplicating_TDU.cfg"
+  },
+  {
+    "name": "Voskhok_Capsule",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Voskhok_Capsule.cfg"
+  },
+  {
+    "name": "Vostok_bottom_TDU",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Vostok_bottom_TDU.cfg"
+  },
+  {
+    "name": "Vostok_Cap",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Vostok_Cap.cfg"
+  },
+  {
+    "name": "Vostok_Capsule",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Vostok_Capsule.cfg"
+  },
+  {
+    "name": "Vostok_Solar_Battery",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Vostok_Cap_Solar.cfg"
+  },
+  {
+    "name": "Vostok_Chute",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Vostok_Chute.cfg"
+  },
+  {
+    "name": "Vostok_top_TDU",
+    "filePath": "Alcentar_ind\\GameData\\Alcentar_Ind\\Vostok\\Vostok_top_TDU.cfg"
+  }
+]

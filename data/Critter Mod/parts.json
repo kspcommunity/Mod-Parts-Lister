@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kogpod",
+    "filePath": "Critter Mod\\kogpod\\kogpod.cfg"
+  },
+  {
+    "name": "O2",
+    "filePath": "Critter Mod\\O2.cfg"
+  },
+  {
+    "name": "oxygentank",
+    "filePath": "Critter Mod\\oxygentank\\oxygentank.cfg"
+  },
+  {
+    "name": "oxygenvent",
+    "filePath": "Critter Mod\\oxygenvent\\oxygenvent.cfg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "WPTAdapter1-2",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Adapters\\WPTAdapter1-2.cfg"
+  },
+  {
+    "name": "WPTAdapter1.8-3",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Adapters\\WPTAdapter1.8-3.cfg"
+  },
+  {
+    "name": "WPTAdapter2-5",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Adapters\\WPTAdapter2-5.cfg"
+  },
+  {
+    "name": "WPTAdapterSize2-Mk2Short",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Adapters\\WPTAdapterSize2-Mk2Short.cfg"
+  },
+  {
+    "name": "WPTAeroStubbyNoseCone",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Aero\\WPTAeroStubbyNoseCone.cfg"
+  },
+  {
+    "name": "FuelCellMP",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Electrical\\FuelCellMP.cfg"
+  },
+  {
+    "name": "miniJetEngineRCS",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Engines\\JETRCS.cfg"
+  },
+  {
+    "name": "ModuleGenerator",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Engines\\liquidEngineLV-N.cfg"
+  },
+  {
+    "name": "miniJetEngine40R",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Engines\\miniJetEngine40R.cfg"
+  },
+  {
+    "name": "pulseJet",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Engines\\pulseJet.cfg"
+  },
+  {
+    "name": "WPTStructuralFuselageJr",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Sturctural\\WPTStructuralFuselageJr.cfg"
+  },
+  {
+    "name": "WPTStructuralFuselageSr",
+    "filePath": "Watermel00nPartTweaks\\Parts\\Sturctural\\WPTStructuralFuselageSr.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Watermel00nPartTweaks\\Tweaks\\AdapterFuelAdd.cfg"
+  },
+  {
+    "name": "ModuleResourceConverter",
+    "filePath": "Watermel00nPartTweaks\\Tweaks\\AllPodBatt.cfg"
+  },
+  {
+    "name": "ModuleScienceContainer",
+    "filePath": "Watermel00nPartTweaks\\Tweaks\\QBEfix.cfg"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Solid-Lower",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Compatibility\\RealPlume\\STS_SRB.cfg"
+  },
+  {
+    "name": "Solid-Sepmotor",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Compatibility\\RealPlume\\STS_SRB_Cone.cfg"
+  },
+  {
+    "name": "CRG_100R",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\CargoBays\\CRG-100R.cfg"
+  },
+  {
+    "name": "CRG_150",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\CargoBays\\CRG-150.cfg"
+  },
+  {
+    "name": "STS_End_Cap",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSEndCap.cfg"
+  },
+  {
+    "name": "STS_End_Cap_LFO",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSEndCapLFO.cfg"
+  },
+  {
+    "name": "STS_ET_Long",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETLong.cfg"
+  },
+  {
+    "name": "STS_ET_Long_LFO",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETLongLFO.cfg"
+  },
+  {
+    "name": "STS_ET_Mid",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETMed.cfg"
+  },
+  {
+    "name": "STS_ET_Mid_LFO",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETMedLFO.cfg"
+  },
+  {
+    "name": "STS_ET_Nose",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETNose.cfg"
+  },
+  {
+    "name": "STS_ET_Nose_LFO",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETNoseLFO.cfg"
+  },
+  {
+    "name": "STS_ET_Short",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETShort.cfg"
+  },
+  {
+    "name": "STS_ET_Short_LFO",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\FuelTanks\\STSETShortLFO.cfg"
+  },
+  {
+    "name": "shuttle_cockpit",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\ShuttleCockpit\\ShuttleCockpit.cfg"
+  },
+  {
+    "name": "adapter",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\Adapter.cfg"
+  },
+  {
+    "name": "crawltube",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\CrawlTube.cfg"
+  },
+  {
+    "name": "experimentairlock",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\ExperimentAirlock.cfg"
+  },
+  {
+    "name": "inlineairlock",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\InlineAirlock.cfg"
+  },
+  {
+    "name": "spacelab",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\Spacelab.cfg"
+  },
+  {
+    "name": "spacelab_Short",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\Spacelab_Short.cfg"
+  },
+  {
+    "name": "zjoint",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\Spacelab\\ZJoint.cfg"
+  },
+  {
+    "name": "STS_SRB",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\SRB\\STS_SRB.cfg"
+  },
+  {
+    "name": "STS_SRB_Cone",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\SRB\\STS_SRB_Cone.cfg"
+  },
+  {
+    "name": "STSInnerElevon",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\WingSurfaces\\STSControlSurfaces\\STSInnerElevon.cfg"
+  },
+  {
+    "name": "STSOuterElevon",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\WingSurfaces\\STSControlSurfaces\\STSOuterElevon.cfg"
+  },
+  {
+    "name": "STSDelta",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\WingSurfaces\\STSDelta\\STSDelta.cfg"
+  },
+  {
+    "name": "STSStrake",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Parts\\WingSurfaces\\STSStrake\\STSStrake.cfg"
+  },
+  {
+    "name": "MyCustomPartModule",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\MrMeeb\\SPT\\Resources\\ScienceDefs.cfg"
+  },
+  {
+    "name": "<Classified>",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Agencies\\Classified.cfg"
+  },
+  {
+    "name": "Wild Blue Industries",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Agencies\\WildBlueIndustries.cfg"
+  },
+  {
+    "name": "Rockhound",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Production\\Rockhound.cfg"
+  },
+  {
+    "name": "Battery",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Battery.cfg"
+  },
+  {
+    "name": "Coolant",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Coolant.cfg"
+  },
+  {
+    "name": "Equipment",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Equipment.cfg"
+  },
+  {
+    "name": "FusionPellets",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\FusionPellets.cfg"
+  },
+  {
+    "name": "KIS",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\KIS.cfg"
+  },
+  {
+    "name": "Konkrete",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Konkrete.cfg"
+  },
+  {
+    "name": "Lead",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Lead.cfg"
+  },
+  {
+    "name": "LFO",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\LFO.cfg"
+  },
+  {
+    "name": "LiquidFuel",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\LiquidFuel.cfg"
+  },
+  {
+    "name": "LiquidHydrogen",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\LiquidHydrogen.cfg"
+  },
+  {
+    "name": "Minerals",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Minerals.cfg"
+  },
+  {
+    "name": "MonoProp",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\MonoProp.cfg"
+  },
+  {
+    "name": "Ore",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Ore.cfg"
+  },
+  {
+    "name": "ResearchKits",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\ResearchKits.cfg"
+  },
+  {
+    "name": "RocketParts",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\RocketParts.cfg"
+  },
+  {
+    "name": "Slag",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Slag.cfg"
+  },
+  {
+    "name": "Uraninite",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Uraninite.cfg"
+  },
+  {
+    "name": "Water",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\Water.cfg"
+  },
+  {
+    "name": "Xenon Gas",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\CommonTemplates\\Storage\\XenonGas.cfg"
+  },
+  {
+    "name": "WBIModuleAnimateGeneric",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\ModuleManagerPatches\\MM_CargoBays.cfg"
+  },
+  {
+    "name": "Cryo",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\ModuleManagerPatches\\MM_CryoEngines.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\ModuleManagerPatches\\MM_Kerbalism.cfg"
+  },
+  {
+    "name": "Water",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\ModuleManagerPatches\\MM_StockFuelCell.cfg"
+  },
+  {
+    "name": "Food",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\ModuleManagerPatches\\MM_TACLS.cfg"
+  },
+  {
+    "name": "USILS",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\ModuleManagerPatches\\MM_USILS.cfg"
+  },
+  {
+    "name": "WBIFlightControlDummy",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Dummies\\FlightControlDummy.cfg"
+  },
+  {
+    "name": "WBI_kPad",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Science\\kPad.cfg"
+  },
+  {
+    "name": "WBI_PlasmaTV",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Science\\PlasmaTV.cfg"
+  },
+  {
+    "name": "WBI_PlasmaTV2",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Science\\PlasmaTV2.cfg"
+  },
+  {
+    "name": "WBI_PlasmaTV3",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Science\\PlasmaTV3.cfg"
+  },
+  {
+    "name": "WBIFlightControl1",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Upgrades.cfg"
+  },
+  {
+    "name": "WBI_Buckboard",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Utility\\Buckboard1000.cfg"
+  },
+  {
+    "name": "WBI_Buckboard2",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Utility\\Buckboard2000.cfg"
+  },
+  {
+    "name": "WBI_Buckboard3",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Parts\\Utility\\Buckboard3000.cfg"
+  },
+  {
+    "name": "WBI_animateButton",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_AnimateButton.cfg"
+  },
+  {
+    "name": "WBI_Barrel",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Barrel.cfg"
+  },
+  {
+    "name": "WBI_Bed",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Bed.cfg"
+  },
+  {
+    "name": "WBI_Blueprint",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Blueprint.cfg"
+  },
+  {
+    "name": "WBI_Blueprint2",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Blueprint2.cfg"
+  },
+  {
+    "name": "WBI_Blueprint3",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Blueprint3.cfg"
+  },
+  {
+    "name": "WBI_BuckboardProp",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_BuckboardProp.cfg"
+  },
+  {
+    "name": "WBI_cabinLightButton",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_CabinLightButton.cfg"
+  },
+  {
+    "name": "WBI_Cactus",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Cactus.cfg"
+  },
+  {
+    "name": "WBI_CargoBagA",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_CargoBagA.cfg"
+  },
+  {
+    "name": "WBI_CargoBagB",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_CargoBagB.cfg"
+  },
+  {
+    "name": "WBI_CargoBagC",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_CargoBagC.cfg"
+  },
+  {
+    "name": "WBI_CargoNet",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_CargoNet.cfg"
+  },
+  {
+    "name": "WBI_Clipboard1",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Clipboard1.cfg"
+  },
+  {
+    "name": "WBI_Clipboard2",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Clipboard2.cfg"
+  },
+  {
+    "name": "WBI_DrillPress",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_DrillPress.cfg"
+  },
+  {
+    "name": "WBI_Extinguisher",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Extinguisher.cfg"
+  },
+  {
+    "name": "WBI_GameCartridge1",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameCartridge1.cfg"
+  },
+  {
+    "name": "WBI_GameCartridge2",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameCartridge2.cfg"
+  },
+  {
+    "name": "WBI_GameCartridge3",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameCartridge3.cfg"
+  },
+  {
+    "name": "WBI_GameCartridge4",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameCartridge4.cfg"
+  },
+  {
+    "name": "WBI_GameCartridge5",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameCartridge5.cfg"
+  },
+  {
+    "name": "WBI_GameConsole",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameConsole.cfg"
+  },
+  {
+    "name": "WBI_GameController",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GameController.cfg"
+  },
+  {
+    "name": "WBI_GloveBox",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_GloveBox.cfg"
+  },
+  {
+    "name": "WBI_Icecream",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Icecream.cfg"
+  },
+  {
+    "name": "WBI_IcecreamDres",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_IcecreamDres.cfg"
+  },
+  {
+    "name": "WBI_IcecreamDuna",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_IcecreamDuna.cfg"
+  },
+  {
+    "name": "WBI_IcecreamIke",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_IcecreamIke.cfg"
+  },
+  {
+    "name": "WBI_IcecreamJool",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_IcecreamJool.cfg"
+  },
+  {
+    "name": "WBI_IcecreamRocket",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_IcecreamRocket.cfg"
+  },
+  {
+    "name": "WBI_Laptop",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Laptop.cfg"
+  },
+  {
+    "name": "WBI_Monitor",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Monitor.cfg"
+  },
+  {
+    "name": "WBI_MonitorArm",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_MonitorArm.cfg"
+  },
+  {
+    "name": "WBI_Monolith",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Monolith.cfg"
+  },
+  {
+    "name": "WBI_MysteryGoo",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_MysteryGoo.cfg"
+  },
+  {
+    "name": "WBI_RowingMachine",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_RowingMachine.cfg"
+  },
+  {
+    "name": "WBI_Screwdriver",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Screwdriver.cfg"
+  },
+  {
+    "name": "WBI_ScrewTray",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_ScrewTray.cfg"
+  },
+  {
+    "name": "WBI_Seat",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Seat.cfg"
+  },
+  {
+    "name": "WBI_ShopToolbox",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_ShopToolbox.cfg"
+  },
+  {
+    "name": "WBI_Sledgehammer",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Sledgehammer.cfg"
+  },
+  {
+    "name": "WBI_SnackBag",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_SnackBag.cfg"
+  },
+  {
+    "name": "WBI_TeddyBear",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_TeddyBear.cfg"
+  },
+  {
+    "name": "WBI_Toolbox",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Props\\WBI_Toolbox.cfg"
+  },
+  {
+    "name": "MyCustomPartModule",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Resources\\BasicExperiments.cfg"
+  },
+  {
+    "name": "MyCustomPartModule",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Resources\\EmptyExperiment.cfg"
+  },
+  {
+    "name": "FusionPellets",
+    "filePath": "Shuttle-Payload-Technologies\\GameData\\WildBlueIndustries\\000WildBlueTools\\Resources\\WBIResources.cfg"
+  }
+]
