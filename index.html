@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mod Parts Tree</title>
+<style>
+  /* CSS for styling the tree */
+  .tree {
+    list-style-type: none;
+    padding-left: 20px;
+    background-color: #ffff;
+  }
+  .tree li {
+    margin: 0;
+    padding: 10px 0;
+    position: relative;
+  }
+  .tree li::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -20px;
+    border-left: 1px solid #ccc;
+    height: 100%;
+  }
+  .tree li:last-child::before {
+    height: 10px;
+  }
+  .tree li:last-child::after {
+    height: 0;
+  }
+  .tree li::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -20px;
+    border-top: 1px solid #ccc;
+    width: 20px;
+  }
+  .tree li a {
+    text-decoration: none;
+    color: #333;
+  }
+</style>
+</head>
+<body>
+
+<h1>Mod Parts Tree</h1>
+
+<ul id="modTree" class="tree">
+  <!-- Tree will be populated dynamically from JSON -->
+</ul>
+
+<script>
+  // Load the JSON data
+  fetch('final_data.json')
+    .then(response => response.json())
+    .then(data => {
+      const modTree = document.getElementById('modTree');
+      data.forEach(mod => {
+        const modItem = document.createElement('li');
+        modItem.innerHTML = `<a href="#">${mod.modName}</a>`;
+        const partsList = document.createElement('ul');
+        mod.parts.forEach(part => {
+          const partItem = document.createElement('li');
+          partItem.innerHTML = `${part.name} - ${part.filePath}`;
+          partsList.appendChild(partItem);
+        });
+        modItem.appendChild(partsList);
+        modTree.appendChild(modItem);
+      });
+    })
+    .catch(error => console.error('Error fetching JSON:', error));
+</script>
+
+</body>
+</html>
