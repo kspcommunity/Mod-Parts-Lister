@@ -6,3 +6,7 @@
 2024-03-25 20:12:46,116 - ERROR - Error while getting user info: wrong # args: should be ".!frame.!scrolledtext insert index chars ?tagList chars tagList ...?"
 2024-03-25 20:12:46,139 - ERROR - Error while getting info for subfolder D:\kspcommunity\Mod-Parts-Lister\data\AN-JPLV: 'charmap' codec can't decode byte 0x8f in position 165: character maps to <undefined>
 2024-03-25 20:12:46,227 - ERROR - Error while getting user info: wrong # args: should be ".!frame.!scrolledtext insert index chars ?tagList chars tagList ...?"
+2024-03-25 20:49:18,978 - ERROR - Error while getting info for subfolder D:\kspcommunity\Mod-Parts-Lister\data\AN-HTV: 'charmap' codec can't decode byte 0x8f in position 163: character maps to <undefined>
+2024-03-25 20:49:19,067 - ERROR - Error while getting user info: wrong # args: should be ".!frame.!scrolledtext insert index chars ?tagList chars tagList ...?"
+2024-03-25 20:49:19,068 - ERROR - Error while getting info for subfolder D:\kspcommunity\Mod-Parts-Lister\data\AN-JPLV: 'charmap' codec can't decode byte 0x8f in position 165: character maps to <undefined>
+2024-03-25 20:49:19,129 - ERROR - Error while getting user info: wrong # args: should be ".!frame.!scrolledtext insert index chars ?tagList chars tagList ...?"

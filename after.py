@@ -23,10 +23,13 @@ def check_subfolders(directory):
         subfolders = [os.path.join(directory, d) for d in os.listdir(directory) if os.path.isdir(os.path.join(directory, d))]
         with multiprocessing.Pool(processes=multiprocessing.cpu_count()) as pool:
             missing_json_subfolders = pool.map(check_subfolder, subfolders)
-        return [folder for folder in missing_json_subfolders if folder is not None]
+        
+        missing_json_subfolders = [folder for folder in missing_json_subfolders if folder is not None]
+        total_missing = len(missing_json_subfolders)
+        return missing_json_subfolders, total_missing
     except Exception as e:
         logging.error(f"Error while checking subfolders in {directory}: {e}")
-        return []
+        return [], 0
 
 def get_subfolder_info(subfolder):
     try:
@@ -107,10 +110,10 @@ def get_user_info(data_folder, subfolder_info):
 def main():
     try:
         data_folder = os.path.abspath('data')  # Assuming 'data' folder is in the same directory as the script
-        missing_json_subfolders = check_subfolders(data_folder)
+        missing_json_subfolders, total_missing = check_subfolders(data_folder)
 
         if missing_json_subfolders:
-            message = "Subfolders missing either 'parts.json' or 'info.json' or both:\n"
+            message = f"{total_missing} subfolder(s) missing either 'parts.json' or 'info.json' or both:\n"
             message += "\n".join(missing_json_subfolders)
             messagebox.showwarning("Warning", message)
         else:
